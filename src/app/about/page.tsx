@@ -46,10 +46,10 @@ export default function About() {
       <div style={{ borderTop: '1px solid var(--line)', paddingTop: 40, ...sec }}>
         <span style={label}>Find us on</span>
         <div style={{ display: 'flex', gap: 12, flexWrap: 'wrap', marginBottom: 32 }}>
-          <a href="DELCAMPE_STORE_URL" target="_blank" rel="noopener noreferrer" style={{ font: '600 13px/1 Hanken Grotesk,sans-serif', color: 'var(--gold)', border: '1px solid var(--gold)', padding: '11px 20px', borderRadius: 4, textDecoration: 'none', display: 'inline-block' }}>
+          <a href="https://www.delcampe.net/en_GB/collectables/store/MM-Money" target="_blank" rel="noopener noreferrer" style={{ font: '600 13px/1 Hanken Grotesk,sans-serif', color: 'var(--gold)', border: '1px solid var(--gold)', padding: '11px 20px', borderRadius: 4, textDecoration: 'none', display: 'inline-block' }}>
             Delcampe →
           </a>
-          <a href="EBAY_STORE_URL" target="_blank" rel="noopener noreferrer" style={{ font: '600 13px/1 Hanken Grotesk,sans-serif', color: 'var(--ink)', border: '1px solid var(--line)', padding: '11px 20px', borderRadius: 4, textDecoration: 'none', display: 'inline-block' }}>
+          <a href="https://www.ebay.com/str/mmmoney" target="_blank" rel="noopener noreferrer" style={{ font: '600 13px/1 Hanken Grotesk,sans-serif', color: 'var(--ink)', border: '1px solid var(--line)', padding: '11px 20px', borderRadius: 4, textDecoration: 'none', display: 'inline-block' }}>
             eBay →
           </a>
         </div>
@@ -57,8 +57,8 @@ export default function About() {
         <p style={{ font: '400 16px/1.7 Hanken Grotesk,sans-serif', color: 'var(--ink2)', margin: '0 0 14px' }}>
           For questions about a specific piece, trades or combined shipping, write to us directly.
         </p>
-        <a href="mailto:CONTACT_EMAIL" style={{ font: '600 14px/1 Hanken Grotesk,sans-serif', color: 'var(--gold)', textDecoration: 'none', borderBottom: '1px solid var(--line)', paddingBottom: 2 }}>
-          CONTACT_EMAIL
+        <a href="mailto:info.mmmoney@gmail.com" style={{ font: '600 14px/1 Hanken Grotesk,sans-serif', color: 'var(--gold)', textDecoration: 'none', borderBottom: '1px solid var(--line)', paddingBottom: 2 }}>
+          info.mmmoney@gmail.com
         </a>
       </div>
 

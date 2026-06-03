@@ -34,9 +34,9 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             <span style={{ color: 'var(--gold)' }}>MM</span>·Money
           </div>
           <div className="footer-links" style={{ display: 'flex', gap: 36 }}>
-            <span>Catalogue · Delcampe</span>
-            <span>Catalogue · eBay</span>
-            <span>Contact</span>
+            <a href="https://www.delcampe.net/en_GB/collectables/store/MM-Money" target="_blank" rel="noopener noreferrer" style={{ color: 'var(--ink2)', textDecoration: 'none' }}>Delcampe</a>
+            <a href="https://www.ebay.com/str/mmmoney" target="_blank" rel="noopener noreferrer" style={{ color: 'var(--ink2)', textDecoration: 'none' }}>eBay</a>
+            <a href="mailto:info.mmmoney@gmail.com" style={{ color: 'var(--ink2)', textDecoration: 'none' }}>Contact</a>
             <span>© 2026</span>
           </div>
         </footer>
