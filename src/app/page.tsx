@@ -55,7 +55,7 @@ export default async function Home() {
                 Browse catalogue →
               </Link>
               <Link href="/news" style={{ background: 'transparent', color: 'var(--ink)', border: '1px solid var(--line)', padding: '13px 22px', font: '600 13px/1 Hanken Grotesk,sans-serif', borderRadius: 3, textDecoration: 'none', display: 'inline-block' }}>
-                Latest arrivals
+                Banknotes News
               </Link>
             </div>
           </div>
@@ -134,8 +134,16 @@ export default async function Home() {
 
       {/* Upcoming releases */}
       <section className="pad-x" style={{ padding: '56px 56px 0' }}>
-        <div style={{ font: '600 11px/1 Hanken Grotesk,sans-serif', letterSpacing: '.2em', textTransform: 'uppercase', color: 'var(--gold)', marginBottom: 10 }}>What&apos;s new worldwide</div>
-        <div className="serif" style={{ fontSize: 32, marginBottom: 22 }}>Upcoming worldwide releases</div>
+        <div className="section-head" style={{ display: 'flex', alignItems: 'flex-end', justifyContent: 'space-between', marginBottom: 22 }}>
+          <div>
+            <div style={{ font: '600 11px/1 Hanken Grotesk,sans-serif', letterSpacing: '.2em', textTransform: 'uppercase', color: 'var(--news)', marginBottom: 10 }}>Banknotes News</div>
+            <div className="serif" style={{ fontSize: 32 }}>New worldwide emissions</div>
+          </div>
+          <Link href="/news" style={{ font: '600 13px/1 Hanken Grotesk,sans-serif', color: 'var(--news)', textDecoration: 'none' }}>All emissions →</Link>
+        </div>
+        <p style={{ font: '400 14px/1.6 Hanken Grotesk,sans-serif', color: 'var(--ink2)', maxWidth: 560, margin: '0 0 22px', marginTop: -8 }}>
+          Recent and upcoming issues from central banks around the world — independent of our catalogue.
+        </p>
         <div className="grid-4" style={{ display: 'grid', gridTemplateColumns: 'repeat(4,1fr)', gap: 16 }}>
           {UPCOMING_RELEASES.map((u, i) => (
             <div key={i} style={{ background: 'var(--bg2)', border: '1px solid var(--line)', borderRadius: 6, padding: '18px 18px 20px' }}>
@@ -154,10 +162,10 @@ export default async function Home() {
       <section className="pad-x" style={{ padding: '56px 56px 56px' }}>
         <div className="section-head" style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-end', marginBottom: 22 }}>
           <div>
-            <div style={{ font: '600 11px/1 Hanken Grotesk,sans-serif', letterSpacing: '.2em', textTransform: 'uppercase', color: 'var(--gold)', marginBottom: 10 }}>From the journal</div>
+            <div style={{ font: '600 11px/1 Hanken Grotesk,sans-serif', letterSpacing: '.2em', textTransform: 'uppercase', color: 'var(--gold)', marginBottom: 10 }}>Blog</div>
             <div className="serif" style={{ fontSize: 32 }}>Articles &amp; guides</div>
           </div>
-          <Link href="/articles" style={{ font: '600 13px/1 Hanken Grotesk,sans-serif', color: 'var(--gold)', textDecoration: 'none' }}>All articles →</Link>
+          <Link href="/articles" style={{ font: '600 13px/1 Hanken Grotesk,sans-serif', color: 'var(--gold)', textDecoration: 'none' }}>All posts →</Link>
         </div>
         <div className="grid-4" style={{ display: 'grid', gridTemplateColumns: '1.5fr 1fr 1fr', gap: 20 }}>
           {articles.slice(0, 3).map((a, i) => (

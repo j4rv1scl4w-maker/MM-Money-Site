@@ -2,7 +2,7 @@ import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
   title: 'About — MM·Money',
-  description: 'Paper numismatics collector since 2009. Over 4,000 banknotes from 208 countries.',
+  description: 'Premium banknote dealer. Over 4,000 graded pieces from 241 countries, available on Delcampe and eBay.',
 };
 
 export default function About() {
@@ -19,21 +19,21 @@ export default function About() {
 
       <div style={sec}>
         <p style={{ font: '400 17px/1.75 Hanken Grotesk,sans-serif', color: 'var(--ink)', margin: '0 0 18px' }}>
-          MM·Money is a paper numismatics collection built over more than fifteen years, focused on banknotes from every corner of the world — from common circulated notes to rare overprints, specimens and essays that document monetary history.
+          MM·Money is a premium banknote dealer specialised in paper numismatics, active since 2009. We offer over 4,000 graded pieces from 241 countries — from common circulated notes to rare overprints, specimens and essays that document the monetary history of the world.
         </p>
         <p style={{ font: '400 17px/1.75 Hanken Grotesk,sans-serif', color: 'var(--ink2)', margin: 0 }}>
-          The collection spans over 4,000 pieces from 241 countries, graded and catalogued with archival care. Every note is photographed and listed on Delcampe and eBay.
+          Every note is individually photographed, graded and catalogued before listing. We ship worldwide from Italy with tracked shipping on all orders.
         </p>
       </div>
 
       <div style={{ borderTop: '1px solid var(--line)', paddingTop: 40, ...sec }}>
-        <span style={label}>The collection</span>
+        <span style={label}>The shop in numbers</span>
         <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '12px 40px' }}>
           {[
-            ['4,073', 'catalogued notes'],
+            ['4,073', 'listed pieces'],
             ['241', 'countries represented'],
-            ['Since 2009', 'worldwide activity'],
-            ['Delcampe + eBay', 'sales platforms'],
+            ['Since 2009', 'active on the market'],
+            ['Delcampe + eBay', 'worldwide shipping'],
           ].map(([n, l]) => (
             <div key={n} style={{ padding: '20px 0', borderBottom: '1px solid var(--line)' }}>
               <div className="serif" style={{ fontSize: 28, color: 'var(--gold2)', lineHeight: 1 }}>{n}</div>
@@ -44,18 +44,22 @@ export default function About() {
       </div>
 
       <div style={{ borderTop: '1px solid var(--line)', paddingTop: 40, ...sec }}>
-        <span style={label}>Contact</span>
-        <p style={{ font: '400 16px/1.7 Hanken Grotesk,sans-serif', color: 'var(--ink2)', margin: '0 0 18px' }}>
-          For purchases, questions or trades, reach us directly on Delcampe or eBay via the shop links on each listing.
-        </p>
-        <div style={{ display: 'flex', gap: 12, flexWrap: 'wrap' }}>
-          <a href="https://www.delcampe.net" target="_blank" rel="noopener noreferrer" style={{ font: '600 13px/1 Hanken Grotesk,sans-serif', color: 'var(--gold)', border: '1px solid var(--line)', padding: '10px 18px', borderRadius: 4, textDecoration: 'none', display: 'inline-block' }}>
-            View on Delcampe →
+        <span style={label}>Find us on</span>
+        <div style={{ display: 'flex', gap: 12, flexWrap: 'wrap', marginBottom: 32 }}>
+          <a href="DELCAMPE_STORE_URL" target="_blank" rel="noopener noreferrer" style={{ font: '600 13px/1 Hanken Grotesk,sans-serif', color: 'var(--gold)', border: '1px solid var(--gold)', padding: '11px 20px', borderRadius: 4, textDecoration: 'none', display: 'inline-block' }}>
+            Delcampe →
           </a>
-          <a href="https://www.ebay.com" target="_blank" rel="noopener noreferrer" style={{ font: '600 13px/1 Hanken Grotesk,sans-serif', color: 'var(--ink2)', border: '1px solid var(--line)', padding: '10px 18px', borderRadius: 4, textDecoration: 'none', display: 'inline-block' }}>
-            View on eBay →
+          <a href="EBAY_STORE_URL" target="_blank" rel="noopener noreferrer" style={{ font: '600 13px/1 Hanken Grotesk,sans-serif', color: 'var(--ink)', border: '1px solid var(--line)', padding: '11px 20px', borderRadius: 4, textDecoration: 'none', display: 'inline-block' }}>
+            eBay →
           </a>
         </div>
+        <span style={label}>Contact</span>
+        <p style={{ font: '400 16px/1.7 Hanken Grotesk,sans-serif', color: 'var(--ink2)', margin: '0 0 14px' }}>
+          For questions about a specific piece, trades or combined shipping, write to us directly.
+        </p>
+        <a href="mailto:CONTACT_EMAIL" style={{ font: '600 14px/1 Hanken Grotesk,sans-serif', color: 'var(--gold)', textDecoration: 'none', borderBottom: '1px solid var(--line)', paddingBottom: 2 }}>
+          CONTACT_EMAIL
+        </a>
       </div>
 
     </div>
