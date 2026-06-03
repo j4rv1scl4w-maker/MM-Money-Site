@@ -45,7 +45,7 @@ html, body { max-width: 100%; overflow-x: hidden; }
   .hero-sec { padding-top: 48px !important; padding-bottom: 48px !important; }
   .hero-grid { grid-template-columns: 1fr !important; gap: 32px !important; }
   .hero-h1 { font-size: 38px !important; }
-  .hero-art { order: -1; }
+  .hero-art { display: none !important; }
   .grid-4 { grid-template-columns: repeat(2, 1fr) !important; }
   .grid-2 { grid-template-columns: 1fr !important; }
   .stats-row { flex-wrap: wrap !important; }
