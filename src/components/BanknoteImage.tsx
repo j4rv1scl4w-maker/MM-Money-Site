@@ -14,7 +14,15 @@ interface BanknoteImageProps {
 }
 
 export function delcampeImgUrl(idAuction: string | number): string {
-  return `https://delcampe-static.net/img/lot/${idAuction}/${idAuction}_001.jpg`;
+  const s = String(idAuction);
+  const parts: string[] = [];
+  let i = s.length;
+  while (i > 0) {
+    parts.unshift(s.slice(Math.max(0, i - 3), i));
+    i -= 3;
+  }
+  parts[0] = parts[0].padStart(3, '0');
+  return `https://www.delcampe.net/static/img_large/auction/${parts.join('/')}_001.jpg`;
 }
 
 export default function BanknoteImage({ idAuction, hue = 200, denom, label, alt = '', style, className }: BanknoteImageProps) {
