@@ -11,7 +11,7 @@ const GRADES = ['All', 'UNC', 'XF', 'VF', 'VG', 'AU'];
 const PER_PAGE = 48;
 
 function delcampeUrl(id: string) {
-  return `https://www.delcampe.net/en/collectibles/banknotes/${id}.html`;
+  return `https://www.delcampe.net/en_US/collectibles/item/show/id/${id}`;
 }
 
 export default function Catalogue() {
