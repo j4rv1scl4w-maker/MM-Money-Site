@@ -20,7 +20,7 @@ export default function News() {
 
   return (
     <div>
-      <div style={{ padding: '44px 56px 26px' }}>
+      <div className="pad-x" style={{ padding: '44px 56px 26px' }}>
         <div style={{ display: 'flex', alignItems: 'center', gap: 10, marginBottom: 14 }}>
           <span style={{ width: 9, height: 9, borderRadius: 99, background: 'var(--news)', boxShadow: '0 0 0 4px color-mix(in srgb, var(--news) 20%, transparent)', display: 'inline-block' }} />
           <span style={{ font: '700 12px/1 Hanken Grotesk,sans-serif', letterSpacing: '.18em', textTransform: 'uppercase', color: 'var(--news)' }}>What&apos;s new · Real-time</span>
@@ -38,9 +38,9 @@ export default function News() {
         </div>
       </div>
 
-      <div style={{ padding: '0 56px 52px' }}>
+      <div className="pad-x" style={{ padding: '0 56px 52px' }}>
         {visible.map((n) => (
-          <div key={n.id} style={{ display: 'grid', gridTemplateColumns: '120px 76px 1fr 150px', gap: 22, alignItems: 'center', padding: '20px 0', borderTop: '1px solid var(--line)' }}>
+          <div key={n.id} className="news-row" style={{ display: 'grid', gridTemplateColumns: '120px 76px 1fr 150px', gap: 22, alignItems: 'center', padding: '20px 0', borderTop: '1px solid var(--line)' }}>
             <div>
               <div style={{ font: '600 14px/1.2 Hanken Grotesk,sans-serif' }}>{n.date}</div>
               <div style={{ font: '400 11.5px/1.2 Hanken Grotesk,sans-serif', color: 'var(--ink2)', marginTop: 3 }}>{n.ago}</div>
