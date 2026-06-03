@@ -10,8 +10,16 @@ const ALL_ITEMS = catalogData as CatalogItem[];
 const GRADES = ['All', 'UNC', 'XF', 'VF', 'VG', 'AU'];
 const PER_PAGE = 48;
 
-function delcampeUrl(id: string) {
-  return `https://www.delcampe.net/en_US/collectibles/search?term=${id}&search_mode=items`;
+function delcampeSlug(title: string): string {
+  return title
+    .toLowerCase()
+    .replace(/['"«»]/g, '')
+    .replace(/\./g, '')
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/^-+|-+$/g, '');
+}
+function delcampeUrl(id: string, title: string): string {
+  return `https://www.delcampe.net/it/collezionismo/monete-banconote/banconote/${delcampeSlug(title)}-${id}.html`;
 }
 
 export default function Catalogue() {
@@ -74,7 +82,7 @@ export default function Catalogue() {
         {visible.map((it) => (
           <a
             key={it.idAuction}
-            href={delcampeUrl(it.idAuction)}
+            href={delcampeUrl(it.idAuction, it.title)}
             target="_blank"
             rel="noopener noreferrer"
             style={{ background: 'var(--card)', border: '1px solid var(--line)', borderRadius: 6, overflow: 'hidden', textDecoration: 'none', color: 'inherit', display: 'block' }}

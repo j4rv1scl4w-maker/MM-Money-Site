@@ -101,7 +101,7 @@ export default async function Home() {
           {FEATURED.map((it) => (
             <a
               key={it.idAuction}
-              href={`https://www.delcampe.net/en_US/collectibles/search?term=${it.idAuction}&search_mode=items`}
+              href={`https://www.delcampe.net/it/collezionismo/monete-banconote/banconote/${it.title.toLowerCase().replace(/['"]/g,'').replace(/\./g,'').replace(/[^a-z0-9]+/g,'-').replace(/^-+|-+$/g,'')}-${it.idAuction}.html`}
               target="_blank"
               rel="noopener noreferrer"
               style={{ background: 'var(--card)', border: '1px solid var(--line)', borderRadius: 6, overflow: 'hidden', textDecoration: 'none', color: 'inherit', display: 'block' }}
