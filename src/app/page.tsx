@@ -1,16 +1,32 @@
 import Link from 'next/link';
 import Banknote from '@/components/Banknote';
 import BanknoteImage from '@/components/BanknoteImage';
-import { SAMPLE_ITEMS, UPCOMING, eur } from '@/lib/data';
+import { eur } from '@/lib/data';
 import { getArticles } from '@/lib/content';
+import type { CatalogItem } from '@/lib/content';
+import catalogData from '../../content/catalog.json';
+import upcomingData from '../../content/news.json';
 
-const FILTERS = ['All', 'UNC', 'Specimen', 'Rare', 'Polymer'];
+// Top 12 by views for homepage
+const FEATURED: CatalogItem[] = (catalogData as CatalogItem[])
+  .sort((a, b) => b.views - a.views)
+  .slice(0, 12);
+
+const ALL_CATALOG = catalogData as CatalogItem[];
+const COUNTRY_COUNT = new Set(ALL_CATALOG.map(i => i.country)).size;
+
+const UPCOMING_RELEASES = [
+  { region: 'Eurozone',       issuer: 'European Central Bank',  title: 'New € series · "European culture" theme', when: 'Sep 2026', hue: 210 },
+  { region: 'United Kingdom', issuer: 'Bank of England',        title: '£50 polymer · updated portrait',          when: 'Oct 2026', hue: 150 },
+  { region: 'India',          issuer: 'Reserve Bank of India',  title: '₹100 commemorative · anniversary',        when: 'Nov 2026', hue: 35  },
+  { region: 'Switzerland',    issuer: 'Swiss National Bank',    title: '10th series · new graphic motif',         when: '2027',     hue: 8   },
+];
 
 const STATS = [
-  ['4,073', 'notes'],
-  ['208', 'countries'],
-  ['Delcampe', '+ eBay'],
-  ['since 2009', 'worldwide shipping'],
+  [ALL_CATALOG.length.toLocaleString(), 'notes'],
+  [String(COUNTRY_COUNT),              'countries'],
+  ['Delcampe',                          '+ eBay'],
+  ['since 2009',                        'worldwide shipping'],
 ];
 
 export default async function Home() {
@@ -32,7 +48,7 @@ export default async function Home() {
               at a time.
             </h1>
             <p style={{ maxWidth: 430, marginTop: 24, font: '400 15px/1.65 Hanken Grotesk,sans-serif', color: 'var(--ink2)' }}>
-              A collection of over 4,000 pieces from 208 countries. Rarities, overprints and specimens, photographed and graded with archival care.
+              A collection of over {ALL_CATALOG.length.toLocaleString()} pieces from {COUNTRY_COUNT} countries. Rarities, overprints and specimens, photographed and graded with archival care.
             </p>
             <div style={{ display: 'flex', gap: 12, marginTop: 30 }}>
               <Link href="/catalogue" style={{ background: 'var(--gold)', color: '#1b150a', padding: '13px 26px', font: '700 13px/1 Hanken Grotesk,sans-serif', borderRadius: 3, textDecoration: 'none', display: 'inline-block' }}>
@@ -43,11 +59,19 @@ export default async function Home() {
               </Link>
             </div>
           </div>
+          {/* Hero banknotes — top 4 by views */}
           <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 14 }}>
-            <div style={{ transform: 'translateY(-16px)' }}><Banknote hue={24}  dark denom="100"  label="BOSNIA"   /></div>
-            <div style={{ transform: 'translateY(16px)'  }}><Banknote hue={190} dark denom="10$"  label="COOK IS." /></div>
-            <div style={{ transform: 'translateY(-4px)'  }}><Banknote hue={320} dark denom="100"  label="KM·SPEC"  /></div>
-            <div style={{ transform: 'translateY(28px)'  }}><Banknote hue={130} dark denom="20K"  label="C.RICA"   /></div>
+            {FEATURED.slice(0, 4).map((it, i) => (
+              <div key={it.idAuction} style={{ transform: `translateY(${['-16px', '16px', '-4px', '28px'][i]})` }}>
+                <BanknoteImage
+                  idAuction={it.idAuction}
+                  hue={it.hue}
+                  denom={it.denom.split(' ')[0]}
+                  label={it.country.toUpperCase().slice(0, 8)}
+                  alt={`${it.country} ${it.denom} ${it.year}`}
+                />
+              </div>
+            ))}
           </div>
         </div>
       </section>
@@ -62,48 +86,58 @@ export default async function Home() {
         ))}
       </div>
 
-      {/* Catalog grid */}
+      {/* Featured catalog grid */}
       <section style={{ padding: '54px 56px 0' }}>
         <div style={{ display: 'flex', alignItems: 'flex-end', justifyContent: 'space-between', marginBottom: 24 }}>
           <div>
             <div style={{ font: '600 11px/1 Hanken Grotesk,sans-serif', letterSpacing: '.2em', textTransform: 'uppercase', color: 'var(--gold)', marginBottom: 10 }}>From the catalogue</div>
-            <div className="serif" style={{ fontSize: 32 }}>Featured pieces</div>
+            <div className="serif" style={{ fontSize: 32 }}>Most viewed pieces</div>
           </div>
-          <div style={{ display: 'flex', gap: 8 }}>
-            {FILTERS.map((f, i) => (
-              <span key={f} style={{ font: '600 12px/1 Hanken Grotesk,sans-serif', padding: '8px 13px', borderRadius: 999, border: `1px solid ${i === 0 ? 'var(--gold)' : 'var(--line)'}`, background: i === 0 ? 'var(--gold)' : 'transparent', color: i === 0 ? '#1b150a' : 'var(--ink2)', cursor: 'pointer' }}>{f}</span>
-            ))}
-          </div>
+          <Link href="/catalogue" style={{ font: '600 13px/1 Hanken Grotesk,sans-serif', color: 'var(--gold)', textDecoration: 'none' }}>
+            Full catalogue ({ALL_CATALOG.length.toLocaleString()}) →
+          </Link>
         </div>
         <div style={{ display: 'grid', gridTemplateColumns: 'repeat(4,1fr)', gap: 18 }}>
-          {SAMPLE_ITEMS.map((it) => (
-            <div key={it.id} style={{ background: 'var(--card)', border: '1px solid var(--line)', borderRadius: 6, overflow: 'hidden' }}>
+          {FEATURED.map((it) => (
+            <a
+              key={it.idAuction}
+              href={`https://www.delcampe.net/en/collectibles/banknotes/${it.idAuction}.html`}
+              target="_blank"
+              rel="noopener noreferrer"
+              style={{ background: 'var(--card)', border: '1px solid var(--line)', borderRadius: 6, overflow: 'hidden', textDecoration: 'none', color: 'inherit', display: 'block' }}
+            >
               <div style={{ padding: 12 }}>
-                <BanknoteImage idAuction={it.idAuction} hue={it.hue} denom={it.denom.split(' ')[0]} label={`${it.country.toUpperCase()} · ${it.year}`} alt={`${it.country} ${it.denom} ${it.year}`} />
+                <BanknoteImage
+                  idAuction={it.idAuction}
+                  hue={it.hue}
+                  denom={it.denom.split(' ')[0]}
+                  label={`${it.country.toUpperCase().slice(0,8)} · ${it.year}`}
+                  alt={`${it.country} ${it.denom} ${it.year}`}
+                />
               </div>
               <div style={{ padding: '2px 14px 15px' }}>
                 <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: 6 }}>
                   <span style={{ font: '600 10px/1 Hanken Grotesk,sans-serif', letterSpacing: '.1em', textTransform: 'uppercase', color: 'var(--ink2)' }}>{it.country}</span>
-                  {it.tag !== '—' && <span style={{ font: '600 9.5px/1 Hanken Grotesk,sans-serif', letterSpacing: '.12em', textTransform: 'uppercase', color: 'var(--gold)', border: '1px solid var(--line)', padding: '4px 7px', borderRadius: 2 }}>{it.tag}</span>}
+                  <span style={{ font: '600 9.5px/1 Hanken Grotesk,sans-serif', letterSpacing: '.1em', textTransform: 'uppercase', color: 'var(--gold)', border: '1px solid var(--line)', padding: '3px 6px', borderRadius: 2 }}>{it.grade}</span>
                 </div>
-                <div className="serif" style={{ fontSize: 17, lineHeight: 1.2 }}>{it.denom} · {it.grade}</div>
-                <div style={{ font: '400 12px/1.3 Hanken Grotesk,sans-serif', color: 'var(--ink2)', marginTop: 3 }}>{it.year}{it.note ? ' · ' + it.note : ''}</div>
-                <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginTop: 12 }}>
-                  <span className="serif" style={{ fontSize: 19, color: 'var(--gold2)' }}>{eur(it.price)}</span>
-                  <span style={{ font: '500 11px/1 Hanken Grotesk,sans-serif', color: 'var(--ink2)' }}>◉ {it.views}</span>
+                <div className="serif" style={{ fontSize: 16, lineHeight: 1.2 }}>{it.denom}</div>
+                <div style={{ font: '400 12px/1.3 Hanken Grotesk,sans-serif', color: 'var(--ink2)', marginTop: 3 }}>{it.year}</div>
+                <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginTop: 10 }}>
+                  {it.price && <span className="serif" style={{ fontSize: 18, color: 'var(--gold2)' }}>{eur(it.price)}</span>}
+                  <span style={{ font: '500 11px/1 Hanken Grotesk,sans-serif', color: 'var(--ink2)', marginLeft: 'auto' }}>◉ {it.views}</span>
                 </div>
               </div>
-            </div>
+            </a>
           ))}
         </div>
       </section>
 
-      {/* Upcoming */}
+      {/* Upcoming releases */}
       <section style={{ padding: '56px 56px 0' }}>
         <div style={{ font: '600 11px/1 Hanken Grotesk,sans-serif', letterSpacing: '.2em', textTransform: 'uppercase', color: 'var(--gold)', marginBottom: 10 }}>What&apos;s new worldwide</div>
         <div className="serif" style={{ fontSize: 32, marginBottom: 22 }}>Upcoming worldwide releases</div>
         <div style={{ display: 'grid', gridTemplateColumns: 'repeat(4,1fr)', gap: 16 }}>
-          {UPCOMING.map((u, i) => (
+          {UPCOMING_RELEASES.map((u, i) => (
             <div key={i} style={{ background: 'var(--bg2)', border: '1px solid var(--line)', borderRadius: 6, padding: '18px 18px 20px' }}>
               <div style={{ display: 'flex', justifyContent: 'space-between', font: '600 11px/1 Hanken Grotesk,sans-serif', marginBottom: 14 }}>
                 <span style={{ color: 'var(--gold)' }}>{u.region}</span>
@@ -123,9 +157,7 @@ export default async function Home() {
             <div style={{ font: '600 11px/1 Hanken Grotesk,sans-serif', letterSpacing: '.2em', textTransform: 'uppercase', color: 'var(--gold)', marginBottom: 10 }}>From the journal</div>
             <div className="serif" style={{ fontSize: 32 }}>Articles &amp; guides</div>
           </div>
-          <Link href="/articles" style={{ font: '600 13px/1 Hanken Grotesk,sans-serif', color: 'var(--gold)', textDecoration: 'none' }}>
-            All articles →
-          </Link>
+          <Link href="/articles" style={{ font: '600 13px/1 Hanken Grotesk,sans-serif', color: 'var(--gold)', textDecoration: 'none' }}>All articles →</Link>
         </div>
         <div style={{ display: 'grid', gridTemplateColumns: '1.5fr 1fr 1fr', gap: 20 }}>
           {articles.slice(0, 3).map((a, i) => (

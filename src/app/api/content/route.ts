@@ -11,12 +11,8 @@ async function checkAuth() {
 }
 
 async function readJSON(file: string) {
-  try {
-    const raw = await fs.readFile(path.join(CONTENT_DIR, file), 'utf-8');
-    return JSON.parse(raw);
-  } catch {
-    return [];
-  }
+  try { return JSON.parse(await fs.readFile(path.join(CONTENT_DIR, file), 'utf-8')); }
+  catch { return []; }
 }
 
 async function writeJSON(file: string, data: unknown) {
@@ -32,7 +28,6 @@ export async function GET() {
 
 export async function POST(req: NextRequest) {
   if (!await checkAuth()) return NextResponse.json({ error: 'Unauthorized' }, { status: 401 });
-
   const { news, articles } = await req.json();
   await writeJSON('news.json', news);
   await writeJSON('articles.json', articles);
