@@ -18,11 +18,11 @@ html { background: var(--bg); }
 body {
   background: var(--bg);
   color: var(--ink);
-  font-family: 'Hanken Grotesk', system-ui, sans-serif;
+  font-family: var(--font-hanken), 'Hanken Grotesk', system-ui, sans-serif;
   -webkit-font-smoothing: antialiased;
 }
 
-.serif { font-family: 'Spectral', Georgia, serif; }
+.serif { font-family: var(--font-spectral), 'Spectral', Georgia, serif; }
 
 * { box-sizing: border-box; }
 html, body { max-width: 100%; overflow-x: hidden; }
