@@ -51,6 +51,7 @@ html, body { max-width: 100%; overflow-x: hidden; }
   .stats-row { flex-wrap: wrap !important; }
   .stats-row > div { flex: 1 0 50% !important; border-left: none !important; border-top: 1px solid var(--line) !important; }
   .nav-links { display: none !important; }
+  .nav-hamburger { display: block !important; }
   .nav-bar { padding-left: 20px !important; padding-right: 20px !important; }
   .footer-row { flex-direction: column !important; align-items: flex-start !important; gap: 18px !important; padding-left: 20px !important; padding-right: 20px !important; }
   .footer-links { flex-wrap: wrap !important; gap: 16px !important; }
@@ -58,4 +59,7 @@ html, body { max-width: 100%; overflow-x: hidden; }
   .news-row { grid-template-columns: 64px 1fr !important; gap: 14px !important; }
   .news-row > :first-child { grid-column: 1 / -1; }
   .news-row > :last-child { grid-column: 1 / -1; text-align: left !important; }
+  .card-denom { font-size: 13px !important; }
+  .card-price { font-size: 14px !important; }
+  .grid-4 > * { font-size: 11px; }
 }
