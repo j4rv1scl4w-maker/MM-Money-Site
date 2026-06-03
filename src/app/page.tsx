@@ -1,5 +1,6 @@
 import Link from 'next/link';
 import Banknote from '@/components/Banknote';
+import BanknoteImage from '@/components/BanknoteImage';
 import { SAMPLE_ITEMS, UPCOMING, eur } from '@/lib/data';
 import { getArticles } from '@/lib/content';
 
@@ -78,7 +79,7 @@ export default async function Home() {
           {SAMPLE_ITEMS.map((it) => (
             <div key={it.id} style={{ background: 'var(--card)', border: '1px solid var(--line)', borderRadius: 6, overflow: 'hidden' }}>
               <div style={{ padding: 12 }}>
-                <Banknote hue={it.hue} dark denom={it.denom.split(' ')[0]} label={`${it.country.toUpperCase()} · ${it.year}`} />
+                <BanknoteImage idAuction={it.idAuction} hue={it.hue} denom={it.denom.split(' ')[0]} label={`${it.country.toUpperCase()} · ${it.year}`} alt={`${it.country} ${it.denom} ${it.year}`} />
               </div>
               <div style={{ padding: '2px 14px 15px' }}>
                 <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: 6 }}>
