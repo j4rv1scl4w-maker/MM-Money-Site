@@ -35,14 +35,14 @@ export default async function Home() {
   return (
     <div>
       {/* Hero */}
-      <section style={{ position: 'relative', padding: '80px 56px 72px', overflow: 'hidden' }}>
+      <section className="hero-sec pad-x" style={{ position: 'relative', padding: '80px 56px 72px', overflow: 'hidden' }}>
         <div style={{ position: 'absolute', inset: 0, background: 'radial-gradient(120% 90% at 78% 30%, var(--bg2) 0%, var(--bg) 60%)', pointerEvents: 'none' }} />
-        <div style={{ position: 'relative', display: 'grid', gridTemplateColumns: '1fr 0.9fr', gap: 48, alignItems: 'center' }}>
+        <div className="hero-grid" style={{ position: 'relative', display: 'grid', gridTemplateColumns: '1fr 0.9fr', gap: 48, alignItems: 'center' }}>
           <div>
             <div style={{ font: '600 11px/1 Hanken Grotesk,sans-serif', letterSpacing: '.2em', textTransform: 'uppercase', color: 'var(--gold)', marginBottom: 12 }}>
               Paper numismatics · since 2009
             </div>
-            <h1 className="serif" style={{ fontWeight: 300, fontSize: 64, lineHeight: 1.03, letterSpacing: '-.01em', margin: 0 }}>
+            <h1 className="serif hero-h1" style={{ fontWeight: 300, fontSize: 64, lineHeight: 1.03, letterSpacing: '-.01em', margin: 0 }}>
               The story of the world,<br />
               <em style={{ fontWeight: 500, color: 'var(--gold2)' }}>one banknote</em><br />
               at a time.
@@ -60,7 +60,7 @@ export default async function Home() {
             </div>
           </div>
           {/* Hero banknotes — top 4 by views */}
-          <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 14 }}>
+          <div className="hero-art" style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 14 }}>
             {FEATURED.slice(0, 4).map((it, i) => (
               <div key={it.idAuction} style={{ transform: `translateY(${['-16px', '16px', '-4px', '28px'][i]})` }}>
                 <BanknoteImage
@@ -77,7 +77,7 @@ export default async function Home() {
       </section>
 
       {/* Stats */}
-      <div style={{ padding: '0 56px', display: 'flex', borderTop: '1px solid var(--line)', borderBottom: '1px solid var(--line)' }}>
+      <div className="stats-row pad-x" style={{ padding: '0 56px', display: 'flex', borderTop: '1px solid var(--line)', borderBottom: '1px solid var(--line)' }}>
         {STATS.map(([n, l], i) => (
           <div key={i} style={{ flex: 1, padding: '24px 8px', borderLeft: i ? '1px solid var(--line)' : 'none' }}>
             <div className="serif" style={{ fontSize: 30, color: 'var(--gold2)', lineHeight: 1 }}>{n}</div>
@@ -87,8 +87,8 @@ export default async function Home() {
       </div>
 
       {/* Featured catalog grid */}
-      <section style={{ padding: '54px 56px 0' }}>
-        <div style={{ display: 'flex', alignItems: 'flex-end', justifyContent: 'space-between', marginBottom: 24 }}>
+      <section className="pad-x" style={{ padding: '54px 56px 0' }}>
+        <div className="section-head" style={{ display: 'flex', alignItems: 'flex-end', justifyContent: 'space-between', marginBottom: 24 }}>
           <div>
             <div style={{ font: '600 11px/1 Hanken Grotesk,sans-serif', letterSpacing: '.2em', textTransform: 'uppercase', color: 'var(--gold)', marginBottom: 10 }}>From the catalogue</div>
             <div className="serif" style={{ fontSize: 32 }}>Most viewed pieces</div>
@@ -97,7 +97,7 @@ export default async function Home() {
             Full catalogue ({ALL_CATALOG.length.toLocaleString()}) →
           </Link>
         </div>
-        <div style={{ display: 'grid', gridTemplateColumns: 'repeat(4,1fr)', gap: 18 }}>
+        <div className="grid-4" style={{ display: 'grid', gridTemplateColumns: 'repeat(4,1fr)', gap: 18 }}>
           {FEATURED.map((it) => (
             <a
               key={it.idAuction}
@@ -133,10 +133,10 @@ export default async function Home() {
       </section>
 
       {/* Upcoming releases */}
-      <section style={{ padding: '56px 56px 0' }}>
+      <section className="pad-x" style={{ padding: '56px 56px 0' }}>
         <div style={{ font: '600 11px/1 Hanken Grotesk,sans-serif', letterSpacing: '.2em', textTransform: 'uppercase', color: 'var(--gold)', marginBottom: 10 }}>What&apos;s new worldwide</div>
         <div className="serif" style={{ fontSize: 32, marginBottom: 22 }}>Upcoming worldwide releases</div>
-        <div style={{ display: 'grid', gridTemplateColumns: 'repeat(4,1fr)', gap: 16 }}>
+        <div className="grid-4" style={{ display: 'grid', gridTemplateColumns: 'repeat(4,1fr)', gap: 16 }}>
           {UPCOMING_RELEASES.map((u, i) => (
             <div key={i} style={{ background: 'var(--bg2)', border: '1px solid var(--line)', borderRadius: 6, padding: '18px 18px 20px' }}>
               <div style={{ display: 'flex', justifyContent: 'space-between', font: '600 11px/1 Hanken Grotesk,sans-serif', marginBottom: 14 }}>
@@ -151,15 +151,15 @@ export default async function Home() {
       </section>
 
       {/* Articles preview */}
-      <section style={{ padding: '56px 56px 56px' }}>
-        <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-end', marginBottom: 22 }}>
+      <section className="pad-x" style={{ padding: '56px 56px 56px' }}>
+        <div className="section-head" style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-end', marginBottom: 22 }}>
           <div>
             <div style={{ font: '600 11px/1 Hanken Grotesk,sans-serif', letterSpacing: '.2em', textTransform: 'uppercase', color: 'var(--gold)', marginBottom: 10 }}>From the journal</div>
             <div className="serif" style={{ fontSize: 32 }}>Articles &amp; guides</div>
           </div>
           <Link href="/articles" style={{ font: '600 13px/1 Hanken Grotesk,sans-serif', color: 'var(--gold)', textDecoration: 'none' }}>All articles →</Link>
         </div>
-        <div style={{ display: 'grid', gridTemplateColumns: '1.5fr 1fr 1fr', gap: 20 }}>
+        <div className="grid-4" style={{ display: 'grid', gridTemplateColumns: '1.5fr 1fr 1fr', gap: 20 }}>
           {articles.slice(0, 3).map((a, i) => (
             <Link key={a.id} href={`/articles/${a.slug}`} style={{ textDecoration: 'none', color: 'inherit' }}>
               <Banknote hue={a.hue} dark style={{ aspectRatio: i === 0 ? '16/9' : '8/5', marginBottom: 14 }} />

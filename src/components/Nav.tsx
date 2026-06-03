@@ -13,11 +13,11 @@ export default function Nav() {
   const path = usePathname();
 
   return (
-    <nav style={{ padding: '0 56px', height: 66, display: 'flex', alignItems: 'center', justifyContent: 'space-between', borderBottom: '1px solid var(--line)', background: 'var(--bg)', position: 'sticky', top: 0, zIndex: 50 }}>
+    <nav className="nav-bar" style={{ padding: '0 56px', height: 66, display: 'flex', alignItems: 'center', justifyContent: 'space-between', borderBottom: '1px solid var(--line)', background: 'var(--bg)', position: 'sticky', top: 0, zIndex: 50 }}>
       <Link href="/" style={{ fontFamily: 'Spectral,Georgia,serif', fontSize: 23, letterSpacing: '.04em', color: 'var(--ink)', textDecoration: 'none' }}>
         <span style={{ color: 'var(--gold)' }}>MM</span>·Money
       </Link>
-      <div style={{ display: 'flex', gap: 30 }}>
+      <div className="nav-links" style={{ display: 'flex', gap: 30 }}>
         {NAV.map(({ label, href }) => {
           const active = path === href || path?.startsWith(href + '/');
           return (

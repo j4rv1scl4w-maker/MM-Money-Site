@@ -10,14 +10,22 @@ export const metadata: Metadata = {
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="en">
+      <head>
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
+        <link
+          rel="stylesheet"
+          href="https://fonts.googleapis.com/css2?family=Spectral:ital,wght@0,300;0,400;0,500;0,600;1,400&family=Hanken+Grotesk:wght@400;500;600;700;800&display=swap"
+        />
+      </head>
       <body>
         <Nav />
         <main>{children}</main>
-        <footer style={{ padding: '40px 56px 48px', borderTop: '1px solid var(--line)', display: 'flex', justifyContent: 'space-between', alignItems: 'center', color: 'var(--ink2)', fontSize: 12 }}>
+        <footer className="footer-row" style={{ padding: '40px 56px 48px', borderTop: '1px solid var(--line)', display: 'flex', justifyContent: 'space-between', alignItems: 'center', color: 'var(--ink2)', fontSize: 12 }}>
           <div style={{ fontFamily: 'Spectral,Georgia,serif', fontSize: 18, color: 'var(--ink)' }}>
             <span style={{ color: 'var(--gold)' }}>MM</span>·Money
           </div>
-          <div style={{ display: 'flex', gap: 36 }}>
+          <div className="footer-links" style={{ display: 'flex', gap: 36 }}>
             <span>Catalogue · Delcampe</span>
             <span>Catalogue · eBay</span>
             <span>Contact</span>

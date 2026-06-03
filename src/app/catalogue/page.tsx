@@ -40,7 +40,7 @@ export default function Catalogue() {
   function handleSearch(v: string) { setSearch(v); setPage(1); }
 
   return (
-    <div style={{ padding: '44px 56px 60px' }}>
+    <div className="pad-x" style={{ padding: '44px 56px 60px' }}>
       <div style={{ font: '600 11px/1 Hanken Grotesk,sans-serif', letterSpacing: '.2em', textTransform: 'uppercase', color: 'var(--gold)', marginBottom: 12 }}>Catalogue</div>
       <h1 className="serif" style={{ fontWeight: 400, fontSize: 42, lineHeight: 1.05, margin: '0 0 12px' }}>
         {ALL_ITEMS.length.toLocaleString()} banknotes from {new Set(ALL_ITEMS.map(i => i.country)).size} countries
@@ -70,7 +70,7 @@ export default function Catalogue() {
       </div>
 
       {/* Grid */}
-      <div style={{ display: 'grid', gridTemplateColumns: 'repeat(4,1fr)', gap: 18 }}>
+      <div className="grid-4" style={{ display: 'grid', gridTemplateColumns: 'repeat(4,1fr)', gap: 18 }}>
         {visible.map((it) => (
           <a
             key={it.idAuction}
