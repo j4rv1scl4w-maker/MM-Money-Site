@@ -1,5 +1,6 @@
 'use client';
 import { useState } from 'react';
+import Banknote from '@/components/Banknote';
 
 interface Emission {
   id: string;
@@ -62,7 +63,10 @@ export default function BanknotesNews() {
               {year}
             </div>
             {items.map(e => (
-              <div key={e.id} style={{ display: 'grid', gridTemplateColumns: '1fr auto', gap: 24, padding: '20px 0', borderTop: '1px solid var(--line)' }}>
+              <div key={e.id} style={{ display: 'grid', gridTemplateColumns: 'auto 1fr', gap: 24, padding: '20px 0', borderTop: '1px solid var(--line)', alignItems: 'start' }}>
+                <div style={{ width: 160, flexShrink: 0 }}>
+                  <Banknote hue={e.hue} dark label={e.country} />
+                </div>
                 <div>
                   <div style={{ display: 'flex', alignItems: 'center', gap: 12, marginBottom: 8 }}>
                     <span style={{ font: '600 10px/1 Hanken Grotesk,sans-serif', letterSpacing: '.1em', textTransform: 'uppercase', color: 'var(--ink2)' }}>{e.country}</span>
@@ -73,7 +77,6 @@ export default function BanknotesNews() {
                   <div style={{ font: '400 13px/1.6 Hanken Grotesk,sans-serif', color: 'var(--ink2)' }}>{e.description}</div>
                   <div style={{ font: '500 12px/1 Hanken Grotesk,sans-serif', color: 'var(--ink2)', marginTop: 10 }}>{e.issuer}</div>
                 </div>
-                <div style={{ width: 6, alignSelf: 'stretch', background: `hsl(${e.hue},40%,35%)`, borderRadius: 3, flexShrink: 0 }} />
               </div>
             ))}
           </div>

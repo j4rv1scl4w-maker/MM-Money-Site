@@ -6,7 +6,7 @@ import type { CatalogItem } from '@/lib/content';
 import catalogData from '../../../content/catalog.json';
 
 const ALL_ITEMS = catalogData as CatalogItem[];
-
+const ALL_COUNTRIES = ['All', ...Array.from(new Set(ALL_ITEMS.map(i => i.country))).sort()];
 const GRADES = ['All', 'UNC', 'XF', 'VF', 'VG', 'AU'];
 const PER_PAGE = 48;
 
@@ -23,13 +23,15 @@ function delcampeUrl(id: string, title: string): string {
 }
 
 export default function Catalogue() {
-  const [gradeFilter, setGradeFilter] = useState('All');
-  const [search, setSearch]           = useState('');
-  const [page, setPage]               = useState(1);
+  const [gradeFilter,   setGradeFilter]   = useState('All');
+  const [countryFilter, setCountryFilter] = useState('All');
+  const [search, setSearch]               = useState('');
+  const [page, setPage]                   = useState(1);
 
   const filtered = useMemo(() => {
     let items = ALL_ITEMS;
-    if (gradeFilter !== 'All') items = items.filter(it => it.grade === gradeFilter);
+    if (gradeFilter   !== 'All') items = items.filter(it => it.grade   === gradeFilter);
+    if (countryFilter !== 'All') items = items.filter(it => it.country === countryFilter);
     if (search.trim()) {
       const q = search.toLowerCase();
       items = items.filter(it =>
@@ -39,13 +41,14 @@ export default function Catalogue() {
       );
     }
     return items;
-  }, [gradeFilter, search]);
+  }, [gradeFilter, countryFilter, search]);
 
   const totalPages = Math.ceil(filtered.length / PER_PAGE);
   const visible = filtered.slice((page - 1) * PER_PAGE, page * PER_PAGE);
 
-  function handleFilter(g: string) { setGradeFilter(g); setPage(1); }
-  function handleSearch(v: string) { setSearch(v); setPage(1); }
+  function handleFilter(g: string)  { setGradeFilter(g);   setPage(1); }
+  function handleCountry(c: string) { setCountryFilter(c); setPage(1); }
+  function handleSearch(v: string)  { setSearch(v);        setPage(1); }
 
   return (
     <div className="pad-x" style={{ padding: '44px 56px 60px' }}>
@@ -58,23 +61,32 @@ export default function Catalogue() {
       </p>
 
       {/* Controls */}
-      <div style={{ display: 'flex', alignItems: 'center', gap: 16, marginBottom: 28, flexWrap: 'wrap' }}>
-        <input
-          value={search}
-          onChange={e => handleSearch(e.target.value)}
-          placeholder="Search country, denomination…"
-          style={{ background: 'var(--bg2)', border: '1px solid var(--line)', color: 'var(--ink)', padding: '9px 14px', borderRadius: 6, font: '400 14px/1 Hanken Grotesk,sans-serif', width: 260, outline: 'none' }}
-        />
-        <div style={{ display: 'flex', gap: 6 }}>
+      <div style={{ display: 'flex', flexDirection: 'column', gap: 12, marginBottom: 28 }}>
+        <div style={{ display: 'flex', gap: 12, flexWrap: 'wrap', alignItems: 'center' }}>
+          <input
+            value={search}
+            onChange={e => handleSearch(e.target.value)}
+            placeholder="Search denomination, year…"
+            style={{ background: 'var(--bg2)', border: '1px solid var(--line)', color: 'var(--ink)', padding: '9px 14px', borderRadius: 6, font: '400 14px/1 Hanken Grotesk,sans-serif', width: 220, outline: 'none', flex: '1 1 180px' }}
+          />
+          <select
+            value={countryFilter}
+            onChange={e => handleCountry(e.target.value)}
+            style={{ background: 'var(--bg2)', border: '1px solid var(--line)', color: countryFilter === 'All' ? 'var(--ink2)' : 'var(--ink)', padding: '9px 14px', borderRadius: 6, font: '400 14px/1 Hanken Grotesk,sans-serif', outline: 'none', cursor: 'pointer', flex: '1 1 160px', maxWidth: 220 }}
+          >
+            {ALL_COUNTRIES.map(c => <option key={c} value={c}>{c === 'All' ? 'All countries' : c}</option>)}
+          </select>
+          <span style={{ font: '400 13px/1 Hanken Grotesk,sans-serif', color: 'var(--ink2)', marginLeft: 'auto' }}>
+            {filtered.length.toLocaleString()} results
+          </span>
+        </div>
+        <div style={{ display: 'flex', gap: 6, flexWrap: 'wrap' }}>
           {GRADES.map(g => (
             <button key={g} onClick={() => handleFilter(g)} style={{ font: '600 12px/1 Hanken Grotesk,sans-serif', padding: '8px 13px', borderRadius: 999, border: `1px solid ${gradeFilter === g ? 'var(--gold)' : 'var(--line)'}`, background: gradeFilter === g ? 'var(--gold)' : 'transparent', color: gradeFilter === g ? '#1b150a' : 'var(--ink2)', cursor: 'pointer' }}>
               {g}
             </button>
           ))}
         </div>
-        <span style={{ font: '400 13px/1 Hanken Grotesk,sans-serif', color: 'var(--ink2)', marginLeft: 'auto' }}>
-          {filtered.length.toLocaleString()} results
-        </span>
       </div>
 
       {/* Grid */}
