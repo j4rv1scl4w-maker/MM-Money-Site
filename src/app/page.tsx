@@ -101,7 +101,7 @@ export default async function Home() {
           {FEATURED.map((it) => (
             <a
               key={it.idAuction}
-              href={`https://www.delcampe.net/en_US/collectibles/item/show/id/${it.idAuction}`}
+              href={`https://www.delcampe.net/en_US/collectibles/search?term=${it.idAuction}&search_mode=items`}
               target="_blank"
               rel="noopener noreferrer"
               style={{ background: 'var(--card)', border: '1px solid var(--line)', borderRadius: 6, overflow: 'hidden', textDecoration: 'none', color: 'inherit', display: 'block' }}
