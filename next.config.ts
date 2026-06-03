@@ -10,8 +10,8 @@ const nextConfig: NextConfig = {
     remotePatterns: [
       {
         protocol: 'https',
-        hostname: 'delcampe-static.net',
-        pathname: '/img/lot/**',
+        hostname: 'www.delcampe.net',
+        pathname: '/static/img_large/**',
       },
     ],
   },
