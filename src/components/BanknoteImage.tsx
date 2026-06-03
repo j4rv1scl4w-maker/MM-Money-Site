@@ -51,7 +51,7 @@ export default function BanknoteImage({ idAuction, hue = 200, denom, label, alt 
         alt={alt || String(label || denom || '')}
         fill
         sizes="(max-width: 768px) 100vw, 300px"
-        style={{ objectFit: 'cover' }}
+        style={{ objectFit: 'contain', background: '#111' }}
         onError={() => setImgError(true)}
         unoptimized // Avoids Next.js image optimization server requirement on static export
       />
