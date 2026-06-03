@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Spectral:ital,wght@0,300;0,400;0,500;0,600;1,400&family=Hanken+Grotesk:wght@400;500;600;700;800&display=swap');
+@import "tailwindcss";
+
+:root {
+  --bg:       #13110e;
+  --bg2:      #1b1813;
+  --card:     #1f1b15;
+  --ink:      #f3ecdc;
+  --ink2:     #a59b86;
+  --line:     #332d24;
+  --gold:     #c8a35a;
+  --gold2:    #e7c884;
+  --news:     #6db1c8;
+  --news-dim: #28333a;
+}
+
+html { background: var(--bg); }
+
+body {
+  background: var(--bg);
+  color: var(--ink);
+  font-family: 'Hanken Grotesk', system-ui, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+.serif { font-family: 'Spectral', Georgia, serif; }
+
+::-webkit-scrollbar { width: 6px; height: 6px; }
+::-webkit-scrollbar-track { background: var(--bg2); }
+::-webkit-scrollbar-thumb { background: var(--line); border-radius: 3px; }
