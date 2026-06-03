@@ -1,56 +1,117 @@
 'use client';
-import { useState } from 'react';
+import { useState, useMemo } from 'react';
 import BanknoteImage from '@/components/BanknoteImage';
-import { SAMPLE_ITEMS, eur } from '@/lib/data';
+import { eur } from '@/lib/data';
+import type { CatalogItem } from '@/lib/content';
+import catalogData from '../../../content/catalog.json';
 
-const FILTERS = ['All', 'UNC', 'Specimen', 'Rare', 'Polymer', 'Vintage'];
+const ALL_ITEMS = catalogData as CatalogItem[];
+
+const GRADES = ['All', 'UNC', 'XF', 'VF', 'VG', 'AU'];
+const PER_PAGE = 48;
+
+function delcampeUrl(id: string) {
+  return `https://www.delcampe.net/en/collectibles/banknotes/${id}.html`;
+}
 
 export default function Catalogue() {
-  const [filter, setFilter] = useState('All');
+  const [gradeFilter, setGradeFilter] = useState('All');
+  const [search, setSearch]           = useState('');
+  const [page, setPage]               = useState(1);
 
-  const visible = SAMPLE_ITEMS.filter(it => {
-    if (filter === 'All') return true;
-    if (filter === 'UNC') return it.grade === 'UNC';
-    return it.tag === filter;
-  });
+  const filtered = useMemo(() => {
+    let items = ALL_ITEMS;
+    if (gradeFilter !== 'All') items = items.filter(it => it.grade === gradeFilter);
+    if (search.trim()) {
+      const q = search.toLowerCase();
+      items = items.filter(it =>
+        it.country.toLowerCase().includes(q) ||
+        it.denom.toLowerCase().includes(q) ||
+        String(it.year).includes(q)
+      );
+    }
+    return items;
+  }, [gradeFilter, search]);
+
+  const totalPages = Math.ceil(filtered.length / PER_PAGE);
+  const visible = filtered.slice((page - 1) * PER_PAGE, page * PER_PAGE);
+
+  function handleFilter(g: string) { setGradeFilter(g); setPage(1); }
+  function handleSearch(v: string) { setSearch(v); setPage(1); }
 
   return (
     <div style={{ padding: '44px 56px 60px' }}>
       <div style={{ font: '600 11px/1 Hanken Grotesk,sans-serif', letterSpacing: '.2em', textTransform: 'uppercase', color: 'var(--gold)', marginBottom: 12 }}>Catalogue</div>
-      <h1 className="serif" style={{ fontWeight: 400, fontSize: 42, lineHeight: 1.05, margin: '0 0 12px' }}>The catalogue</h1>
+      <h1 className="serif" style={{ fontWeight: 400, fontSize: 42, lineHeight: 1.05, margin: '0 0 12px' }}>
+        {ALL_ITEMS.length.toLocaleString()} banknotes from {new Set(ALL_ITEMS.map(i => i.country)).size} countries
+      </h1>
       <p style={{ font: '400 15px/1.6 Hanken Grotesk,sans-serif', color: 'var(--ink2)', maxWidth: 540, margin: '0 0 28px' }}>
-        Over 4,000 pieces from 208 countries — specimens, overprints, rarities and crisp notes, photographed one by one.
+        Specimens, overprints, rarities and crisp notes — photographed one by one.
       </p>
 
-      <div style={{ display: 'flex', gap: 8, marginBottom: 32 }}>
-        {FILTERS.map((f) => (
-          <button key={f} onClick={() => setFilter(f)} style={{ font: '600 12px/1 Hanken Grotesk,sans-serif', padding: '8px 14px', borderRadius: 999, border: `1px solid ${filter === f ? 'var(--gold)' : 'var(--line)'}`, background: filter === f ? 'var(--gold)' : 'transparent', color: filter === f ? '#1b150a' : 'var(--ink2)', cursor: 'pointer' }}>
-            {f}
-          </button>
-        ))}
+      {/* Controls */}
+      <div style={{ display: 'flex', alignItems: 'center', gap: 16, marginBottom: 28, flexWrap: 'wrap' }}>
+        <input
+          value={search}
+          onChange={e => handleSearch(e.target.value)}
+          placeholder="Search country, denomination…"
+          style={{ background: 'var(--bg2)', border: '1px solid var(--line)', color: 'var(--ink)', padding: '9px 14px', borderRadius: 6, font: '400 14px/1 Hanken Grotesk,sans-serif', width: 260, outline: 'none' }}
+        />
+        <div style={{ display: 'flex', gap: 6 }}>
+          {GRADES.map(g => (
+            <button key={g} onClick={() => handleFilter(g)} style={{ font: '600 12px/1 Hanken Grotesk,sans-serif', padding: '8px 13px', borderRadius: 999, border: `1px solid ${gradeFilter === g ? 'var(--gold)' : 'var(--line)'}`, background: gradeFilter === g ? 'var(--gold)' : 'transparent', color: gradeFilter === g ? '#1b150a' : 'var(--ink2)', cursor: 'pointer' }}>
+              {g}
+            </button>
+          ))}
+        </div>
+        <span style={{ font: '400 13px/1 Hanken Grotesk,sans-serif', color: 'var(--ink2)', marginLeft: 'auto' }}>
+          {filtered.length.toLocaleString()} results
+        </span>
       </div>
 
+      {/* Grid */}
       <div style={{ display: 'grid', gridTemplateColumns: 'repeat(4,1fr)', gap: 18 }}>
         {visible.map((it) => (
-          <div key={it.id} style={{ background: 'var(--card)', border: '1px solid var(--line)', borderRadius: 6, overflow: 'hidden' }}>
+          <a
+            key={it.idAuction}
+            href={delcampeUrl(it.idAuction)}
+            target="_blank"
+            rel="noopener noreferrer"
+            style={{ background: 'var(--card)', border: '1px solid var(--line)', borderRadius: 6, overflow: 'hidden', textDecoration: 'none', color: 'inherit', display: 'block' }}
+          >
             <div style={{ padding: 12 }}>
-              <BanknoteImage idAuction={it.idAuction} hue={it.hue} denom={it.denom.split(' ')[0]} label={`${it.country.toUpperCase()} · ${it.year}`} alt={`${it.country} ${it.denom} ${it.year}`} />
+              <BanknoteImage
+                idAuction={it.idAuction}
+                hue={it.hue}
+                denom={it.denom.split(' ')[0]}
+                label={`${it.country.toUpperCase()} · ${it.year}`}
+                alt={`${it.country} ${it.denom} ${it.year}`}
+              />
             </div>
             <div style={{ padding: '2px 14px 15px' }}>
               <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: 6 }}>
                 <span style={{ font: '600 10px/1 Hanken Grotesk,sans-serif', letterSpacing: '.1em', textTransform: 'uppercase', color: 'var(--ink2)' }}>{it.country}</span>
-                {it.tag !== '—' && <span style={{ font: '600 9.5px/1 Hanken Grotesk,sans-serif', letterSpacing: '.12em', textTransform: 'uppercase', color: 'var(--gold)', border: '1px solid var(--line)', padding: '4px 7px', borderRadius: 2 }}>{it.tag}</span>}
+                <span style={{ font: '600 9.5px/1 Hanken Grotesk,sans-serif', letterSpacing: '.1em', textTransform: 'uppercase', color: 'var(--gold)', border: '1px solid var(--line)', padding: '3px 6px', borderRadius: 2 }}>{it.grade}</span>
               </div>
-              <div className="serif" style={{ fontSize: 17, lineHeight: 1.2 }}>{it.denom} · {it.grade}</div>
-              <div style={{ font: '400 12px/1.3 Hanken Grotesk,sans-serif', color: 'var(--ink2)', marginTop: 3 }}>{it.year}{it.note ? ' · ' + it.note : ''}</div>
-              <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginTop: 12 }}>
-                <span className="serif" style={{ fontSize: 19, color: 'var(--gold2)' }}>{eur(it.price)}</span>
-                <span style={{ font: '500 11px/1 Hanken Grotesk,sans-serif', color: 'var(--ink2)' }}>◉ {it.views}</span>
+              <div className="serif" style={{ fontSize: 16, lineHeight: 1.25 }}>{it.denom}</div>
+              <div style={{ font: '400 12px/1.3 Hanken Grotesk,sans-serif', color: 'var(--ink2)', marginTop: 3 }}>{it.year}</div>
+              <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginTop: 10 }}>
+                {it.price && <span className="serif" style={{ fontSize: 18, color: 'var(--gold2)' }}>{eur(it.price)}</span>}
+                <span style={{ font: '500 11px/1 Hanken Grotesk,sans-serif', color: 'var(--ink2)', marginLeft: 'auto' }}>◉ {it.views}</span>
               </div>
             </div>
-          </div>
+          </a>
         ))}
       </div>
+
+      {/* Pagination */}
+      {totalPages > 1 && (
+        <div style={{ display: 'flex', justifyContent: 'center', gap: 8, marginTop: 40 }}>
+          <button onClick={() => setPage(p => Math.max(1, p - 1))} disabled={page === 1} style={{ font: '600 13px/1 Hanken Grotesk,sans-serif', padding: '9px 18px', border: '1px solid var(--line)', background: 'transparent', color: page === 1 ? 'var(--line)' : 'var(--ink)', borderRadius: 4, cursor: page === 1 ? 'default' : 'pointer' }}>← Prev</button>
+          <span style={{ font: '400 13px/1 Hanken Grotesk,sans-serif', color: 'var(--ink2)', padding: '9px 14px' }}>{page} / {totalPages}</span>
+          <button onClick={() => setPage(p => Math.min(totalPages, p + 1))} disabled={page === totalPages} style={{ font: '600 13px/1 Hanken Grotesk,sans-serif', padding: '9px 18px', border: '1px solid var(--line)', background: 'transparent', color: page === totalPages ? 'var(--line)' : 'var(--ink)', borderRadius: 4, cursor: page === totalPages ? 'default' : 'pointer' }}>Next →</button>
+        </div>
+      )}
     </div>
   );
 }

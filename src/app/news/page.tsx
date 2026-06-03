@@ -1,8 +1,11 @@
 'use client';
-import { useState, useEffect } from 'react';
-import Banknote from '@/components/Banknote';
+import { useState } from 'react';
+import BanknoteImage from '@/components/BanknoteImage';
 import type { NewsItem } from '@/lib/data';
 import { eur } from '@/lib/data';
+
+// Data is baked in at build time via props from server component
+import newsData from '../../../content/news.json';
 
 const FILTERS = [
   { label: 'All',      key: 'all'    },
@@ -12,12 +15,7 @@ const FILTERS = [
 
 export default function News() {
   const [filter, setFilter] = useState<'all' | 'arrivo' | 'uscita'>('all');
-  const [items, setItems] = useState<NewsItem[]>([]);
-
-  useEffect(() => {
-    fetch('/api/content').then(r => r.json()).then(d => setItems(d.news || []));
-  }, []);
-
+  const items: NewsItem[] = newsData as NewsItem[];
   const visible = items.filter(n => filter === 'all' || n.kind === filter);
 
   return (
@@ -47,7 +45,9 @@ export default function News() {
               <div style={{ font: '600 14px/1.2 Hanken Grotesk,sans-serif' }}>{n.date}</div>
               <div style={{ font: '400 11.5px/1.2 Hanken Grotesk,sans-serif', color: 'var(--ink2)', marginTop: 3 }}>{n.ago}</div>
             </div>
-            <div style={{ width: 74 }}><Banknote hue={n.hue} dark /></div>
+            <div style={{ width: 74 }}>
+              <BanknoteImage hue={n.hue} />
+            </div>
             <div>
               <div style={{ display: 'flex', alignItems: 'center', gap: 10, marginBottom: 7 }}>
                 <span style={{ font: '700 9.5px/1 Hanken Grotesk,sans-serif', letterSpacing: '.12em', textTransform: 'uppercase', padding: '5px 8px', borderRadius: 3, color: n.kind === 'arrivo' ? 'var(--news)' : 'var(--gold)', background: n.kind === 'arrivo' ? 'color-mix(in srgb, var(--news) 12%, transparent)' : 'color-mix(in srgb, var(--gold) 10%, transparent)', border: `1px solid color-mix(in srgb, ${n.kind === 'arrivo' ? 'var(--news)' : 'var(--gold)'} 26%, transparent)` }}>

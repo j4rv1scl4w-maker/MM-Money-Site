@@ -2,6 +2,19 @@ import fs from 'fs/promises';
 import path from 'path';
 import type { NewsItem, Article } from './data';
 
+export interface CatalogItem {
+  idAuction: string;
+  country: string;
+  denom: string;
+  year: number | null;
+  grade: string;
+  price: number | null;
+  views: number;
+  title: string;
+  endDate: string | null;
+  hue: number;
+}
+
 const CONTENT_DIR = path.join(process.cwd(), 'content');
 
 async function readJSON<T>(file: string, fallback: T[]): Promise<T[]> {
@@ -21,4 +34,8 @@ export async function getNews(): Promise<NewsItem[]> {
 export async function getArticles(): Promise<Article[]> {
   const { ARTICLES } = await import('./data');
   return readJSON<Article>('articles.json', ARTICLES);
+}
+
+export async function getCatalog(): Promise<CatalogItem[]> {
+  return readJSON<CatalogItem>('catalog.json', []);
 }
