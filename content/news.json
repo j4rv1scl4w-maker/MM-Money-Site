@@ -1,0 +1,8 @@
+[
+  { "id": "n1", "kind": "arrivo", "date": "Today", "ago": "2 hours ago", "country": "Bosnia", "title": "Sarajevo 100 Dinara 1993 · UNCIVPOL overprint", "blurb": "UNC piece just catalogued, front/back photographed.", "hue": 24, "price": 21.5 },
+  { "id": "n2", "kind": "uscita", "date": "Sep 3, 2026", "ago": "announcement", "country": "Eurozone", "title": "ECB · new € series \"European culture\"", "blurb": "New banknote family announced, arriving 2026.", "hue": 210, "price": null },
+  { "id": "n3", "kind": "arrivo", "date": "Yesterday", "ago": "1 day ago", "country": "Costa Rica", "title": "20,000 Colones 2020 · polymer", "blurb": "Lot of 4 UNC pieces, consecutive serials.", "hue": 130, "price": 63 },
+  { "id": "n4", "kind": "uscita", "date": "Oct 2026", "ago": "upcoming", "country": "UK", "title": "Bank of England · £50 polymer, updated portrait", "blurb": "Gradual withdrawal of the old paper series.", "hue": 150, "price": null },
+  { "id": "n5", "kind": "arrivo", "date": "2 days ago", "ago": "2 days ago", "country": "Cook Is.", "title": "10 Dollars 1987 · low serial 000368", "blurb": "Collector piece with a low serial number.", "hue": 190, "price": 47 },
+  { "id": "n6", "kind": "uscita", "date": "Nov 2026", "ago": "upcoming", "country": "India", "title": "RBI · ₹100 commemorative", "blurb": "Anniversary issue, limited print run.", "hue": 35, "price": null }
+]
