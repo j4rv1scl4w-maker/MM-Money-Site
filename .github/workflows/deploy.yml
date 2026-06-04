@@ -35,6 +35,7 @@ jobs:
         run: npm run build
         env:
           NEXT_PUBLIC_BUILD_MODE: export
+          NEXT_PUBLIC_CUSTOM_DOMAIN: true
 
       - name: Add .nojekyll
         run: touch out/.nojekyll
