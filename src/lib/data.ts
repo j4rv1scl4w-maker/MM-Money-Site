@@ -55,6 +55,7 @@ export interface Article {
   meta: string;
   kw: string[];
   body: string;
+  imageUrl?: string;
   createdAt?: string;
   updatedAt?: string;
 }
