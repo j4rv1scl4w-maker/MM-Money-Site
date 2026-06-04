@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import Image from 'next/image';
 import Banknote from '@/components/Banknote';
 import BanknoteImage from '@/components/BanknoteImage';
 import { eur } from '@/lib/data';
@@ -16,10 +17,10 @@ const ALL_CATALOG = catalogData as CatalogItem[];
 const COUNTRY_COUNT = new Set(ALL_CATALOG.map(i => i.country)).size;
 
 const UPCOMING_RELEASES = [
-  { region: 'Eurozone',       issuer: 'European Central Bank',  title: 'New € series · "European culture" theme', when: 'Sep 2026', hue: 210 },
-  { region: 'United Kingdom', issuer: 'Bank of England',        title: '£50 polymer · updated portrait',          when: 'Oct 2026', hue: 150 },
-  { region: 'India',          issuer: 'Reserve Bank of India',  title: '₹100 commemorative · anniversary',        when: 'Nov 2026', hue: 35  },
-  { region: 'Switzerland',    issuer: 'Swiss National Bank',    title: '10th series · new graphic motif',         when: '2027',     hue: 8   },
+  { region: 'Curaçao & Sint Maarten', issuer: 'Centrale Bank van Curaçao en Sint Maarten', title: '10 Caribbean Guilders', when: 'Mar 2025', hue: 45,  imageUrl: 'https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-dated-2025-first-11/11-curacao-and-sint-maarten-10-caribbean-guilders-mar-2025.jpg' },
+  { region: 'Mexico',                 issuer: 'Banco de México',                           title: '1,000 Pesos',          when: 'Mar 2025', hue: 200, imageUrl: 'https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-dated-2025-first-11/10-mexico-1-000-pesos-mar-2025.jpg' },
+  { region: 'Poland',                 issuer: 'Narodowy Bank Polski',                      title: '20 Zlotych',           when: 'Jan 2025', hue: 215, imageUrl: 'https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-dated-2025-first-11/02-poland-20-zlotych-jan-2025.jpg' },
+  { region: 'Egypt',                  issuer: 'Central Bank of Egypt',                     title: '10 Pounds',            when: 'Jan 2025', hue: 40,  imageUrl: 'https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-dated-2025-first-11/01-egypt-10-pounds-jan-2025.jpg' },
 ];
 
 const STATS = [
@@ -146,13 +147,21 @@ export default async function Home() {
         </p>
         <div className="grid-4" style={{ display: 'grid', gridTemplateColumns: 'repeat(4,1fr)', gap: 16 }}>
           {UPCOMING_RELEASES.map((u, i) => (
-            <div key={i} style={{ background: 'var(--bg2)', border: '1px solid var(--line)', borderRadius: 6, padding: '18px 18px 20px' }}>
-              <div style={{ display: 'flex', justifyContent: 'space-between', font: '600 11px/1 Hanken Grotesk,sans-serif', marginBottom: 14 }}>
-                <span style={{ color: 'var(--gold)' }}>{u.region}</span>
-                <span style={{ color: 'var(--ink2)' }}>{u.when}</span>
+            <div key={i} style={{ background: 'var(--bg2)', border: '1px solid var(--line)', borderRadius: 6, overflow: 'hidden' }}>
+              <div style={{ position: 'relative', aspectRatio: '8/5', background: 'var(--card)' }}>
+                {u.imageUrl
+                  ? <Image src={u.imageUrl} alt={u.title} fill style={{ objectFit: 'contain', background: '#111' }} unoptimized />
+                  : <Banknote hue={u.hue} dark label={u.region} style={{ width: '100%', height: '100%' }} />
+                }
               </div>
-              <div className="serif" style={{ fontSize: 17, lineHeight: 1.3, marginBottom: 10 }}>{u.title}</div>
-              <div style={{ font: '500 12px/1.4 Hanken Grotesk,sans-serif', color: 'var(--ink2)' }}>{u.issuer}</div>
+              <div style={{ padding: '14px 16px 18px' }}>
+                <div style={{ display: 'flex', justifyContent: 'space-between', font: '600 11px/1 Hanken Grotesk,sans-serif', marginBottom: 10 }}>
+                  <span style={{ color: 'var(--news)' }}>{u.region}</span>
+                  <span style={{ color: 'var(--ink2)' }}>{u.when}</span>
+                </div>
+                <div className="serif" style={{ fontSize: 17, lineHeight: 1.3, marginBottom: 8 }}>{u.title}</div>
+                <div style={{ font: '500 12px/1.4 Hanken Grotesk,sans-serif', color: 'var(--ink2)' }}>{u.issuer}</div>
+              </div>
             </div>
           ))}
         </div>
