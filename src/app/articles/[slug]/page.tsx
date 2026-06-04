@@ -21,6 +21,9 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
 
 function renderBody(body: string) {
   return body.split('\n\n').map((para, i) => {
+    if (para.startsWith('## ')) {
+      return <h2 key={i} className="serif" style={{ fontWeight: 500, fontSize: 24, lineHeight: 1.3, margin: '32px 0 12px', color: 'var(--ink)' }}>{para.slice(3)}</h2>;
+    }
     const html = para
       .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
       .replace(/\*(.+?)\*/g, '<em>$1</em>');
