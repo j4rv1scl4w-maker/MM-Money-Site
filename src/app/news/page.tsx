@@ -3412,15 +3412,23 @@ const EMISSIONS: Emission[] = [
   { id: 'e584', year: 2026, date: '2026', country: 'Zimbabwe', issuer: 'Reserve Bank of Zimbabwe', title: '50 ZiG (Zimbabwe Gold)', description: 'Rhinoceros, Chiremba balancing rock formation.', hue: 86.9, imageUrl: 'https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2026-banknotes/fronts/ZIMW0117o.jpg' },
 ];
 
-const YEARS = [...new Set(EMISSIONS.map(e => e.year))].sort((a, b) => a - b);
+const seen = new Set<string>();
+const UNIQUE_EMISSIONS = EMISSIONS.filter(e => {
+  const key = `${e.year}|${e.country}|${e.title}`;
+  if (seen.has(key)) return false;
+  seen.add(key);
+  return true;
+});
+
+const YEARS = [...new Set(UNIQUE_EMISSIONS.map(e => e.year))].sort((a, b) => b - a);
 
 export default function BanknotesNews() {
   const [yearFilter, setYearFilter] = useState<number | 'all'>('all');
 
-  const visible = yearFilter === 'all' ? EMISSIONS : EMISSIONS.filter(e => e.year === yearFilter);
+  const visible = yearFilter === 'all' ? UNIQUE_EMISSIONS : UNIQUE_EMISSIONS.filter(e => e.year === yearFilter);
   const grouped = YEARS.filter(y => yearFilter === 'all' || y === yearFilter).map(y => ({
     year: y,
-    items: visible.filter(e => e.year === y),
+    items: visible.filter(e => e.year === y).sort((a, b) => a.country.localeCompare(b.country)),
   })).filter(g => g.items.length > 0);
 
   return (
