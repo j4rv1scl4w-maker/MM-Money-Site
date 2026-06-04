@@ -1,5 +1,6 @@
 'use client';
 import { useState } from 'react';
+import Image from 'next/image';
 import Banknote from '@/components/Banknote';
 
 interface Emission {
@@ -11,6 +12,7 @@ interface Emission {
   title: string;
   description: string;
   hue: number;
+  imageUrl?: string;
 }
 
 const EMISSIONS: Emission[] = [
@@ -64,8 +66,11 @@ export default function BanknotesNews() {
             </div>
             {items.map(e => (
               <div key={e.id} style={{ display: 'grid', gridTemplateColumns: 'auto 1fr', gap: 24, padding: '20px 0', borderTop: '1px solid var(--line)', alignItems: 'start' }}>
-                <div style={{ width: 160, flexShrink: 0 }}>
-                  <Banknote hue={e.hue} dark label={e.country} />
+                <div style={{ width: 160, flexShrink: 0, aspectRatio: '8/5', borderRadius: 4, overflow: 'hidden', border: '1px solid var(--line)', background: 'var(--card)', position: 'relative' }}>
+                  {e.imageUrl
+                    ? <Image src={e.imageUrl} alt={e.title} fill style={{ objectFit: 'contain', background: '#111' }} unoptimized />
+                    : <Banknote hue={e.hue} dark label={e.country} style={{ width: '100%', height: '100%' }} />
+                  }
                 </div>
                 <div>
                   <div style={{ display: 'flex', alignItems: 'center', gap: 12, marginBottom: 8 }}>
