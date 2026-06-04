@@ -2,11 +2,12 @@ import Link from 'next/link';
 import Image from 'next/image';
 import Banknote from '@/components/Banknote';
 import BanknoteImage from '@/components/BanknoteImage';
+import HomeNewsRotator from '@/components/HomeNewsRotator';
 import { eur } from '@/lib/data';
 import { getArticles } from '@/lib/content';
 import type { CatalogItem } from '@/lib/content';
 import catalogData from '../../content/catalog.json';
-import upcomingData from '../../content/news.json';
+import emissions2026 from '../../content/emissions-2026.json';
 
 // Top 12 by views for homepage
 const FEATURED: CatalogItem[] = (catalogData as CatalogItem[])
@@ -16,12 +17,7 @@ const FEATURED: CatalogItem[] = (catalogData as CatalogItem[])
 const ALL_CATALOG = catalogData as CatalogItem[];
 const COUNTRY_COUNT = new Set(ALL_CATALOG.map(i => i.country)).size;
 
-const UPCOMING_RELEASES = [
-  { region: 'Curaçao & Sint Maarten', issuer: 'Centrale Bank van Curaçao en Sint Maarten', title: '10 Caribbean Guilders', when: 'Mar 2025', hue: 45,  imageUrl: 'https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-dated-2025-first-11/11-curacao-and-sint-maarten-10-caribbean-guilders-mar-2025.jpg' },
-  { region: 'Mexico',                 issuer: 'Banco de México',                           title: '1,000 Pesos',          when: 'Mar 2025', hue: 200, imageUrl: 'https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-dated-2025-first-11/10-mexico-1-000-pesos-mar-2025.jpg' },
-  { region: 'Poland',                 issuer: 'Narodowy Bank Polski',                      title: '20 Zlotych',           when: 'Jan 2025', hue: 215, imageUrl: 'https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-dated-2025-first-11/02-poland-20-zlotych-jan-2025.jpg' },
-  { region: 'Egypt',                  issuer: 'Central Bank of Egypt',                     title: '10 Pounds',            when: 'Jan 2025', hue: 40,  imageUrl: 'https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-dated-2025-first-11/01-egypt-10-pounds-jan-2025.jpg' },
-];
+const EMISSIONS_2026 = emissions2026 as { id: string; year: number; date: string; country: string; issuer: string; title: string; description: string; hue: number; imageUrl?: string }[];
 
 const STATS = [
   [ALL_CATALOG.length.toLocaleString(), 'notes'],
@@ -145,26 +141,7 @@ export default async function Home() {
         <p style={{ font: '400 14px/1.6 Hanken Grotesk,sans-serif', color: 'var(--ink2)', maxWidth: 560, margin: '0 0 22px', marginTop: -8 }}>
           Recent and upcoming issues from central banks around the world — independent of our catalogue.
         </p>
-        <div className="grid-4" style={{ display: 'grid', gridTemplateColumns: 'repeat(4,1fr)', gap: 16 }}>
-          {UPCOMING_RELEASES.map((u, i) => (
-            <div key={i} style={{ background: 'var(--bg2)', border: '1px solid var(--line)', borderRadius: 6, overflow: 'hidden' }}>
-              <div style={{ position: 'relative', aspectRatio: '8/5', background: 'var(--card)' }}>
-                {u.imageUrl
-                  ? <Image src={u.imageUrl} alt={u.title} fill style={{ objectFit: 'contain', background: '#111' }} unoptimized />
-                  : <Banknote hue={u.hue} dark label={u.region} style={{ width: '100%', height: '100%' }} />
-                }
-              </div>
-              <div style={{ padding: '14px 16px 18px' }}>
-                <div style={{ display: 'flex', justifyContent: 'space-between', font: '600 11px/1 Hanken Grotesk,sans-serif', marginBottom: 10 }}>
-                  <span style={{ color: 'var(--news)' }}>{u.region}</span>
-                  <span style={{ color: 'var(--ink2)' }}>{u.when}</span>
-                </div>
-                <div className="serif" style={{ fontSize: 17, lineHeight: 1.3, marginBottom: 8 }}>{u.title}</div>
-                <div style={{ font: '500 12px/1.4 Hanken Grotesk,sans-serif', color: 'var(--ink2)' }}>{u.issuer}</div>
-              </div>
-            </div>
-          ))}
-        </div>
+        <HomeNewsRotator emissions={EMISSIONS_2026} />
       </section>
 
       {/* Articles preview */}
@@ -179,7 +156,10 @@ export default async function Home() {
         <div className="grid-4" style={{ display: 'grid', gridTemplateColumns: '1.5fr 1fr 1fr', gap: 20 }}>
           {articles.slice(0, 3).map((a, i) => (
             <Link key={a.id} href={`/articles/${a.slug}`} style={{ textDecoration: 'none', color: 'inherit' }}>
-              <Banknote hue={a.hue} dark style={{ aspectRatio: i === 0 ? '16/9' : '8/5', marginBottom: 14 }} />
+              {a.imageUrl
+                ? <img src={a.imageUrl} alt={a.title} style={{ width: '100%', aspectRatio: i === 0 ? '16/9' : '8/5', objectFit: 'cover', borderRadius: 8, marginBottom: 14, display: 'block' }} />
+                : <Banknote hue={a.hue} dark style={{ aspectRatio: i === 0 ? '16/9' : '8/5', marginBottom: 14 }} />
+              }
               <div style={{ font: '600 10px/1 Hanken Grotesk,sans-serif', letterSpacing: '.12em', textTransform: 'uppercase', color: 'var(--gold)', marginBottom: 8 }}>{a.cat} · {a.read}</div>
               <div className="serif" style={{ fontSize: i === 0 ? 22 : 18, lineHeight: 1.25, marginBottom: 8 }}>{a.title}</div>
               {i === 0 && <p style={{ font: '400 13px/1.6 Hanken Grotesk,sans-serif', color: 'var(--ink2)', maxWidth: 360, margin: 0 }}>{a.excerpt}</p>}
