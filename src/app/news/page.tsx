@@ -911,7 +911,7 @@ const EMISSIONS: Emission[] = [
     id: 'e82',
     year: 2024,
     date: '2024',
-    country: 'China — People's Republic',
+    country: "China — People's Republic",
     issuer: "People's Bank of China",
     title: '20 Yuan',
     description: 'Dragon. Year of the Dragon 2024.',
