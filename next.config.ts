@@ -5,8 +5,7 @@ const isExport = process.env.NEXT_PUBLIC_BUILD_MODE === 'export';
 const nextConfig: NextConfig = {
   output: isExport ? "export" : undefined,
   trailingSlash: isExport ? true : false,
-  basePath: isExport ? '/MM-Money-Site' : '',
-  assetPrefix: isExport ? '/MM-Money-Site' : '',
+  // Served from custom domain root (mmmoneybanknotes.com) — no basePath needed
   images: {
     unoptimized: true, // works for both static export and dev
     remotePatterns: [
