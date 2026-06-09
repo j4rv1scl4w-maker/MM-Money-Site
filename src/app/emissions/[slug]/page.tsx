@@ -94,9 +94,12 @@ export default async function EmissionPage({ params }: { params: Promise<{ slug:
           <ul style={{ listStyle: 'none', padding: 0, display: 'flex', flexDirection: 'column', gap: 6 }}>
             {e.sources.map((src, i) => (
               <li key={i}>
-                <a href={src} target="_blank" rel="noopener noreferrer" style={{ font: '400 12.5px/1 Hanken Grotesk,sans-serif', color: 'var(--gold)', wordBreak: 'break-all' }}>
-                  {src}
-                </a>
+                {src.startsWith('http')
+                  ? <a href={src} target="_blank" rel="noopener noreferrer" style={{ font: '400 12.5px/1 Hanken Grotesk,sans-serif', color: 'var(--gold)', wordBreak: 'break-all' }}>
+                      {src}
+                    </a>
+                  : <span style={{ font: '400 12.5px/1 Hanken Grotesk,sans-serif', color: 'var(--ink2)', wordBreak: 'break-all' }}>{src}</span>
+                }
               </li>
             ))}
           </ul>
