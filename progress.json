@@ -1,107 +1,107 @@
 [
   {
     "id": "e1",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:17:31.890073+00:00",
+    "confidence": "secondary",
     "error": null
   },
   {
     "id": "e2",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:17:31.890073+00:00",
+    "confidence": "secondary",
     "error": null
   },
   {
     "id": "e3",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:17:31.890073+00:00",
+    "confidence": "secondary",
     "error": null
   },
   {
     "id": "e4",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:17:31.890073+00:00",
+    "confidence": "official",
     "error": null
   },
   {
     "id": "e5",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:17:31.890073+00:00",
+    "confidence": "official",
     "error": null
   },
   {
     "id": "e6",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:18:35.214994+00:00",
+    "confidence": "official",
     "error": null
   },
   {
     "id": "e7",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:18:35.214994+00:00",
+    "confidence": "official",
     "error": null
   },
   {
     "id": "e8",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:18:35.214994+00:00",
+    "confidence": "official",
     "error": null
   },
   {
     "id": "e9",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:18:35.214994+00:00",
+    "confidence": "official",
     "error": null
   },
   {
     "id": "e10",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:18:35.214994+00:00",
+    "confidence": "official",
     "error": null
   },
   {
     "id": "e11",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T07:49:47.910173+00:00",
+    "confidence": "secondary",
     "error": null
   },
   {
     "id": "e12",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T07:49:47.910173+00:00",
+    "confidence": "secondary",
     "error": null
   },
   {
     "id": "e13",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T07:49:47.910173+00:00",
+    "confidence": "secondary",
     "error": null
   },
   {
     "id": "e14",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T07:49:47.910173+00:00",
+    "confidence": "secondary",
     "error": null
   },
   {
     "id": "e15",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T07:49:47.910173+00:00",
+    "confidence": "secondary",
     "error": null
   },
   {
@@ -141,37 +141,37 @@
   },
   {
     "id": "e21",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:18:35.233034+00:00",
+    "confidence": "secondary",
     "error": null
   },
   {
     "id": "e22",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:18:35.233034+00:00",
+    "confidence": "secondary",
     "error": null
   },
   {
     "id": "e23",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:18:35.233034+00:00",
+    "confidence": "secondary",
     "error": null
   },
   {
     "id": "e24",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:18:35.233034+00:00",
+    "confidence": "secondary",
     "error": null
   },
   {
     "id": "e25",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:18:35.233034+00:00",
+    "confidence": "official",
     "error": null
   },
   {
@@ -211,37 +211,37 @@
   },
   {
     "id": "e31",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:18:35.249938+00:00",
+    "confidence": "secondary",
     "error": null
   },
   {
     "id": "e32",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:18:35.249938+00:00",
+    "confidence": "secondary",
     "error": null
   },
   {
     "id": "e33",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:18:35.249938+00:00",
+    "confidence": "secondary",
     "error": null
   },
   {
     "id": "e34",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:18:35.249938+00:00",
+    "confidence": "official",
     "error": null
   },
   {
     "id": "e35",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:18:35.249938+00:00",
+    "confidence": "official",
     "error": null
   },
   {
@@ -841,562 +841,562 @@
   },
   {
     "id": "e121",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:27:17.659703+00:00",
+    "confidence": "high",
     "error": null
   },
   {
     "id": "e122",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:27:17.659703+00:00",
+    "confidence": "high",
     "error": null
   },
   {
     "id": "e123",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:27:17.659703+00:00",
+    "confidence": "high",
     "error": null
   },
   {
     "id": "e124",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:27:17.659703+00:00",
+    "confidence": "high",
     "error": null
   },
   {
     "id": "e125",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:27:17.659703+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e126",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:27:17.659703+00:00",
+    "confidence": "high",
     "error": null
   },
   {
     "id": "e127",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:27:17.659703+00:00",
+    "confidence": "high",
     "error": null
   },
   {
     "id": "e128",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:27:17.659703+00:00",
+    "confidence": "high",
     "error": null
   },
   {
     "id": "e129",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:27:17.659703+00:00",
+    "confidence": "high",
     "error": null
   },
   {
     "id": "e130",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:27:17.659703+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e131",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:27:17.659703+00:00",
+    "confidence": "high",
     "error": null
   },
   {
     "id": "e132",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:27:17.659703+00:00",
+    "confidence": "high",
     "error": null
   },
   {
     "id": "e133",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:27:17.659703+00:00",
+    "confidence": "high",
     "error": null
   },
   {
     "id": "e134",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:27:17.659703+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e135",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:27:17.659703+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e136",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:27:17.659703+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e137",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:27:17.659703+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e138",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:27:17.659703+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e139",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:27:17.659703+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e140",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:27:17.659703+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e141",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:27:17.659703+00:00",
+    "confidence": "high",
     "error": null
   },
   {
     "id": "e142",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:27:17.659703+00:00",
+    "confidence": "high",
     "error": null
   },
   {
     "id": "e143",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:27:17.659703+00:00",
+    "confidence": "high",
     "error": null
   },
   {
     "id": "e144",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:27:17.659703+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e145",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:27:17.659703+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e146",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:27:17.659703+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e147",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:27:17.659703+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e148",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:27:17.659703+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e149",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:27:17.659703+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e150",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:27:17.659703+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e151",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:27:17.659703+00:00",
+    "confidence": "high",
     "error": null
   },
   {
     "id": "e152",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:27:17.659703+00:00",
+    "confidence": "high",
     "error": null
   },
   {
     "id": "e153",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:27:17.659703+00:00",
+    "confidence": "high",
     "error": null
   },
   {
     "id": "e154",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:27:17.659703+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e155",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:27:17.659703+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e156",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:27:17.659703+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e157",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:27:17.659703+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e158",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:27:17.659703+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e159",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:27:17.659703+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e160",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:27:17.659703+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e161",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:27:17.659703+00:00",
+    "confidence": "high",
     "error": null
   },
   {
     "id": "e162",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:27:17.659703+00:00",
+    "confidence": "high",
     "error": null
   },
   {
     "id": "e163",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:27:17.659703+00:00",
+    "confidence": "high",
     "error": null
   },
   {
     "id": "e164",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:27:17.659703+00:00",
+    "confidence": "high",
     "error": null
   },
   {
     "id": "e165",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:27:17.659703+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e166",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:27:17.659703+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e167",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:27:17.659703+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e168",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:27:17.659703+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e169",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:27:17.659703+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e170",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:27:17.659703+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e171",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:27:17.659703+00:00",
+    "confidence": "high",
     "error": null
   },
   {
     "id": "e172",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:27:17.659703+00:00",
+    "confidence": "high",
     "error": null
   },
   {
     "id": "e173",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:27:17.659703+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e174",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:27:17.659703+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e175",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:27:17.659703+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e176",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:27:17.659703+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e177",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:27:17.659703+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e178",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:27:17.659703+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e179",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:27:17.659703+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e180",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:27:17.659703+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e181",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:27:17.659703+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e182",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:27:17.659703+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e183",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:27:17.659703+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e184",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:27:17.659703+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e185",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:27:17.659703+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e186",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:27:17.659703+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e187",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:27:17.659703+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e188",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:27:17.659703+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e189",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:27:17.659703+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e190",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:27:17.659703+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e191",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:27:17.659703+00:00",
+    "confidence": "high",
     "error": null
   },
   {
     "id": "e192",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:27:17.659703+00:00",
+    "confidence": "high",
     "error": null
   },
   {
     "id": "e193",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:27:17.659703+00:00",
+    "confidence": "high",
     "error": null
   },
   {
     "id": "e194",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:27:17.659703+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e195",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:27:17.659703+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e196",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:27:17.659703+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e197",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:27:17.659703+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e198",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:27:17.659703+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e199",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:27:17.659703+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e200",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:27:17.659703+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
@@ -2801,1290 +2801,1290 @@
   },
   {
     "id": "e401",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:29:33.181108+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e402",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:29:33.181108+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e403",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:29:33.181108+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e404",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:29:33.181108+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e405",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:29:33.181108+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e406",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:29:33.181108+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e407",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:29:33.181108+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e408",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:29:33.181108+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e409",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:29:33.181108+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e410",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:29:33.181108+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e411",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:29:33.181108+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e412",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:29:33.181108+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e413",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:29:33.181108+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e414",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:29:33.181108+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e415",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:29:33.181108+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e416",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:29:33.181108+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e417",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:29:33.181108+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e418",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:29:33.181108+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e419",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:29:33.181108+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e420",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:29:33.181108+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e421",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:29:33.181108+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e422",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:29:33.181108+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e423",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:29:33.181108+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e424",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:29:33.181108+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e425",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:29:33.181108+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e426",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:29:33.181108+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e427",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:29:33.181108+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e428",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:29:33.181108+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e429",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:29:33.181108+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e430",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:29:33.181108+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e431",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:29:33.181108+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e432",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:29:33.181108+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e433",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:29:33.181108+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e434",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:29:33.181108+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e435",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:29:33.181108+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e436",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:29:33.181108+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e437",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:29:33.181108+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e438",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:29:33.181108+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e439",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:29:33.181108+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e440",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:29:33.181108+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e441",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:29:33.181108+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e442",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:29:33.181108+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e443",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:29:33.181108+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e444",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:29:33.181108+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e445",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:29:33.181108+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e446",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:29:33.181108+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e447",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:29:33.181108+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e448",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:29:33.181108+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e449",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:29:33.181108+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e450",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:29:33.181108+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e451",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:29:33.181108+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e452",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:29:33.181108+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e453",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:29:33.181108+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e454",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:29:33.181108+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e455",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:29:33.181108+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e456",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:29:33.181108+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e457",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:29:33.181108+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e458",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:29:33.181108+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e459",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:29:33.181108+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e460",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:29:33.181108+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e461",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:29:33.181108+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e462",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:29:33.181108+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e463",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:29:33.181108+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e464",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:29:33.181108+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e465",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:29:33.181108+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e466",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:29:33.181108+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e467",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:29:33.181108+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e468",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:29:33.181108+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e469",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:29:33.181108+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e470",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:29:33.181108+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e471",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:29:33.181108+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e472",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:29:33.181108+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e473",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:29:33.181108+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e474",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:29:33.181108+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e475",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:29:33.181108+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e476",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:29:33.181108+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e477",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:29:33.181108+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e478",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:29:33.181108+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e479",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:29:33.181108+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e480",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:29:33.181108+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e481",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:29:33.181108+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e482",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:29:33.181108+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e483",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:29:33.181108+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e484",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:29:33.181108+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e485",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:29:33.181108+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e486",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:29:33.181108+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e487",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:29:33.181108+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e488",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:29:33.181108+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e489",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:29:33.181108+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e490",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:29:33.181108+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e491",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:29:33.181108+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e492",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:29:33.181108+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e493",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:29:33.181108+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e494",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:29:33.181108+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e495",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:29:33.181108+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e496",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:29:33.181108+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e497",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:29:33.181108+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e498",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:29:33.181108+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e499",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:29:33.181108+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e500",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:29:33.181108+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e501",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:32:00.671963+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e502",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:32:00.671963+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e503",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:32:00.671963+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e504",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:32:00.671963+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e505",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:32:00.671963+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e506",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:32:00.671963+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e507",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:32:00.671963+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e508",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:32:00.671963+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e509",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:32:00.671963+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e510",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:32:00.671963+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e511",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:32:00.671963+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e512",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:32:00.671963+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e513",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:32:00.671963+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e514",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:32:00.671963+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e515",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:32:00.671963+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e516",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:32:00.671963+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e517",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:32:00.671963+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e518",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:32:00.671963+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e519",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:32:00.671963+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e520",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:32:00.671963+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e521",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:32:00.671963+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e522",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:32:00.671963+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e523",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:32:00.671963+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e524",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:32:00.671963+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e525",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:32:00.671963+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e526",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:32:00.671963+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e527",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:32:00.671963+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e528",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:32:00.671963+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e529",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:32:00.671963+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e530",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:32:00.671963+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e531",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:32:00.671963+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e532",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:32:00.671963+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e533",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:32:00.671963+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e534",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:32:00.671963+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e535",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:32:00.671963+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e536",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:32:00.671963+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e537",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:32:00.671963+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e538",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:32:00.671963+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e539",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:32:00.671963+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e540",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:32:00.671963+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e541",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:32:00.671963+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e542",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:32:00.671963+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e543",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:32:00.671963+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e544",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:32:00.671963+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e545",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:32:00.671963+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e546",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:32:00.671963+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e547",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:32:00.671963+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e548",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:32:00.671963+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e549",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:32:00.671963+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e550",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:32:00.671963+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e551",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:32:00.671963+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e552",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:32:00.671963+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e553",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:32:00.671963+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e554",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:32:00.671963+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e555",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:32:00.671963+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e556",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:32:00.671963+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e557",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:32:00.671963+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e558",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:32:00.671963+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e559",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:32:00.671963+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e560",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:32:00.671963+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e561",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:32:00.671963+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e562",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:32:00.671963+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e563",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:32:00.671963+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e564",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:32:00.671963+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e565",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:32:00.671963+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e566",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:32:00.671963+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e567",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:32:00.671963+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e568",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:32:00.671963+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e569",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:32:00.671963+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e570",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:32:00.671963+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e571",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:32:00.671963+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e572",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:32:00.671963+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e573",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:32:00.671963+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e574",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:32:00.671963+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e575",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:32:00.671963+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e576",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:32:00.671963+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e577",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:32:00.671963+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e578",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:32:00.671963+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e579",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:32:00.671963+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e580",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:32:00.671963+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e581",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:32:00.671963+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e582",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:32:00.671963+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e583",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:32:00.671963+00:00",
+    "confidence": "fallback",
     "error": null
   },
   {
     "id": "e584",
-    "status": "pending",
-    "ts": null,
-    "confidence": null,
+    "status": "done",
+    "ts": "2026-06-09T12:32:00.671963+00:00",
+    "confidence": "fallback",
     "error": null
   }
 ]
