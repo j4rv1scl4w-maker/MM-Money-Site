@@ -10,7 +10,7 @@ interface Props {
 }
 
 export default function EmissionsGrid({ emissions }: Props) {
-  const years = [...new Set(emissions.map(e => e.year))].sort((a, b) => a - b);
+  const years = [...new Set(emissions.map(e => e.year))].sort((a, b) => b - a);
   const [yearFilter, setYearFilter] = useState<number | 'all'>('all');
 
   const visible = yearFilter === 'all' ? emissions : emissions.filter(e => e.year === yearFilter);
@@ -18,6 +18,9 @@ export default function EmissionsGrid({ emissions }: Props) {
     .filter(y => yearFilter === 'all' || y === yearFilter)
     .map(y => ({ year: y, items: visible.filter(e => e.year === y) }))
     .filter(g => g.items.length > 0);
+
+  // Sort emissions within each year by date descending (newest first)
+  grouped.forEach(g => g.items.sort((a, b) => b.id.localeCompare(a.id, undefined, { numeric: true })));
 
   return (
     <>
