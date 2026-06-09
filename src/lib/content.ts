@@ -2,6 +2,23 @@ import fs from 'fs/promises';
 import path from 'path';
 import type { NewsItem, Article } from './data';
 
+export interface Emission {
+  id: string;
+  year: number;
+  date: string;
+  country: string;
+  issuer: string;
+  title: string;
+  description: string;
+  hue: number;
+  imageUrl?: string;
+  slug: string;
+  body?: string;
+  highlights?: { reason?: string; design?: string; security?: string };
+  sources?: string[];
+  confidence?: 'official' | 'secondary' | 'fallback' | '';
+}
+
 export interface CatalogItem {
   idAuction: string;
   country: string;
@@ -38,4 +55,12 @@ export async function getArticles(): Promise<Article[]> {
 
 export async function getCatalog(): Promise<CatalogItem[]> {
   return readJSON<CatalogItem>('catalog.json', []);
+}
+
+export async function getEmissions(): Promise<Emission[]> {
+  return readJSON<Emission>('emissions.json', []);
+}
+
+export function toSlug(text: string): string {
+  return text.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
 }
