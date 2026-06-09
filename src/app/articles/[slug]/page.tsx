@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import Image from 'next/image';
 import { notFound } from 'next/navigation';
 import Banknote from '@/components/Banknote';
 import { getArticles } from '@/lib/content';
@@ -55,7 +56,10 @@ export default async function ArticlePage({ params }: { params: Promise<{ slug: 
         MM·Money · {article.read} · updated 2026
       </div>
 
-      <Banknote hue={article.hue} dark style={{ aspectRatio: '16/8', marginBottom: 36 }} />
+      {article.imageUrl
+        ? <img src={article.imageUrl} alt={article.title} style={{ width: '100%', aspectRatio: '16/8', objectFit: 'cover', borderRadius: 10, marginBottom: 36 }} />
+        : <Banknote hue={article.hue} dark style={{ aspectRatio: '16/8', marginBottom: 36 }} />
+      }
 
       <div className="serif" style={{ fontSize: 17, lineHeight: 1.75, color: 'var(--ink)' }}>
         {renderBody(article.body)}
