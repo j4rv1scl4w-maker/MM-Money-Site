@@ -1,6 +1,7 @@
 import type { NextConfig } from "next";
 
 const isExport = process.env.NEXT_PUBLIC_BUILD_MODE === 'export';
+const hasCustomDomain = process.env.NEXT_PUBLIC_CUSTOM_DOMAIN === 'true';
 
 const nextConfig: NextConfig = {
   output: isExport ? "export" : undefined,
