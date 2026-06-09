@@ -1,0 +1,5321 @@
+[
+  {
+    "id": "e43",
+    "year": 2026,
+    "country": "Papua New Guinea",
+    "title": "100 Kina",
+    "status": "needs_fix",
+    "issues": [
+      "body is placeholder (== description)",
+      "no source URL",
+      "duplicate of e577"
+    ],
+    "ts": "2026-06-09T20:19:05.681164+00:00"
+  },
+  {
+    "id": "e424",
+    "year": 2026,
+    "country": "Indonesia",
+    "title": "20.000 Rupiah",
+    "status": "needs_fix",
+    "issues": [
+      "body describes Rwanda 5000 Francs, not Indonesia",
+      "source says National Bank of Rwanda",
+      "duplicate of e575"
+    ],
+    "ts": "2026-06-09T20:19:05.681164+00:00"
+  },
+  {
+    "id": "e547",
+    "year": 2026,
+    "country": "United Arab Emirates",
+    "title": "50 Dirhams",
+    "status": "needs_fix",
+    "issues": [
+      "body describes Syria, not UAE",
+      "source says Central Bank of Syria",
+      "duplicate of e581"
+    ],
+    "ts": "2026-06-09T20:19:05.681164+00:00"
+  },
+  {
+    "id": "e560",
+    "year": 2026,
+    "country": "Bangladesh",
+    "title": "5 Taka",
+    "status": "needs_fix",
+    "issues": [
+      "body generic, source says National Bank of Tajikistan, not Bangladesh"
+    ],
+    "ts": "2026-06-09T20:19:05.681164+00:00"
+  },
+  {
+    "id": "e561",
+    "year": 2026,
+    "country": "Bangladesh",
+    "title": "10 Taka",
+    "status": "needs_fix",
+    "issues": [
+      "body describes Tanzania 2024 series, not Bangladesh"
+    ],
+    "ts": "2026-06-09T20:19:05.681164+00:00"
+  },
+  {
+    "id": "e562",
+    "year": 2026,
+    "country": "Bangladesh",
+    "title": "500 Taka",
+    "status": "needs_fix",
+    "issues": [
+      "body generic Tanzania-flavoured, source says Central Bank of Tanzania"
+    ],
+    "ts": "2026-06-09T20:19:05.681164+00:00"
+  },
+  {
+    "id": "e563",
+    "year": 2026,
+    "country": "Bangladesh",
+    "title": "1.000 Taka",
+    "status": "needs_fix",
+    "issues": [
+      "body says \"Tanzanian circulation\", not Bangladesh"
+    ],
+    "ts": "2026-06-09T20:19:05.681164+00:00"
+  },
+  {
+    "id": "e564",
+    "year": 2026,
+    "country": "China — Peoples Republic",
+    "title": "20 Yuan",
+    "status": "needs_fix",
+    "issues": [
+      "body generic, source says Central Bank of Tanzania, not China"
+    ],
+    "ts": "2026-06-09T20:19:05.681164+00:00"
+  },
+  {
+    "id": "e565",
+    "year": 2026,
+    "country": "Cuba",
+    "title": "5.000 Pesos",
+    "status": "needs_fix",
+    "issues": [
+      "body says \"Integral to Tanzanian monetary system\", not Cuba"
+    ],
+    "ts": "2026-06-09T20:19:05.681164+00:00"
+  },
+  {
+    "id": "e566",
+    "year": 2026,
+    "country": "Czechia",
+    "title": "100 Korun Českých",
+    "status": "needs_fix",
+    "issues": [
+      "body describes Thailand royal imagery, not Czechia"
+    ],
+    "ts": "2026-06-09T20:19:05.681164+00:00"
+  },
+  {
+    "id": "e567",
+    "year": 2026,
+    "country": "Fiji",
+    "title": "5 Dollars",
+    "status": "needs_fix",
+    "issues": [
+      "body says \"Southeast Asian commerce\" / Thailand, not Fiji"
+    ],
+    "ts": "2026-06-09T20:19:05.681164+00:00"
+  },
+  {
+    "id": "e568",
+    "year": 2026,
+    "country": "Fiji",
+    "title": "10 Dollars",
+    "status": "needs_fix",
+    "issues": [
+      "body says \"Thai circulation\", not Fiji"
+    ],
+    "ts": "2026-06-09T20:19:05.681164+00:00"
+  },
+  {
+    "id": "e569",
+    "year": 2026,
+    "country": "Fiji",
+    "title": "20 Dollars",
+    "status": "needs_fix",
+    "issues": [
+      "body says \"across Thailand\", not Fiji"
+    ],
+    "ts": "2026-06-09T20:19:05.681164+00:00"
+  },
+  {
+    "id": "e570",
+    "year": 2026,
+    "country": "Fiji",
+    "title": "50 Dollars",
+    "status": "needs_fix",
+    "issues": [
+      "body says \"Thai monetary system\", not Fiji"
+    ],
+    "ts": "2026-06-09T20:19:05.681164+00:00"
+  },
+  {
+    "id": "e571",
+    "year": 2026,
+    "country": "Fiji",
+    "title": "100 Dollars",
+    "status": "needs_fix",
+    "issues": [
+      "body describes Timor-Leste dollarization, not Fiji"
+    ],
+    "ts": "2026-06-09T20:19:05.681164+00:00"
+  },
+  {
+    "id": "e573",
+    "year": 2026,
+    "country": "India",
+    "title": "50 Rupees",
+    "status": "needs_fix",
+    "issues": [
+      "body generic, source says Central Bank of Timor-Leste, not India"
+    ],
+    "ts": "2026-06-09T20:19:05.681164+00:00"
+  },
+  {
+    "id": "e574",
+    "year": 2026,
+    "country": "India",
+    "title": "200 Rupees",
+    "status": "needs_fix",
+    "issues": [
+      "body generic, source says Central Bank of Timor-Leste, not India"
+    ],
+    "ts": "2026-06-09T20:19:05.681164+00:00"
+  },
+  {
+    "id": "e575",
+    "year": 2026,
+    "country": "Indonesia",
+    "title": "20.000 Rupiah",
+    "status": "needs_fix",
+    "issues": [
+      "body describes Timorese monetary system, not Indonesia",
+      "duplicate of e424"
+    ],
+    "ts": "2026-06-09T20:19:05.681164+00:00"
+  },
+  {
+    "id": "e576",
+    "year": 2026,
+    "country": "Nigeria",
+    "title": "200 Naira",
+    "status": "needs_fix",
+    "issues": [
+      "body describes WAEMU/West Africa union, not Nigeria"
+    ],
+    "ts": "2026-06-09T20:19:05.681164+00:00"
+  },
+  {
+    "id": "e577",
+    "year": 2026,
+    "country": "Papua New Guinea",
+    "title": "100 Kina",
+    "status": "needs_fix",
+    "issues": [
+      "body describes WAEMU/Togo, not Papua New Guinea",
+      "duplicate of e43"
+    ],
+    "ts": "2026-06-09T20:19:05.681164+00:00"
+  },
+  {
+    "id": "e578",
+    "year": 2026,
+    "country": "Saint Helena",
+    "title": "5 Pounds",
+    "status": "needs_fix",
+    "issues": [
+      "body describes Togolese economy, not Saint Helena"
+    ],
+    "ts": "2026-06-09T20:19:05.681164+00:00"
+  },
+  {
+    "id": "e579",
+    "year": 2026,
+    "country": "Saint Helena",
+    "title": "10 Pounds",
+    "status": "needs_fix",
+    "issues": [
+      "body says \"Togolese commerce\", not Saint Helena"
+    ],
+    "ts": "2026-06-09T20:19:05.681164+00:00"
+  },
+  {
+    "id": "e580",
+    "year": 2026,
+    "country": "Saint Helena",
+    "title": "20 Pounds",
+    "status": "needs_fix",
+    "issues": [
+      "body says \"Integral to WAEMU system\", not Saint Helena"
+    ],
+    "ts": "2026-06-09T20:19:05.681164+00:00"
+  },
+  {
+    "id": "e581",
+    "year": 2026,
+    "country": "United Arab Emirates",
+    "title": "50 Dirhams",
+    "status": "needs_fix",
+    "issues": [
+      "body describes Transnistria 2024 series, not UAE",
+      "duplicate of e547"
+    ],
+    "ts": "2026-06-09T20:19:05.681164+00:00"
+  },
+  {
+    "id": "e582",
+    "year": 2026,
+    "country": "Zimbabwe",
+    "title": "10 ZiG (Zimbabwe Gold)",
+    "status": "needs_fix",
+    "issues": [
+      "body describes Transnistria, not Zimbabwe"
+    ],
+    "ts": "2026-06-09T20:19:05.681164+00:00"
+  },
+  {
+    "id": "e583",
+    "year": 2026,
+    "country": "Zimbabwe",
+    "title": "20 ZiG (Zimbabwe Gold)",
+    "status": "needs_fix",
+    "issues": [
+      "body says \"Transnistrian economy\", not Zimbabwe"
+    ],
+    "ts": "2026-06-09T20:19:05.681164+00:00"
+  },
+  {
+    "id": "e584",
+    "year": 2026,
+    "country": "Zimbabwe",
+    "title": "50 ZiG (Zimbabwe Gold)",
+    "status": "needs_fix",
+    "issues": [
+      "body says \"Transnistrian monetary independence\", not Zimbabwe"
+    ],
+    "ts": "2026-06-09T20:19:05.681164+00:00"
+  },
+  {
+    "id": "e1",
+    "year": 2025,
+    "country": "Egypt",
+    "title": "10 Pounds",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e2",
+    "year": 2025,
+    "country": "Poland",
+    "title": "20 Zlotych",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e3",
+    "year": 2025,
+    "country": "Fiji",
+    "title": "100 Cents",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e4",
+    "year": 2025,
+    "country": "Belize",
+    "title": "2 Dollars",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e5",
+    "year": 2025,
+    "country": "Belize",
+    "title": "5 Dollars",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e6",
+    "year": 2025,
+    "country": "Belize",
+    "title": "10 Dollars",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e7",
+    "year": 2025,
+    "country": "Belize",
+    "title": "20 Dollars",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e8",
+    "year": 2025,
+    "country": "Belize",
+    "title": "50 Dollars",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e9",
+    "year": 2025,
+    "country": "Belize",
+    "title": "100 Dollars",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e10",
+    "year": 2025,
+    "country": "Mexico",
+    "title": "1,000 Pesos",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e11",
+    "year": 2025,
+    "country": "Curaçao and Sint Maarten",
+    "title": "10 Caribbean Guilders",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e12",
+    "year": 2025,
+    "country": "Curaçao and Sint Maarten",
+    "title": "20 Caribbean Guilders",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e13",
+    "year": 2025,
+    "country": "Curaçao and Sint Maarten",
+    "title": "50 Caribbean Guilders",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e14",
+    "year": 2025,
+    "country": "Curaçao and Sint Maarten",
+    "title": "100 Caribbean Guilders",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e15",
+    "year": 2025,
+    "country": "Curaçao and Sint Maarten",
+    "title": "200 Caribbean Guilders",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e16",
+    "year": 2025,
+    "country": "Egypt",
+    "title": "5 Pounds",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e17",
+    "year": 2025,
+    "country": "Egypt",
+    "title": "20 Pounds",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e18",
+    "year": 2025,
+    "country": "Egypt",
+    "title": "50 Pounds",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e19",
+    "year": 2025,
+    "country": "Egypt",
+    "title": "100 Pounds",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e20",
+    "year": 2025,
+    "country": "Egypt",
+    "title": "200 Pounds",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e21",
+    "year": 2025,
+    "country": "Falkland Islands",
+    "title": "5 Pounds",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e22",
+    "year": 2025,
+    "country": "Falkland Islands",
+    "title": "10 Pounds",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e23",
+    "year": 2025,
+    "country": "Falkland Islands",
+    "title": "20 Pounds",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e24",
+    "year": 2025,
+    "country": "Guatemala",
+    "title": "100 Quetzales",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e25",
+    "year": 2025,
+    "country": "Mexico",
+    "title": "100 Pesos",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e26",
+    "year": 2025,
+    "country": "Mexico",
+    "title": "200 Pesos",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e27",
+    "year": 2025,
+    "country": "Mexico",
+    "title": "500 Pesos",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e28",
+    "year": 2025,
+    "country": "Mexico",
+    "title": "200 Pesos",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e29",
+    "year": 2025,
+    "country": "Maldives",
+    "title": "10 Rufiyaa",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e30",
+    "year": 2025,
+    "country": "Maldives",
+    "title": "20 Rufiyaa",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e31",
+    "year": 2025,
+    "country": "Maldives",
+    "title": "100 Rufiyaa",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e32",
+    "year": 2025,
+    "country": "Mongolia",
+    "title": "100,000 Tögrög",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e33",
+    "year": 2025,
+    "country": "Poland",
+    "title": "10 Zlotych",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e34",
+    "year": 2025,
+    "country": "Poland",
+    "title": "20 Zlotych",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e35",
+    "year": 2025,
+    "country": "Sri Lanka",
+    "title": "2,000 Rupees",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e36",
+    "year": 2025,
+    "country": "Tunisia",
+    "title": "50 Dinars",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e37",
+    "year": 2025,
+    "country": "Tunisia",
+    "title": "20 Dinars",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e38",
+    "year": 2025,
+    "country": "Tunisia",
+    "title": "5 Dinars",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e39",
+    "year": 2025,
+    "country": "Tunisia",
+    "title": "10 Dinars",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e40",
+    "year": 2025,
+    "country": "Venezuela",
+    "title": "200 Bolívares",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e41",
+    "year": 2025,
+    "country": "Venezuela",
+    "title": "500 Bolívares",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e42",
+    "year": 2025,
+    "country": "Papua New Guinea",
+    "title": "50 Kina",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e44",
+    "year": 2025,
+    "country": "Tajikistan",
+    "title": "100 Somoni",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e45",
+    "year": 2025,
+    "country": "Transnistria",
+    "title": "1 Rubl'",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e46",
+    "year": 2025,
+    "country": "Thailand",
+    "title": "100 Baht",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e142",
+    "year": 2025,
+    "country": "Philippines",
+    "title": "500 Piso",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e144",
+    "year": 2025,
+    "country": "Philippines",
+    "title": "50 Piso",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e145",
+    "year": 2025,
+    "country": "Philippines",
+    "title": "100 Piso",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e146",
+    "year": 2025,
+    "country": "Philippines",
+    "title": "500 Piso",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e247",
+    "year": 2025,
+    "country": "Philippines",
+    "title": "50 Piso",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e249",
+    "year": 2025,
+    "country": "Philippines",
+    "title": "100 Piso",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e348",
+    "year": 2025,
+    "country": "Philippines",
+    "title": "50 Piso",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e350",
+    "year": 2025,
+    "country": "Philippines",
+    "title": "100 Piso",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e420",
+    "year": 2025,
+    "country": "Indonesia",
+    "title": "2.000 Rupiah",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e421",
+    "year": 2025,
+    "country": "Indonesia",
+    "title": "1.000 Rupiah",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e422",
+    "year": 2025,
+    "country": "Indonesia",
+    "title": "5.000 Rupiah",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e423",
+    "year": 2025,
+    "country": "Indonesia",
+    "title": "10.000 Rupiah",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e426",
+    "year": 2025,
+    "country": "Indonesia",
+    "title": "100.000 Rupiah",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e431",
+    "year": 2025,
+    "country": "Jordan",
+    "title": "5 Dinars",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e457",
+    "year": 2025,
+    "country": "Philippines",
+    "title": "1.000 Piso",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e519",
+    "year": 2025,
+    "country": "Mongolia",
+    "title": "100.000 Tögrög",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e529",
+    "year": 2025,
+    "country": "Saudi Arabia",
+    "title": "200 Riyals",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e537",
+    "year": 2025,
+    "country": "Tajikistan",
+    "title": "100 Somoni",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e572",
+    "year": 2025,
+    "country": "Guatemala",
+    "title": "100 Quetzales",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e47",
+    "year": 2024,
+    "country": "Abkhazia",
+    "title": "10 Apsar",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e48",
+    "year": 2024,
+    "country": "Abkhazia",
+    "title": "100 Apsar",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e49",
+    "year": 2024,
+    "country": "Argentina",
+    "title": "10.000 Pesos",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e50",
+    "year": 2024,
+    "country": "Argentina",
+    "title": "20.000 Pesos",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e51",
+    "year": 2024,
+    "country": "Armenia",
+    "title": "5.000 Dram",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e52",
+    "year": 2024,
+    "country": "Armenia",
+    "title": "10.000 Dram",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e53",
+    "year": 2024,
+    "country": "Armenia",
+    "title": "20.000 Dram",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e54",
+    "year": 2024,
+    "country": "Azerbaijan",
+    "title": "1 Manat",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e55",
+    "year": 2024,
+    "country": "Bahamas",
+    "title": "1 Dollar",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e56",
+    "year": 2024,
+    "country": "Bangladesh",
+    "title": "2 Taka",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e57",
+    "year": 2024,
+    "country": "Bangladesh",
+    "title": "1.000 Taka",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e58",
+    "year": 2024,
+    "country": "Bangladesh",
+    "title": "5 Taka",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e59",
+    "year": 2024,
+    "country": "Bangladesh",
+    "title": "50 Taka",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e60",
+    "year": 2024,
+    "country": "Bangladesh",
+    "title": "200 Taka",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e61",
+    "year": 2024,
+    "country": "Barbados",
+    "title": "2 Dollars",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e62",
+    "year": 2024,
+    "country": "Barbados",
+    "title": "5 Dollars",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e63",
+    "year": 2024,
+    "country": "Barbados",
+    "title": "10 Dollars",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e64",
+    "year": 2024,
+    "country": "Barbados",
+    "title": "20 Dollars",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e65",
+    "year": 2024,
+    "country": "Barbados",
+    "title": "50 Dollars",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e66",
+    "year": 2024,
+    "country": "Barbados",
+    "title": "100 Dollars",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e67",
+    "year": 2024,
+    "country": "Bosnia & Herzegovina",
+    "title": "10 Konvertibilnih Maraka",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e68",
+    "year": 2024,
+    "country": "Bosnia & Herzegovina",
+    "title": "10 Konvertibilnih Maraka",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e69",
+    "year": 2024,
+    "country": "Bosnia & Herzegovina",
+    "title": "20 Konvertibilnih Maraka",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e70",
+    "year": 2024,
+    "country": "Bosnia & Herzegovina",
+    "title": "20 Konvertibilnih Maraka",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e71",
+    "year": 2024,
+    "country": "Bosnia & Herzegovina",
+    "title": "50 Konvertibilnih Maraka",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e72",
+    "year": 2024,
+    "country": "Bosnia & Herzegovina",
+    "title": "50 Konvertibilnih Maraka",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e73",
+    "year": 2024,
+    "country": "Bosnia & Herzegovina",
+    "title": "100 Konvertibilnih Maraka",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e74",
+    "year": 2024,
+    "country": "Bosnia & Herzegovina",
+    "title": "100 Konvertibilnih Maraka",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e75",
+    "year": 2024,
+    "country": "Botswana",
+    "title": "20 Pula",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e76",
+    "year": 2024,
+    "country": "Botswana",
+    "title": "50 Pula",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e77",
+    "year": 2024,
+    "country": "Brunei",
+    "title": "1 Brunei Dollar",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e78",
+    "year": 2024,
+    "country": "Brunei",
+    "title": "5 Brunei Dollars",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e79",
+    "year": 2024,
+    "country": "Brunei",
+    "title": "10 Brunei Dollars",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e80",
+    "year": 2024,
+    "country": "Brunei",
+    "title": "100 Brunei Dollars",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e81",
+    "year": 2024,
+    "country": "Brunei",
+    "title": "500 Brunei Dollars",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e82",
+    "year": 2024,
+    "country": "China — People's Republic",
+    "title": "20 Yuan",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e83",
+    "year": 2024,
+    "country": "Cayman Islands",
+    "title": "1 Dollar",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e84",
+    "year": 2024,
+    "country": "Cayman Islands",
+    "title": "25 Dollars",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e85",
+    "year": 2024,
+    "country": "Cuba",
+    "title": "100 Pesos",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e86",
+    "year": 2024,
+    "country": "Cuba",
+    "title": "500 Pesos",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e87",
+    "year": 2024,
+    "country": "Denmark",
+    "title": "50 Kroner",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e88",
+    "year": 2024,
+    "country": "Dominican Republic",
+    "title": "50 Pesos Dominicanos",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e89",
+    "year": 2024,
+    "country": "Dominican Republic",
+    "title": "100 Pesos Dominicanos",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e90",
+    "year": 2024,
+    "country": "Dominican Republic",
+    "title": "200 Pesos Dominicanos",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e91",
+    "year": 2024,
+    "country": "Dominican Republic",
+    "title": "500 Pesos Dominicanos",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e92",
+    "year": 2024,
+    "country": "East Caribbean States",
+    "title": "50 Dollars",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e93",
+    "year": 2024,
+    "country": "Georgia",
+    "title": "100 Lari",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e95",
+    "year": 2024,
+    "country": "Guinea",
+    "title": "1.000 Francs Guinéens",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e96",
+    "year": 2024,
+    "country": "Guinea",
+    "title": "5.000 Francs Guinéens",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e97",
+    "year": 2024,
+    "country": "Guinea",
+    "title": "20.000 Francs Guinéens",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e98",
+    "year": 2024,
+    "country": "Guinea",
+    "title": "2.000 Francs Guinéens",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e99",
+    "year": 2024,
+    "country": "Guinea",
+    "title": "500 Francs Guinéens",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e100",
+    "year": 2024,
+    "country": "Guyana",
+    "title": "500 Dollars",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e101",
+    "year": 2024,
+    "country": "Guyana",
+    "title": "1.000 Dollars",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e102",
+    "year": 2024,
+    "country": "Indonesia",
+    "title": "50.000 Rupiah",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e103",
+    "year": 2024,
+    "country": "Japan",
+    "title": "1.000 Yen",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e104",
+    "year": 2024,
+    "country": "Japan",
+    "title": "5.000 Yen",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e105",
+    "year": 2024,
+    "country": "Japan",
+    "title": "10.000 Yen",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e106",
+    "year": 2024,
+    "country": "Kazakhstan",
+    "title": "1.000 Tenge",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e107",
+    "year": 2024,
+    "country": "Kazakhstan",
+    "title": "2.000 Tenge",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e108",
+    "year": 2024,
+    "country": "Kazakhstan",
+    "title": "10.000 Tenge",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e109",
+    "year": 2024,
+    "country": "Kenya",
+    "title": "50 Shillings",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e110",
+    "year": 2024,
+    "country": "Kenya",
+    "title": "100 Shillings",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e111",
+    "year": 2024,
+    "country": "Kenya",
+    "title": "200 Shillings",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e112",
+    "year": 2024,
+    "country": "Kenya",
+    "title": "500 Shillings",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e113",
+    "year": 2024,
+    "country": "Kenya",
+    "title": "1.000 Shillings",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e114",
+    "year": 2024,
+    "country": "Lesotho",
+    "title": "10 Maloti",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e115",
+    "year": 2024,
+    "country": "Lesotho",
+    "title": "20 Maloti",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e116",
+    "year": 2024,
+    "country": "Lesotho",
+    "title": "50 Maloti",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e117",
+    "year": 2024,
+    "country": "Lesotho",
+    "title": "100 Maloti",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e118",
+    "year": 2024,
+    "country": "Lesotho",
+    "title": "200 Maloti",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e119",
+    "year": 2024,
+    "country": "Liberia",
+    "title": "20 Dollars",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e120",
+    "year": 2024,
+    "country": "Liberia",
+    "title": "50 Dollars",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e121",
+    "year": 2024,
+    "country": "Liberia",
+    "title": "500 Dollars",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e122",
+    "year": 2024,
+    "country": "Malaysia",
+    "title": "20 Ringgit",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e123",
+    "year": 2024,
+    "country": "Malaysia",
+    "title": "100 Ringgit",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e124",
+    "year": 2024,
+    "country": "Mauritius",
+    "title": "25 Rupees",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e125",
+    "year": 2024,
+    "country": "Mauritius",
+    "title": "100 Rupees",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e126",
+    "year": 2024,
+    "country": "Mauritius",
+    "title": "200 Rupees",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e127",
+    "year": 2024,
+    "country": "Mauritius",
+    "title": "1.000 Rupees",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e128",
+    "year": 2024,
+    "country": "Mauritius",
+    "title": "2.000 Rupees",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e129",
+    "year": 2024,
+    "country": "Mongolia",
+    "title": "50 Tögrög",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e130",
+    "year": 2024,
+    "country": "Mongolia",
+    "title": "5.000 Tögrög",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e131",
+    "year": 2024,
+    "country": "Mongolia",
+    "title": "5.000 Tögrög",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e132",
+    "year": 2024,
+    "country": "Nepal",
+    "title": "5 Rupees",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e133",
+    "year": 2024,
+    "country": "Nepal",
+    "title": "10 Rupees",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e134",
+    "year": 2024,
+    "country": "Nepal",
+    "title": "100 Rupees",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e135",
+    "year": 2024,
+    "country": "Nigeria",
+    "title": "100 Naira",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e136",
+    "year": 2024,
+    "country": "Papua New Guinea",
+    "title": "5 Kina",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e137",
+    "year": 2024,
+    "country": "Papua New Guinea",
+    "title": "20 Kina",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e138",
+    "year": 2024,
+    "country": "Paraguay",
+    "title": "20.000 Guaraníes",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e139",
+    "year": 2024,
+    "country": "Paraguay",
+    "title": "100.000 Guaraníes",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e140",
+    "year": 2024,
+    "country": "Paraguay",
+    "title": "10.000 Guaraníes",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e141",
+    "year": 2024,
+    "country": "Philippines",
+    "title": "500 Piso",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e143",
+    "year": 2024,
+    "country": "Philippines",
+    "title": "1.000 Piso",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e147",
+    "year": 2024,
+    "country": "Saudi Arabia",
+    "title": "50 Riyals",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e148",
+    "year": 2024,
+    "country": "Saudi Arabia",
+    "title": "100 Riyals",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e149",
+    "year": 2024,
+    "country": "Singapore",
+    "title": "2 Dollars",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e150",
+    "year": 2024,
+    "country": "Singapore",
+    "title": "10 Dollars",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e151",
+    "year": 2024,
+    "country": "Singapore",
+    "title": "50 Dollars",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e152",
+    "year": 2024,
+    "country": "Sudan",
+    "title": "1.000 Sudanese Pounds",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e153",
+    "year": 2024,
+    "country": "Syria",
+    "title": "5.000 Syrian Pounds",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e154",
+    "year": 2024,
+    "country": "Tajikistan",
+    "title": "200 Somoni",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e155",
+    "year": 2024,
+    "country": "Tajikistan",
+    "title": "500 Somoni",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e156",
+    "year": 2024,
+    "country": "Thailand",
+    "title": "100 Baht",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e157",
+    "year": 2024,
+    "country": "Transnistria",
+    "title": "1 Rubl'",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e158",
+    "year": 2024,
+    "country": "Transnistria",
+    "title": "1 Rubl'",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e159",
+    "year": 2024,
+    "country": "Uganda",
+    "title": "1.000 Shillings",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e160",
+    "year": 2024,
+    "country": "United Arab Emirates",
+    "title": "5 Dirhams",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e161",
+    "year": 2024,
+    "country": "United Arab Emirates",
+    "title": "10 Dirhams",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e162",
+    "year": 2024,
+    "country": "United Arab Emirates",
+    "title": "1.000 Dirhams",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e163",
+    "year": 2024,
+    "country": "West African States — Guinea-Bissau",
+    "title": "1.000 Francs CFA",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e164",
+    "year": 2024,
+    "country": "West African States — Mali",
+    "title": "1.000 Francs CFA",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e165",
+    "year": 2024,
+    "country": "West African States — Mali",
+    "title": "500 Francs CFA",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e166",
+    "year": 2024,
+    "country": "West African States — Senegal",
+    "title": "2.000 Francs CFA",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e167",
+    "year": 2024,
+    "country": "Zambia",
+    "title": "10 Kwacha",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e168",
+    "year": 2024,
+    "country": "Zambia",
+    "title": "20 Kwacha",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e169",
+    "year": 2024,
+    "country": "Zambia",
+    "title": "50 Kwacha",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e170",
+    "year": 2024,
+    "country": "Zambia",
+    "title": "100 Kwacha",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e171",
+    "year": 2024,
+    "country": "Zambia",
+    "title": "200 Kwacha",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e172",
+    "year": 2024,
+    "country": "Zambia",
+    "title": "500 Kwacha",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e173",
+    "year": 2024,
+    "country": "Zimbabwe",
+    "title": "1 ZiG (Zimbabwe Gold)",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e174",
+    "year": 2024,
+    "country": "Zimbabwe",
+    "title": "2 ZiG (Zimbabwe Gold)",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e175",
+    "year": 2024,
+    "country": "Zimbabwe",
+    "title": "5 ZiG (Zimbabwe Gold)",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e176",
+    "year": 2024,
+    "country": "Zimbabwe",
+    "title": "10 ZiG (Zimbabwe Gold)",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e177",
+    "year": 2024,
+    "country": "Zimbabwe",
+    "title": "20 ZiG (Zimbabwe Gold)",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e178",
+    "year": 2024,
+    "country": "Zimbabwe",
+    "title": "50 ZiG (Zimbabwe Gold)",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e179",
+    "year": 2024,
+    "country": "Zimbabwe",
+    "title": "100 ZiG (Zimbabwe Gold)",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e180",
+    "year": 2024,
+    "country": "Zimbabwe",
+    "title": "200 ZiG (Zimbabwe Gold)",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e390",
+    "year": 2024,
+    "country": "Barbados",
+    "title": "2 Dollars",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e391",
+    "year": 2024,
+    "country": "Barbados",
+    "title": "5 Dollars",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e392",
+    "year": 2024,
+    "country": "Barbados",
+    "title": "10 Dollars",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e393",
+    "year": 2024,
+    "country": "Barbados",
+    "title": "20 Dollars",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e394",
+    "year": 2024,
+    "country": "Barbados",
+    "title": "50 Dollars",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e395",
+    "year": 2024,
+    "country": "Barbados",
+    "title": "100 Dollars",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e425",
+    "year": 2024,
+    "country": "Indonesia",
+    "title": "50.000 Rupiah",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e437",
+    "year": 2024,
+    "country": "Liberia",
+    "title": "20 Dollars",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e438",
+    "year": 2024,
+    "country": "Liberia",
+    "title": "50 Dollars",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e440",
+    "year": 2024,
+    "country": "Liberia",
+    "title": "500 Dollars",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e455",
+    "year": 2024,
+    "country": "Philippines",
+    "title": "500 Piso",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e456",
+    "year": 2024,
+    "country": "Philippines",
+    "title": "1.000 Piso",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e465",
+    "year": 2024,
+    "country": "Samoa",
+    "title": "60 Tala",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e472",
+    "year": 2024,
+    "country": "United Arab Emirates",
+    "title": "5 Dirhams",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e473",
+    "year": 2024,
+    "country": "United Arab Emirates",
+    "title": "10 Dirhams",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e474",
+    "year": 2024,
+    "country": "United Arab Emirates",
+    "title": "1.000 Dirhams",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e511",
+    "year": 2024,
+    "country": "Lesotho",
+    "title": "10 Maloti",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e512",
+    "year": 2024,
+    "country": "Lesotho",
+    "title": "20 Maloti",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e513",
+    "year": 2024,
+    "country": "Lesotho",
+    "title": "50 Maloti",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e514",
+    "year": 2024,
+    "country": "Lesotho",
+    "title": "100 Maloti",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e515",
+    "year": 2024,
+    "country": "Lesotho",
+    "title": "200 Maloti",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e520",
+    "year": 2024,
+    "country": "Papua New Guinea",
+    "title": "20 Kina",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e94",
+    "year": 2023,
+    "country": "Guatemala",
+    "title": "1 Quetzal",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e181",
+    "year": 2023,
+    "country": "Abkhazia",
+    "title": "25 Apsar",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e182",
+    "year": 2023,
+    "country": "Angola",
+    "title": "1.000 Kwanzas",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e183",
+    "year": 2023,
+    "country": "Angola",
+    "title": "2.000 Kwanzas",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e184",
+    "year": 2023,
+    "country": "Argentina",
+    "title": "1.000 Pesos",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e185",
+    "year": 2023,
+    "country": "Argentina",
+    "title": "2.000 Pesos",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e186",
+    "year": 2023,
+    "country": "Australia",
+    "title": "50 Dollars",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e187",
+    "year": 2023,
+    "country": "Bangladesh",
+    "title": "20 Taka",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e188",
+    "year": 2023,
+    "country": "Bangladesh",
+    "title": "500 Taka",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e189",
+    "year": 2023,
+    "country": "Bangladesh",
+    "title": "50 Taka",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e190",
+    "year": 2023,
+    "country": "Cuba",
+    "title": "100 Pesos",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e191",
+    "year": 2023,
+    "country": "Czechia",
+    "title": "5.000 Korun Českých",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e192",
+    "year": 2023,
+    "country": "Czechia",
+    "title": "1.000 Korun Českých",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e193",
+    "year": 2023,
+    "country": "East Caribbean States",
+    "title": "2 Dollars",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e194",
+    "year": 2023,
+    "country": "Egypt",
+    "title": "10 Pounds",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e195",
+    "year": 2023,
+    "country": "Egypt",
+    "title": "20 Pounds",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e196",
+    "year": 2023,
+    "country": "Ethiopia",
+    "title": "100 Birr",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e197",
+    "year": 2023,
+    "country": "Fiji",
+    "title": "100 Cents",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e198",
+    "year": 2023,
+    "country": "Gambia",
+    "title": "5 Dalasis",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e199",
+    "year": 2023,
+    "country": "Gambia",
+    "title": "10 Dalasis",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e200",
+    "year": 2023,
+    "country": "Gambia",
+    "title": "20 Dalasis",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e201",
+    "year": 2023,
+    "country": "Gambia",
+    "title": "50 Dalasis",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e202",
+    "year": 2023,
+    "country": "Gambia",
+    "title": "100 Dalasis",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e203",
+    "year": 2023,
+    "country": "Gambia",
+    "title": "200 Dalasis",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e204",
+    "year": 2023,
+    "country": "Great Britain",
+    "title": "5 Pounds",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e205",
+    "year": 2023,
+    "country": "Great Britain",
+    "title": "10 Pounds",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e206",
+    "year": 2023,
+    "country": "Great Britain",
+    "title": "20 Pounds",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e207",
+    "year": 2023,
+    "country": "Guernsey",
+    "title": "5 Pounds",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e208",
+    "year": 2023,
+    "country": "Guernsey",
+    "title": "10 Pounds",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e209",
+    "year": 2023,
+    "country": "Guernsey",
+    "title": "20 Pounds",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e210",
+    "year": 2023,
+    "country": "Guernsey",
+    "title": "20 Pounds",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e211",
+    "year": 2023,
+    "country": "Haiti",
+    "title": "50 Gourdes",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e212",
+    "year": 2023,
+    "country": "Haiti",
+    "title": "100 Gourdes",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e213",
+    "year": 2023,
+    "country": "Haiti",
+    "title": "250 Gourdes",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e214",
+    "year": 2023,
+    "country": "Iran",
+    "title": "1.000.000 Rials",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e215",
+    "year": 2023,
+    "country": "Iran",
+    "title": "2.000.000 Rials",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e216",
+    "year": 2023,
+    "country": "Iraq",
+    "title": "5.000 Dinars",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e217",
+    "year": 2023,
+    "country": "Iraq",
+    "title": "50.000 Dinars",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e218",
+    "year": 2023,
+    "country": "Kazakhstan",
+    "title": "10.000 Tenge",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e219",
+    "year": 2023,
+    "country": "Kazakhstan",
+    "title": "5.000 Tenge",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e220",
+    "year": 2023,
+    "country": "Kyrgyzstan",
+    "title": "20 Som",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e221",
+    "year": 2023,
+    "country": "Kyrgyzstan",
+    "title": "50 Som",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e222",
+    "year": 2023,
+    "country": "Kyrgyzstan",
+    "title": "100 Som",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e223",
+    "year": 2023,
+    "country": "Kyrgyzstan",
+    "title": "200 Som",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e224",
+    "year": 2023,
+    "country": "Kyrgyzstan",
+    "title": "500 Som",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e225",
+    "year": 2023,
+    "country": "Kyrgyzstan",
+    "title": "1.000 Som",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e226",
+    "year": 2023,
+    "country": "Kyrgyzstan",
+    "title": "5.000 Som",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e227",
+    "year": 2023,
+    "country": "Macau",
+    "title": "10 Patacas",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e228",
+    "year": 2023,
+    "country": "Mauritius",
+    "title": "100 Rupees",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e229",
+    "year": 2023,
+    "country": "Mauritius",
+    "title": "200 Rupees",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e230",
+    "year": 2023,
+    "country": "Mauritius",
+    "title": "500 Rupees",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e231",
+    "year": 2023,
+    "country": "Mexico",
+    "title": "100 Pesos",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e232",
+    "year": 2023,
+    "country": "Mexico",
+    "title": "1.000 Pesos",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e233",
+    "year": 2023,
+    "country": "Mongolia",
+    "title": "20.000 Tögrög",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e234",
+    "year": 2023,
+    "country": "Morocco",
+    "title": "20 Dirhams",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e235",
+    "year": 2023,
+    "country": "Morocco",
+    "title": "50 Dirhams",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e236",
+    "year": 2023,
+    "country": "Morocco",
+    "title": "100 Dirhams",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e237",
+    "year": 2023,
+    "country": "Morocco",
+    "title": "200 Dirhams",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e238",
+    "year": 2023,
+    "country": "Myanmar",
+    "title": "20.000 Kyats",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e239",
+    "year": 2023,
+    "country": "Namibia",
+    "title": "100 Namibia Dollars",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e240",
+    "year": 2023,
+    "country": "Nepal",
+    "title": "20 Rupees",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e241",
+    "year": 2023,
+    "country": "Northern Ireland",
+    "title": "20 Pounds Sterling",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e242",
+    "year": 2023,
+    "country": "Pakistan",
+    "title": "75 Rupees",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e243",
+    "year": 2023,
+    "country": "Papua New Guinea",
+    "title": "2 Kina",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e244",
+    "year": 2023,
+    "country": "Papua New Guinea",
+    "title": "100 Kina",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e245",
+    "year": 2023,
+    "country": "Papua New Guinea",
+    "title": "50 Kina",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e246",
+    "year": 2023,
+    "country": "Paraguay",
+    "title": "2.000 Guaraníes",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e248",
+    "year": 2023,
+    "country": "Philippines",
+    "title": "100 Piso",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e250",
+    "year": 2023,
+    "country": "Poland",
+    "title": "20 Złotych",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e251",
+    "year": 2023,
+    "country": "Russia",
+    "title": "1.000 Rubley",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e252",
+    "year": 2023,
+    "country": "Russia",
+    "title": "5.000 Rubley",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e253",
+    "year": 2023,
+    "country": "Samoa",
+    "title": "60 Tala",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e254",
+    "year": 2023,
+    "country": "Samoa",
+    "title": "5 Tala",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e255",
+    "year": 2023,
+    "country": "Samoa",
+    "title": "10 Tala",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e256",
+    "year": 2023,
+    "country": "Samoa",
+    "title": "20 Tala",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e258",
+    "year": 2023,
+    "country": "Singapore",
+    "title": "5 Dollars",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e259",
+    "year": 2023,
+    "country": "Solomon Islands",
+    "title": "50 Dollars",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e260",
+    "year": 2023,
+    "country": "Solomon Islands",
+    "title": "100 Dollars",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e261",
+    "year": 2023,
+    "country": "Solomon Islands",
+    "title": "10 Dollars",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e262",
+    "year": 2023,
+    "country": "South Africa",
+    "title": "20 Rand",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e263",
+    "year": 2023,
+    "country": "South Africa",
+    "title": "50 Rand",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e264",
+    "year": 2023,
+    "country": "South Africa",
+    "title": "100 Rand",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e265",
+    "year": 2023,
+    "country": "South Africa",
+    "title": "200 Rand",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e266",
+    "year": 2023,
+    "country": "South Africa",
+    "title": "10 Rand",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e267",
+    "year": 2023,
+    "country": "South Sudan",
+    "title": "500 South Sudanese Pounds",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e268",
+    "year": 2023,
+    "country": "South Sudan",
+    "title": "1.000 South Sudanese Pounds",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e269",
+    "year": 2023,
+    "country": "Sudan",
+    "title": "1.000 Sudanese Pounds",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e270",
+    "year": 2023,
+    "country": "Tanzania",
+    "title": "1.000 Shillings",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e271",
+    "year": 2023,
+    "country": "Tonga",
+    "title": "2 Pa'anga",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e272",
+    "year": 2023,
+    "country": "Tonga",
+    "title": "5 Pa'anga",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e273",
+    "year": 2023,
+    "country": "Tonga",
+    "title": "10 Pa'anga",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e274",
+    "year": 2023,
+    "country": "Tonga",
+    "title": "20 Pa'anga",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e275",
+    "year": 2023,
+    "country": "Tonga",
+    "title": "50 Pa'anga",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e276",
+    "year": 2023,
+    "country": "Tonga",
+    "title": "100 Pa'anga",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e277",
+    "year": 2023,
+    "country": "Transnistria",
+    "title": "1 Rubl'",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e278",
+    "year": 2023,
+    "country": "Ukraine",
+    "title": "20 Hriven'",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e279",
+    "year": 2023,
+    "country": "Ukraine",
+    "title": "1.000 Hriven'",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e280",
+    "year": 2023,
+    "country": "United Arab Emirates",
+    "title": "500 Dirhams",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e281",
+    "year": 2023,
+    "country": "Zimbabwe",
+    "title": "100 Dollars",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e282",
+    "year": 2023,
+    "country": "Abkhazia",
+    "title": "25 Apsar",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e283",
+    "year": 2023,
+    "country": "Angola",
+    "title": "1.000 Kwanzas",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e284",
+    "year": 2023,
+    "country": "Angola",
+    "title": "2.000 Kwanzas",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e285",
+    "year": 2023,
+    "country": "Argentina",
+    "title": "1.000 Pesos",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e286",
+    "year": 2023,
+    "country": "Argentina",
+    "title": "2.000 Pesos",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e287",
+    "year": 2023,
+    "country": "Australia",
+    "title": "50 Dollars",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e288",
+    "year": 2023,
+    "country": "Bangladesh",
+    "title": "20 Taka",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e289",
+    "year": 2023,
+    "country": "Bangladesh",
+    "title": "500 Taka",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e290",
+    "year": 2023,
+    "country": "Bangladesh",
+    "title": "50 Taka",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e291",
+    "year": 2023,
+    "country": "Cuba",
+    "title": "100 Pesos",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e292",
+    "year": 2023,
+    "country": "Czechia",
+    "title": "5.000 Korun Českých",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e293",
+    "year": 2023,
+    "country": "Czechia",
+    "title": "1.000 Korun Českých",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e294",
+    "year": 2023,
+    "country": "East Caribbean States",
+    "title": "2 Dollars",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e295",
+    "year": 2023,
+    "country": "Egypt",
+    "title": "10 Pounds",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e296",
+    "year": 2023,
+    "country": "Egypt",
+    "title": "20 Pounds",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e297",
+    "year": 2023,
+    "country": "Ethiopia",
+    "title": "100 Birr",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e298",
+    "year": 2023,
+    "country": "Fiji",
+    "title": "100 Cents",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e299",
+    "year": 2023,
+    "country": "Gambia",
+    "title": "5 Dalasis",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e300",
+    "year": 2023,
+    "country": "Gambia",
+    "title": "10 Dalasis",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e301",
+    "year": 2023,
+    "country": "Gambia",
+    "title": "20 Dalasis",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e302",
+    "year": 2023,
+    "country": "Gambia",
+    "title": "50 Dalasis",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e303",
+    "year": 2023,
+    "country": "Gambia",
+    "title": "100 Dalasis",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e304",
+    "year": 2023,
+    "country": "Gambia",
+    "title": "200 Dalasis",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e305",
+    "year": 2023,
+    "country": "Great Britain",
+    "title": "5 Pounds",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e306",
+    "year": 2023,
+    "country": "Great Britain",
+    "title": "10 Pounds",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e307",
+    "year": 2023,
+    "country": "Great Britain",
+    "title": "20 Pounds",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e308",
+    "year": 2023,
+    "country": "Guernsey",
+    "title": "5 Pounds",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e309",
+    "year": 2023,
+    "country": "Guernsey",
+    "title": "10 Pounds",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e310",
+    "year": 2023,
+    "country": "Guernsey",
+    "title": "20 Pounds",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e311",
+    "year": 2023,
+    "country": "Guernsey",
+    "title": "20 Pounds",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e312",
+    "year": 2023,
+    "country": "Haiti",
+    "title": "50 Gourdes / Goud",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e313",
+    "year": 2023,
+    "country": "Haiti",
+    "title": "100 Gourdes / Goud",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e314",
+    "year": 2023,
+    "country": "Haiti",
+    "title": "250 Gourdes / Goud",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e315",
+    "year": 2023,
+    "country": "Iran",
+    "title": "1.000.000 Rials",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e316",
+    "year": 2023,
+    "country": "Iran",
+    "title": "2.000.000 Rials",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e317",
+    "year": 2023,
+    "country": "Iraq",
+    "title": "5.000 Dinars",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e318",
+    "year": 2023,
+    "country": "Iraq",
+    "title": "50.000 Dinars",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e319",
+    "year": 2023,
+    "country": "Kazakhstan",
+    "title": "10.000 Tenge",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e320",
+    "year": 2023,
+    "country": "Kazakhstan",
+    "title": "5.000 Tenge",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e321",
+    "year": 2023,
+    "country": "Kyrgyzstan",
+    "title": "20 Som",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e322",
+    "year": 2023,
+    "country": "Kyrgyzstan",
+    "title": "50 Som",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e323",
+    "year": 2023,
+    "country": "Kyrgyzstan",
+    "title": "100 Som",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e324",
+    "year": 2023,
+    "country": "Kyrgyzstan",
+    "title": "200 Som",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e325",
+    "year": 2023,
+    "country": "Kyrgyzstan",
+    "title": "500 Som",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e326",
+    "year": 2023,
+    "country": "Kyrgyzstan",
+    "title": "1.000 Som",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e327",
+    "year": 2023,
+    "country": "Kyrgyzstan",
+    "title": "5.000 Som",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e328",
+    "year": 2023,
+    "country": "Macau",
+    "title": "10 Patacas",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e329",
+    "year": 2023,
+    "country": "Mauritius",
+    "title": "100 Rupees",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e330",
+    "year": 2023,
+    "country": "Mauritius",
+    "title": "200 Rupees",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e331",
+    "year": 2023,
+    "country": "Mauritius",
+    "title": "500 Rupees",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e332",
+    "year": 2023,
+    "country": "Mexico",
+    "title": "100 Pesos",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e333",
+    "year": 2023,
+    "country": "Mexico",
+    "title": "1.000 Pesos",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e334",
+    "year": 2023,
+    "country": "Mongolia",
+    "title": "20.000 Tögrög",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e335",
+    "year": 2023,
+    "country": "Morocco",
+    "title": "20 Dirhams",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e336",
+    "year": 2023,
+    "country": "Morocco",
+    "title": "50 Dirhams",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e337",
+    "year": 2023,
+    "country": "Morocco",
+    "title": "100 Dirhams",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e338",
+    "year": 2023,
+    "country": "Morocco",
+    "title": "200 Dirhams",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e339",
+    "year": 2023,
+    "country": "Myanmar",
+    "title": "20.000 Kyats",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e340",
+    "year": 2023,
+    "country": "Namibia",
+    "title": "100 Namibia Dollars",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e341",
+    "year": 2023,
+    "country": "Nepal",
+    "title": "20 Rupees",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e342",
+    "year": 2023,
+    "country": "Northern Ireland",
+    "title": "20 Pounds Sterling",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e343",
+    "year": 2023,
+    "country": "Pakistan",
+    "title": "75 Rupees",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e344",
+    "year": 2023,
+    "country": "Papua New Guinea",
+    "title": "2 Kina",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e345",
+    "year": 2023,
+    "country": "Papua New Guinea",
+    "title": "100 Kina",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e346",
+    "year": 2023,
+    "country": "Papua New Guinea",
+    "title": "50 Kina",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e347",
+    "year": 2023,
+    "country": "Paraguay",
+    "title": "2.000 Guaraníes",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e349",
+    "year": 2023,
+    "country": "Philippines",
+    "title": "100 Piso",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e351",
+    "year": 2023,
+    "country": "Poland",
+    "title": "20 Złotych",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e352",
+    "year": 2023,
+    "country": "Russia",
+    "title": "1.000 Rubley",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e353",
+    "year": 2023,
+    "country": "Russia",
+    "title": "5.000 Rubley",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e354",
+    "year": 2023,
+    "country": "Samoa",
+    "title": "60 Tala",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e355",
+    "year": 2023,
+    "country": "Samoa",
+    "title": "5 Tala",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e356",
+    "year": 2023,
+    "country": "Samoa",
+    "title": "10 Tala",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e357",
+    "year": 2023,
+    "country": "Samoa",
+    "title": "20 Tala",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e359",
+    "year": 2023,
+    "country": "Singapore",
+    "title": "5 Dollars",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e360",
+    "year": 2023,
+    "country": "Solomon Islands",
+    "title": "50 Dollars",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e361",
+    "year": 2023,
+    "country": "Solomon Islands",
+    "title": "100 Dollars",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e362",
+    "year": 2023,
+    "country": "Solomon Islands",
+    "title": "10 Dollars",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e363",
+    "year": 2023,
+    "country": "South Africa",
+    "title": "20 Rand",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e364",
+    "year": 2023,
+    "country": "South Africa",
+    "title": "50 Rand",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e365",
+    "year": 2023,
+    "country": "South Africa",
+    "title": "100 Rand",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e366",
+    "year": 2023,
+    "country": "South Africa",
+    "title": "200 Rand",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e367",
+    "year": 2023,
+    "country": "South Africa",
+    "title": "10 Rand",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e368",
+    "year": 2023,
+    "country": "South Sudan",
+    "title": "500 South Sudanese Pounds",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e369",
+    "year": 2023,
+    "country": "South Sudan",
+    "title": "1.000 South Sudanese Pounds",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e370",
+    "year": 2023,
+    "country": "Sudan",
+    "title": "1.000 Sudanese Pounds",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e371",
+    "year": 2023,
+    "country": "Tanzania",
+    "title": "1.000 Shilingi / Shillings",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e372",
+    "year": 2023,
+    "country": "Tonga",
+    "title": "2 Pa'anga",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e373",
+    "year": 2023,
+    "country": "Tonga",
+    "title": "5 Pa'anga",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e374",
+    "year": 2023,
+    "country": "Tonga",
+    "title": "10 Pa'anga",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e375",
+    "year": 2023,
+    "country": "Tonga",
+    "title": "20 Pa'anga",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e376",
+    "year": 2023,
+    "country": "Tonga",
+    "title": "50 Pa'anga",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e377",
+    "year": 2023,
+    "country": "Tonga",
+    "title": "100 Pa'anga",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e378",
+    "year": 2023,
+    "country": "Transnistria",
+    "title": "1 Rubl'",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e379",
+    "year": 2023,
+    "country": "Ukraine",
+    "title": "20 Hriven'",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e380",
+    "year": 2023,
+    "country": "Ukraine",
+    "title": "1.000 Hriven'",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e381",
+    "year": 2023,
+    "country": "United Arab Emirates",
+    "title": "500 Dirhams",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e382",
+    "year": 2023,
+    "country": "Zimbabwe",
+    "title": "100 Dollars",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e383",
+    "year": 2022,
+    "country": "Algeria",
+    "title": "2.000 Dinars",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e384",
+    "year": 2022,
+    "country": "Armenia",
+    "title": "1.000 Dram",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e385",
+    "year": 2022,
+    "country": "Azerbaijan",
+    "title": "5 Manat",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e386",
+    "year": 2022,
+    "country": "Bahamas",
+    "title": "10 Dollars",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e387",
+    "year": 2022,
+    "country": "Bangladesh",
+    "title": "100 Taka",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e388",
+    "year": 2022,
+    "country": "Bangladesh",
+    "title": "50 Taka",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e389",
+    "year": 2022,
+    "country": "Bangladesh",
+    "title": "50 Taka",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e396",
+    "year": 2022,
+    "country": "Belarus",
+    "title": "100 Rubley",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e397",
+    "year": 2022,
+    "country": "Bosnia & Herzegovina",
+    "title": "200 Konvertibilnih Maraka",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e398",
+    "year": 2022,
+    "country": "Botswana",
+    "title": "10 Pula",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e399",
+    "year": 2022,
+    "country": "Brunei",
+    "title": "50 Ringgit / Dollars",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e400",
+    "year": 2022,
+    "country": "Canada",
+    "title": "5 Dollars",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e401",
+    "year": 2022,
+    "country": "Canada",
+    "title": "10 Dollars",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e402",
+    "year": 2022,
+    "country": "Canada",
+    "title": "25 Dollars",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e403",
+    "year": 2022,
+    "country": "China — Peoples Republic",
+    "title": "20 Yuan",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e404",
+    "year": 2022,
+    "country": "China — Peoples Republic",
+    "title": "20 Yuan",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e405",
+    "year": 2022,
+    "country": "Cambodia",
+    "title": "200 Riels",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e406",
+    "year": 2022,
+    "country": "Cambodia",
+    "title": "2.000 Riels",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e407",
+    "year": 2022,
+    "country": "Cayman Islands",
+    "title": "25 Dollars",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e408",
+    "year": 2022,
+    "country": "Cayman Islands",
+    "title": "50 Dollars",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e409",
+    "year": 2022,
+    "country": "Cayman Islands",
+    "title": "70 Dollars",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e410",
+    "year": 2022,
+    "country": "Colombia",
+    "title": "50.000 Pesos",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e411",
+    "year": 2022,
+    "country": "Costa Rica",
+    "title": "2.000 Colones",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e412",
+    "year": 2022,
+    "country": "Costa Rica",
+    "title": "10.000 Colones",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e413",
+    "year": 2022,
+    "country": "Czechia",
+    "title": "100 Korun Českých",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e414",
+    "year": 2022,
+    "country": "Fiji",
+    "title": "100 Dollars",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e415",
+    "year": 2022,
+    "country": "Fiji",
+    "title": "7 Dollars",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e416",
+    "year": 2022,
+    "country": "Fiji",
+    "title": "88 Cents",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e417",
+    "year": 2022,
+    "country": "Guinea",
+    "title": "10.000 Francs Guinéens",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e418",
+    "year": 2022,
+    "country": "Guyana",
+    "title": "100 Dollars",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e419",
+    "year": 2022,
+    "country": "Guyana",
+    "title": "5.000 Dollars",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e427",
+    "year": 2022,
+    "country": "Iran",
+    "title": "50.000 Rials",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e428",
+    "year": 2022,
+    "country": "Iran",
+    "title": "1.000.000 Rials",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e429",
+    "year": 2022,
+    "country": "Israel",
+    "title": "50 New Shekels",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e430",
+    "year": 2022,
+    "country": "Jordan",
+    "title": "1 Dinar",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e432",
+    "year": 2022,
+    "country": "Jordan",
+    "title": "10 Dinars",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e433",
+    "year": 2022,
+    "country": "Jordan",
+    "title": "20 Dinars",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e434",
+    "year": 2022,
+    "country": "Jordan",
+    "title": "50 Dinars",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e435",
+    "year": 2022,
+    "country": "Kazakhstan",
+    "title": "20.000 Tenge",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e436",
+    "year": 2022,
+    "country": "Korea (North)",
+    "title": "50.000 Won",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e439",
+    "year": 2022,
+    "country": "Liberia",
+    "title": "100 Dollars",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e441",
+    "year": 2022,
+    "country": "Liberia",
+    "title": "1.000 Dollars",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e442",
+    "year": 2022,
+    "country": "Macau",
+    "title": "10 Patacas",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e443",
+    "year": 2022,
+    "country": "Namibia",
+    "title": "200 Namibia Dollars",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e444",
+    "year": 2022,
+    "country": "Namibia",
+    "title": "20 Namibia Dollars",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e445",
+    "year": 2022,
+    "country": "New Zealand",
+    "title": "50 Dollars",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e446",
+    "year": 2022,
+    "country": "North Macedonia",
+    "title": "100 Denari",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e447",
+    "year": 2022,
+    "country": "North Macedonia",
+    "title": "1.000 Denari",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e448",
+    "year": 2022,
+    "country": "North Macedonia",
+    "title": "2.000 Denari",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e449",
+    "year": 2022,
+    "country": "Pakistan",
+    "title": "75 Rupees",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e450",
+    "year": 2022,
+    "country": "Paraguay",
+    "title": "5.000 Guaraníes",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e451",
+    "year": 2022,
+    "country": "Paraguay",
+    "title": "50.000 Guaraníes",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e452",
+    "year": 2022,
+    "country": "Philippines",
+    "title": "50 Piso",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e453",
+    "year": 2022,
+    "country": "Philippines",
+    "title": "1.000 Piso",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e454",
+    "year": 2022,
+    "country": "Philippines",
+    "title": "50 Piso",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e458",
+    "year": 2022,
+    "country": "Qatar",
+    "title": "5 Riyals",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e459",
+    "year": 2022,
+    "country": "Qatar",
+    "title": "50 Riyals",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e460",
+    "year": 2022,
+    "country": "Qatar",
+    "title": "100 Riyals",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e461",
+    "year": 2022,
+    "country": "Qatar",
+    "title": "200 Riyals",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e462",
+    "year": 2022,
+    "country": "Qatar",
+    "title": "500 Riyals",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e463",
+    "year": 2022,
+    "country": "Qatar",
+    "title": "22 Riyals",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e464",
+    "year": 2022,
+    "country": "Russia",
+    "title": "100 Rubley",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e466",
+    "year": 2022,
+    "country": "Sudan",
+    "title": "100 Sudanese Pounds",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e467",
+    "year": 2022,
+    "country": "Sudan",
+    "title": "500 Sudanese Pounds",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e468",
+    "year": 2022,
+    "country": "Tajikistan",
+    "title": "10 Somoni",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e469",
+    "year": 2022,
+    "country": "Thailand",
+    "title": "20 Baht",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e470",
+    "year": 2022,
+    "country": "Ukraine",
+    "title": "100 Hriven'",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e475",
+    "year": 2022,
+    "country": "West African States — Togo",
+    "title": "10.000 Francs CFA",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e476",
+    "year": 2022,
+    "country": "Zambia",
+    "title": "2 Kwacha",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e477",
+    "year": 2022,
+    "country": "Zambia",
+    "title": "5 Kwacha",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e478",
+    "year": 2022,
+    "country": "Zambia",
+    "title": "10 Kwacha",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e479",
+    "year": 2022,
+    "country": "Zambia",
+    "title": "20 Kwacha",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e480",
+    "year": 2022,
+    "country": "Zambia",
+    "title": "50 Kwacha",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e481",
+    "year": 2022,
+    "country": "Zambia",
+    "title": "100 Kwacha",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e257",
+    "year": 2021,
+    "country": "Scotland",
+    "title": "100 Pounds Sterling",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e358",
+    "year": 2021,
+    "country": "Scotland",
+    "title": "100 Pounds Sterling",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e471",
+    "year": 2021,
+    "country": "Ukraine",
+    "title": "500 Hriven'",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e482",
+    "year": 2021,
+    "country": "Australia",
+    "title": "5 Dollars",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e483",
+    "year": 2021,
+    "country": "Bangladesh",
+    "title": "50 Taka",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e484",
+    "year": 2021,
+    "country": "Bangladesh",
+    "title": "50 Taka",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e485",
+    "year": 2021,
+    "country": "Bhutan",
+    "title": "50 Ngultrum",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e486",
+    "year": 2021,
+    "country": "Bhutan",
+    "title": "1.000 Ngultrum",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e487",
+    "year": 2021,
+    "country": "Cambodia",
+    "title": "30.000 Riels",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e488",
+    "year": 2021,
+    "country": "Chile",
+    "title": "2.000 Pesos",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e489",
+    "year": 2021,
+    "country": "Chile",
+    "title": "5.000 Pesos",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e490",
+    "year": 2021,
+    "country": "Cook Islands",
+    "title": "3 Dollars",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e491",
+    "year": 2021,
+    "country": "Cuba",
+    "title": "5 Pesos",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e492",
+    "year": 2021,
+    "country": "Denmark",
+    "title": "200 Kroner",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e493",
+    "year": 2021,
+    "country": "Georgia",
+    "title": "5 Lari",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e494",
+    "year": 2021,
+    "country": "Georgia",
+    "title": "20 Lari",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e496",
+    "year": 2021,
+    "country": "Guyana",
+    "title": "2.000 Dollars",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e497",
+    "year": 2021,
+    "country": "Haiti",
+    "title": "25 Gourdes",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e498",
+    "year": 2021,
+    "country": "Haiti",
+    "title": "10 Gourdes / Goud",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e499",
+    "year": 2021,
+    "country": "Haiti",
+    "title": "500 Gourdes / Goud",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e500",
+    "year": 2021,
+    "country": "Haiti",
+    "title": "1.000 Gourdes",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e501",
+    "year": 2021,
+    "country": "Indonesia",
+    "title": "1.000 Rupiah",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e502",
+    "year": 2021,
+    "country": "Israel",
+    "title": "20 New Shekels",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e503",
+    "year": 2021,
+    "country": "Jordan",
+    "title": "1 Dinar",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e504",
+    "year": 2021,
+    "country": "Jordan",
+    "title": "10 Dinars",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e505",
+    "year": 2021,
+    "country": "Jordan",
+    "title": "20 Dinars",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e506",
+    "year": 2021,
+    "country": "Jordan",
+    "title": "50 Dinars",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e507",
+    "year": 2021,
+    "country": "Kazakhstan",
+    "title": "20.000 Tenge",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e508",
+    "year": 2021,
+    "country": "Korea (North)",
+    "title": "5.000 Won",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e509",
+    "year": 2021,
+    "country": "Lebanon",
+    "title": "5.000 Livres",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e510",
+    "year": 2021,
+    "country": "Lebanon",
+    "title": "10.000 Livres",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e516",
+    "year": 2021,
+    "country": "Mauritius",
+    "title": "50 Rupees",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e517",
+    "year": 2021,
+    "country": "Mongolia",
+    "title": "10.000 Tögrög",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e518",
+    "year": 2021,
+    "country": "Mongolia",
+    "title": "10.000 Tögrög",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e521",
+    "year": 2021,
+    "country": "Peru",
+    "title": "50 Soles",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e522",
+    "year": 2021,
+    "country": "Peru",
+    "title": "100 Soles",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e523",
+    "year": 2021,
+    "country": "Philippines",
+    "title": "1.000 Piso",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e524",
+    "year": 2021,
+    "country": "Philippines",
+    "title": "100 Piso",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e525",
+    "year": 2021,
+    "country": "Philippines",
+    "title": "500 Piso",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e526",
+    "year": 2021,
+    "country": "Philippines",
+    "title": "5.000 Piso",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e527",
+    "year": 2021,
+    "country": "Romania",
+    "title": "20 Lei",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e528",
+    "year": 2021,
+    "country": "Saudi Arabia",
+    "title": "100 Riyals",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e530",
+    "year": 2021,
+    "country": "Sudan",
+    "title": "200 Sudanese Pounds",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e531",
+    "year": 2021,
+    "country": "Switzerland",
+    "title": "20 Franken / Francs / Franchi",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e532",
+    "year": 2021,
+    "country": "Switzerland",
+    "title": "50 Franken / Francs / Franchi",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e533",
+    "year": 2021,
+    "country": "Syria",
+    "title": "50 Syrian Pounds",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e534",
+    "year": 2021,
+    "country": "Syria",
+    "title": "100 Syrian Pounds",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e535",
+    "year": 2021,
+    "country": "Syria",
+    "title": "200 Syrian Pounds",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e536",
+    "year": 2021,
+    "country": "Syria",
+    "title": "2.000 Syrian Pounds",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e538",
+    "year": 2021,
+    "country": "Tonga",
+    "title": "50 Pa'anga",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e539",
+    "year": 2021,
+    "country": "Ukraine",
+    "title": "200 Hriven'",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e540",
+    "year": 2021,
+    "country": "Ukraine",
+    "title": "20 Hriven'",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e541",
+    "year": 2021,
+    "country": "Ukraine",
+    "title": "50 Hriven'",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e542",
+    "year": 2021,
+    "country": "Ukraine",
+    "title": "100 Hriven'",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e543",
+    "year": 2021,
+    "country": "Ukraine",
+    "title": "200 Hriven'",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e544",
+    "year": 2021,
+    "country": "Ukraine",
+    "title": "500 Hriven'",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e545",
+    "year": 2021,
+    "country": "Ukraine",
+    "title": "1.000 Hriven'",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e546",
+    "year": 2021,
+    "country": "Ukraine",
+    "title": "50 Hriven'",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e548",
+    "year": 2021,
+    "country": "United States Of America",
+    "title": "1 Dollar",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e549",
+    "year": 2021,
+    "country": "United States Of America",
+    "title": "5 Dollars",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e550",
+    "year": 2021,
+    "country": "United States Of America",
+    "title": "10 Dollars",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e551",
+    "year": 2021,
+    "country": "United States Of America",
+    "title": "50 Dollars",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e552",
+    "year": 2021,
+    "country": "United States Of America",
+    "title": "100 Dollars",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e553",
+    "year": 2021,
+    "country": "Uruguay",
+    "title": "1.000 Pesos Uruguayos",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e554",
+    "year": 2021,
+    "country": "Uruguay",
+    "title": "2.000 Pesos Uruguayos",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e555",
+    "year": 2021,
+    "country": "Uruguay",
+    "title": "20 Pesos Uruguayos",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e556",
+    "year": 2021,
+    "country": "Uruguay",
+    "title": "50 Pesos Uruguayos",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e557",
+    "year": 2021,
+    "country": "Venezuela",
+    "title": "1.000.000 Bolívares",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e558",
+    "year": 2021,
+    "country": "Venezuela",
+    "title": "5 Bolívares",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e559",
+    "year": 2021,
+    "country": "Venezuela",
+    "title": "10 Bolívares",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  },
+  {
+    "id": "e495",
+    "year": 2020,
+    "country": "Guatemala",
+    "title": "20 Quetzales",
+    "status": "pending",
+    "issues": [],
+    "ts": null
+  }
+]
