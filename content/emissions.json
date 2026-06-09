@@ -891,12 +891,18 @@
     "hue": 50,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2025-banknotes/fronts/2026-06-04-png-p-w59-front.jpg",
     "slug": "papua-new-guinea-100-kina-e43",
-    "body": "Arms and Parliament building with a memorial issue for the first anniversary of Sir Julius Chan.",
-    "highlights": {},
+    "body": "The Bank of Papua New Guinea issued this commemorative 100 Kina note on 27 January 2026, exactly one year after the passing of Grand Chief Sir Julius Chan — the nation's first Finance Minister, second Prime Minister, and founding father of the Kina and Toea currency system. The obverse retains the iconic Parliament House and the National Crest featuring a bird of paradise on a Kundu drum with ceremonial spear. The reverse introduces a portrait of Sir Julius Chan alongside a New Ireland shark-caller standing in a canoe, a traditional Lakatoi sailing vessel, a Kina shell necklace, and a Toea shell armband. Printed on Guardian polymer by Note Printing Australia, it measures 150 × 70 mm in green and gold tones.",
+    "highlights": {
+      "reason": "Memorial issue commemorating the first anniversary of the death of Grand Chief Sir Julius Chan, founder of Papua New Guinea's Kina and Toea monetary system.",
+      "design": "Obverse: Parliament House, National Crest (bird of paradise on Kundu drum). Reverse: portrait of Sir Julius Chan, New Ireland shark-caller in canoe, Lakatoi vessel, Kina shell necklace, Toea shell armband.",
+      "security": "Polymer (Guardian) substrate; shadow-image watermark of the Bank logo; no security thread. Intaglio printing. Produced by Note Printing Australia."
+    },
     "sources": [
-      "Bank of Papua New Guinea"
+      "https://banknotenews.com/?p=49695",
+      "https://www.noteprinting.com/newsacrhive/2026/2/6/bpng-issues-new-100-kina-banknote-honouring-grand-chief-sir-julius-chan",
+      "https://mriguide.com/papua-new-guinea-new-banknote-of-100-kina-honoring-sir-julius-chan-unveiled-today/"
     ],
-    "confidence": "fallback"
+    "confidence": "secondary"
   },
   {
     "id": "e44",
@@ -8106,12 +8112,18 @@
     "hue": 75.2,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2022-banknotes/fronts/INOW0166o.jpg",
     "slug": "indonesia-20-000-rupiah-e424",
-    "body": "The 5000 Franc note serves as a primary higher denomination in circulation. Incorporates security features protecting against counterfeiting. The note highlights Rwanda's reconciliation and development initiatives.",
-    "highlights": {},
+    "body": "Bank Indonesia introduced the 2022-series 20,000 Rupiah note on 17 August 2022 to mark the country's 77th Independence Day. The obverse features a portrait of Dr. G.S.S.J. Ratulangi, a national hero and the first Governor of Sulawesi, set against a background of the Indonesian coat of arms, the black orchid (Coelogyne pandurata), and a map of Indonesia. The reverse depicts a Tari Gong dancer from East Kalimantan performing against a backdrop of the Derawan Islands and a sea turtle. The note is predominantly green-blue in color and measures 141 × 65 mm. New-date variants bearing a 2026 date have subsequently entered circulation with updated signatures (Perry Warjiyo / Sri Mulyani Indrawati).",
+    "highlights": {
+      "reason": "Part of the Bank Indonesia 2022 series issued for the 77th anniversary of Indonesian independence, replacing the earlier 2016 series.",
+      "design": "Obverse: Dr. G.S.S.J. Ratulangi, Indonesian coat of arms, black orchid. Reverse: Tari Gong dancer, Derawan Islands, sea turtle, black orchid.",
+      "security": "Windowed demetalized security thread inscribed 'BI 20000'; watermark of Oto Iskandar di Nata and electrotype bank logo; UV fluorescence; phosphorescent ink; infrared ink; magnetic ink; intaglio printing."
+    },
     "sources": [
-      "National Bank of Rwanda (Banque Nationale du Rwanda)"
+      "https://banknotenews.com/?p=37424",
+      "https://banknotenews.com/?p=50389",
+      "https://currencyaffairs.org/document/indonesia-2022-rupiah-banknote-series/"
     ],
-    "confidence": "fallback"
+    "confidence": "secondary"
   },
   {
     "id": "e425",
@@ -10320,12 +10332,18 @@
     "hue": 223.1,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2021-banknotes/fronts/UAEW2021-0050commo.jpg",
     "slug": "united-arab-emirates-50-dirhams-e547",
-    "body": "Common high-value note in Syrian circulation. Enhanced security features address counterfeiting in unstable environment. Supports economic recovery efforts.",
-    "highlights": {},
+    "body": "The Central Bank of the UAE launched the 50 Dirhams polymer note on 7 December 2021 to celebrate the country's 50th National Day (Golden Jubilee). It is the UAE's first polymer banknote, printed on De La Rue's SAFEGUARD® substrate by Oumolat Security Printing. Measuring 151 × 64 mm in shades of violet and blue, the obverse portrays Sheikh Zayed bin Sultan Al Nahyan alongside Wahat Al Karama (the Martyrs' Memorial) and the seven founding fathers signing the union document. The reverse depicts Sheikh Zayed signing the union charter with the Etihad Museum in the background. Advanced intaglio printing and fluorescent blue UAE nation brand marks appear centrally. Braille embossing aids visually impaired users. New-date and new-signature variants from 2026 are the latest circulation issues.",
+    "highlights": {
+      "reason": "Commemorates the 50th anniversary (Golden Jubilee) of the UAE's founding on 2 December 1971; first UAE polymer banknote.",
+      "design": "Obverse: Sheikh Zayed portrait, Wahat Al Karama memorial, seven founding fathers signing the union document. Reverse: Sheikh Zayed signing union charter, Etihad Museum.",
+      "security": "De La Rue SAFEGUARD® polymer; transparent windows with Sheikh Zayed portrait and Wahat Al Karama; fluorescent blue UAE nation brand marks; advanced intaglio printing; Braille embossing."
+    },
     "sources": [
-      "Central Bank of Syria"
+      "https://banknotenews.com/?p=34878",
+      "https://www.bayut.com/mybayut/new-dirham-50-note-uae/",
+      "https://gulfbusiness.com/uae-launches-new-dhs50-banknote-to-commemorate-countrys-golden-jubilee/"
     ],
-    "confidence": "fallback"
+    "confidence": "secondary"
   },
   {
     "id": "e548",
@@ -10554,12 +10572,18 @@
     "hue": 13.3,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2026-banknotes/fronts/BDW0075o.jpg",
     "slug": "bangladesh-5-taka-e560",
-    "body": "Low-denomination note facilitating grassroots commerce. Practical for retail and informal transactions. Supports financial inclusion across regions.",
-    "highlights": {},
+    "body": "Bangladesh Bank introduced this redesigned 5 Taka note on 19 May 2026 as part of the new 'Historical and Archaeological Architecture of Bangladesh' series. Sheikh Mujibur Rahman's portrait, which had appeared on previous issues, is absent; instead the obverse features the historic Star (Tara) Mosque in Dhaka on the left, with Bangladesh's national flower, the water lily (Shapla), dominating the background. The reverse bears the 'Graffiti-2024' artwork commemorating the July 2024 student uprising. Measuring 117 × 60 mm, the note is signed by Finance Secretary Dr. Md. Khairuzzaman Majumder. The watermark shows a Royal Bengal Tiger head with an electrotype numeral '5'.",
+    "highlights": {
+      "reason": "Part of the new 'Historical and Archaeological Architecture of Bangladesh' series, replacing the previous Sheikh Mujibur Rahman series amid post-uprising political transition.",
+      "design": "Obverse: Star (Tara) Mosque in Dhaka, water lily (Shapla) national flower. Reverse: 'Graffiti-2024' mural artwork commemorating the July 2024 uprising.",
+      "security": "Watermark: Royal Bengal Tiger face with electrotype numeral '5' and government emblem; 2mm security thread with 'Bangladesh' microtext; microprinted text 'Bangladesh' on lower front."
+    },
     "sources": [
-      "National Bank of Tajikistan"
+      "https://bankinggoln.com/five-taka-note-redesigned-released/",
+      "https://www.bssnews.net/others/388426",
+      "https://banknotenews.com/?tag=bangladesh"
     ],
-    "confidence": "fallback"
+    "confidence": "secondary"
   },
   {
     "id": "e561",
@@ -10572,12 +10596,18 @@
     "hue": 333.1,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2026-banknotes/fronts/BDEW0076o.jpg",
     "slug": "bangladesh-10-taka-e561",
-    "body": "Highest denomination from Tanzania's 2024 series. Features national leaders and development achievements. Advanced security prevents counterfeiting.",
-    "highlights": {},
+    "body": "Bangladesh Bank released the redesigned 10 Taka note on 3 February 2026 as the second denomination to circulate from the new 'Historical and Archaeological Architecture of Bangladesh' series. The predominantly pink note measures 123 × 60 mm. The obverse shows the Baitul Mukarram National Mosque in Dhaka — the country's largest mosque — flanked by the national Shapla flower. The reverse carries the 'Graffiti-2024' artwork, a nod to the student-led uprising of July 2024. The note bears the signature of Governor Dr. Ahsan Habib Mansur and marks a clean break from earlier issues featuring Sheikh Mujibur Rahman.",
+    "highlights": {
+      "reason": "Second note released in the new 'Historical and Archaeological Architecture' series; first circulation issue of the series to bear a new-year date of 2026.",
+      "design": "Obverse: Baitul Mukarram National Mosque, Dhaka; Shapla (water lily) national flower. Reverse: 'Graffiti-2024' mural.",
+      "security": "Watermark: Royal Bengal Tiger face with numeral '10' and Bangladesh Bank monogram; 2mm windowed security thread shifting red-to-green when tilted, reading '৳10 দেশ তকা'; 'BANGLADESH BANK' microtext on both sides."
+    },
     "sources": [
-      "Central Bank of Tanzania"
+      "https://networkbangladesh.com/bangladesh-bank-unveils-new-series-10-taka-note-featuring-baitul-mukarram-advanced-security-features/",
+      "https://banknotenews.com/?p=47013",
+      "https://banknotenews.com/?tag=bangladesh"
     ],
-    "confidence": "fallback"
+    "confidence": "secondary"
   },
   {
     "id": "e562",
@@ -10590,12 +10620,18 @@
     "hue": 97.6,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2026-banknotes/fronts/BDEW0081o.jpg",
     "slug": "bangladesh-500-taka-e562",
-    "body": "Major denomination supporting significant transactions. Part of modernized currency series. Incorporates contemporary design and security elements.",
-    "highlights": {},
+    "body": "The Bangladesh Bank issued the redesigned 500 Taka note in late 2025, with a 2026-dated variant following in 2026, both part of the 'Historical and Archaeological Architecture of Bangladesh' series. Rendered in green and red on a 152 × 65 mm substrate, the obverse depicts the Shaheed Minar — the iconic Language Movement Martyrs' Monument in Dhaka — alongside the Shapla water lily, with the denomination printed in optically variable ink. The reverse shows the Supreme Court building in Dhaka with the bank logo. The notes bear the signature of Governor Ahsan Habib Mansur and replace the earlier series featuring Sheikh Mujibur Rahman.",
+    "highlights": {
+      "reason": "Part of the 'Historical and Archaeological Architecture of Bangladesh' series, acknowledging national monuments instead of political figures following the 2024 political transition.",
+      "design": "Obverse: Shaheed Minar (Language Movement martyrs' monument), Shapla national flower, OVI denomination. Reverse: Supreme Court of Bangladesh building, bank logo.",
+      "security": "Watermark: Royal Bengal Tiger, bank logo, numeral '500'; optically variable ink for denomination; windowed security thread; approximately 10 distinct security features."
+    },
     "sources": [
-      "Central Bank of Tanzania"
+      "https://banknotenews.com/?p=47034",
+      "https://www.bssnews.net/business/338078",
+      "https://wbs.org.ua/en/novi-banknoty-banhladeshu-2025-roku-onovlennia-dyzainu-ta-znachennia-zmin/"
     ],
-    "confidence": "fallback"
+    "confidence": "secondary"
   },
   {
     "id": "e563",
@@ -10608,12 +10644,18 @@
     "hue": 281.2,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2026-banknotes/fronts/BDEW0082o.jpg",
     "slug": "bangladesh-1-000-taka-e563",
-    "body": "Common high-value note in Tanzanian circulation. Features cultural heritage and national symbols. Practical for commercial and retail use.",
-    "highlights": {},
+    "body": "The largest Bangladeshi denomination, the 1,000 Taka, was relaunched on 1 June 2025 in the new 'Historical and Archaeological Architecture of Bangladesh' series, with a 2026-dated variant subsequently issued. The violet-purple note (160 × 70 mm) shows the National Martyrs' Monument at Savar — built to honor those who died in the 1971 Liberation War — alongside Shapla water lily motifs on the obverse. The reverse features the Jatiya Sangsad Bhaban, the iconic National Parliament building in Dhaka designed by Louis Kahn. The denomination is rendered in optically variable ink. This series removed the portrait of Sheikh Mujibur Rahman following Bangladesh's 2024 political changes.",
+    "highlights": {
+      "reason": "Flagship denomination of the new 'Historical and Archaeological Architecture' series, eliminating the portrait of Sheikh Mujibur Rahman and highlighting national monuments.",
+      "design": "Obverse: National Martyrs' Monument, Savar; Shapla (water lily) national flower; OVI denomination. Reverse: Jatiya Sangsad Bhaban (National Parliament), Dhaka.",
+      "security": "Watermark: Royal Bengal Tiger, bank logo, denomination '1000'; windowed security thread; OVI numeral; tactile markers for visually impaired users."
+    },
     "sources": [
-      "Central Bank of Tanzania"
+      "https://banknotenews.com/?p=47038",
+      "https://platform.keesingtechnologies.com/bangladesh-releases-the-first-three-banknotes-in-new-series/",
+      "https://wbs.org.ua/en/novi-banknoty-banhladeshu-2025-roku-onovlennia-dyzainu-ta-znachennia-zmin/"
     ],
-    "confidence": "fallback"
+    "confidence": "secondary"
   },
   {
     "id": "e564",
@@ -10626,12 +10668,18 @@
     "hue": 4.5,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2026-banknotes/fronts/CINW0922o.jpg",
     "slug": "china-peoples-republic-20-yuan-e564",
-    "body": "Essential denomination for everyday transactions. Colorful design with security features ensures public recognition. Widely used across economic sectors.",
-    "highlights": {},
+    "body": "The People's Bank of China released this 20 Yuan commemorative polymer note in December 2025, entering wide circulation for the Lunar New Year in January 2026. It is the third installment in the PBoC's planned 12-year Chinese Zodiac series (2024–2035), following the 2024 Dragon and 2025 Snake notes. The vertically oriented note (145 × 70 mm) is rendered in red and gold. The obverse features a stylized horse in the traditional Chinese paper-cut artistic style, the national emblem, decorative lanterns and daylily patterns, and a SPARK® optical variable denomination. The reverse depicts three children celebrating the Spring Festival with gongs and drums in front of traditional Mongolian yurt tents, with text in five ethnic scripts.",
+    "highlights": {
+      "reason": "Third note in the PBoC's 12-year Chinese Zodiac commemorative polymer series, celebrating the Year of the Horse (2026) and the Spring Festival.",
+      "design": "Obverse: Stylized horse in paper-cut style, national emblem, lanterns, daylily patterns. Reverse: Children playing gongs and drums at Spring Festival, yurt tents in background, text in Mongolian, Tibetan, Uyghur, Zhuang, and Chinese.",
+      "security": "Polymer substrate (no security thread or watermark); SPARK® optical variable device denomination; holographic ribbon; dynamic see-through transparent window; color-shifting elements."
+    },
     "sources": [
-      "Central Bank of Tanzania"
+      "https://noteshobby.com/blogs/banknote/china-20-yuan-year-of-the-horse-2026-commemorative-banknote",
+      "https://banknotenews.com/?p=49095",
+      "https://www.banknoteworld.com/blog/celebrate-the-year-of-the-horse-with-the-latest-china-20-yuan-2026-commemorative-polymer-banknote/"
     ],
-    "confidence": "fallback"
+    "confidence": "secondary"
   },
   {
     "id": "e565",
@@ -10644,12 +10692,18 @@
     "hue": 200.4,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2026-banknotes/fronts/CUBW0146o.jpg",
     "slug": "cuba-5-000-pesos-e565",
-    "body": "Common circulation note supporting retail transactions. Durable design optimized for tropical conditions. Integral to Tanzanian monetary system.",
-    "highlights": {},
+    "body": "The Banco Central de Cuba placed the 5,000 Peso note into circulation on 1 April 2026 — initially in Havana, then gradually nationwide. Issued alongside a new 2,000 Peso note, these are the highest-denomination banknotes ever introduced in Cuba, driven by severe inflation that had rendered smaller notes impractical. The 150 × 70 mm note is predominantly blue and features, for the first time in Cuban numismatic history, a female patriot: Celia Sánchez Manduley, a key revolutionary figure and close collaborator of Fidel Castro. The reverse depicts the Memorial Celia Sánchez in Parque Lenin, Havana. Cuba's national flower, La Mariposa (white butterfly jasmine), appears on the note with a rainbow color-shift effect when the viewing angle changes.",
+    "highlights": {
+      "reason": "Issued in response to severe inflation that demanded high-value physical currency to facilitate everyday transactions; marks the first Cuban banknotes to feature female historical figures.",
+      "design": "Obverse: Portrait of Celia Sánchez Manduley, Cuban revolutionary heroine; national flower La Mariposa with rainbow color-shift effect. Reverse: Memorial Celia Sánchez, Parque Lenin, Havana.",
+      "security": "Special security paper meeting international standards; watermark of Celia Sánchez portrait with electrotype denomination; vertical security thread on right side with movement effect showing 'BCC' and denomination; tactile element in upper-right corner for visually impaired."
+    },
     "sources": [
-      "Central Bank of Tanzania"
+      "http://www.cubadebate.cu/noticias/2026/03/31/banco-central-de-cuba-introduce-nuevos-billetes-de-2-000-y-5-000-pesos/",
+      "https://www.periodicocubano.com/banco-central-de-cuba-anuncia-circulacion-de-nuevos-billetes-de-2-000-y-5-000-cup/",
+      "https://www.granma.cu/cuba/2026-03-31/se-pondran-en-circulacion-nuevos-billetes-de-alta-denominacion-31-03-2026-10-03-40"
     ],
-    "confidence": "fallback"
+    "confidence": "secondary"
   },
   {
     "id": "e566",
@@ -10662,12 +10716,18 @@
     "hue": 198.1,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2026-banknotes/fronts/CZRW0032o.jpg",
     "slug": "czechia-100-korun-esk-ch-e566",
-    "body": "Prestigious high-denomination note from Thailand's current series. Features revered royal imagery and national symbols. Reflects Thailand's stable monetary system.",
-    "highlights": {},
+    "body": "The Czech National Bank issued this third commemorative 100 Korun note on 21 January 2026 to mark 100 years since the establishment of the first Czechoslovak central bank, the Národní banka Československá. The note (84 × 194 mm) is printed in dark blue intaglio and features a portrait of Vilém Pospíšil (1873–1942), the founding governor of that institution, on the obverse alongside the CNB headquarters topped by the Genius with a Lion statue, the middle coat of arms of the Czechoslovak Republic, and a cornucopia. The reverse depicts the corner of the former Městská spořitelna Pražská savings bank building in Prague, flanked by allegorical figures.",
+    "highlights": {
+      "reason": "Commemorates the centennial of the establishment of the Národní banka Československá (1926–2026), the first Czechoslovak central bank.",
+      "design": "Obverse: Portrait of Vilém Pospíšil (founding governor), CNB headquarters with Genius statue, Czechoslovak coat of arms, cornucopia. Reverse: Corner of former Městská spořitelna Pražská building, Prague; allegorical genius figures.",
+      "security": "1.4mm windowed security thread (perpendicular to long side) with microtext '1873–1942'; stepped watermark portrait of Pospíšil; white-line watermark with '100' and treble clef; latent image showing '100' on tilt; intaglio printing."
+    },
     "sources": [
-      "Bank of Thailand"
+      "https://www.cnb.cz/en/banknotes-and-coins/numismatics/commemorative-banknotes/commemorative-banknote-featuring-a-motif-on-the-establishment-of-the-czechoslovak-currency-iii/",
+      "https://banknotenews.com/?p=49166",
+      "https://mriguide.com/new-note-for-centennial-of-the-czechoslovak-national-bank/"
     ],
-    "confidence": "fallback"
+    "confidence": "official"
   },
   {
     "id": "e567",
@@ -10680,12 +10740,18 @@
     "hue": 77.6,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2026-banknotes/fronts/FIJW0125o.jpg",
     "slug": "fiji-5-dollars-e567",
-    "body": "Major denomination supporting significant transactions. Incorporates sophisticated security features and artistic design. Widely recognized in Southeast Asian commerce.",
-    "highlights": {},
+    "body": "The Reserve Bank of Fiji launched all five denominations of a fully redesigned polymer series on 2 January 2026, completing the country's transition to an all-polymer currency. The 5 Dollar note is produced on GUARDIAN™ polymer by Crane Currency. Its obverse features a Red-throated Lory parrot (Charmosyna amabilis), a vibrantly colored endemic bird. The reverse depicts a Vonu Dina (green sea turtle), an endangered native species. A transparent window contains a decorative salt basket design. The note forms part of a series in which front designs celebrate Fiji's iconic flora and fauna while reverse designs honor the nation's people, heritage, and resources.",
+    "highlights": {
+      "reason": "First full all-polymer banknote series for Fiji, replacing a mixed substrate series; introduces Crane Currency's MOTION SURFACE® micro-optic security and reflects Fiji's national identity.",
+      "design": "Obverse: Red-throated Lory parrot (Charmosyna amabilis), endemic flora. Reverse: Vonu Dina (green sea turtle).",
+      "security": "GUARDIAN™ polymer; MOTION SURFACE® micro-optic stripe featuring Fiji coat of arms and native plant leaves; CAMEO™ secondary transparent window with salt basket; G SWITCH™ color-shifting effect; IRISWITCH™ pearlescent band; tactile lines on short edges; embossed dots for visually impaired."
+    },
     "sources": [
-      "Bank of Thailand"
+      "https://www.cranecurrency.com/news-insights/fiji-unveils-new-polymer-banknotes-featuring-motion-surface-security/",
+      "https://www.rbf.gov.fj/press-release-no-22-rbf-to-launch-new-banknotes/",
+      "https://platform.keesingtechnologies.com/fiji-launches-a-new-series-of-redesigned-polymer-banknotes/"
     ],
-    "confidence": "fallback"
+    "confidence": "official"
   },
   {
     "id": "e568",
@@ -10698,12 +10764,18 @@
     "hue": 282.9,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2026-banknotes/fronts/FIJW0126o.jpg",
     "slug": "fiji-10-dollars-e568",
-    "body": "Common high-value note in Thai circulation. Features cultural and historical significance. Practical for commercial and retail transactions.",
-    "highlights": {},
+    "body": "The Reserve Bank of Fiji introduced the redesigned 10 Dollar polymer note on 2 January 2026 as part of its landmark first all-polymer series. The obverse of this GUARDIAN™ substrate note features a fish illustration evoking Fiji's rich marine environment. The reverse is dedicated to environmental stewardship, depicting children planting mangroves along a coastline — a symbol of Fiji's commitment to climate resilience and coastal ecosystem protection. A transparent window contains a duck-shaped traditional Fijian vase motif. The note includes the MOTION SURFACE® micro-optic stripe — a world-first technology in a full polymer series — and tactile accessibility features that increase in number with denomination.",
+    "highlights": {
+      "reason": "Part of the 2026 all-polymer series replacing the previous mixed-substrate design; highlights environmental conservation and climate action as key national values.",
+      "design": "Obverse: Native fish illustration, Fijian flora and fauna motifs. Reverse: Children planting mangroves on coastline.",
+      "security": "GUARDIAN™ polymer; MOTION SURFACE® micro-optic stripe; CAMEO™ transparent window with duck-vase motif; G SWITCH™ color-shifting; IRISWITCH™ pearlescent band; tactile lines on edges; accessibility dots."
+    },
     "sources": [
-      "Bank of Thailand"
+      "https://www.cranecurrency.com/news-insights/fiji-unveils-new-polymer-banknotes-featuring-motion-surface-security/",
+      "https://platform.keesingtechnologies.com/fiji-launches-a-new-series-of-redesigned-polymer-banknotes/",
+      "https://www.rbf.gov.fj/press-release-no-22-rbf-to-launch-new-banknotes/"
     ],
-    "confidence": "fallback"
+    "confidence": "official"
   },
   {
     "id": "e569",
@@ -10716,12 +10788,18 @@
     "hue": 195.8,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2026-banknotes/fronts/FIJW0127o.jpg",
     "slug": "fiji-20-dollars-e569",
-    "body": "Mid-range denomination facilitating everyday transactions. Colorful design with enhanced security features. Essential for daily commerce across Thailand.",
-    "highlights": {},
+    "body": "Fiji's redesigned 20 Dollar polymer note entered circulation on 2 January 2026, part of the Reserve Bank of Fiji's first fully polymer series. The obverse of the GUARDIAN™ substrate note depicts a bird in flight over waves, evoking the archipelago's seascape. The reverse displays the Reserve Bank of Fiji's head office building in Suva — a recognition of the central bank's role in monetary governance. A transparent window features a coconut scraper (tavā), a traditional Fijian domestic tool. Along with all denominations in the series, the note carries Crane Currency's MOTION SURFACE® micro-optic security stripe, and denomination-specific color transitions in the G SWITCH™ window.",
+    "highlights": {
+      "reason": "New all-polymer series for Fiji, with reverses celebrating national institutions and cultural heritage; this denomination acknowledges the Reserve Bank itself.",
+      "design": "Obverse: Native bird in flight over ocean waves. Reverse: Reserve Bank of Fiji building, Suva.",
+      "security": "GUARDIAN™ polymer; MOTION SURFACE® micro-optic stripe with coat of arms and native plant leaves; CAMEO™ transparent window with coconut scraper motif; G SWITCH™ color-shifting; IRISWITCH™ band; tactile lines and dots."
+    },
     "sources": [
-      "Bank of Thailand"
+      "https://platform.keesingtechnologies.com/fiji-launches-a-new-series-of-redesigned-polymer-banknotes/",
+      "https://www.cranecurrency.com/news-insights/fiji-unveils-new-polymer-banknotes-featuring-motion-surface-security/",
+      "https://www.rbf.gov.fj/press-release-no-22-rbf-to-launch-new-banknotes/"
     ],
-    "confidence": "fallback"
+    "confidence": "official"
   },
   {
     "id": "e570",
@@ -10734,12 +10812,18 @@
     "hue": 15.6,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2026-banknotes/fronts/FIJW0128o.jpg",
     "slug": "fiji-50-dollars-e570",
-    "body": "Common circulation note supporting retail activity. Compact practical design. Fundamental to Thai monetary system.",
-    "highlights": {},
+    "body": "The 50 Dollar note introduced on 2 January 2026 is notable for its tribute to Fiji's Indo-Fijian community and the girmit legacy. The obverse features a liana flower, representing Fiji's tropical vegetation. The reverse honors a Girmitiya woman — a descendant of indentured laborers brought from India to Fiji between 1879 and 1916 — with the historical vessel Leonidas, the first ship to transport Indian indentured workers, depicted in the background. A transparent window carries a whale's tooth (tabua) necklace, a sacred object in traditional Fijian culture. The note is printed on GUARDIAN™ polymer by Crane Currency with a full suite of MOTION SURFACE® and G SWITCH™ security elements.",
+    "highlights": {
+      "reason": "New all-polymer series; this denomination specifically honors the girmit (indenture) history and the contributions of Indo-Fijian communities to the nation's development.",
+      "design": "Obverse: Liana flower. Reverse: Traditional Girmitiya (Indo-Fijian) woman with the ship Leonidas in the background.",
+      "security": "GUARDIAN™ polymer; MOTION SURFACE® micro-optic stripe; CAMEO™ transparent window with whale's tooth (tabua) necklace; G SWITCH™ denomination-specific color-shift; IRISWITCH™ band; tactile lines; accessibility dots."
+    },
     "sources": [
-      "Bank of Thailand"
+      "https://platform.keesingtechnologies.com/fiji-launches-a-new-series-of-redesigned-polymer-banknotes/",
+      "https://www.theaustraliatoday.com.au/fijis-new-50-note-pays-tribute-to-indian-girmit-women/",
+      "https://banknotenews.com/?p=48743"
     ],
-    "confidence": "fallback"
+    "confidence": "official"
   },
   {
     "id": "e571",
@@ -10752,12 +10836,18 @@
     "hue": 38.1,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2026-banknotes/fronts/FIJW0129o.jpg",
     "slug": "fiji-100-dollars-e571",
-    "body": "Major denomination using US currency framework. Part of Timor-Leste's dollarization policy. Supports commercial and banking transactions.",
-    "highlights": {},
+    "body": "The highest denomination in Fiji's new 2026 all-polymer series, the 100 Dollar note entered circulation on 2 January 2026. It celebrates indigenous Fijian (i-Taukei) culture through its central reverse image: a man in traditional ceremonial attire presenting a bilo (coconut-shell bowl) of yaqona (kava) — the Pacific's most significant ceremonial drink. The obverse displays a nanai (cicada) insect alongside the Fijian coat of arms and kava plant leaves. A transparent window features a golden cowrie shell necklace, a traditional symbol of chiefly status. Printed on GUARDIAN™ polymer by Crane Currency, the note features the most tactile accessibility markers of any denomination in the series.",
+    "highlights": {
+      "reason": "Highest denomination in the new all-polymer series; honors indigenous Fijian (i-Taukei) culture and the centrality of the yaqona (kava) ceremony to national identity.",
+      "design": "Obverse: Nanai (cicada) insect, Fijian coat of arms, kava plant leaves. Reverse: i-Taukei man in traditional dress presenting kava in a bilo (coconut shell bowl).",
+      "security": "GUARDIAN™ polymer; MOTION SURFACE® micro-optic stripe; CAMEO™ transparent window with golden cowrie shell necklace; G SWITCH™ color-shifting; IRISWITCH™ band; highest number of tactile lines and accessibility dots among all five denominations."
+    },
     "sources": [
-      "Central Bank of Timor-Leste"
+      "https://platform.keesingtechnologies.com/fiji-launches-a-new-series-of-redesigned-polymer-banknotes/",
+      "https://banknotenews.com/?p=48743",
+      "https://www.cranecurrency.com/news-insights/fiji-unveils-new-polymer-banknotes-featuring-motion-surface-security/"
     ],
-    "confidence": "fallback"
+    "confidence": "official"
   },
   {
     "id": "e572",
@@ -10788,12 +10878,18 @@
     "hue": 176,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2026-banknotes/fronts/IND0111o.jpg",
     "slug": "india-50-rupees-e573",
-    "body": "Common circulation denomination supporting everyday commerce. Widely used in retail and service sectors.",
-    "highlights": {},
+    "body": "The Reserve Bank of India introduced this 50 Rupee note on 18 August 2017 as part of the Mahatma Gandhi (New) Series, replacing the earlier design. New-date variants with updated governor signatures have continued to be issued, including a 2026-dated version. Fluorescent blue in color and measuring 135 × 66 mm, the obverse bears the portrait of Mahatma Gandhi, the Ashoka Pillar emblem, and micro-text security elements. The reverse depicts the Hampi with Chariot motif — the iconic stone chariot (Garuda Ratha) at the Vittala Temple complex, a UNESCO World Heritage Site in Karnataka — along with the Swachh Bharat Abhiyan logo and slogan.",
+    "highlights": {
+      "reason": "Part of the RBI's Mahatma Gandhi New Series introduced following the 2016 demonetisation; new-date variants update signatories while retaining the design.",
+      "design": "Obverse: Mahatma Gandhi portrait, Ashoka Pillar emblem. Reverse: Hampi with Chariot (Garuda Ratha stone chariot, Vittala Temple, Karnataka); Swachh Bharat logo.",
+      "security": "Windowed demetalized security thread with 'भारत' (Bharat) and 'RBI'; latent image of '50' on right vertical band; Mahatma Gandhi watermark and electrotype '50'; see-through register; intaglio printing; optically variable ink denomination; fluorescent fibers; Braille-like square tactile mark."
+    },
     "sources": [
-      "Central Bank of Timor-Leste"
+      "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=41412",
+      "https://en.wikipedia.org/wiki/Indian_50-rupee_note",
+      "https://coinweek.com/india-introduces-50-200-rupee-banknotes-new-mahatma-gandhi-series/"
     ],
-    "confidence": "fallback"
+    "confidence": "official"
   },
   {
     "id": "e574",
@@ -10806,12 +10902,18 @@
     "hue": 34.3,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2026-banknotes/fronts/IND0113o.jpg",
     "slug": "india-200-rupees-e574",
-    "body": "Practical denomination for frequent transactions. Facilitates grassroots commerce and informal economy.",
-    "highlights": {},
+    "body": "The Reserve Bank of India launched the 200 Rupee note on 25 August 2017 as a new denomination filling a gap in the Mahatma Gandhi (New) Series between ₹100 and ₹500. The bright yellow note measures 146 × 66 mm. The obverse features the portrait of Mahatma Gandhi alongside the Ashoka Pillar emblem and raised intaglio printing. The reverse depicts the Great Stupa of Sanchi in Madhya Pradesh — an iconic Buddhist monument dating to the 3rd century BCE and a UNESCO World Heritage Site — reflecting India's ancient cultural heritage. New-date variants bearing updated governor signatures, including a 2026 version, continue to circulate.",
+    "highlights": {
+      "reason": "New denomination introduced to fill the gap between ₹100 and ₹500 in the Mahatma Gandhi New Series following demonetisation in 2016.",
+      "design": "Obverse: Mahatma Gandhi portrait, Ashoka Pillar emblem, raised intaglio text. Reverse: Great Stupa of Sanchi, Madhya Pradesh (3rd century BCE Buddhist monument).",
+      "security": "Green-to-blue color-shifting windowed security thread with 'भारत' and 'RBI'; latent image of '200' on vertical band; see-through register with floral denomination design; Mahatma Gandhi and electrotype '200' watermarks; raised intaglio printing; angular bleed lines for tactile identification; optically variable ink '200' (green to blue)."
+    },
     "sources": [
-      "Central Bank of Timor-Leste"
+      "https://coinweek.com/india-introduces-50-200-rupee-banknotes-new-mahatma-gandhi-series/",
+      "https://en.wikipedia.org/wiki/Indian_200-rupee_note",
+      "https://www.rbi.org.in/commonman/English/Currency/Scripts/SecurityFeatures.aspx"
     ],
-    "confidence": "fallback"
+    "confidence": "official"
   },
   {
     "id": "e575",
@@ -10824,12 +10926,18 @@
     "hue": 75.2,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2026-banknotes/fronts/INOW0166o.jpg",
     "slug": "indonesia-20-000-rupiah-e575",
-    "body": "Lowest denomination in Timorese monetary system. Supports small retail transactions and daily commerce.",
-    "highlights": {},
+    "body": "Bank Indonesia's 2022-series 20,000 Rupiah note was issued on 17 August 2022 to celebrate Indonesia's 77th Independence Day anniversary. A new-date variant bearing a 2026 date (B621e) has been confirmed, carrying updated signatures. The obverse features Dr. G.S.S.J. Ratulangi, a national independence hero and the first governor of Sulawesi Province, set against the Indonesian coat of arms, a black orchid, and a national map. The reverse depicts a Tari Gong dancer from East Kalimantan and a sea turtle off the Derawan Islands. The predominantly green-blue note (141 × 65 mm) forms part of the complete 2022 series which replaced the 2016 rupiah family.",
+    "highlights": {
+      "reason": "2026-dated variant of the 2022 independence anniversary series, updating the circulating note with new signatures while retaining the existing design.",
+      "design": "Obverse: Dr. G.S.S.J. Ratulangi portrait, Indonesian coat of arms, black orchid, map. Reverse: Tari Gong dancer from East Kalimantan, Derawan Islands sea turtle.",
+      "security": "Windowed demetalized security thread 'BI 20000'; Oto Iskandar di Nata watermark; UV fluorescence; phosphorescent ink; infrared ink; magnetic security thread; intaglio printing."
+    },
     "sources": [
-      "Central Bank of Timor-Leste"
+      "https://banknotenews.com/?p=50389",
+      "https://banknotenews.com/?p=37424",
+      "https://currencyaffairs.org/document/indonesia-2022-rupiah-banknote-series/"
     ],
-    "confidence": "fallback"
+    "confidence": "secondary"
   },
   {
     "id": "e576",
@@ -10842,12 +10950,18 @@
     "hue": 358.6,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2026-banknotes/fronts/NIAW0047o.jpg",
     "slug": "nigeria-200-naira-e576",
-    "body": "Highest denomination from West African monetary union. Features pan-African symbolism and cultural themes. Supports commercial transactions across WAEMU region.",
-    "highlights": {},
+    "body": "The Central Bank of Nigeria unveiled redesigned 200, 500, and 1,000 Naira notes in November 2022, with the updated 200 Naira entering circulation by 15 December 2022. Subsequent signature-change variants have continued through 2026. The 200 Naira note measures 151 × 78 mm and is distinctly rendered in red, pink, and orange — a significant shift from its previous muted green-brown palette. The obverse retains the portrait of Sir Ahmadu Bello, the Sardauna of Sokoto and a founding leader of Nigeria's First Republic. The reverse depicts agricultural commodities, livestock farming, and the Nigerian coat of arms, celebrating the country's agrarian economy.",
+    "highlights": {
+      "reason": "Redesigned in 2022 at President Buhari's approval to reduce counterfeiting and curb corruption by making existing notes harder to hoard; new-signature variants updated through 2026.",
+      "design": "Obverse: Sir Ahmadu Bello (Sardauna of Sokoto) portrait. Reverse: Agricultural commodities, livestock, Nigerian coat of arms, yellow trumpet flowers.",
+      "security": "Hand-engraved portrait; windowed metallic security thread with 'CBN' inscription; CBN 200 watermark; portrait watermark; optically variable ink (blue to green); embossed coat of arms gold patch; see-through register; raised intaglio printing; UV-fluorescent security ink."
+    },
     "sources": [
-      "Central Bank of West African States"
+      "https://en.wikipedia.org/wiki/Nigerian_two-hundred-naira_note",
+      "https://thenationonlineng.net/cbn-releases-security-features-of-new-naira-notes/",
+      "https://banknotenews.com/?p=42948"
     ],
-    "confidence": "fallback"
+    "confidence": "secondary"
   },
   {
     "id": "e577",
@@ -10860,12 +10974,18 @@
     "hue": 58.3,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2026-banknotes/fronts/PNGW0059o.jpg",
     "slug": "papua-new-guinea-100-kina-e577",
-    "body": "Major denomination in WAEMU circulation. Part of coordinated monetary system. Facilitates significant transactions in Togo.",
-    "highlights": {},
+    "body": "This is the regular circulation 100 Kina note issued by the Bank of Papua New Guinea bearing a 2026 date, distinct from the Sir Julius Chan commemorative issue. The standard 100 Kina has been the flagship denomination of Papua New Guinea's polymer note series for many years. The obverse features Parliament House in Port Moresby and the National Crest of Papua New Guinea — a bird of paradise perched on a Kundu drum with a ceremonial spear. The reverse carries traditional cultural imagery representing the diversity of Papua New Guinea's people, including canoes and traditional ceremonial elements. The note is printed on Guardian polymer substrate by Note Printing Australia.",
+    "highlights": {
+      "reason": "Standard annual circulation issue of the flagship 100 Kina denomination, updated with a 2026 date and current governor signatures.",
+      "design": "Obverse: Parliament House, Port Moresby; National Crest (bird of paradise on Kundu drum). Reverse: Traditional Papua New Guinean cultural imagery including canoes and ceremonial elements.",
+      "security": "Guardian polymer substrate; shadow-image watermark; intaglio printing; printed by Note Printing Australia."
+    },
     "sources": [
-      "Central Bank of West African States"
+      "https://banknotenews.com/?p=49695",
+      "https://www.bankpng.gov.pg/bpng-issues-new-k100-banknote-honouring-sir-julius-chan",
+      "https://en.numista.com/catalogue/note266138.html"
     ],
-    "confidence": "fallback"
+    "confidence": "secondary"
   },
   {
     "id": "e578",
@@ -10878,12 +10998,18 @@
     "hue": 210.4,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2026-banknotes/fronts/SHLW0014o.jpg",
     "slug": "saint-helena-5-pounds-e578",
-    "body": "Common high-value note in Togolese economy. Features cultural heritage and regional symbolism. Widely used in commerce.",
-    "highlights": {},
+    "body": "The Government of Saint Helena issued this redesigned 5 Pound polymer note, which entered official circulation on 22 January 2026. It is the smallest denomination of a new three-note series (£5, £10, £20) that replaced the previous King Charles III paper series with more secure and durable polymer notes. Printed on polymer by De La Rue and measuring 135 × 70 mm, the blue note bears the official portrait of King Charles III on the obverse. The reverse depicts two of Saint Helena's most beloved natural symbols: the endemic Saint Helena Ebony flower (Trochetiopsis ebenus) and Jonathan the Tortoise, the world's oldest known living land animal at over 190 years of age.",
+    "highlights": {
+      "reason": "Transition from paper to polymer currency featuring King Charles III; modernises the island's banknotes while preserving Saint Helena's distinct identity through natural heritage imagery.",
+      "design": "Obverse: Official portrait of King Charles III. Reverse: Saint Helena Ebony flower (Trochetiopsis ebenus) and Jonathan the Tortoise (Aldabrachelys gigantea hololissa).",
+      "security": "De La Rue polymer substrate; security features intrinsic to polymer construction (transparency, durability, counterfeit resistance)."
+    },
     "sources": [
-      "Central Bank of West African States"
+      "https://banknotenews.com/?p=49187",
+      "https://www.sainthelena.gov.sh/st-helena-government-announces-official-circulation-of-new-king-charles-iii-banknote-series/",
+      "https://www.sainthelena.gov.sh/st-helena-government-to-issue-new-banknotes-featuring-king-charles-iii-and-with-enhanced-security-features/"
     ],
-    "confidence": "fallback"
+    "confidence": "official"
   },
   {
     "id": "e579",
@@ -10896,12 +11022,18 @@
     "hue": 344.7,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2026-banknotes/fronts/SHLW0015o.jpg",
     "slug": "saint-helena-10-pounds-e579",
-    "body": "Essential denomination for everyday transactions. Colorful design facilitates public recognition. Fundamental to Togolese commerce.",
-    "highlights": {},
+    "body": "The 10 Pound polymer note from the Government of Saint Helena entered circulation on 22 January 2026 as part of the new series alongside the £5 and £20 issues. Measuring 135 × 70 mm, it is produced on polymer by De La Rue and is rendered in red. Like all notes in this series, the obverse carries the official effigy of King Charles III. The reverse mirrors the theme of the companion denominations, featuring the Saint Helena Ebony (Trochetiopsis ebenus) — a critically endangered endemic flowering tree — and Jonathan the Tortoise, the Seychelles giant tortoise resident at Plantation House who serves as a global symbol of Saint Helena.",
+    "highlights": {
+      "reason": "New polymer series featuring King Charles III, replacing earlier paper notes; polymer substrate significantly increases durability and security for the island's small-circulation currency.",
+      "design": "Obverse: Official portrait of King Charles III. Reverse: Saint Helena Ebony flower (Trochetiopsis ebenus) and Jonathan the Tortoise.",
+      "security": "De La Rue polymer substrate; security features inherent to polymer (transparent elements, anti-counterfeiting printing)."
+    },
     "sources": [
-      "Central Bank of West African States"
+      "https://banknotenews.com/?p=49191",
+      "https://www.sainthelena.gov.sh/st-helena-government-announces-official-circulation-of-new-king-charles-iii-banknote-series/",
+      "https://en.wikipedia.org/wiki/Saint_Helena_pound"
     ],
-    "confidence": "fallback"
+    "confidence": "official"
   },
   {
     "id": "e580",
@@ -10914,12 +11046,18 @@
     "hue": 9.5,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2026-banknotes/fronts/SHLW0016o.jpg",
     "slug": "saint-helena-20-pounds-e580",
-    "body": "Common circulation note supporting retail transactions. Practical for small purchases. Integral to WAEMU system.",
-    "highlights": {},
+    "body": "The highest denomination in Saint Helena's new 2026 polymer series, the 20 Pound note entered official circulation on 22 January 2026. De La Rue printed the 135 × 70 mm note on polymer in a brown color scheme. The obverse shows the official royal portrait of King Charles III. The reverse consistently features the same natural imagery as the £5 and £10 notes — the Saint Helena Ebony flower and Jonathan the Tortoise — creating a unified visual identity across the series. The notes are signed by Governor Richards, Financial Secretary Yon, and Treasurer O'Bey/Francis.",
+    "highlights": {
+      "reason": "Largest denomination of the new polymer series; designed to give Saint Helena's currency a modern, durable format bearing the new monarch's portrait.",
+      "design": "Obverse: Official portrait of King Charles III. Reverse: Saint Helena Ebony flower (Trochetiopsis ebenus) and Jonathan the Tortoise.",
+      "security": "De La Rue polymer substrate; polymer-inherent anti-counterfeiting properties."
+    },
     "sources": [
-      "Central Bank of West African States"
+      "https://banknotenews.com/?p=49195",
+      "https://www.sainthelena.gov.sh/st-helena-government-announces-official-circulation-of-new-king-charles-iii-banknote-series/",
+      "https://en.wikipedia.org/wiki/Saint_Helena_pound"
     ],
-    "confidence": "fallback"
+    "confidence": "official"
   },
   {
     "id": "e581",
@@ -10932,12 +11070,18 @@
     "hue": 223.1,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2026-banknotes/fronts/UAEW2021-0050commo.jpg",
     "slug": "united-arab-emirates-50-dirhams-e581",
-    "body": "Major denomination from Transnistrian 2024 series. Features regional symbols and political imagery. Circulates within breakaway territory.",
-    "highlights": {},
+    "body": "This is the 2026 new-date variant of the UAE's polymer 50 Dirhams note, originally introduced on 7 December 2021 as the UAE's Golden Jubilee commemorative issue and its first polymer banknote. The design remains unchanged from the 2021 issue: the 151 × 64 mm note is produced on De La Rue SAFEGUARD® polymer in violet and blue tones. The obverse depicts Sheikh Zayed bin Sultan Al Nahyan, Wahat Al Karama, and the seven founding fathers. The reverse shows Sheikh Zayed signing the 1971 union charter at the Etihad Museum. Braille embossing, transparent windows with optically variable imagery, and advanced intaglio printing provide multi-layer authentication.",
+    "highlights": {
+      "reason": "Updated circulation variant of the 2021 Golden Jubilee polymer 50 Dirhams, reflecting standard practice of issuing new-date or new-signature versions while retaining the commemorative design.",
+      "design": "Obverse: Sheikh Zayed portrait, Wahat Al Karama (Martyrs' Memorial), seven founding fathers. Reverse: Sheikh Zayed signing union charter, Etihad Museum.",
+      "security": "De La Rue SAFEGUARD® polymer; transparent windows; fluorescent blue UAE nation brand marks; advanced intaglio printing; Braille embossing; denomination-specific color-shifting optically variable features."
+    },
     "sources": [
-      "Pridnestrovskiy Bank"
+      "https://banknotenews.com/?p=34878",
+      "https://www.bayut.com/mybayut/new-dirham-50-note-uae/",
+      "https://platform.keesingtechnologies.com/marks-50-year-anniversary-with-commemorative-banknote/"
     ],
-    "confidence": "fallback"
+    "confidence": "secondary"
   },
   {
     "id": "e582",
@@ -10950,12 +11094,18 @@
     "hue": 1.7,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2026-banknotes/fronts/ZIMW0115o.jpg",
     "slug": "zimbabwe-10-zig-zimbabwe-gold-e582",
-    "body": "Common circulation note in Transnistria. Features regional culture and historical references. Supports local economic activity.",
-    "highlights": {},
+    "body": "The Reserve Bank of Zimbabwe introduced the upgraded ZiG 10 note on 7 April 2026 as part of the new 'Big 5' ZiG series, replacing the original 2024 ZiG notes that had suffered rapid wear. The Zimbabwe Gold (ZiG) currency, launched in April 2024 and linked to gold reserves, required a more durable redesign. The ZiG 10 features an African Buffalo (Cape buffalo) rendered in intaglio on the obverse, alongside the RBZ's three balancing rocks logo. The reverse depicts the Matopo Hills — the ancient granite domes and balancing rocks of Matobo National Park in southern Zimbabwe, a UNESCO World Heritage Site. Security is enhanced over the 2024 series.",
+    "highlights": {
+      "reason": "Redesigned 'Big 5' upgrade of the original 2024 ZiG notes; banks and retailers had reported rapid fading and tearing; the RBZ issued a more durable note with enhanced security for the ZiG currency backed by gold and foreign reserves.",
+      "design": "Obverse: African Buffalo (Cape buffalo), RBZ three balancing rocks logo. Reverse: Matopo Hills (Matobo National Park), Zimbabwe.",
+      "security": "Intaglio-printed wildlife with tactile relief; magnetic security thread with denomination inscription; PEAK™ anti-copy element; SPARK® optical variable device showing Zimbabwe Bird; ColorShift™ element; see-through register; watermark of Zimbabwe Bird with denomination; tactile horizontal lines for visually impaired."
+    },
     "sources": [
-      "Pridnestrovskiy Bank"
+      "https://planetbanknote.com/banknote-blog/zimbabwe-big5-zig-banknotes-2026-complete-collectors-guide/",
+      "https://platform.keesingtechnologies.com/coming-soon-zimbabwes-upgraded-big-5-zig-banknote-series/",
+      "https://noteshobby.com/blogs/banknote/new-zimbabwe-banknotes-2026"
     ],
-    "confidence": "fallback"
+    "confidence": "secondary"
   },
   {
     "id": "e583",
@@ -10968,12 +11118,18 @@
     "hue": 30.7,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2026-banknotes/fronts/ZIMW0116o.jpg",
     "slug": "zimbabwe-20-zig-zimbabwe-gold-e583",
-    "body": "Mid-range denomination from 2024 series. Practical design for everyday commerce. Essential for Transnistrian economy.",
-    "highlights": {},
+    "body": "The ZiG 20 entered circulation on 7 April 2026 as the middle denomination of Zimbabwe's new 'Big 5' banknote series. The upgrade was prompted by widespread durability failures in the original 2024 ZiG notes. The obverse of the ZiG 20 features an African Elephant — the largest of the Big Five — rendered in high-relief intaglio printing, alongside the Reserve Bank of Zimbabwe's logo of three balancing rocks. The reverse depicts the Parliament of Zimbabwe building in Harare, linking Zimbabwe's wildlife heritage with its constitutional institutions. The note carries a full suite of modern security features including SPARK® optical variable device and PEAK™ anti-copy elements.",
+    "highlights": {
+      "reason": "Upgraded Big 5 redesign of the 2024 ZiG 20 note; addresses documented durability problems and introduces enhanced security features for the gold-backed ZiG currency.",
+      "design": "Obverse: African Elephant, RBZ three balancing rocks logo. Reverse: Parliament of Zimbabwe, Harare.",
+      "security": "Intaglio-printed elephant with tactile surface; magnetic security thread; PEAK™ anti-copy element; SPARK® optical variable Zimbabwe Bird; ColorShift™ device; see-through register; Zimbabwe Bird watermark with denomination; tactile lines for visually impaired."
+    },
     "sources": [
-      "Pridnestrovskiy Bank"
+      "https://planetbanknote.com/banknote-blog/zimbabwe-big5-zig-banknotes-2026-complete-collectors-guide/",
+      "https://platform.keesingtechnologies.com/coming-soon-zimbabwes-upgraded-big-5-zig-banknote-series/",
+      "https://noteshobby.com/blogs/banknote/new-zimbabwe-banknotes-2026"
     ],
-    "confidence": "fallback"
+    "confidence": "secondary"
   },
   {
     "id": "e584",
@@ -10986,11 +11142,17 @@
     "hue": 86.9,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2026-banknotes/fronts/ZIMW0117o.jpg",
     "slug": "zimbabwe-50-zig-zimbabwe-gold-e584",
-    "body": "Low-denomination note facilitating grassroots commerce. Supports retail and informal transactions. Reflects Transnistrian monetary independence.",
-    "highlights": {},
+    "body": "The highest of the three initial 'Big 5' ZiG denominations launched on 7 April 2026, the ZiG 50 completes the first phase of Zimbabwe's upgraded gold-backed banknote series. The obverse depicts a Black Rhinoceros — one of Africa's most endangered mammals and a symbol of Zimbabwe's conservation efforts — alongside the RBZ logo. The reverse features a national landmark as published in the Reserve Bank of Zimbabwe's official gazette. The ZiG 50 carries the most comprehensive security package of the three initial denominations. Higher denominations (ZiG 100 featuring a Leopard and ZiG 200 featuring a Lion) are planned for later issuance.",
+    "highlights": {
+      "reason": "Highest-value note in the first tranche of the Big 5 ZiG series; part of the broader upgrade program addressing durability failures of the original 2024 ZiG notes and reinforcing confidence in Zimbabwe's gold-backed currency.",
+      "design": "Obverse: Black Rhinoceros, RBZ three balancing rocks logo. Reverse: National landmark as gazetted by the Reserve Bank of Zimbabwe.",
+      "security": "Intaglio-printed rhinoceros with tactile relief; magnetic security thread with denomination inscription; PEAK™ anti-copy element; SPARK® optical variable Zimbabwe Bird device; ColorShift™ element; see-through register; Zimbabwe Bird watermark; tactile lines and denomination-specific accessibility markers."
+    },
     "sources": [
-      "Pridnestrovskiy Bank"
+      "https://planetbanknote.com/banknote-blog/zimbabwe-big5-zig-banknotes-2026-complete-collectors-guide/",
+      "https://platform.keesingtechnologies.com/coming-soon-zimbabwes-upgraded-big-5-zig-banknote-series/",
+      "https://africabusinessinsight.com/zimbabwe-unveils-upgraded-zig-banknotes/"
     ],
-    "confidence": "fallback"
+    "confidence": "secondary"
   }
 ]
