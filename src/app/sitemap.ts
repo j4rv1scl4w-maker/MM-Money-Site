@@ -1,6 +1,9 @@
 import type { MetadataRoute } from 'next';
 import { getArticles } from '@/lib/content';
 
+// Required for output: 'export' — async metadata routes must opt in to static rendering
+export const dynamic = 'force-static';
+
 const BASE = 'https://mmmoneybanknotes.com';
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
