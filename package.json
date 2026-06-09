@@ -4,7 +4,6 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "studio": "next dev",
     "build": "NEXT_PUBLIC_BUILD_MODE=export next build",
     "build:dev": "next build",
     "start": "next start",
