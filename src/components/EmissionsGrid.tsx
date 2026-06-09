@@ -3,10 +3,10 @@ import { useState } from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
 import Banknote from './Banknote';
-import type { Emission } from '@/lib/content';
+import type { EmissionCard } from '@/lib/content';
 
 interface Props {
-  emissions: Emission[];
+  emissions: EmissionCard[];
 }
 
 export default function EmissionsGrid({ emissions }: Props) {
@@ -56,29 +56,23 @@ export default function EmissionsGrid({ emissions }: Props) {
               {year}
             </div>
             {items.map(e => (
-              <Link
-                key={e.id}
-                href={`/emissions/${e.slug}`}
-                style={{ display: 'grid', gridTemplateColumns: 'auto 1fr', gap: 24, padding: '20px 0', borderTop: '1px solid var(--line)', alignItems: 'start', textDecoration: 'none', color: 'inherit' }}
-              >
-                <div style={{ width: 160, flexShrink: 0, aspectRatio: '8/5', borderRadius: 4, overflow: 'hidden', border: '1px solid var(--line)', background: 'var(--card)', position: 'relative' }}>
+              <Link key={e.id} href={`/emissions/${e.slug}`} className="em-row">
+                <div className="em-thumb">
                   {e.imageUrl
-                    ? <Image src={e.imageUrl} alt={e.title} fill style={{ objectFit: 'contain', background: '#111' }} unoptimized />
+                    ? <Image src={e.imageUrl} alt={e.title} fill className="em-img" unoptimized />
                     : <Banknote hue={e.hue} dark label={e.country} style={{ width: '100%', height: '100%' }} />
                   }
                 </div>
                 <div>
-                  <div style={{ display: 'flex', alignItems: 'center', gap: 12, marginBottom: 8 }}>
-                    <span style={{ font: '600 10px/1 Hanken Grotesk,sans-serif', letterSpacing: '.1em', textTransform: 'uppercase', color: 'var(--ink2)' }}>{e.country}</span>
-                    <span style={{ width: 3, height: 3, borderRadius: 99, background: 'var(--line)', display: 'inline-block' }} />
-                    <span style={{ font: '500 11px/1 Hanken Grotesk,sans-serif', color: 'var(--news)' }}>{e.date}</span>
+                  <div className="em-meta">
+                    <span className="em-country">{e.country}</span>
+                    <span className="em-dot" />
+                    <span className="em-date">{e.date}</span>
                   </div>
-                  <div className="serif" style={{ fontSize: 20, lineHeight: 1.25, marginBottom: 8 }}>{e.title}</div>
-                  <div style={{ font: '400 13px/1.6 Hanken Grotesk,sans-serif', color: 'var(--ink2)' }}>{e.description}</div>
-                  <div style={{ font: '500 12px/1 Hanken Grotesk,sans-serif', color: 'var(--ink2)', marginTop: 10 }}>{e.issuer}</div>
-                  {e.body && (
-                    <div style={{ font: '500 11px/1 Hanken Grotesk,sans-serif', color: 'var(--gold)', marginTop: 8 }}>Read more →</div>
-                  )}
+                  <div className="serif em-title">{e.title}</div>
+                  <div className="em-desc">{e.description}</div>
+                  <div className="em-issuer">{e.issuer}</div>
+                  {e.hasBody && <div className="em-more">Read more →</div>}
                 </div>
               </Link>
             ))}

@@ -1,20 +1,3 @@
-// idAuction: Delcampe auction ID — image URL: https://delcampe-static.net/img/lot/{id}/{id}_001.jpg
-// Replace with real IDs from data/collection.csv
-export const SAMPLE_ITEMS = [
-  { id: 1,  idAuction: null, country: "Bosnia",     denom: "100 Dinara",        year: 1993, grade: "UNC", price: 21.5,  views: 24,  tag: "Overprint",  hue: 24,  note: "Sarajevo · Uncivpol" },
-  { id: 2,  idAuction: null, country: "Bosnia",     denom: "50 Mrd Dinara",     year: 1993, grade: "UNC", price: 43.5,  views: 21,  tag: "Rare",       hue: 8,   note: "50 billion" },
-  { id: 3,  idAuction: null, country: "China",      denom: "100 Yuan",          year: 1941, grade: "XF",  price: 10,    views: 14,  tag: "Vintage",    hue: 14,  note: "Central Bank of China" },
-  { id: 4,  idAuction: null, country: "China",      denom: "20 Yuan",           year: 2022, grade: "UNC", price: 9,     views: 6,   tag: "Polymer",    hue: 210, note: "Olympic Winter Games" },
-  { id: 5,  idAuction: null, country: "Congo",      denom: "5 000 Francs",      year: 2013, grade: "AU",  price: 39,    views: 18,  tag: "Rare",       hue: 150, note: "Without serial" },
-  { id: 6,  idAuction: null, country: "Costa Rica", denom: "20 000 Colones",    year: 2020, grade: "UNC", price: 63,    views: 31,  tag: "Polymer",    hue: 130, note: "New polymer" },
-  { id: 7,  idAuction: null, country: "Cook Is.",   denom: "10 Dollars",        year: 1987, grade: "UNC", price: 47,    views: 172, tag: "Low serial", hue: 190, note: "Serial 000368" },
-  { id: 8,  idAuction: null, country: "Biafra",     denom: "5 Pounds",          year: 1969, grade: "VG",  price: 11.5,  views: 40,  tag: "Vintage",    hue: 35,  note: "Civil-war issue" },
-  { id: 9,  idAuction: null, country: "Bhutan",     denom: "1 000 Ngultrum",    year: 2008, grade: "UNC", price: 37,    views: 28,  tag: "—",          hue: 280, note: "" },
-  { id: 10, idAuction: null, country: "Bolivia",    denom: "10 000 Bolivianos", year: 1945, grade: "VF",  price: 24,    views: 27,  tag: "Vintage",    hue: 50,  note: "" },
-  { id: 11, idAuction: null, country: "Comoros",    denom: "500 Francs",        year: 2021, grade: "UNC", price: 5,     views: 70,  tag: "Hybrid",     hue: 170, note: "Newly issued" },
-  { id: 12, idAuction: null, country: "Bosnia",     denom: "100 KM",            year: 1998, grade: "UNC", price: 78,    views: 15,  tag: "Specimen",   hue: 320, note: "Perforated specimen" },
-];
-
 export const UPCOMING = [
   { region: "Eurozona",    issuer: "Banca Centrale Europea",    title: 'Nuova serie € · tema "Cultura europea"', when: "Set 2026", hue: 210 },
   { region: "Regno Unito", issuer: "Bank of England",           title: "£50 in polimero · ritratto aggiornato",  when: "Ott 2026", hue: 150 },
