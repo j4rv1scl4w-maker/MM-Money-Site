@@ -21,6 +21,19 @@ const hanken = Hanken_Grotesk({
 export const metadata: Metadata = {
   title: 'MM·Money — Rare banknotes of the world',
   description: 'Over 4,000 catalogued pieces from 208 countries. Rarities, overprints and specimens for discerning collectors.',
+  openGraph: {
+    siteName: 'MM·Money',
+    title: 'MM·Money — Rare banknotes of the world',
+    description: 'Over 4,000 catalogued pieces from 208 countries. Rarities, overprints and specimens for discerning collectors.',
+    type: 'website',
+    url: 'https://mmmoneybanknotes.com',
+    locale: 'en_GB',
+  },
+  twitter: {
+    card: 'summary',
+    title: 'MM·Money — Rare banknotes of the world',
+    description: 'Over 4,000 catalogued pieces from 208 countries. Rarities, overprints and specimens for discerning collectors.',
+  },
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
