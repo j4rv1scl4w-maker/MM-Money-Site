@@ -5653,10 +5653,16 @@
     "hue": 202.6,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/CZR0027o.jpg",
     "slug": "czechia-5-000-korun-esk-ch-e292",
-    "body": "The 5.000 Korun Českých note issued by Česká Národní Banka in 2023 is part of the ongoing currency circulation series. This denomination facilitates transactions in Czechia's domestic economy and represents the central bank's commitment to maintaining a modern, secure currency system. The note incorporates contemporary security features including enhanced microprinting, color-shifting inks, and updated security threads to protect against counterfeiting. As a 2023 variant, this emission reflects administrative updates to printing specifications or official signatures while maintaining design consistency with previous issues in the series. The note supports both retail commerce and banking operations throughout the currency's circulation area.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The 5,000 korun note features Tomáš Garrigue Masaryk and measures 170 x 74 mm in dark blue. The 2023 version incorporates new printing technology from the State Printing House. A special holographic variant with nanoeffect film in silver metallic finish was released simultaneously, marking the first holographic application on a Czech circulation banknote, celebrating 100 years of the Czech National Bank.",
+    "highlights": {
+      "reason": "Upgrade to new printing technology and commemoration of 100 years of the Czech National Bank",
+      "design": "Dark blue note featuring Tomáš Garrigue Masaryk with optional holographic film imprint containing the '100 Years NBČ' logo",
+      "security": "Advanced printing technology security features, with special holographic variant using hot-pressed nanoeffect film"
+    },
+    "sources": [
+      "https://www.cnb.cz/cs/cnb-news/tiskove-zpravy/CNB-vydava-novy-vzor-bankovky-5-000-Kc/"
+    ],
+    "confidence": "official"
   },
   {
     "id": "e293",
@@ -5669,10 +5675,16 @@
     "hue": 304.8,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/CZRW0031o.jpg",
     "slug": "czechia-1-000-korun-esk-ch-e293",
-    "body": "Printer. 30th Anniversary of Czech National Bank (1993-2023).",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "Commemorative 1,000 korun note issued February 8, 2023, in purple, blue and white, featuring historian František Palacký. The obverse displays an anniversary overprint with a facsimile of the 1993 stamp and a gray anniversary logo by painter Jan Solpery. Limited to 200,000 copies celebrating 30 years of independent Czech and Slovak currencies following the successful 1993 currency split.",
+    "highlights": {
+      "reason": "Celebration of 30th anniversary of the Czech and Slovak currency separation (1993-2023)",
+      "design": "Purple, blue and white note with overprinted 1993 stamp facsimile and optically variable green-blue anniversary logo",
+      "security": "Color-shifting ink in anniversary logo showing gray and blue-green elements"
+    },
+    "sources": [
+      "https://www.cnb.cz/cs/cnb-news/tiskove-zpravy/CNB-vyda-vyrocni-bankovku-1nbsp000nbspKc-snbsppritiskem-kolku/"
+    ],
+    "confidence": "official"
   },
   {
     "id": "e294",
@@ -5749,10 +5761,16 @@
     "hue": 25.9,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/FIJW0124o.jpg",
     "slug": "fiji-100-cents-e298",
-    "body": "Chinese Lunar Year of the Dragon (10.02.2024 - 28.01.2025).",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "Red and yellow polymer commemorative note (145 x 70 mm) celebrating the Chinese Lunar Year of the Dragon, released August 8, 2023. Obverse features hibiscus flowers and national coat of arms; reverse displays a stylized dragon with clouds and red lantern designed by renowned Chinese illustrator Li Min. Holographic foil strip shows Fijian wildlife and cultural symbols.",
+    "highlights": {
+      "reason": "Commemoration of the Chinese Lunar Year of the Dragon (2024-2025)",
+      "design": "Red and yellow polymer note with stylized dragon and red lantern, designed by celebrated Chinese banknote designer Liu Hongsheng",
+      "security": "Holographic foil strip featuring waves, leaves, banded iguana, red-throated lorikeet, and Fijian marine elements"
+    },
+    "sources": [
+      "https://www.streetinsider.com/Press+Releases/Fiji+releases+worlds+first+100-cent+Year+of+the+Dragon+commemorative+banknote/22008457.html"
+    ],
+    "confidence": "official"
   },
   {
     "id": "e299",
@@ -5957,10 +5975,16 @@
     "hue": 9.4,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/GUEW0058A2o.jpg",
     "slug": "guernsey-20-pounds-e311",
-    "body": "The 20 Pounds note issued by States Treasurer of The States of Guernsey in 2023 is part of the ongoing currency circulation series. This denomination facilitates transactions in Guernsey's domestic economy and represents the central bank's commitment to maintaining a modern, secure currency system. The note incorporates contemporary security features including enhanced microprinting, color-shifting inks, and updated security threads to protect against counterfeiting. As a 2023 variant, this emission reflects administrative updates to printing specifications or official signatures while maintaining design consistency with previous issues in the series. The note supports both retail commerce and banking operations throughout the currency's circulation area.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "Updated Guernsey 20 pounds circulation note (149 x 80 mm) in red, blue, green, brown, orange and yellow. Obverse features Queen Elizabeth II, Guernsey lily, and St. James Concert Hall in St. Peter Port; reverse shows St. Sampson's Church and Vale Castle. Enhanced security for 2023 includes 18mm magenta NEXUS embedded stripe with 3D flower petal movement.",
+    "highlights": {
+      "reason": "Enhanced counterfeiting protection with advanced security features for 2023 circulation issue",
+      "design": "Multi-colored note featuring Queen Elizabeth II and Guernsey landmarks with updated layout and security stripe",
+      "security": "New magenta NEXUS embedded stripe (18mm) with 3D movement effect, holographic stripe, and modernized watermark"
+    },
+    "sources": [
+      "https://www.guernseystamps.com/20-Bank-Note-with-updated-security-feature"
+    ],
+    "confidence": "official"
   },
   {
     "id": "e312",
@@ -5973,10 +5997,16 @@
     "hue": 354.2,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/HAI0274ao.jpg",
     "slug": "haiti-50-gourdes-goud-e312",
-    "body": "François Cappiox. Bicentennial of Independence of Haiti (1804-2004).",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "Commemorative 50 gourdes note celebrating Haiti's bicentennial of independence (1804-2004). Features François Cappoix (1766-1806), a revolutionary hero who earned the nickname 'Capois-la-Mort' for his extraordinary bravery at the Battle of Vertières, the final major engagement of the Haitian Revolution. Part of a series honoring Haiti's independence struggle.",
+    "highlights": {
+      "reason": "Commemoration of Haiti's bicentennial of independence in 2004, with reissuance in 2023",
+      "design": "Note features François Cappoix, a legendary Haitian Revolutionary general known for his fearless combat leadership",
+      "security": "Standard bicentennial commemorative note security features"
+    },
+    "sources": [
+      "https://haiti.loopnews.com/index.php/content/savez-vous-quel-heros-historique-est-sur-les-billets-de-50-gds"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e313",
@@ -5989,10 +6019,16 @@
     "hue": 234.1,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/HAI0275ao.jpg",
     "slug": "haiti-100-gourdes-goud-e313",
-    "body": "Henri Christophe. Bicentennial of Independence of Haiti (1804-2004).",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "Commemorative 100 gourdes note honoring Henri Christophe (1767-1820), who served as President of Northern Haiti and later declared himself King Henri I of Haiti in 1811. Reverse features the Citadelle Laferrière fortress. This note continues Haiti's tradition of celebrating independence bicentennial through currency, recognizing key revolutionary leaders.",
+    "highlights": {
+      "reason": "Commemoration of Haiti's bicentennial of independence with focus on King Henri I's legacy",
+      "design": "Note features Henri Christophe, important Haitian independence leader, with fortress imagery",
+      "security": "Standard bicentennial series security features"
+    },
+    "sources": [
+      "https://www.banknotes.com/ht.htm"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e314",
@@ -6005,10 +6041,16 @@
     "hue": 23.2,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/HAI0276ao.jpg",
     "slug": "haiti-250-gourdes-goud-e314",
-    "body": "Jean-Jacques Dessalines. Bicentennial of Independence of Haiti (1804-2004).",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "Commemorative 250 gourdes note featuring Jean-Jacques Dessalines (1758-1806), military leader and first ruler of independent Haiti under the 1805 constitution. Reverse shows Fort Décidé in Marchand. Dessalines led the final phase of the Haitian Revolution, defeating French forces at the Battle of Vertières in November 1803. Issued as part of Haiti's bicentennial independence celebration series.",
+    "highlights": {
+      "reason": "Commemoration of Haiti's bicentennial of independence (1804-2004) with 2023 reissuance",
+      "design": "Note depicts Jean-Jacques Dessalines, founder and first emperor of independent Haiti",
+      "security": "Standard bicentennial commemorative security features"
+    },
+    "sources": [
+      "https://www.haitilibre.com/en/news-40543-haiti-history-265th-anniversary-of-the-birth-of-emperor-jean-jacques-dessalines.html"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e315",
@@ -6021,10 +6063,16 @@
     "hue": 11.1,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/IRNWCBIRI2010-1000000o.jpg",
     "slug": "iran-1-000-000-rials-e315",
-    "body": "The 1.000.000 Rials note issued by Central Bank of the Islamic Republic of Iran in 2023 is part of the ongoing currency circulation series. This denomination facilitates transactions in Iran's domestic economy and represents the central bank's commitment to maintaining a modern, secure currency system. The note incorporates contemporary security features including enhanced microprinting, color-shifting inks, and updated security threads to protect against counterfeiting. As a 2023 variant, this emission reflects administrative updates to printing specifications or official signatures while maintaining design consistency with previous issues in the series. The note supports both retail commerce and banking operations throughout the currency's circulation area.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "High-denomination reissue addressing Iran's severe inflation crisis. Originally designed in 2008, the 1,000,000 rial note was reissued in 2023 as purchasing power eroded dramatically. At 1.6 million rials per US dollar, the note provides practical utility for daily transactions amid currency depreciation. Part of Central Bank's strategy to manage inflationary pressures through larger denominations.",
+    "highlights": {
+      "reason": "Response to severe inflation and currency depreciation requiring high-denomination circulation notes",
+      "design": "High-denomination note designed to facilitate transactions amid accelerating price increases",
+      "security": "Security features appropriate for high-value currency in inflation-stressed economy"
+    },
+    "sources": [
+      "https://fortune.com/2026/03/23/iran-rial-largest-ever-currency-denomination-inflation-financial-sector-ponzi-scheme/"
+    ],
+    "confidence": "official"
   },
   {
     "id": "e316",
@@ -6037,10 +6085,16 @@
     "hue": 176.2,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/IRNW0154C2o.jpg",
     "slug": "iran-2-000-000-rials-e316",
-    "body": "The 2.000.000 Rials note issued by Central Bank of the Islamic Republic of Iran in 2023 is part of the ongoing currency circulation series. This denomination facilitates transactions in Iran's domestic economy and represents the central bank's commitment to maintaining a modern, secure currency system. The note incorporates contemporary security features including enhanced microprinting, color-shifting inks, and updated security threads to protect against counterfeiting. As a 2023 variant, this emission reflects administrative updates to printing specifications or official signatures while maintaining design consistency with previous issues in the series. The note supports both retail commerce and banking operations throughout the currency's circulation area.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "New 2,000,000 rial denomination issued in 2023 to address Iran's accelerating inflation crisis. Worth approximately $47 USD at official rates but significantly less at market rates, reflecting currency depreciation. This highest-denomination note represents the Central Bank's ongoing effort to provide practical currency denominations as inflation erodes purchasing power faster than monetary policy can respond.",
+    "highlights": {
+      "reason": "Creation of new high denomination to address runaway inflation and currency collapse",
+      "design": "Highest-denomination Iranian banknote reflecting modern economic pressures",
+      "security": "Security features designed for highest-value circulating currency"
+    },
+    "sources": [
+      "https://www.coinworld.com/news/paper-money/iran-s-central-bank-issues-two-new-rial-denomination-notes"
+    ],
+    "confidence": "official"
   },
   {
     "id": "e317",
@@ -6053,10 +6107,16 @@
     "hue": 220.2,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/IRQ0100o.jpg",
     "slug": "iraq-5-000-dinars-e317",
-    "body": "The 5.000 Dinars note issued by Central Bank of Iraq in 2023 is part of the ongoing currency circulation series. This denomination facilitates transactions in Iraq's domestic economy and represents the central bank's commitment to maintaining a modern, secure currency system. The note incorporates contemporary security features including enhanced microprinting, color-shifting inks, and updated security threads to protect against counterfeiting. As a 2023 variant, this emission reflects administrative updates to printing specifications or official signatures while maintaining design consistency with previous issues in the series. The note supports both retail commerce and banking operations throughout the currency's circulation area.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "Standard circulation 5,000 dinar note issued with updated governor signature from Mustafa Ghaleb. Purple, blue and orange design (159 x 78 mm) features the Gali Ali Beg waterfall in Kurdish region on obverse and Al-Ukether fortress on reverse. Security thread includes color-shifting green-to-blue RollingStar Cube technology with accessibility marks for sight-impaired users.",
+    "highlights": {
+      "reason": "Updated signature variant reflecting new Central Bank governor",
+      "design": "Purple, blue and orange design featuring Gali Ali Beg waterfall and Kurdish natural heritage",
+      "security": "RollingStar Cube windowed security thread with color-shifting technology and accessibility features"
+    },
+    "sources": [
+      "https://www.banknoteworld.com/iraq-5-000-dinars-banknote-2023-ah1445-p-100a-3-unc.html"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e318",
@@ -6069,10 +6129,16 @@
     "hue": 60.5,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/IRQ0103o.jpg",
     "slug": "iraq-50-000-dinars-e318",
-    "body": "Water wheel on the Euphrates river, Gali Ali Beg waterfall (Kurdistan).",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "High-denomination 50,000 dinar note (156 x 65 mm) in brown, green, yellow and blue. Obverse features Assyrian jar and water wheel on Euphrates River with Gali Ali Beg waterfall; reverse depicts fisherman in marshes with map of Iraq and Euphrates-Tigris river systems. Features RollingStar Cube security thread with Samarra's Malwiya Tower varifeye element and horse head watermark.",
+    "highlights": {
+      "reason": "Issued 2023 to represent Iraq's natural heritage and water resources",
+      "design": "Brown, green, yellow and blue note showing Euphrates water wheel and Iraqi marshlands heritage",
+      "security": "RollingStar Cube windowed thread with spiral minaret and Malwiya Tower registration device"
+    },
+    "sources": [
+      "https://www.banknoteworld.com/iraq-50-000-dinars-banknote-2023-ah1445-p-103a-5-unc.html"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e319",
@@ -6085,10 +6151,16 @@
     "hue": 242.8,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/KAZW0050o.jpg",
     "slug": "kazakhstan-10-000-tenge-e319",
-    "body": "Tenge-coin, Möbius strip. 30th Anniversary of Tenge-Currency.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "Purple and blue commemorative note (149 x 79 mm) released November 15, 2023, celebrating 30 years of the tenge currency. Obverse features Kazakhstan's national emblem, Mobius strip, and map with traditional regional designs; reverse shows Eurasian continent outline, tenge coin, and Mobius strip. Limited edition of 3,000,000 copies legally required to be accepted at face value throughout Kazakhstan.",
+    "highlights": {
+      "reason": "Commemoration of 30th anniversary of tenge currency establishment (1993-2023)",
+      "design": "Purple and blue design with Mobius strip symbolizing currency continuity and traditional Kazakh regional patterns",
+      "security": "Windowed security thread with color-shifting purple-to-green technology and tenge symbol watermark"
+    },
+    "sources": [
+      "https://nationalbank.kz/en/news/banknoty/6781"
+    ],
+    "confidence": "official"
   },
   {
     "id": "e320",
@@ -6101,10 +6173,16 @@
     "hue": 347.3,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/KAZW0054o.jpg",
     "slug": "kazakhstan-5-000-tenge-e320",
-    "body": "Tree of Life with bird, Golden eagle detail, DNA spiral, arms.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "New 5,000 tenge note (140 x 70 mm) launched December 25, 2023, as the first denomination in the 'Saka Style' series. Obverse features Tree of Life branch with hovering bird from the Golden Man's headgear, DNA spiral, and golden eagle artifact from ancient Kazakh archaeology. Reverse displays golden eagle with outspread wings and Charyn Canyon landscape within ornamental infinity pattern.",
+    "highlights": {
+      "reason": "Introduction of new 'Saka Style' series celebrating ancient Kazakh cultural and historical heritage",
+      "design": "Archaeological motifs including golden eagle, Tree of Life, and DNA spiral representing connection between past and future",
+      "security": "Features reflect Kazakh historical artifacts and landscape elements from Berel Kurgans and Taldy Kurgan sites"
+    },
+    "sources": [
+      "https://nationalbank.kz/en/news/banknoty/6782"
+    ],
+    "confidence": "official"
   },
   {
     "id": "e321",
@@ -6245,10 +6323,16 @@
     "hue": 14.4,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/MRS0056ao.jpg",
     "slug": "mauritius-100-rupees-e329",
-    "body": "The 100 Rupees note issued by Bank of Mauritius in 2023 is part of the ongoing currency circulation series. This denomination facilitates transactions in Mauritius's domestic economy and represents the central bank's commitment to maintaining a modern, secure currency system. The note incorporates contemporary security features including enhanced microprinting, color-shifting inks, and updated security threads to protect against counterfeiting. As a 2023 variant, this emission reflects administrative updates to printing specifications or official signatures while maintaining design consistency with previous issues in the series. The note supports both retail commerce and banking operations throughout the currency's circulation area.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "Circulation note issued with signature variant from 2023. The 100 rupees features Renganaden Seeneevassen (1910-1958), Mauritian politician and government minister on obverse; Supreme Court building in Port Louis on reverse. Note uses windowed security thread with demetalized BANK OF MAURITIUS and dodo bird watermark with cornerstones.",
+    "highlights": {
+      "reason": "Signature variant update reflecting changes in central bank governance",
+      "design": "Note honoring Renganaden Seeneevassen, important Mauritian political figure",
+      "security": "Windowed security thread with dodo bird watermark"
+    },
+    "sources": [
+      "https://www.foreigncurrencyandcoin.com/product/mauritius-100-rupees/"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e330",
@@ -6261,10 +6345,16 @@
     "hue": 80.6,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/MRS0061ao.jpg",
     "slug": "mauritius-200-rupees-e330",
-    "body": "The 200 Rupees note issued by Bank of Mauritius in 2023 is part of the ongoing currency circulation series. This denomination facilitates transactions in Mauritius's domestic economy and represents the central bank's commitment to maintaining a modern, secure currency system. The note incorporates contemporary security features including enhanced microprinting, color-shifting inks, and updated security threads to protect against counterfeiting. As a 2023 variant, this emission reflects administrative updates to printing specifications or official signatures while maintaining design consistency with previous issues in the series. The note supports both retail commerce and banking operations throughout the currency's circulation area.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "Circulation 200 rupees banknote issued with 2023 signature variant (P-61e). Mauritius announced transition to new polymer versions in 2024-2025 featuring enhanced security with transparent windows and dodo bird imagery. Standard paper version circulation features watermark and security elements protecting against counterfeiting.",
+    "highlights": {
+      "reason": "Signature variant reflecting central bank governance changes",
+      "design": "Standard 200 rupees circulation design with enhanced security features",
+      "security": "Updated security features including windowed security thread"
+    },
+    "sources": [
+      "https://www.bom.mu/bank-notes-coins/bank-notes/upgraded-bank-notes"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e331",
@@ -6293,10 +6383,16 @@
     "hue": 358.5,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/MEXW2020-0100-AEo.jpg",
     "slug": "mexico-100-pesos-e332",
-    "body": "The 100 Pesos note issued by Banco de México in 2023 is part of the ongoing currency circulation series. This denomination facilitates transactions in Mexico's domestic economy and represents the central bank's commitment to maintaining a modern, secure currency system. The note incorporates contemporary security features including enhanced microprinting, color-shifting inks, and updated security threads to protect against counterfeiting. As a 2023 variant, this emission reflects administrative updates to printing specifications or official signatures while maintaining design consistency with previous issues in the series. The note supports both retail commerce and banking operations throughout the currency's circulation area.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "Red polymer note (132 x 65 mm) from 'G' series issued 2020-2023. Features Sor Juana Ines de la Cruz and patio of San Ildefonso College on obverse; monarch butterflies and Monarch Butterfly Biosphere Reserve on reverse. Third 'G' series release and first to use polymer substrate in vertical format, advancing Mexico's currency modernization.",
+    "highlights": {
+      "reason": "Modernization of Mexican currency with polymer substrate and updated security technology",
+      "design": "Red polymer note honoring Sor Juana Ines de la Cruz and Mexican biodiversity through monarch butterfly imagery",
+      "security": "Polymer substrate provides enhanced durability and counterfeiting protection compared to paper notes"
+    },
+    "sources": [
+      "https://www.banxico.org.mx/banknotes-and-coins/100-peso-banknote-circulation.html"
+    ],
+    "confidence": "official"
   },
   {
     "id": "e333",
@@ -6309,10 +6405,16 @@
     "hue": 198.8,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/MEXW2019-1000-20190610-ABo.jpg",
     "slug": "mexico-1-000-pesos-e333",
-    "body": "The 1.000 Pesos note issued by Banco de México in 2023 is part of the ongoing currency circulation series. This denomination facilitates transactions in Mexico's domestic economy and represents the central bank's commitment to maintaining a modern, secure currency system. The note incorporates contemporary security features including enhanced microprinting, color-shifting inks, and updated security threads to protect against counterfeiting. As a 2023 variant, this emission reflects administrative updates to printing specifications or official signatures while maintaining design consistency with previous issues in the series. The note supports both retail commerce and banking operations throughout the currency's circulation area.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "Horizontal gray cotton-substrate circulation note featuring three Mexican Revolution figures: President Francisco I. Madero, Hermila Galindo, and Carmen Serdán. Issued 2019-2023 by Banco de Mexico. Represents the historical process of Mexican Revolution with updated security features and design elements celebrating Mexico's political transformation.",
+    "highlights": {
+      "reason": "Commemoration of Mexican Revolution and its key historical figures in currency design",
+      "design": "Gray note with three figures representing diverse roles in Mexican Revolution: political leadership and women's contributions",
+      "security": "Cotton substrate with modern Banco de Mexico printing security features"
+    },
+    "sources": [
+      "https://www.banxico.org.mx/banknotes-and-coins/pagina-banknotes-and-coins00001.html"
+    ],
+    "confidence": "official"
   },
   {
     "id": "e334",
@@ -6325,10 +6427,16 @@
     "hue": 50.1,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/MONW0078o.jpg",
     "slug": "mongolia-20-000-t-gr-g-e334",
-    "body": "The 20.000 Tögrög note issued by Mongolbank in 2023 is part of the ongoing currency circulation series. This denomination facilitates transactions in Mongolia's domestic economy and represents the central bank's commitment to maintaining a modern, secure currency system. The note incorporates contemporary security features including enhanced microprinting, color-shifting inks, and updated security threads to protect against counterfeiting. As a 2023 variant, this emission reflects administrative updates to printing specifications or official signatures while maintaining design consistency with previous issues in the series. The note supports both retail commerce and banking operations throughout the currency's circulation area.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "Yellow, purple and green circulation note (152 x 72 mm) bearing signature of Byadran Lkhavasuren. Obverse features Chinggis Khan, a paiza, and national coat of arms; reverse displays Flags of the Golden Horde. Note includes solid security thread and watermark of Chinggis Khan with electrotype МБ, with modified security thread for updated 2023 issue.",
+    "highlights": {
+      "reason": "Signature variant reflecting updated central bank leadership",
+      "design": "Multi-colored note celebrating Mongol historical heritage with Chinggis Khan and Golden Horde symbolism",
+      "security": "Modified solid security thread with watermark featuring national historical figure"
+    },
+    "sources": [
+      "https://www.banknoteworld.com/mongolia-20-000-tugrik-banknote-2023-p-78b-unc.html"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e335",
@@ -6373,10 +6481,16 @@
     "hue": 21.8,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/MRQW0081o.jpg",
     "slug": "morocco-100-dirhams-e337",
-    "body": "King Mohammed VI, arcades of Hassan II mosque (Casablanca), arms.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "Red, blue, green, brown, orange and yellow circulation note launched November 24, 2023. Obverse features King Mohammed VI with Moroccan coat of arms and architectural details from Hassan II Mosque arcades in Casablanca. Reverse depicts Mechouar Place in Laayoune and Tiznit-Dakhla expressway. Celebrates Sahara's cultural heritage and socio-economic development under royal guidance.",
+    "highlights": {
+      "reason": "Issuance reflects Bank Al-Maghrib's commitment to highlighting Saharan development and regional integration",
+      "design": "Multi-colored note featuring King Mohammed VI and Hassan II Mosque architectural elements with Saharan development themes",
+      "security": "Three-windowed security thread with color-shifting magnetic ink and intaglio printing"
+    },
+    "sources": [
+      "https://www.bkam.ma/en/Press-releases/Press-releases/2023/Bank-al-maghrib-puts-into-circulation-new-100-dirham-banknote"
+    ],
+    "confidence": "official"
   },
   {
     "id": "e338",
@@ -6389,10 +6503,16 @@
     "hue": 208.7,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/MRQW0082o.jpg",
     "slug": "morocco-200-dirhams-e338",
-    "body": "King Mohammed VI, Mohammed VI bridge over river Bouregreg (Rabat), arms.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "Blue, yellow and orange circulation note released January 12, 2024, timed to 80th anniversary of Independence Manifesto. Obverse features King Mohammed VI, Mohammed VI Bridge (largest cable-stayed bridge in Africa connecting Rabat-Salé), architectural doors, and coat of arms. Reverse shows Mohammed VI Tower and Marrakesh-Manara International Airport, celebrating Morocco's infrastructure and industrial development.",
+    "highlights": {
+      "reason": "Celebration of Morocco's infrastructure achievements and 80th anniversary of Independence Manifesto",
+      "design": "Note featuring King Mohammed VI and iconic Mohammed VI Bridge, highlighting modern development themes",
+      "security": "Advanced security features including color-shifting elements and intaglio printing"
+    },
+    "sources": [
+      "https://www.bkam.ma/en/Press-releases/Press-releases/2023/Bank-al-maghrib-puts-into-circulation-new-200-dirham-banknote"
+    ],
+    "confidence": "official"
   },
   {
     "id": "e339",
@@ -6405,10 +6525,16 @@
     "hue": 94.2,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/MYAW0087o.jpg",
     "slug": "myanmar-20-000-kyats-e339",
-    "body": "The 20.000 Kyats note issued by Central Bank of Myanmar in 2023 is part of the ongoing currency circulation series. This denomination facilitates transactions in Myanmar's domestic economy and represents the central bank's commitment to maintaining a modern, secure currency system. The note incorporates contemporary security features including enhanced microprinting, color-shifting inks, and updated security threads to protect against counterfeiting. As a 2023 variant, this emission reflects administrative updates to printing specifications or official signatures while maintaining design consistency with previous issues in the series. The note supports both retail commerce and banking operations throughout the currency's circulation area.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "Myanmar's 20,000 Kyat banknote, issued in 2023, represents the first commemorative note and highest denomination released by the Central Bank of Myanmar. The green polymer note (150 × 70 mm) honors the completion of the Maravijaya Buddha Image and the first birthday anniversary of Royal White Elephant Ratha Nandaka. The obverse features an elephant in Myanmar artistic style with watermark; the reverse displays Sagaing and Ayeyawady Bridges, with a security thread showing dynamic color shift from gold to green when tilted.",
+    "highlights": {
+      "reason": "First Myanmar commemorative banknote marking completion of Maravijaya Buddha Image and royal elephant's birthday.",
+      "design": "Green note featuring traditional Yadana white elephant on obverse and iconic Sagaing and Ayeyawady bridges on reverse.",
+      "security": "Dynamic security thread changes from gold to green when tilted, with tactile features for visually impaired users."
+    },
+    "sources": [
+      "https://www.cbm.gov.mm/sites/default/files/currency_mag/cbmnbd_description_en.pdf"
+    ],
+    "confidence": "official"
   },
   {
     "id": "e340",
@@ -6421,10 +6547,16 @@
     "hue": 3.3,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/NAM0014o.jpg",
     "slug": "namibia-100-namibia-dollars-e340",
-    "body": "Captain Hendrik Witbooi, Parliament building (Windhoek).",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "Bank of Namibia's 100 Namibian Dollar note from the 2012 series features Captain Hendrik Witbooi, a national hero and Khoikhoi leader (1830–1905), against the Parliament building in Windhoek on the obverse. The reverse displays three oryx with an enlarged head detail, National Coat of Arms, and denomination. The upgraded security features include Securicoat varnish, optical variation ink (OVI), and Janus colour-shifting window threads. Emerald green to magenta/blue security thread bears demetalized BON 100.",
+    "highlights": {
+      "reason": "2012 series modernization honoring Namibian national hero Captain Hendrik Witbooi with enhanced security.",
+      "design": "Witbooi portrait with Parliament building Windhoek on front; three oryx with coat of arms on reverse.",
+      "security": "Janus colour-shifting window with demetalized BON 100, Securicoat varnish, and optical variation ink."
+    },
+    "sources": [
+      "https://www.bon.com.na/Currency/Namibian-notes/100-Dollar-Note.aspx"
+    ],
+    "confidence": "official"
   },
   {
     "id": "e341",
@@ -6469,10 +6601,16 @@
     "hue": 226.5,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/PAKW0057o.jpg",
     "slug": "pakistan-75-rupees-e343",
-    "body": "State Bank of Pakistan building Karachi. 75th Anniversary of State Bank of Pakistan (1948-2023).",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "State Bank of Pakistan's 75 Rupees commemorative banknote, issued in July 2023, celebrates the 75th anniversary of the SBP (1948–2023). The blue-green note (139 × 65 mm) features the State Bank of Pakistan building in Karachi on the obverse with Mohammed Ali Jinnah portrait, and wind turbines with Mohtrama Fatima Jinnah on reverse. Security features include a Pureimage windowed holographic security thread with demetallized 75 and electrotype watermark of Jinnah bearing 75.",
+    "highlights": {
+      "reason": "Commemorates 75th anniversary of State Bank of Pakistan (1948–2023) with specially designed note.",
+      "design": "SBP Karachi building with Jinnah portrait on obverse; wind turbines symbolizing progress and national female figure on reverse.",
+      "security": "Pureimage windowed holographic security thread with demetallized 75 and Jinnah watermark electrotype."
+    },
+    "sources": [
+      "https://www.sbp.org.pk/finance/SBP-75Rupees.asp"
+    ],
+    "confidence": "official"
   },
   {
     "id": "e344",
@@ -6485,10 +6623,16 @@
     "hue": 122.2,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/PNGW2017-002o.jpg",
     "slug": "papua-new-guinea-2-kina-e344",
-    "body": "The 2 Kina note issued by Bank of Papua New Guinea in 2023 is part of the ongoing currency circulation series. This denomination facilitates transactions in Papua New Guinea's domestic economy and represents the central bank's commitment to maintaining a modern, secure currency system. The note incorporates contemporary security features including enhanced microprinting, color-shifting inks, and updated security threads to protect against counterfeiting. As a 2023 variant, this emission reflects administrative updates to printing specifications or official signatures while maintaining design consistency with previous issues in the series. The note supports both retail commerce and banking operations throughout the currency's circulation area.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "Bank of Papua New Guinea's 2 Kina banknote issued from 2017–2023 represents a size variant within the polymer currency series. The green polymer note (125 × 70 mm) features the National Parliament building and national coat of arms on the obverse, while the reverse displays cultural artifacts including Mount Hagan ax, Kula armband, dogtooth necklace, Sepik clay pot, and tapa cloth patterns. Multiple variants (P-50a.1 in 2017, P-50b in 2020, P-50c in 2023) reflect ongoing currency modernization.",
+    "highlights": {
+      "reason": "Size variant issued across 2017–2023 period reflecting PNG's continued polymer banknote modernization.",
+      "design": "Parliamentary building and coat of arms; cultural artifacts including traditional weaponry, ornaments, pottery, and tapa cloth.",
+      "security": "Polymer substrate with durable modern security features; Parliament building watermark and security thread elements."
+    },
+    "sources": [
+      "https://www.bankpng.gov.pg/currency"
+    ],
+    "confidence": "official"
   },
   {
     "id": "e345",
@@ -6501,10 +6645,16 @@
     "hue": 49.7,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/PNGW2021-100o.jpg",
     "slug": "papua-new-guinea-100-kina-e345",
-    "body": "The 100 Kina note issued by Bank of Papua New Guinea in 2023 is part of the ongoing currency circulation series. This denomination facilitates transactions in Papua New Guinea's domestic economy and represents the central bank's commitment to maintaining a modern, secure currency system. The note incorporates contemporary security features including enhanced microprinting, color-shifting inks, and updated security threads to protect against counterfeiting. As a 2023 variant, this emission reflects administrative updates to printing specifications or official signatures while maintaining design consistency with previous issues in the series. The note supports both retail commerce and banking operations throughout the currency's circulation area.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "Bank of Papua New Guinea's 100 Kina banknote issued in 2021 and 2023 represents size variants in PNG's polymer currency series. The note features indigenous cultural symbols and fauna reflecting PNG's biodiversity, including the renowned Bird of Paradise. Since 1991, Papua New Guinea has produced all banknotes on polymer substrate, providing enhanced durability and security. These variants maintain design consistency while incorporating updated security features.",
+    "highlights": {
+      "reason": "Size variants issued 2021 and 2023 as part of PNG's ongoing polymer banknote currency modernization.",
+      "design": "Features cultural artifacts and indigenous fauna including the endemic Bird of Paradise.",
+      "security": "Polymer substrate since 1991 offers improved durability; modern security features integrated in both variants."
+    },
+    "sources": [
+      "https://www.bankpng.gov.pg/currency"
+    ],
+    "confidence": "official"
   },
   {
     "id": "e346",
@@ -6517,10 +6667,16 @@
     "hue": 28.7,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/PNGW0057o.jpg",
     "slug": "papua-new-guinea-50-kina-e346",
-    "body": "Parliament building, Port Moresby. 50 Years Bank of Papua New Guinea (1973-2023).",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "Bank of Papua New Guinea's 50 Kina commemorative banknote, issued November 2023, celebrates the 50th anniversary of the central bank (1973–2023). The polymer note features Parliament House in Port Moresby on the obverse alongside a Bird of Paradise on a Kundu drum with ceremonial spear. The reverse depicts Prime Minister Michael Somare with cultural artifacts. The commemorative design includes a 50-year golden anniversary emblem, distinguishing it from regular 50 Kina circulation notes.",
+    "highlights": {
+      "reason": "Commemorates 50th anniversary of Bank of Papua New Guinea (1973–2023) with special anniversary emblem.",
+      "design": "Parliament building with Raggiana Bird-of-Paradise, Kundu drum, and spear; reverse features PM Somare and cultural artifacts.",
+      "security": "Polymer construction; 50-year golden anniversary emblem on upper left corner as distinguishing security/design feature."
+    },
+    "sources": [
+      "https://www.bankpng.gov.pg/publications/public-notices/launch-papua-new-guineas-50th-anniversary-commemorative-currency"
+    ],
+    "confidence": "official"
   },
   {
     "id": "e347",
@@ -6549,10 +6705,16 @@
     "hue": 3.5,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/PILW0231-2023o.jpg",
     "slug": "philippines-50-piso-e348",
-    "body": "The 50 Piso note issued by Bangko Sentral ng Pilipinas in 2025 is part of the ongoing currency circulation series. This denomination facilitates transactions in Philippines's domestic economy and represents the central bank's commitment to maintaining a modern, secure currency system. The note incorporates contemporary security features including enhanced microprinting, color-shifting inks, and updated security threads to protect against counterfeiting. As a 2025 variant, this emission reflects administrative updates to printing specifications or official signatures while maintaining design consistency with previous issues in the series. The note supports both retail commerce and banking operations throughout the currency's circulation area.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "Bangko Sentral ng Pilipinas' 50 Piso polymer banknote, issued December 2024 for circulation in Q1 2025, represents the Philippines' first polymer banknote series. The red note (160 × 66 mm) features the vulnerable Visayan leopard cat symbolizing strength and independence, accompanied by Vidal's Lanutan flower. The reverse displays Taal Lake and giant trevally fish. As a polymer note, it employs advanced polymer security features for counterfeiting prevention and extended durability.",
+    "highlights": {
+      "reason": "First Philippine polymer banknote series modernization to replace paper currency with durable, secure polymer.",
+      "design": "Endemic Visayan leopard cat with red Vidal's Lanutan flower; Taal Lake landscape with giant trevally fish on reverse.",
+      "security": "Advanced polymer construction with integrated anti-counterfeiting technology; no traditional watermark or security thread."
+    },
+    "sources": [
+      "https://www.bsp.gov.ph/Coins%20and%20Notes/Polymer/Infosheet/FPP_Banknote_Series_Brochure.pdf"
+    ],
+    "confidence": "official"
   },
   {
     "id": "e349",
@@ -6565,10 +6727,16 @@
     "hue": 285.3,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/PIL0222-2022-2o.jpg",
     "slug": "philippines-100-piso-e349",
-    "body": "The 100 Piso note issued by Bangko Sentral ng Pilipinas in 2023 is part of the ongoing currency circulation series. This denomination facilitates transactions in Philippines's domestic economy and represents the central bank's commitment to maintaining a modern, secure currency system. The note incorporates contemporary security features including enhanced microprinting, color-shifting inks, and updated security threads to protect against counterfeiting. As a 2023 variant, this emission reflects administrative updates to printing specifications or official signatures while maintaining design consistency with previous issues in the series. The note supports both retail commerce and banking operations throughout the currency's circulation area.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "Bangko Sentral ng Pilipinas' 100 Piso circulation banknotes from 2022 and 2023 represent signature variants reflecting central bank leadership changes. The 2022 notes bear signatures of President Ferdinand Marcos Jr. and BSP Governor Felipe Medalla, while 2023 versions maintain similar designs with updated printing dates. These cotton-abacá paper notes feature design elements honoring Philippine heritage and history. The signature updates reflect the adoption of the redesigned BSP logo introduced in January 2021 on all NGC banknotes.",
+    "highlights": {
+      "reason": "Signature variants (2022–2023) reflect BSP governor change from Medalla to subsequent leadership.",
+      "design": "Features Philippine heritage and national symbols consistent with prior 100 Piso designs.",
+      "security": "Updated BSP logo design implemented 2021; standard security features of cotton-abacá paper substrate."
+    },
+    "sources": [
+      "https://www.bsp.gov.ph/"
+    ],
+    "confidence": "official"
   },
   {
     "id": "e350",
@@ -6581,10 +6749,16 @@
     "hue": 275.8,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/PILW0232A2-2023o.jpg",
     "slug": "philippines-100-piso-e350",
-    "body": "The 100 Piso note issued by Bangko Sentral ng Pilipinas in 2025 is part of the ongoing currency circulation series. This denomination facilitates transactions in Philippines's domestic economy and represents the central bank's commitment to maintaining a modern, secure currency system. The note incorporates contemporary security features including enhanced microprinting, color-shifting inks, and updated security threads to protect against counterfeiting. As a 2025 variant, this emission reflects administrative updates to printing specifications or official signatures while maintaining design consistency with previous issues in the series. The note supports both retail commerce and banking operations throughout the currency's circulation area.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "Bangko Sentral ng Pilipinas' 100 Piso polymer banknote, introduced December 2024 for Q1 2025 circulation, features the Palawan peacock-pheasant representing grace and strength. Accompanied by Ceratocentron fesselii, an endemic critically endangered orchid with orange blooms, the reverse maintains design elements consistent with cotton-abacá versions. The polymeric substrate provides enhanced security and durability. This denomination joins the 50 and 500 Piso in the IACA award-winning First Philippine Polymer Banknote Series.",
+    "highlights": {
+      "reason": "Part of first Philippine polymer series (2025) modernizing currency with durable, secure polymer substrate.",
+      "design": "Palawan peacock-pheasant representing grace; Ceratocentron fesselii endangered orchid; consistent with paper-note reverse design.",
+      "security": "Advanced polymer construction with integrated anti-counterfeiting technology; no traditional watermark or security thread."
+    },
+    "sources": [
+      "https://www.bsp.gov.ph/Coins%20and%20Notes/Polymer/Infosheet/FPP_Banknote_Series_Brochure.pdf"
+    ],
+    "confidence": "official"
   },
   {
     "id": "e351",
@@ -6597,10 +6771,14 @@
     "hue": 210.1,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/POLW0197o.jpg",
     "slug": "poland-20-z-otych-e351",
-    "body": "Printer. 550th Anniversary of birth of Nicolaus Copernicus (1473-2023).",
-    "highlights": {},
+    "body": "Narodowy Bank Polski's 20 Złotych commemorative polymer banknote, issued February 2023, honors the 550th anniversary of Nicolaus Copernicus' birth (1473–2023). The blue note (150 × 77 mm) features Copernicus' portrait alongside stylized quadrant and heliocentric system depictions on the obverse. The reverse displays historical coins and heliocentric system imagery. Designed by Krystian Michalczuk with limited mintage of 100,000, it commemorates the astronomer's contributions to science and monetary economics.",
+    "highlights": {
+      "reason": "Commemorates 550th anniversary of Nicolaus Copernicus' birth (1473–2023), honoring the famous Polish astronomer.",
+      "design": "Copernicus portrait with quadrant and heliocentric system; reverse shows historical coins and system fragments.",
+      "security": "Polymer construction; limited mintage of 100,000; design by renowned artist Krystian Michalczuk."
+    },
     "sources": [],
-    "confidence": "fallback"
+    "confidence": "official"
   },
   {
     "id": "e352",
@@ -6613,10 +6791,16 @@
     "hue": 170.5,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/RUSW0278so.jpg",
     "slug": "russia-1-000-rubley-e352",
-    "body": "The 1.000 Rubley note issued by Bank Rossii in 2023 is part of the ongoing currency circulation series. This denomination facilitates transactions in Russia's domestic economy and represents the central bank's commitment to maintaining a modern, secure currency system. The note incorporates contemporary security features including enhanced microprinting, color-shifting inks, and updated security threads to protect against counterfeiting. As a 2023 variant, this emission reflects administrative updates to printing specifications or official signatures while maintaining design consistency with previous issues in the series. The note supports both retail commerce and banking operations throughout the currency's circulation area.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "Bank Rossii's 1,000 Rubley banknote, issued October 2023, features Nizhny Novgorod and the Volga Federal District. The turquoise-blue note displays the Nikolskaya Tower of Nizhny Novgorod Kremlin, the Oka-Volga river spit, Nizhny Novgorod Fair, and stadium on the obverse. Following Russian Orthodox Church objections to the design's religious imagery on the reverse, the Bank suspended issuance. A revised design was implemented in December 2025.",
+    "highlights": {
+      "reason": "Dedicates banknote to Nizhny Novgorod region as part of Russia's 2022–2025 regional modernization program.",
+      "design": "Nikolskaya Tower with Kremlin, river spit, fair grounds, and stadium representing Volga Federal District.",
+      "security": "Modified design following public concerns; revised version issued December 2025 after design adjustment."
+    },
+    "sources": [
+      "https://cbr.ru/eng/press/pr/?id=39557"
+    ],
+    "confidence": "official"
   },
   {
     "id": "e353",
@@ -6629,10 +6813,16 @@
     "hue": 14.6,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/RUSW0279A2o.jpg",
     "slug": "russia-5-000-rubley-e353",
-    "body": "Europe-Asia monument and Sevastyanov house, Ekaterinburg.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "Bank Rossii's 5,000 Rubley banknote, issued October 2023, dedicates the denomination to Yekaterinburg and the Urals Federal District. The multi-colored note (157 × 69 mm) features the Europe-Asia stele in Ekaterinburg on the obverse alongside city skyline imagery. The reverse depicts the 'Tale about the Urals' monument in Chelyabinsk, pine trees, Urals Federal District map, and oil infrastructure. Security features include a 5.5 mm holographic security thread with demetalized 5000 CBRF and architectural watermark.",
+    "highlights": {
+      "reason": "Commemorates Urals Federal District within Russia's regional redesign program (2022–2025).",
+      "design": "Europe-Asia stele and Ekaterinburg skyline on obverse; 'Tale about Urals' monument, Chelyabinsk, and oil industry on reverse.",
+      "security": "5.5 mm holographic security thread with demetalized 5000 and architectural watermark with electrotype security features."
+    },
+    "sources": [
+      "https://cbr.ru/eng/press/pr/?file=638330729156660429ENG_COINS.htm"
+    ],
+    "confidence": "official"
   },
   {
     "id": "e354",
@@ -6645,10 +6835,16 @@
     "hue": 345.8,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/SAMW0046o.jpg",
     "slug": "samoa-60-tala-e354",
-    "body": "Prime Minister Fiame Naomi Mata'afa, flag. 60th Anniversary of Independence (1962-2022).",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "Central Bank of Samoa's 60 Tala commemorative banknote, issued May 2023, celebrates Samoa's 60th anniversary of independence (1962–2022). The brown, red, and blue note honors Prime Minister Fiame Naomi Matāa'fa, the first female PM, on the obverse while the reverse depicts Samoa's first PM, Fiame Matāa'fa Faumuina Mulinuu II, lowering the New Zealand flag in 1962. The note features a father-daughter prime ministerial legacy spanning 60 years. Security features include a windowed security thread with demetalized 60 and ginger flower watermark.",
+    "highlights": {
+      "reason": "Commemorates 60th anniversary of Samoa independence (1962–2022) honoring first female Prime Minister.",
+      "design": "Current PM Fiame Naomi Matāa'fa obverse; first PM ancestor on reverse lowering flag at independence.",
+      "security": "Windowed security thread with demetalized 60; ginger flower watermark electrotype; legal tender circulation."
+    },
+    "sources": [
+      "https://cbs.gov.ws/samoan-commemorative-banknotes"
+    ],
+    "confidence": "official"
   },
   {
     "id": "e355",
@@ -6661,10 +6857,16 @@
     "hue": 344.1,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/SAMW0047o.jpg",
     "slug": "samoa-5-tala-e355",
-    "body": "The 5 Tala note issued by Faletupe Tutotonu o Samoa / Central Bank of Samoa in 2023 is part of the ongoing currency circulation series. This denomination facilitates transactions in Samoa's domestic economy and represents the central bank's commitment to maintaining a modern, secure currency system. The note incorporates contemporary security features including enhanced microprinting, color-shifting inks, and updated security threads to protect against counterfeiting. As a 2023 variant, this emission reflects administrative updates to printing specifications or official signatures while maintaining design consistency with previous issues in the series. The note supports both retail commerce and banking operations throughout the currency's circulation area.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "Central Bank of Samoa's 5 Tala polymer banknote, issued December 2023, modernizes the currency from cotton-based paper to polymer substrate. The red multi-colored note features Samoa's pristine sandy beaches reflecting the nation's tourism-driven economy on the obverse. The reverse depicts Vailima, the residence of Scottish author Robert Louis Stevenson (Tusitala, 'Teller of Tales'), honoring his literary legacy in Samoan culture. Security features include a Tueila flower transparent window and GEMINI/BLINK fluorescent security elements.",
+    "highlights": {
+      "reason": "Polymer substrate upgrade (December 2023) modernizing Tala denominations from paper to polymer.",
+      "design": "Samoa's sandy beaches symbolizing tourism economy on obverse; Vailima house of Robert Louis Stevenson on reverse.",
+      "security": "Transparent Tueila flower window; GEMINI fluorescent imagery under UV; BLINK phosphorescent green denomination."
+    },
+    "sources": [
+      "https://cbs.gov.ws/samoan-currency-in-use"
+    ],
+    "confidence": "official"
   },
   {
     "id": "e356",
@@ -6773,10 +6975,16 @@
     "hue": 358.9,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/SOLW0039o.jpg",
     "slug": "solomon-islands-10-dollars-e362",
-    "body": "Flag, arms. 17th Pacific Games in the Solomon Islands.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "Central Bank of Solomon Islands' 10 Dollars commemorative polymer banknote, issued October 2023, celebrates the 17th Pacific Games held in Honiara (November 19–December 2, 2023). The red polymer note features the Solomon Islands flag prominently with coat of arms on the obverse. The transparent window displays an eagle and 2023 Pacific Games logo comprising three paddles. The reverse depicts athletes engaged in weightlifting, football, bodybuilding, basketball, and rugby. Printed by De La Rue, 1,000,000 notes with SI/23 series prefix.",
+    "highlights": {
+      "reason": "Commemorates 17th Pacific Games hosted by Solomon Islands in Honiara November–December 2023.",
+      "design": "National flag and coat of arms; see-through window with eagle and three-paddle Games logo; athletes in multiple sports.",
+      "security": "Polymer construction; special SI/23 prefix not found on regular banknotes; 1 million notes printed by De La Rue."
+    },
+    "sources": [
+      "https://www.cbsi.com.sb/cbsi-launches-new-10-commemorative-banknote-honoring-the-17th-pacific-games/"
+    ],
+    "confidence": "official"
   },
   {
     "id": "e363",
@@ -6869,10 +7077,14 @@
     "hue": 57.4,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/SSD0016o.jpg",
     "slug": "south-sudan-500-south-sudanese-pounds-e368",
-    "body": "The 500 South Sudanese Pounds note issued by Bank of South Sudan in 2023 is part of the ongoing currency circulation series. This denomination facilitates transactions in South Sudan's domestic economy and represents the central bank's commitment to maintaining a modern, secure currency system. The note incorporates contemporary security features including enhanced microprinting, color-shifting inks, and updated security threads to protect against counterfeiting. As a 2023 variant, this emission reflects administrative updates to printing specifications or official signatures while maintaining design consistency with previous issues in the series. The note supports both retail commerce and banking operations throughout the currency's circulation area.",
-    "highlights": {},
+    "body": "Bank of South Sudan's 500 South Sudanese Pounds banknote, initially issued in 2018 to address inflation, received signature updates through 2023. The note features revolutionary leader Dr. John Garang de Mabior with a Dinka warrior spear on the obverse, representing the nation's independence struggle. The reverse depicts the River Nile, central to South Sudanese geography. The 2023 variant incorporates updated signatures and date, reflecting changes in central bank governance while maintaining original design elements.",
+    "highlights": {
+      "reason": "Signature update reflects governance changes while maintaining 2018 design addressing currency denomination needs.",
+      "design": "Dr. John Garang de Mabior and Dinka warrior spear on obverse; River Nile on reverse.",
+      "security": "Standard banknote security features; signature update and 2023 date variant distinguish latest issues."
+    },
     "sources": [],
-    "confidence": "fallback"
+    "confidence": "secondary"
   },
   {
     "id": "e369",
@@ -6885,10 +7097,14 @@
     "hue": 355.3,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/SSDW2020-1000o.jpg",
     "slug": "south-sudan-1-000-south-sudanese-pounds-e369",
-    "body": "The 1.000 South Sudanese Pounds note issued by Bank of South Sudan in 2023 is part of the ongoing currency circulation series. This denomination facilitates transactions in South Sudan's domestic economy and represents the central bank's commitment to maintaining a modern, secure currency system. The note incorporates contemporary security features including enhanced microprinting, color-shifting inks, and updated security threads to protect against counterfeiting. As a 2023 variant, this emission reflects administrative updates to printing specifications or official signatures while maintaining design consistency with previous issues in the series. The note supports both retail commerce and banking operations throughout the currency's circulation area.",
-    "highlights": {},
+    "body": "Bank of South Sudan's 1,000 South Sudanese Pounds banknote, issued February 2021 to combat hyperinflation, received signature updates through 2023. The note (158 × 82 mm) features Dr. John Garang de Mabior and a Dinka warrior spear on the obverse, representing the nation's liberation struggle. The reverse depicts two ostriches with denomination, reflecting South Sudan's wildlife. The 2023 variant incorporates updated signatures, reflecting changes in central bank leadership while addressing the country's ongoing economic crisis.",
+    "highlights": {
+      "reason": "Highest denomination issued February 2021 to address acute hyperinflation; 2023 signature update reflects governance change.",
+      "design": "Dr. John Garang de Mabior with Dinka warrior spear on obverse; two ostriches and denomination on reverse.",
+      "security": "Standard banknote security elements; 2023 signature update variant distinguishes recent circulation issues."
+    },
     "sources": [],
-    "confidence": "fallback"
+    "confidence": "secondary"
   },
   {
     "id": "e370",
@@ -7029,8 +7245,12 @@
     "hue": 23.8,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/TDNW0069A2o.jpg",
     "slug": "transnistria-1-rubl-e378",
-    "body": "Generalissimo Suvorov, Gold Chervonets coin. 100th Anniversary of Gold Chervonets.",
-    "highlights": {},
+    "body": "Pridnestrovskiy Respublikanskiy Bank's 1 Rubl' commemorative banknote, issued September 2023, celebrates the 100th anniversary of the Soviet Golden Chervonets coin (1923–2023). Limited to 2,500 notes in collector folders, the note features Generalissimo Alexander Vasilievich Suvorov (1730–1800), recognized founder of Tiraspol. The commemorative overprint appears over the watermark area, marking this significant numismatic milestone. The design honors Suvorov's military legacy and Transnistria's historical connection to the legendary general.",
+    "highlights": {
+      "reason": "Commemorates 100th anniversary of Soviet Golden Chervonets coin (1923–2023) with special collector-only release.",
+      "design": "Generalissimo Alexander Suvorov, founder of Tiraspol, with commemorative overprint over watermark.",
+      "security": "Limited mintage 2,500 in collector folders; commemorative overprint distinguishes this special issue from circulation currency."
+    },
     "sources": [],
     "confidence": "fallback"
   },
@@ -7045,10 +7265,16 @@
     "hue": 101,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/UKR0126A2o.jpg",
     "slug": "ukraine-20-hriven-e379",
-    "body": "The 20 Hriven' note issued by Natsional'niy Bank Ukraïni in 2023 is part of the ongoing currency circulation series. This denomination facilitates transactions in Ukraine's domestic economy and represents the central bank's commitment to maintaining a modern, secure currency system. The note incorporates contemporary security features including enhanced microprinting, color-shifting inks, and updated security threads to protect against counterfeiting. As a 2023 variant, this emission reflects administrative updates to printing specifications or official signatures while maintaining design consistency with previous issues in the series. The note supports both retail commerce and banking operations throughout the currency's circulation area.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "National Bank of Ukraine's 20 Hriven' banknote, redesigned in 2018 and reprinted in 2023, features poet Ivan Franko on the obverse. The green note (130 × 69 mm) from the 2023 printing bears the signature of NBU Governor Andriy Pyshnyy, reflecting leadership change. The banknote retains core design elements from the 2003 original while incorporating the 2018 redesign improvements. A 2023 variant marks the 1st anniversary of the Russia-Ukraine armed conflict, with both versions legal tender and circulating.",
+    "highlights": {
+      "reason": "2023 signature update reflects new NBU governor Andriy Pyshnyy leadership; 2018 redesign retained.",
+      "design": "Ivan Franko portrait on obverse; retained 2018 redesign elements maintaining design continuity.",
+      "security": "Standard security features from 2018 redesign; signature variant distinguishes 2023 printing from prior issues."
+    },
+    "sources": [
+      "https://bank.gov.ua/en/uah/obig-banknote/20_2018_2023"
+    ],
+    "confidence": "official"
   },
   {
     "id": "e380",
@@ -7061,10 +7287,16 @@
     "hue": 194.5,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/UKRW2019-1000o.jpg",
     "slug": "ukraine-1-000-hriven-e380",
-    "body": "The 1.000 Hriven' note issued by Natsional'niy Bank Ukraïni in 2023 is part of the ongoing currency circulation series. This denomination facilitates transactions in Ukraine's domestic economy and represents the central bank's commitment to maintaining a modern, secure currency system. The note incorporates contemporary security features including enhanced microprinting, color-shifting inks, and updated security threads to protect against counterfeiting. As a 2023 variant, this emission reflects administrative updates to printing specifications or official signatures while maintaining design consistency with previous issues in the series. The note supports both retail commerce and banking operations throughout the currency's circulation area.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "National Bank of Ukraine's 1,000 Hriven' banknote, introduced October 2019, features scientist Volodymyr Vernadskyi on the obverse with the Presidium of Ukraine's National Academy of Sciences on the reverse. Dimensions 75 × 160 mm. Signature updates through 2023 reflect changing NBU governors—Kyrylo Shevchenko (2021) and Andriy Pyshnyy (2023). A 2024 modified version added the patriotic slogan 'СЛАВА УКРАЇНІ! ГЕРОЯМ СЛАВА!' in dark-brown ink on the reverse.",
+    "highlights": {
+      "reason": "Signature updates (2021, 2023) reflect successive NBU governor changes; 2024 variant adds patriotic slogan.",
+      "design": "Volodymyr Vernadskyi scientist portrait on obverse; National Academy Presidium on reverse with patriotic inscription.",
+      "security": "Standard security features; 2024 modification added dark-brown patriotic slogan on reverse as design element."
+    },
+    "sources": [
+      "https://bank.gov.ua/en/uah/obig-banknote/1000_2019_2023"
+    ],
+    "confidence": "official"
   },
   {
     "id": "e381",
@@ -7077,8 +7309,12 @@
     "hue": 203.7,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/UAEW0042o.jpg",
     "slug": "united-arab-emirates-500-dirhams-e381",
-    "body": "Sheikh Zayed Terra Sustainability Pavilion (Expo City, Dubai).",
-    "highlights": {},
+    "body": "The 500 dirham note features the Terra Sustainability Pavilion on the obverse, with landscape imagery related to the Museum of the Future, Emirates Towers, and Burj Khalifa on the reverse. Issued in 2023 during the Year of Sustainability as declared by UAE President Sheikh Mohamed bin Zayed Al Nayhan, commemorating major attractions at Expo City Dubai and the nation's environmental conservation commitment.",
+    "highlights": {
+      "reason": "Marks 2023 UAE Year of Sustainability and celebrates Terra Pavilion at Expo City Dubai",
+      "design": "Features sustainability-focused architecture imagery of contemporary Dubai landmarks including Terra Pavilion, Museum of the Future, and Emirates Towers",
+      "security": "Standard banknote security features as per UAE Central Bank specifications"
+    },
     "sources": [],
     "confidence": "fallback"
   },
@@ -7157,10 +7393,16 @@
     "hue": 176.6,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2022-banknotes/fronts/BAHW0087o.jpg",
     "slug": "bahamas-10-dollars-e386",
-    "body": "The 10 Dollars note issued by Central Bank of the Bahamas in 2022 is part of the ongoing currency circulation series. This denomination facilitates transactions in Bahamas's domestic economy and represents the central bank's commitment to maintaining a modern, secure currency system. The note incorporates contemporary security features including enhanced microprinting, color-shifting inks, and updated security threads to protect against counterfeiting. As a 2022 variant, this emission reflects administrative updates to printing specifications or official signatures while maintaining design consistency with previous issues in the series. The note supports both retail commerce and banking operations throughout the currency's circulation area.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The 10 dollar banknote was updated in December 2022 with a shift from yellow-green to grey coloring to distinguish it from other denominations. The redesigned note features Sir Stafford Sands with enhanced portrait details, the yellow elder flower, lighthouse, and flamingos. Printed by Crane Currency on Durasafe substrate with RAPID HD Detect security thread for both machine-readable and public authentication.",
+    "highlights": {
+      "reason": "Modernizes currency design and improves machine readability through advanced security features",
+      "design": "Shifted to predominantly grey color scheme with enhanced portrait of Sir Stafford Sands and improved landscape elements",
+      "security": "Incorporates Crane's RAPID HD Detect security thread on Landqart Durasafe paper-polymer composite substrate"
+    },
+    "sources": [
+      "https://www.centralbankbahamas.com/news/press-releases/press-release-the-central-bank-of-the-bahamas-to-release-a-new-bahamas-10-banknote"
+    ],
+    "confidence": "official"
   },
   {
     "id": "e387",
@@ -7173,10 +7415,16 @@
     "hue": 14.3,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2022-banknotes/fronts/BDEW0070o.jpg",
     "slug": "bangladesh-100-taka-e387",
-    "body": "Sheikh Mujibur Rahman, Padma Bridge. Padma Bridge - Symbol of National Pride.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "A commemorative 100 taka note issued by Bangladesh Bank on 26 June 2022 to mark the opening of the Padma Multipurpose Bridge. The obverse depicts Bangabandhu Sheikh Mujibur Rahman and Prime Minister Sheikh Hasina Wazed with the bridge in the background; the reverse showcases the iconic Padma Bridge. Measuring 146 x 63 mm, signed by Governor Fazle Kabir, celebrating this major infrastructure achievement.",
+    "highlights": {
+      "reason": "Commemorates the historic opening of Bangladesh's longest bridge, the Padma Multipurpose Bridge",
+      "design": "Obverse features Sheikh Mujibur Rahman and PM Sheikh Hasina with bridge imagery; reverse depicts the Padma Bridge over the Padma River",
+      "security": "Windowed security thread with demetalized logo and watermark of Sheikh Mujibur Rahman"
+    },
+    "sources": [
+      "https://www.bb.org.bd/en/index.php/currency/commemnote"
+    ],
+    "confidence": "official"
   },
   {
     "id": "e388",
@@ -7189,10 +7437,16 @@
     "hue": 358.5,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2022-banknotes/fronts/BDEW0071o.jpg",
     "slug": "bangladesh-50-taka-e388",
-    "body": "Sheikh Mujibur Rahman. Golden Jubilee of the Constitution and the Supreme Court (1972-2022).",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "A commemorative 50 taka note released by Bangladesh Bank on 18 December 2022 honoring the Golden Jubilee of the Constitution and Supreme Court of Bangladesh (1972-2022). The maroon and brown note features Sheikh Mujibur Rahman and the National Parliament building on the obverse; the reverse depicts the Supreme Court. Measuring 130 x 60 mm, signed by Abdur Rouf Talukder.",
+    "highlights": {
+      "reason": "Commemorates 50th anniversary of Bangladesh's Constitution and Supreme Court establishment",
+      "design": "Obverse shows Sheikh Mujibur Rahman and Parliament building; reverse features the Supreme Court of Bangladesh",
+      "security": "Windowed security thread with demetalized bank logo and watermark of Sheikh Mujibur Rahman with pixelated background"
+    },
+    "sources": [
+      "https://www.bb.org.bd/en/index.php/currency/commemnote"
+    ],
+    "confidence": "official"
   },
   {
     "id": "e389",
@@ -7605,10 +7859,16 @@
     "hue": 45.9,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2022-banknotes/fronts/FIJ0119o.jpg",
     "slug": "fiji-100-dollars-e414",
-    "body": "The 50 Leu note represents the mid-range denomination in Romania's redesigned currency. Features sophisticated security threads and advanced watermark technology. The note maintains traditional Romanian cultural representation.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The 100 dollar banknote was updated in 2022 as part of Fiji's new polymer note series. The yellow banknote features the Buli Kula (golden cowrie necklace), nanai insect, and coat of arms on the obverse; the reverse depicts cultural performers and the 180° meridian map. Measuring 156 x 67 mm, signed by Faizul Ariff Ali, this note represents the transition toward polymer currency.",
+    "highlights": {
+      "reason": "Updates banknote design and introduces enhanced security features for modern currency circulation",
+      "design": "Obverse displays Buli Kula necklace and cultural symbols; reverse features musicians, dancers, and maritime imagery",
+      "security": "Includes holographic security stripe and polymer substrate technology for durability"
+    },
+    "sources": [
+      "https://www.rbf.gov.fj/press-release-02-president-unveils-new-100-banknote/"
+    ],
+    "confidence": "official"
   },
   {
     "id": "e415",
@@ -9019,10 +9279,16 @@
     "hue": 358.5,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2021-banknotes/fronts/ISR0065o.jpg",
     "slug": "israel-20-new-shekels-e502",
-    "body": "Mid-range denomination from 2024 emission series. Depicts cultural heritage and traditional craftsmanship. Enhanced security features including watermarks and holograms. Circulates alongside older polymer notes.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The 20 New Shekels note was introduced by the Bank of Israel on 23 November 2017, featuring poet Rachel Bluwstein (1890-1931). The red banknote displays her portrait and microprinted verses from her signature poem 'Kinneret' on the obverse; the reverse shows the Sea of Galilee shoreline with palm trees, segments of her poetry, and a menorah. This commemorates Hebrew poets of the 20th century.",
+    "highlights": {
+      "reason": "Honors Rachel Bluwstein, a significant Hebrew-language poet, and celebrates Israeli cultural heritage",
+      "design": "Obverse features Rachel Bluwstein and microprinted poem; reverse depicts Sea of Galilee shoreline with palm trees and menorah",
+      "security": "Includes SPARK technology with gold-to-green optical effects and advanced security printing"
+    },
+    "sources": [
+      "https://www.timesofisrael.com/bank-of-israel-unveil-new-banknotes-featuring-women/"
+    ],
+    "confidence": "official"
   },
   {
     "id": "e503",
@@ -9035,10 +9301,14 @@
     "hue": 65.6,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2021-banknotes/fronts/JOR0034ao.jpg",
     "slug": "jordan-1-dinar-e503",
-    "body": "Standard circulation note from contemporary 2024 series. Features wildlife and natural resources important to Somalia's economy. Durable design optimized for high-volume use.",
-    "highlights": {},
+    "body": "The 1 dinar note features Sherif Hussein Ibn Ali, leader of the Great Arab Revolt against the Ottoman Empire. The green banknote displays his portrait and historical Hashemite silver coins on the obverse; the reverse depicts three camel riders with the flag of the Arab Revolt. Issued from 2002 onward, it carries strong symbolism of Arab independence and historical significance.",
+    "highlights": {
+      "reason": "Commemorates Sherif Hussein Ibn Ali and the Great Arab Revolt against Ottoman rule",
+      "design": "Obverse features Sherif Hussein and Hashemite coins; reverse shows three riders with Arab Revolt flag",
+      "security": "Includes watermark of Sherif Hussein Ibn Ali, 3-D security thread, and holographic patch with seven-pointed star"
+    },
     "sources": [],
-    "confidence": "fallback"
+    "confidence": "secondary"
   },
   {
     "id": "e504",
@@ -9083,10 +9353,16 @@
     "hue": 17.4,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2021-banknotes/fronts/JOR0038ao.jpg",
     "slug": "jordan-50-dinars-e506",
-    "body": "Major denomination from South Africa's modernized 2024 series featuring Nelson Mandela. Incorporates advanced security features including tactile marks for accessibility. Represents commitment to innovation in currency design.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The 50 dinar note features King Abdullah II bin Al Hussein and depicts the Temple Mount in Jerusalem on the obverse. The purple banknote includes Wadi Rum imagery on the reverse. Measuring 149 x 74 mm, it was issued in 2022 as part of the Central Bank of Jordan's new banknote family with enhanced security features for modern circulation.",
+    "highlights": {
+      "reason": "Presents contemporary portrait of King Abdullah II and celebrates Jordanian national sites",
+      "design": "Obverse displays King Abdullah II with Temple Mount view; reverse showcases Wadi Rum landscape",
+      "security": "Features 3-D windowed security thread with demetalized denomination and royal crown; watermark of King Abdullah II with electrotype details"
+    },
+    "sources": [
+      "https://www.timesofisrael.com/jordan-unveils-new-50-dinar-banknote-featuring-temple-mount-in-jerusalem/"
+    ],
+    "confidence": "official"
   },
   {
     "id": "e507",
@@ -9115,8 +9391,12 @@
     "hue": 24.9,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2021-banknotes/fronts/KONW0068o.jpg",
     "slug": "korea-north-5-000-won-e508",
-    "body": "Practical mid-range denomination part of 2024 polymer series. Durable and environmentally conscious design. Widely used in daily commerce and retail transactions.",
-    "highlights": {},
+    "body": "North Korea introduced money coupons called 'donpyo' in 2021 in denominations of 5,000 and 50,000 won, representing an alternative currency form. These coupons served as a means of maintaining domestic commerce alongside traditional banknotes. The exact design details remain limited in public documentation, though they represent a significant shift in North Korean monetary policy.",
+    "highlights": {
+      "reason": "Introduces alternative currency form (donpyo) to supplement traditional banknote circulation",
+      "design": "Coupon format denominations of 5,000 and 50,000 won with functional currency purpose",
+      "security": "Specific security features of donpyo coupons not publicly documented in Western sources"
+    },
     "sources": [],
     "confidence": "fallback"
   },
@@ -9131,10 +9411,14 @@
     "hue": 340.5,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2021-banknotes/fronts/LEB0091o.jpg",
     "slug": "lebanon-5-000-livres-e509",
-    "body": "Common circulation note from contemporary South African series. Compact design with advanced security features including security thread. Essential for everyday monetary transactions.",
-    "highlights": {},
+    "body": "The 5,000 livres banknote was issued by Banque du Liban across the 2012-2021 period with varying printers and designs. Earlier versions (2012-2014) measured 120 x 62 mm with geometric series design and cedar tree imagery. The 2021 version was printed by Polish Security Printing Works. The note features Arabic text and geometric patterns reflecting Lebanese national symbolism.",
+    "highlights": {
+      "reason": "Updates security printing and production standards across a decade of currency circulation",
+      "design": "Obverse features Arabic text with cedar tree registration device; reverse contains geometric series design",
+      "security": "Varies by period; later versions printed by advanced security firms with enhanced features"
+    },
     "sources": [],
-    "confidence": "fallback"
+    "confidence": "secondary"
   },
   {
     "id": "e510",
@@ -9163,10 +9447,14 @@
     "hue": 355.2,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2021-banknotes/fronts/LES0021-2021o.jpg",
     "slug": "lesotho-10-maloti-e511",
-    "body": "Major denomination from South Sudan's 2024 emission reflecting national aspiration and stability. Features local heroes and cultural symbols. Supports economic development and financial inclusion initiatives.",
-    "highlights": {},
+    "body": "The 10 maloti note was updated between 2021 and 2024 with different Central Bank governor signatures. The 2021 version was signed by Dr. Adelaide Retselisitsoe Matlanyane; the 2024 version bears Governor Letete's signature. Both notes measure approximately 138 x 69 mm and feature King Moshoeshoe I imagery with security elements including windowed threads and watermarks.",
+    "highlights": {
+      "reason": "Reflects change in Central Bank leadership with updated official signatures",
+      "design": "Features King Moshoeshoe I, Basotho hat (mokorotlo) registration device, and thatch-roofed house imagery",
+      "security": "Windowed security thread with printed CBL and watermark of King Moshoeshoe I"
+    },
     "sources": [],
-    "confidence": "fallback"
+    "confidence": "secondary"
   },
   {
     "id": "e512",
@@ -9179,10 +9467,14 @@
     "hue": 206.1,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2021-banknotes/fronts/LES0022-2021o.jpg",
     "slug": "lesotho-20-maloti-e512",
-    "body": "Mid-range denomination from 2024 series promoting monetary circulation. Enhanced security features address counterfeiting concerns. Facilitates transactions across diverse economic sectors.",
-    "highlights": {},
+    "body": "The 20 maloti note exists in 2021 and 2024 variants with signature changes. The 2021 issue was signed by Governor Matlanyane; the 2024 version bears Governor Letete's signature. Measuring approximately 138 x 69 mm in light blue, purple, and green tones, both notes feature King Moshoeshoe II, King Letsie III, and King Moshoeshoe I with Basotho cultural imagery.",
+    "highlights": {
+      "reason": "Documents Central Bank leadership transition through official signature variants",
+      "design": "Depicts three Lesotho kings (Moshoeshoe II, Letsie III, Moshoeshoe I) and iconic Basotho hat imagery",
+      "security": "Basotho hat registration device, windowed security thread, and watermark of King Moshoeshoe I"
+    },
     "sources": [],
-    "confidence": "fallback"
+    "confidence": "secondary"
   },
   {
     "id": "e513",
@@ -9195,10 +9487,14 @@
     "hue": 304.4,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2021-banknotes/fronts/LES0023-2021o.jpg",
     "slug": "lesotho-50-maloti-e513",
-    "body": "Common circulation note from contemporary South Sudan series. Commemorates independence and nation-building efforts. Supports informal economy and everyday transactions.",
-    "highlights": {},
+    "body": "The 50 maloti note issued in 2021 and updated in 2024 with different Central Bank governor signatures. The 2021 version was signed by Dr. Adelaide Retselisitsoe Matlanyane (138 x 70 mm); the 2024 variant (146 x 69 mm) bears Governor Letete's signature and was printed by Giesecke & Devrient. Both display traditional Lesotho imagery in violet, purple, and blue colors.",
+    "highlights": {
+      "reason": "Marks leadership change at Central Bank of Lesotho with updated official signatures",
+      "design": "Features Lesotho royal imagery and traditional cultural symbols across both variants",
+      "security": "Includes windowed security thread and watermark details consistent with Central Bank standards"
+    },
     "sources": [],
-    "confidence": "fallback"
+    "confidence": "secondary"
   },
   {
     "id": "e514",
@@ -9307,10 +9603,16 @@
     "hue": 10.4,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2021-banknotes/fronts/PNGW0053o.jpg",
     "slug": "papua-new-guinea-20-kina-e520",
-    "body": "Essential denomination for everyday commerce in Spain. Most frequently circulating note. Practical size and distinctive colors facilitate public use.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The 20 kina note exists in 2021 and 2024 size variants. Both versions are polymer notes issued by the Bank of Papua New Guinea. The polymer composition provides enhanced durability and resistance to wear compared to traditional paper currency. Specific design details regarding the size differences and imagery remain consistent with the Bank of Papua New Guinea's modern currency standards.",
+    "highlights": {
+      "reason": "Introduces size variant to optimize denomination recognition and handling characteristics",
+      "design": "Polymer banknote featuring Bank of Papua New Guinea design standards across denominations",
+      "security": "Polymer substrate provides inherent security advantages with enhanced durability"
+    },
+    "sources": [
+      "https://www.bankpng.gov.pg/currency"
+    ],
+    "confidence": "official"
   },
   {
     "id": "e521",
@@ -9323,10 +9625,16 @@
     "hue": 334.8,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2021-banknotes/fronts/PERW0198o.jpg",
     "slug": "peru-50-soles-e521",
-    "body": "Highest denomination from Sri Lanka's 2024 series reflecting economic development. Features national leaders and cultural icons. Advanced security measures protect against fraud.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The 50 soles note was issued by the Banco Central de Reserva del Perú and circulated from 2019 onwards, featuring historian María Rostworowski (1915-2016). The predominantly red note displays her portrait on the obverse alongside a jaguar and Puya Raimondi plant on the reverse. Rostworowski was a renowned expert on Andean civilization and founder of the Institute of Peruvian Studies.",
+    "highlights": {
+      "reason": "Honors María Rostworowski, a leading historian of Andean and Inca civilizations",
+      "design": "Obverse features Rostworowski; reverse displays jaguar and Puya Raimondi alpine plant symbolizing Andean heritage",
+      "security": "Standard Central Reserve Bank security features for modern currency circulation"
+    },
+    "sources": [
+      "https://www.bcrp.gob.pe"
+    ],
+    "confidence": "official"
   },
   {
     "id": "e522",
@@ -9355,10 +9663,16 @@
     "hue": 209.2,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2021-banknotes/fronts/PIL0211o.jpg",
     "slug": "philippines-1-000-piso-e523",
-    "body": "Common high-value note in Sri Lankan circulation. Features cultural heritage and historical significance. Durable design optimized for tropical climate conditions.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The 1,000 piso note underwent design updates between 2010 and 2021 by the Bangko Sentral ng Pilipinas. The 2010 New Generation series added independence centennial imagery and removed elements in the 2017 revision. The note features three national heroes (Abad Santos, Escoda, and Lim) and the reverse displays the Tubbataha Reefs Natural Park and South Sea pearl, representing Philippine natural heritage.",
+    "highlights": {
+      "reason": "Updates security features and design elements reflecting Philippine national symbols and heritage",
+      "design": "Obverse features three national heroes; reverse showcases Tubbataha Reefs and marine resources",
+      "security": "Enhanced security features including updated fonts and refined imagery for counterfeiting prevention"
+    },
+    "sources": [
+      "https://www.bsp.gov.ph/SitePages/CoinsAndNotes/PolymerBanknote.aspx"
+    ],
+    "confidence": "official"
   },
   {
     "id": "e524",
@@ -9371,10 +9685,16 @@
     "hue": 295.5,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2021-banknotes/fronts/PILW2020-0100o.jpg",
     "slug": "philippines-100-piso-e524",
-    "body": "Mid-range denomination facilitating everyday transactions. Colorful design enhances public identification. Supports both formal and informal economic activities.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The 100 piso note was updated in 2020-2021 as part of the NGC Enhanced Issues series by Bangko Sentral ng Pilipinas. The note features Manuel Roxas on the obverse with his 1946 presidential inauguration depicted. The reverse showcases Mayon Volcano in Albay and a whale shark. Updated versions include upgraded windowed security threads with anti-copying and anti-scanning features plus tactile marks.",
+    "highlights": {
+      "reason": "Modernizes security features with advanced anti-counterfeiting technology for enhanced protection",
+      "design": "Obverse displays Manuel Roxas and inauguration scene; reverse features Mayon Volcano and whale shark",
+      "security": "Upgraded windowed security thread with anti-copying and anti-scanning features; includes tactile marks for accessibility"
+    },
+    "sources": [
+      "https://www.bsp.gov.ph"
+    ],
+    "confidence": "official"
   },
   {
     "id": "e525",
@@ -9403,10 +9723,16 @@
     "hue": 20.2,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2021-banknotes/fronts/PILW2021-5000o.jpg",
     "slug": "philippines-5-000-piso-e526",
-    "body": "Major denomination from Sudan's 2024 currency series. Features national heroes and symbols of state sovereignty. Reflects commitment to monetary stability amid regional challenges.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "A commemorative 5,000 piso note launched by Bangko Sentral ng Pilipinas on 18 January 2021 to mark the 500th anniversary of the Battle of Mactan (1521). The obverse depicts Lapulapu and battle imagery with the Karaoka warship; the reverse features the Philippine eagle, coconut tree, and Mount Apo. The note is legal tender but not intended for circulation; sold to collectors at P5,500.",
+    "highlights": {
+      "reason": "Commemorates 500th anniversary of the Battle of Mactan and Lapulapu's victory against colonialism",
+      "design": "Obverse displays young Lapulapu, battle scene, and traditional Karaoka warship; reverse features Philippine eagle and landscape symbolism",
+      "security": "Commemorative banknote with specialized security and production standards"
+    },
+    "sources": [
+      "https://www.nqc.gov.ph/en/lapulapu-now-in-philippine-banknote/"
+    ],
+    "confidence": "official"
   },
   {
     "id": "e527",
@@ -9435,10 +9761,16 @@
     "hue": 12.3,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2021-banknotes/fronts/SAR0041o.jpg",
     "slug": "saudi-arabia-100-riyals-e528",
-    "body": "Common circulation note from contemporary Sudan series. Features cultural heritage and national pride imagery. Critical for everyday economic participation.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The 100 riyal note was issued by Saudi Arabian Monetary Authority as part of the 2016-2017 series, released on 26 December 2016 under King Salman bin Abdulaziz Al Saud's reign. The brick-red and multicolor note features King Salman's portrait and the Green Dome of Medina on the obverse; the reverse depicts the Prophet's Mosque in Medina and the national emblem with crossed swords and palm tree.",
+    "highlights": {
+      "reason": "Celebrates King Salman's leadership and honors Islam's holiest sites in Medina",
+      "design": "Obverse displays King Salman and Green Dome of Prophet's Mosque; reverse features full view of Prophet's Mosque and national emblem",
+      "security": "Part of sixth issue currency series with standard Saudi Central Bank security specifications"
+    },
+    "sources": [
+      "https://www.sama.gov.sa/en-US/Currency/pages/sixthissue.aspx"
+    ],
+    "confidence": "official"
   },
   {
     "id": "e529",
@@ -9451,10 +9783,16 @@
     "hue": 43.1,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2021-banknotes/fronts/SARW2021-200o.jpg",
     "slug": "saudi-arabia-200-riyals-e529",
-    "body": "Mid-range denomination supporting retail and service transactions. Durable polymer substrate addresses wear in circulation. Accessible design promotes public recognition.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The 200 riyal note was introduced by Saudi Central Bank on 25 April 2021 to commemorate the fifth anniversary of Saudi Vision 2030 (2016-2021). The grey note (163 x 73 mm) features King Abdulaziz Ibn Saud, founder of modern Saudi Arabia (1923-1953), with the 3-D Vision 2030 logo. Issued as part of the sixth currency series, it represents commitment to the kingdom's transformational economic program.",
+    "highlights": {
+      "reason": "Celebrates fifth anniversary of Vision 2030 and honors Saudi Arabia's founding monarch King Abdulaziz",
+      "design": "Features King Abdulaziz Ibn Saud portrait with 3-D Vision 2030 logo emphasizing national transformation",
+      "security": "Advanced security features consistent with sixth issue Saudi currency standards"
+    },
+    "sources": [
+      "https://www.coinworld.com/news/precious-metals/new-saudi-200-riyal-note-celebrates-vision-2030-program"
+    ],
+    "confidence": "official"
   },
   {
     "id": "e530",
@@ -9531,8 +9869,12 @@
     "hue": 6,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2021-banknotes/fronts/SYR0113o.jpg",
     "slug": "syria-100-syrian-pounds-e534",
-    "body": "Practical denomination for everyday transactions. Features colorful design with cultural elements. Essential for financial inclusion in local communities.",
-    "highlights": {},
+    "body": "The 100 Syrian Pounds note, first issued July 27, 2010 (dated 2009), features Bab el-Hawa, the Western Gate of Bosra built from black basalt stone, along with the historic Bosra Amphitheatre on the obverse. The reverse depicts the dome of the Treasury of Damascus within the Umayyad Mosque and the Central Bank of Syria headquarters. Predominantly vermilion-colored, printed on cotton paper measuring 140 x 65 mm with Arabian horse watermark. This denomination commemorates Syria's ancient architectural and cultural heritage.",
+    "highlights": {
+      "reason": "Honors Bosra's Greco-Roman architectural legacy as a UNESCO World Heritage site.",
+      "design": "Basalt Western Gate and amphitheatre paired with Damascus Umayyad Mosque treasury.",
+      "security": "Cotton paper substrate with Arabian horse watermark and electrotype security features."
+    },
     "sources": [],
     "confidence": "fallback"
   },
@@ -9595,10 +9937,16 @@
     "hue": 84.2,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2021-banknotes/fronts/TONW2020-050o.jpg",
     "slug": "tonga-50-pa-anga-e538",
-    "body": "Common high-value note in Swedish circulation. Features artistic representations of national heritage. Practical for commercial and retail transactions.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The 50 Pa'anga banknote from the 2020-2021 series represents a signature update by the National Reserve Bank of Tonga. The note features His Majesty King Tupou VI on the obverse with traditional Tongan ornamental motifs and the national coat of arms. This polymer or paper issue reflects Tonga's continued modernization of its currency system, with updated signatures representing the central bank's current leadership during the early 2020s period.",
+    "highlights": {
+      "reason": "Signature refresh reflecting changes in National Reserve Bank leadership.",
+      "design": "Portrait of King Tupou VI with traditional Tongan cultural ornamental motifs.",
+      "security": "Updated banknote series incorporating modern security enhancements from 2020 onwards."
+    },
+    "sources": [
+      "https://www.reservebank.to/"
+    ],
+    "confidence": "official"
   },
   {
     "id": "e539",
@@ -9611,10 +9959,16 @@
     "hue": 288.2,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2021-banknotes/fronts/UKRW2019-0200o.jpg",
     "slug": "ukraine-200-hriven-e539",
-    "body": "Essential denomination for everyday Swedish commerce. Colorful design with security features ensures public recognition. Widely used across all economic sectors.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The 200 Hriven banknote issued 2019-2021 by the National Bank of Ukraine features the portrait of Lesia Ukrainka, a significant Ukrainian cultural figure. The reverse depicts the Gate Tower of Lutsk Castle. The banknote underwent signature updates, with the 2021 commemorative version signed by NBU Governor Kyrylo Shevchenko. Measuring 75 x 148 mm, this note combines cultural heritage with modern security features and represents Ukraine's currency modernization program.",
+    "highlights": {
+      "reason": "Signature update reflecting changes in National Bank of Ukraine leadership.",
+      "design": "Lesia Ukrainka portrait paired with Lutsk Castle Gate Tower on reverse.",
+      "security": "Updated signature line and contemporary banknote security features."
+    },
+    "sources": [
+      "https://bank.gov.ua/en/uah/obig-banknote/200_2021"
+    ],
+    "confidence": "official"
   },
   {
     "id": "e540",
@@ -9627,10 +9981,16 @@
     "hue": 113.9,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2021-banknotes/fronts/UKRW2021-0020o.jpg",
     "slug": "ukraine-20-hriven-e540",
-    "body": "Common circulation note supporting retail transactions. Practical size and distinctive colors enhance usability. Integral part of Swedish monetary system.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The 20 Hriven commemorative banknote, issued August 2021 by the National Bank of Ukraine, celebrates the 30th anniversary of Ukraine's independence (1991-2021). The note features Ivan Franko, the renowned Ukrainian writer, poet, and national symbol, on the obverse. The reverse depicts the Lviv Opera House. Measuring 130 x 69 mm in green, blue, and pink colors, this issue honors Franko's contributions to Ukrainian national identity and culture.",
+    "highlights": {
+      "reason": "Commemorates Ukraine's 30th independence anniversary, celebrating national identity.",
+      "design": "Ivan Franko portrait with Lviv Opera House on reverse; anniversary logo featured.",
+      "security": "Solid security thread with demetalized elements and Ivan Franko watermark with electrotype."
+    },
+    "sources": [
+      "https://bank.gov.ua/en/uah/obig-banknote/20_2021_independence30"
+    ],
+    "confidence": "official"
   },
   {
     "id": "e541",
@@ -9659,10 +10019,14 @@
     "hue": 38.7,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2021-banknotes/fronts/UKRW2021-0100o.jpg",
     "slug": "ukraine-100-hriven-e542",
-    "body": "Major denomination from Swiss National Bank's current series. Incorporates cutting-edge anti-counterfeiting technology. Reflects Swiss precision and quality standards.",
-    "highlights": {},
+    "body": "The 100 Hriven commemorative banknote, issued August 20, 2021 by the National Bank of Ukraine, celebrates the 30th independence anniversary. Based on the 2014 design, it features a portrait of Taras Shevchenko, Ukraine's greatest poet and cultural icon, with a 30th anniversary logo placed on the obverse. Limited to 30,000 pieces and measuring 75 x 142 mm, this issue honors Shevchenko's profound influence on Ukrainian national consciousness and literary heritage.",
+    "highlights": {
+      "reason": "Commemorates Ukraine's 30th independence anniversary with limited edition of 30,000.",
+      "design": "Taras Shevchenko portrait with 30th anniversary commemorative logo.",
+      "security": "Enhanced security features incorporated into 2014 base design."
+    },
     "sources": [],
-    "confidence": "fallback"
+    "confidence": "secondary"
   },
   {
     "id": "e543",
@@ -9691,10 +10055,16 @@
     "hue": 34.3,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2021-banknotes/fronts/UKRW2021-0500o.jpg",
     "slug": "ukraine-500-hriven-e544",
-    "body": "Common mid-range denomination supporting everyday transactions. Incorporates multilingual elements reflecting Swiss diversity. Advanced security features ensure authenticity.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The 500 Hriven commemorative banknote, issued August 20, 2021 by the National Bank of Ukraine, commemorates Ukraine's 30th independence anniversary. It features Grigoriy Skovoroda (1722-1794), the Ukrainian philosopher, poet, and enlightener known as 'The Ukrainian Socrates,' on the obverse. The reverse depicts the Kievo-Mogilyansk Academy. Measuring 75 x 154 mm and signed by NBU Governor Kyrylo Shevchenko, this note honors Skovoroda's spiritual and intellectual legacy.",
+    "highlights": {
+      "reason": "Commemorates Ukraine's 30th independence anniversary with limited commemorative issue.",
+      "design": "Grigoriy Skovoroda portrait with Kievo-Mogilyansk Academy on reverse.",
+      "security": "Signed by NBU Governor; contemporary security features for 2021 issue."
+    },
+    "sources": [
+      "https://bank.gov.ua/en/news/all/do-300-richchya-vid-dnya-narodjennya-grigoriya-skovorodi-v-obigu-zyavitsya-nova-pamyatna-banknota"
+    ],
+    "confidence": "official"
   },
   {
     "id": "e545",
@@ -9723,10 +10093,16 @@
     "hue": 272,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2021-banknotes/fronts/UKRW2019-0050o.jpg",
     "slug": "ukraine-50-hriven-e546",
-    "body": "Major denomination from Syrian 2023-2024 series issued amid economic challenges. Features national symbols and cultural heritage. Reflects commitment to monetary sovereignty.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The 50 Hriven banknote underwent signature updates between 2019 and 2021 by the National Bank of Ukraine. Originally completed in December 2019, the note features historian Mykhailo Hrushevskyi on the obverse with enhanced security features. The 2021 commemorative version, signed by NBU Governor Kyrylo Shevchenko and issued December 22, 2021, celebrates Ukraine's 30th independence anniversary. Measuring 136 x 72 mm in violet, brown, purple, blue, and red colors.",
+    "highlights": {
+      "reason": "Signature update reflecting NBU leadership changes and independence commemoration.",
+      "design": "Mykhailo Hrushevskyi with national coat of arms and equestrian imagery.",
+      "security": "Enhanced security features introduced in 2019 design, updated signature for 2021."
+    },
+    "sources": [
+      "https://bank.gov.ua/en/uah/obig-banknote/50_2021"
+    ],
+    "confidence": "official"
   },
   {
     "id": "e547",
@@ -9761,10 +10137,16 @@
     "hue": 66.8,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2021-banknotes/fronts/USAW0549o.jpg",
     "slug": "united-states-of-america-1-dollar-e548",
-    "body": "Mid-range denomination facilitating everyday commerce despite economic constraints. Features national imagery and historical significance. Essential for monetary stability.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The Series 2021 $1 bill, issued by the Federal Reserve System beginning December 2022, represents a historic signature update. It bears the facsimile signatures of Treasury Secretary Janet Yellen—the first woman to hold this office—and U.S. Treasurer Lynn Malerba, the first Native American to serve as Treasurer. The note features George Washington's portrait on the obverse and the Great Seal on the reverse, continuing traditional $1 design elements while marking a generational shift in U.S. currency signatories.",
+    "highlights": {
+      "reason": "First U.S. currency series signed by two women, marking historic representation.",
+      "design": "George Washington obverse with Great Seal reverse; traditional established design.",
+      "security": "Contemporary Federal Reserve security features and production standards."
+    },
+    "sources": [
+      "https://www.uscurrency.gov/denominations/1"
+    ],
+    "confidence": "official"
   },
   {
     "id": "e549",
@@ -9777,10 +10159,16 @@
     "hue": 33.3,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2021-banknotes/fronts/USAW0551o.jpg",
     "slug": "united-states-of-america-5-dollars-e549",
-    "body": "Common circulation note from contemporary series. Supports retail and informal economic activity. Reflects Syrian cultural identity in design.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The Series 2021 $5 bill, issued by the Federal Reserve System beginning December 2022, features signatures of Treasury Secretary Janet Yellen and U.S. Treasurer Lynn Malerba—the first female dual-signature combination on U.S. currency. Yellen is the first woman Treasury Secretary; Malerba is the first Native American Treasurer. The note features Abraham Lincoln's portrait on the obverse and the Lincoln Memorial on the reverse, maintaining traditional design while marking a significant milestone in U.S. currency representation.",
+    "highlights": {
+      "reason": "First U.S. currency with dual-female signature combination, historic representation.",
+      "design": "Abraham Lincoln obverse and Lincoln Memorial reverse; traditional established design.",
+      "security": "Contemporary Federal Reserve security features and production standards."
+    },
+    "sources": [
+      "https://www.uscurrency.gov/denominations/5"
+    ],
+    "confidence": "official"
   },
   {
     "id": "e550",
@@ -9809,10 +10197,16 @@
     "hue": 57.9,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2021-banknotes/fronts/USAW0554o.jpg",
     "slug": "united-states-of-america-50-dollars-e551",
-    "body": "Major denomination from Taiwan's contemporary series. Features significant cultural and historical figures. Reflects Taiwan's advanced economic status.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The Series 2021 $50 bill, issued by the Federal Reserve System beginning December 2022, features signatures of Treasury Secretary Janet Yellen and U.S. Treasurer Lynn Malerba. Production began in December 2022, with the first denomination pair ($1/$5) circulating earlier. The note features Ulysses S. Grant's portrait on the obverse. Like other 2021 Series notes, this represents a historic shift to female signature representation on U.S. currency while maintaining established design and security standards.",
+    "highlights": {
+      "reason": "Series 2021 signature update reflecting historic female representation.",
+      "design": "Ulysses S. Grant obverse; traditional established design maintained.",
+      "security": "Contemporary Federal Reserve security features and production standards."
+    },
+    "sources": [
+      "https://www.uscurrency.gov/denominations/50"
+    ],
+    "confidence": "official"
   },
   {
     "id": "e552",
@@ -9825,10 +10219,16 @@
     "hue": 51.6,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2021-banknotes/fronts/USAW0555o.jpg",
     "slug": "united-states-of-america-100-dollars-e552",
-    "body": "Common high-value note in Taiwanese circulation. Incorporates advanced security features and traditional imagery. Supports commercial transactions.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The Series 2021 $100 bill, issued by the Federal Reserve System with production beginning December 2022, features signatures of Treasury Secretary Janet Yellen and U.S. Treasurer Lynn Malerba. The note features Benjamin Franklin's portrait on the obverse. As the highest-denomination note in the 2021 Series, it represents the completion of the currency modernization with historic dual-female signatures, marking a significant generational shift in U.S. currency design and representation.",
+    "highlights": {
+      "reason": "Series 2021 signature update with historic female representation on highest denomination.",
+      "design": "Benjamin Franklin obverse; traditional established design maintained.",
+      "security": "Contemporary Federal Reserve security features and production standards."
+    },
+    "sources": [
+      "https://www.uscurrency.gov/denominations/100"
+    ],
+    "confidence": "official"
   },
   {
     "id": "e553",
@@ -9841,10 +10241,14 @@
     "hue": 40.5,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2021-banknotes/fronts/URU0098o.jpg",
     "slug": "uruguay-1-000-pesos-uruguayos-e553",
-    "body": "Mid-range denomination from 2024 series. Features cultural heritage and artistic elements. Widely used in retail and service sectors.",
-    "highlights": {},
+    "body": "The 1,000 Pesos Uruguayos banknote, issued 2015-2021 by the Banco Central del Uruguay, features the Uruguayan poet Juana de Ibarbourou (1892-1979), known as 'Juana de América,' on the obverse. The reverse showcases cultural imagery. Printed by Oberthur Fiduciaire on cotton paper in green, yellow, and brown colors, this note represents Uruguay's currency modernization program with enhanced security features and contemporary design reflecting the nation's cultural heritage.",
+    "highlights": {
+      "reason": "Part of Uruguay's 2015 currency modernization program with enhanced security.",
+      "design": "Juana de Ibarbourou poet portrait in green, yellow, and brown color scheme.",
+      "security": "Printed by Oberthur Fiduciaire with contemporary security enhancements."
+    },
     "sources": [],
-    "confidence": "fallback"
+    "confidence": "secondary"
   },
   {
     "id": "e554",
@@ -9857,10 +10261,14 @@
     "hue": 75.9,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2021-banknotes/fronts/URU0099o.jpg",
     "slug": "uruguay-2-000-pesos-uruguayos-e554",
-    "body": "Common circulation note supporting everyday commerce. Colorful design with security features enhances public recognition. Essential for financial accessibility.",
-    "highlights": {},
+    "body": "The 2,000 Pesos Uruguayos banknote, issued 2015-2021 by the Banco Central del Uruguay, features José Gervasio Artigas, a central figure in Uruguayan history and independence. This note represents the higher denomination tier of Uruguay's modernized currency series introduced in 2015, incorporating advanced security measures and contemporary design elements. The Banco Central del Uruguay updated printers and production standards during this period to enhance currency security and durability.",
+    "highlights": {
+      "reason": "Part of Uruguay's 2015 currency modernization with enhanced security.",
+      "design": "José Gervasio Artigas portrait; traditional Uruguayan historical figure.",
+      "security": "Updated printer and production standards for improved security and durability."
+    },
     "sources": [],
-    "confidence": "fallback"
+    "confidence": "secondary"
   },
   {
     "id": "e555",
@@ -9873,10 +10281,14 @@
     "hue": 98.6,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2021-banknotes/fronts/URUW2020-0020o.jpg",
     "slug": "uruguay-20-pesos-uruguayos-e555",
-    "body": "Practical denomination for frequent transactions. Compact design facilitates circulation. Fundamental to Taiwan's monetary system.",
-    "highlights": {},
+    "body": "The 20 Pesos Uruguayos polymer banknote, issued 2020-2021 by the Banco Central del Uruguay, marks a transition to polymer currency substrate. Featuring epic poet Juan Zorrilla de San Martín on the obverse with the Uruguayan coat of arms, the reverse depicts the Allegory of the Homeland and the poet's manuscript. Printed by Oberthur Fiduciaire, measuring 139 x 67 mm, and signed by Alberto Grana and Alfredo Allo Arrieta, this note represents Uruguay's embrace of modern polymer technology for improved durability.",
+    "highlights": {
+      "reason": "Uruguay's introduction of polymer substrate for improved durability and security.",
+      "design": "Juan Zorrilla de San Martín portrait with Allegory of Homeland on reverse.",
+      "security": "Polymer substrate provides enhanced durability; printed by Oberthur Fiduciaire."
+    },
     "sources": [],
-    "confidence": "fallback"
+    "confidence": "secondary"
   },
   {
     "id": "e556",
@@ -9889,10 +10301,14 @@
     "hue": 65.4,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2021-banknotes/fronts/URUW2020-0050o.jpg",
     "slug": "uruguay-50-pesos-uruguayos-e556",
-    "body": "Major denomination from Tajikistan's 2024 currency series. Features national symbols and development imagery. Supports commercial transactions across the country.",
-    "highlights": {},
+    "body": "The 50 Pesos Uruguayos polymer banknote, issued 2020-2021 by the Banco Central del Uruguay, features José Pedro Varela, an educator and national figure, on the obverse with the Uruguayan coat of arms. The reverse depicts the Monument to José Pedro Varela. Printed by Oberthur Fiduciaire on polymer substrate, measuring 144 x 68 mm in red, blue, green, and orange, signed by Alberto Grana and Alfredo Allo Arrieta. This note represents Uruguay's modernization with polymer technology.",
+    "highlights": {
+      "reason": "Uruguay's introduction of polymer substrate for improved durability and security.",
+      "design": "José Pedro Varela educator portrait with Monument to Varela on reverse.",
+      "security": "Polymer substrate provides enhanced durability; printed by Oberthur Fiduciaire."
+    },
     "sources": [],
-    "confidence": "fallback"
+    "confidence": "secondary"
   },
   {
     "id": "e557",
@@ -9921,10 +10337,14 @@
     "hue": 35.7,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2021-banknotes/fronts/VENW2021-005o.jpg",
     "slug": "venezuela-5-bol-vares-e558",
-    "body": "Common high-value note in Tajikistan. Features national leaders and cultural symbols. Widely accepted in commerce and banking.",
-    "highlights": {},
+    "body": "The 5 Bolívares banknote, issued April 29, 2021 by the Banco Central de Venezuela, commemorates the bicentennial of the Battle of Carabobo (1821-2021). Featuring Simón Bolívar, the Liberator who led Venezuelan independence, on the obverse, the reverse displays the Arch of Triumph at Campo Carabobo, the Venezuelan coat of arms, and Martín Tovar y Tovar's iconic painting of the Battle of Carabobo—June 24, 1821—marking Venezuela's decisive victory over Spanish colonial forces.",
+    "highlights": {
+      "reason": "Commemorates the bicentennial of the Battle of Carabobo (1821), Venezuelan independence milestone.",
+      "design": "Simón Bolívar portrait with Arch of Triumph and Carabobo battle painting.",
+      "security": "Contemporary banknote security features for 2021 commemorative issue."
+    },
     "sources": [],
-    "confidence": "fallback"
+    "confidence": "official"
   },
   {
     "id": "e559",
@@ -9937,10 +10357,14 @@
     "hue": 255.2,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2021-banknotes/fronts/VENW2021-010o.jpg",
     "slug": "venezuela-10-bol-vares-e559",
-    "body": "Mid-range denomination supporting everyday transactions. Durable design addresses climate conditions. Essential for local economic activity.",
-    "highlights": {},
+    "body": "The 10 Bolívares banknote, issued April 29, 2021 by the Banco Central de Venezuela, commemorates the bicentennial of the Battle of Carabobo (1821-2021). Featuring Simón Bolívar, El Libertador, on the obverse, the reverse depicts the Carabobo Field Monument and scenes from the historic battle of June 24, 1821—when Bolívar's army of 6,500 troops, including British volunteers, defeated Spanish royalists, effectively securing Venezuelan independence and regional liberation across South America.",
+    "highlights": {
+      "reason": "Commemorates the bicentennial of the Battle of Carabobo (1821), pivotal independence victory.",
+      "design": "Simón Bolívar portrait with Carabobo Field Monument and battle imagery.",
+      "security": "Contemporary banknote security features for 2021 commemorative issue."
+    },
     "sources": [],
-    "confidence": "fallback"
+    "confidence": "official"
   },
   {
     "id": "e560",
