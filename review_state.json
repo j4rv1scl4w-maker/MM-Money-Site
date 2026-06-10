@@ -4,306 +4,307 @@
     "year": 2026,
     "country": "Papua New Guinea",
     "title": "100 Kina",
-    "status": "needs_fix",
+    "status": "fixed",
     "issues": [
       "body is placeholder (== description)",
       "no source URL",
       "duplicate of e577"
     ],
-    "ts": "2026-06-09T20:19:05.681164+00:00"
+    "ts": "2026-06-10T05:24:54.109454+00:00"
   },
   {
     "id": "e424",
     "year": 2026,
     "country": "Indonesia",
     "title": "20.000 Rupiah",
-    "status": "needs_fix",
+    "status": "fixed",
     "issues": [
       "body describes Rwanda 5000 Francs, not Indonesia",
       "source says National Bank of Rwanda",
       "duplicate of e575"
     ],
-    "ts": "2026-06-09T20:19:05.681164+00:00"
+    "ts": "2026-06-10T05:24:54.109454+00:00"
   },
   {
     "id": "e547",
     "year": 2026,
     "country": "United Arab Emirates",
     "title": "50 Dirhams",
-    "status": "needs_fix",
+    "status": "fixed",
     "issues": [
       "body describes Syria, not UAE",
       "source says Central Bank of Syria",
       "duplicate of e581"
     ],
-    "ts": "2026-06-09T20:19:05.681164+00:00"
+    "ts": "2026-06-10T05:24:54.109454+00:00"
   },
   {
     "id": "e560",
     "year": 2026,
     "country": "Bangladesh",
     "title": "5 Taka",
-    "status": "needs_fix",
+    "status": "fixed",
     "issues": [
       "body generic, source says National Bank of Tajikistan, not Bangladesh"
     ],
-    "ts": "2026-06-09T20:19:05.681164+00:00"
+    "ts": "2026-06-10T05:24:54.109454+00:00"
   },
   {
     "id": "e561",
     "year": 2026,
     "country": "Bangladesh",
     "title": "10 Taka",
-    "status": "needs_fix",
+    "status": "fixed",
     "issues": [
       "body describes Tanzania 2024 series, not Bangladesh"
     ],
-    "ts": "2026-06-09T20:19:05.681164+00:00"
+    "ts": "2026-06-10T05:24:54.109454+00:00"
   },
   {
     "id": "e562",
     "year": 2026,
     "country": "Bangladesh",
     "title": "500 Taka",
-    "status": "needs_fix",
+    "status": "fixed",
     "issues": [
       "body generic Tanzania-flavoured, source says Central Bank of Tanzania"
     ],
-    "ts": "2026-06-09T20:19:05.681164+00:00"
+    "ts": "2026-06-10T05:24:54.109454+00:00"
   },
   {
     "id": "e563",
     "year": 2026,
     "country": "Bangladesh",
     "title": "1.000 Taka",
-    "status": "needs_fix",
+    "status": "fixed",
     "issues": [
       "body says \"Tanzanian circulation\", not Bangladesh"
     ],
-    "ts": "2026-06-09T20:19:05.681164+00:00"
+    "ts": "2026-06-10T05:24:54.109454+00:00"
   },
   {
     "id": "e564",
     "year": 2026,
     "country": "China — Peoples Republic",
     "title": "20 Yuan",
-    "status": "needs_fix",
+    "status": "fixed",
     "issues": [
       "body generic, source says Central Bank of Tanzania, not China"
     ],
-    "ts": "2026-06-09T20:19:05.681164+00:00"
+    "ts": "2026-06-10T05:24:54.109454+00:00"
   },
   {
     "id": "e565",
     "year": 2026,
     "country": "Cuba",
     "title": "5.000 Pesos",
-    "status": "needs_fix",
+    "status": "fixed",
     "issues": [
       "body says \"Integral to Tanzanian monetary system\", not Cuba"
     ],
-    "ts": "2026-06-09T20:19:05.681164+00:00"
+    "ts": "2026-06-10T05:24:54.109454+00:00"
   },
   {
     "id": "e566",
     "year": 2026,
     "country": "Czechia",
     "title": "100 Korun Českých",
-    "status": "needs_fix",
+    "status": "fixed",
     "issues": [
-      "body describes Thailand royal imagery, not Czechia"
+      "body describes Thailand royal imagery, not Czechia",
+      "description corrected: was 2019 koruna anniversary, actual note is 2026 NBC centennial (Pospisil)"
     ],
-    "ts": "2026-06-09T20:19:05.681164+00:00"
+    "ts": "2026-06-10T05:24:54.109454+00:00"
   },
   {
     "id": "e567",
     "year": 2026,
     "country": "Fiji",
     "title": "5 Dollars",
-    "status": "needs_fix",
+    "status": "fixed",
     "issues": [
       "body says \"Southeast Asian commerce\" / Thailand, not Fiji"
     ],
-    "ts": "2026-06-09T20:19:05.681164+00:00"
+    "ts": "2026-06-10T05:24:54.109454+00:00"
   },
   {
     "id": "e568",
     "year": 2026,
     "country": "Fiji",
     "title": "10 Dollars",
-    "status": "needs_fix",
+    "status": "fixed",
     "issues": [
       "body says \"Thai circulation\", not Fiji"
     ],
-    "ts": "2026-06-09T20:19:05.681164+00:00"
+    "ts": "2026-06-10T05:24:54.109454+00:00"
   },
   {
     "id": "e569",
     "year": 2026,
     "country": "Fiji",
     "title": "20 Dollars",
-    "status": "needs_fix",
+    "status": "fixed",
     "issues": [
       "body says \"across Thailand\", not Fiji"
     ],
-    "ts": "2026-06-09T20:19:05.681164+00:00"
+    "ts": "2026-06-10T05:24:54.109454+00:00"
   },
   {
     "id": "e570",
     "year": 2026,
     "country": "Fiji",
     "title": "50 Dollars",
-    "status": "needs_fix",
+    "status": "fixed",
     "issues": [
       "body says \"Thai monetary system\", not Fiji"
     ],
-    "ts": "2026-06-09T20:19:05.681164+00:00"
+    "ts": "2026-06-10T05:24:54.109454+00:00"
   },
   {
     "id": "e571",
     "year": 2026,
     "country": "Fiji",
     "title": "100 Dollars",
-    "status": "needs_fix",
+    "status": "fixed",
     "issues": [
       "body describes Timor-Leste dollarization, not Fiji"
     ],
-    "ts": "2026-06-09T20:19:05.681164+00:00"
+    "ts": "2026-06-10T05:24:54.109454+00:00"
   },
   {
     "id": "e573",
     "year": 2026,
     "country": "India",
     "title": "50 Rupees",
-    "status": "needs_fix",
+    "status": "fixed",
     "issues": [
       "body generic, source says Central Bank of Timor-Leste, not India"
     ],
-    "ts": "2026-06-09T20:19:05.681164+00:00"
+    "ts": "2026-06-10T05:24:54.109454+00:00"
   },
   {
     "id": "e574",
     "year": 2026,
     "country": "India",
     "title": "200 Rupees",
-    "status": "needs_fix",
+    "status": "fixed",
     "issues": [
       "body generic, source says Central Bank of Timor-Leste, not India"
     ],
-    "ts": "2026-06-09T20:19:05.681164+00:00"
+    "ts": "2026-06-10T05:24:54.109454+00:00"
   },
   {
     "id": "e575",
     "year": 2026,
     "country": "Indonesia",
     "title": "20.000 Rupiah",
-    "status": "needs_fix",
+    "status": "fixed",
     "issues": [
       "body describes Timorese monetary system, not Indonesia",
       "duplicate of e424"
     ],
-    "ts": "2026-06-09T20:19:05.681164+00:00"
+    "ts": "2026-06-10T05:24:54.109454+00:00"
   },
   {
     "id": "e576",
     "year": 2026,
     "country": "Nigeria",
     "title": "200 Naira",
-    "status": "needs_fix",
+    "status": "fixed",
     "issues": [
       "body describes WAEMU/West Africa union, not Nigeria"
     ],
-    "ts": "2026-06-09T20:19:05.681164+00:00"
+    "ts": "2026-06-10T05:24:54.109454+00:00"
   },
   {
     "id": "e577",
     "year": 2026,
     "country": "Papua New Guinea",
     "title": "100 Kina",
-    "status": "needs_fix",
+    "status": "fixed",
     "issues": [
       "body describes WAEMU/Togo, not Papua New Guinea",
       "duplicate of e43"
     ],
-    "ts": "2026-06-09T20:19:05.681164+00:00"
+    "ts": "2026-06-10T05:24:54.109454+00:00"
   },
   {
     "id": "e578",
     "year": 2026,
     "country": "Saint Helena",
     "title": "5 Pounds",
-    "status": "needs_fix",
+    "status": "fixed",
     "issues": [
       "body describes Togolese economy, not Saint Helena"
     ],
-    "ts": "2026-06-09T20:19:05.681164+00:00"
+    "ts": "2026-06-10T05:24:54.109454+00:00"
   },
   {
     "id": "e579",
     "year": 2026,
     "country": "Saint Helena",
     "title": "10 Pounds",
-    "status": "needs_fix",
+    "status": "fixed",
     "issues": [
       "body says \"Togolese commerce\", not Saint Helena"
     ],
-    "ts": "2026-06-09T20:19:05.681164+00:00"
+    "ts": "2026-06-10T05:24:54.109454+00:00"
   },
   {
     "id": "e580",
     "year": 2026,
     "country": "Saint Helena",
     "title": "20 Pounds",
-    "status": "needs_fix",
+    "status": "fixed",
     "issues": [
       "body says \"Integral to WAEMU system\", not Saint Helena"
     ],
-    "ts": "2026-06-09T20:19:05.681164+00:00"
+    "ts": "2026-06-10T05:24:54.109454+00:00"
   },
   {
     "id": "e581",
     "year": 2026,
     "country": "United Arab Emirates",
     "title": "50 Dirhams",
-    "status": "needs_fix",
+    "status": "fixed",
     "issues": [
       "body describes Transnistria 2024 series, not UAE",
       "duplicate of e547"
     ],
-    "ts": "2026-06-09T20:19:05.681164+00:00"
+    "ts": "2026-06-10T05:24:54.109454+00:00"
   },
   {
     "id": "e582",
     "year": 2026,
     "country": "Zimbabwe",
     "title": "10 ZiG (Zimbabwe Gold)",
-    "status": "needs_fix",
+    "status": "fixed",
     "issues": [
       "body describes Transnistria, not Zimbabwe"
     ],
-    "ts": "2026-06-09T20:19:05.681164+00:00"
+    "ts": "2026-06-10T05:24:54.109454+00:00"
   },
   {
     "id": "e583",
     "year": 2026,
     "country": "Zimbabwe",
     "title": "20 ZiG (Zimbabwe Gold)",
-    "status": "needs_fix",
+    "status": "fixed",
     "issues": [
       "body says \"Transnistrian economy\", not Zimbabwe"
     ],
-    "ts": "2026-06-09T20:19:05.681164+00:00"
+    "ts": "2026-06-10T05:24:54.109454+00:00"
   },
   {
     "id": "e584",
     "year": 2026,
     "country": "Zimbabwe",
     "title": "50 ZiG (Zimbabwe Gold)",
-    "status": "needs_fix",
+    "status": "fixed",
     "issues": [
       "body says \"Transnistrian monetary independence\", not Zimbabwe"
     ],
-    "ts": "2026-06-09T20:19:05.681164+00:00"
+    "ts": "2026-06-10T05:24:54.109454+00:00"
   },
   {
     "id": "e1",
