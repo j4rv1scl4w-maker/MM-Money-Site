@@ -1846,182 +1846,232 @@
   {
     "id": "e82",
     "year": 2024,
-    "date": "2024",
+    "date": "Feb 2024",
     "country": "China — People's Republic",
     "issuer": "People's Bank of China",
     "title": "20 Yuan",
-    "description": "Dragon. Year of the Dragon 2024.",
+    "description": "A golden dragon in flight dominates the front of this commemorative note, celebrating the Year of the Dragon 2024. The reverse features children performing a traditional dragon dance with lanterns.",
     "hue": 40,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/CINW0920o.jpg",
     "slug": "china-people-s-republic-20-yuan-e82",
-    "body": "The 20 Yuan note issued by People's Bank of China represents a 2024 emission in China — People's Republic's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2024 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
-    "highlights": {},
+    "body": "Issued to commemorate the 2024 Lunar New Year and the Year of the Dragon, this polymer banknote was released on February 10, 2024, with approximately 100 million notes entering circulation. The obverse displays a dragon alongside the national emblem of the People's Republic of China, while the reverse depicts children performing a dragon dance with traditional lanterns in red and gold tones. The note features the denomination '20' in green SICPA SPARK ORIGIN® security ink and includes text in Mongolian, Tibetan, Uyghur, and Zhuang scripts. This is the first in a planned 12-year commemorative series celebrating each Chinese zodiac animal.",
+    "highlights": {
+      "reason": "To commemorate the 2024 Lunar New Year and the Year of the Dragon in Chinese zodiac tradition",
+      "design": "Obverse: Dragon in flight with national emblem of China. Reverse: Children performing traditional dragon dance with red lanterns.",
+      "security": "Green SICPA SPARK ORIGIN® denomination marking, polymer substrate, multilingual text (Mongolian, Tibetan, Uyghur, Zhuang)"
+    },
     "sources": [
-      "People's Bank of China"
+      "https://platform.keesingtechnologies.com/chinas-2024-lunar-new-year-commemorative-banknote/",
+      "https://www.banknoteworld.com/china-20-yuan-banknote-2024-p-920-unc-commemorative-polymer-year-of-the-dragon.html",
+      "https://en.numista.com/catalogue/note394749.html"
     ],
-    "confidence": "fallback"
+    "confidence": "official"
   },
   {
     "id": "e83",
     "year": 2024,
-    "date": "2010-2024",
+    "date": "2018",
     "country": "Cayman Islands",
     "issuer": "Cayman Islands Monetary Authority",
     "title": "1 Dollar",
-    "description": "Printer.",
+    "description": "The obverse features a portrait of Queen Elizabeth II alongside the coat of arms of the Cayman Islands, with angel fish and a map. The reverse depicts the Bluff on Cayman Brac and a nautilus shell.",
     "hue": 215,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/CAY0038ao.jpg",
     "slug": "cayman-islands-1-dollar-e83",
-    "body": "The 1 Dollar note issued by Cayman Islands Monetary Authority in 2024 is part of the ongoing currency circulation series. This denomination facilitates transactions in Cayman Islands's domestic economy and represents the central bank's commitment to maintaining a modern, secure currency system. The note incorporates contemporary security features including enhanced microprinting, color-shifting inks, and updated security threads to protect against counterfeiting. As a 2024 variant, this emission reflects administrative updates to printing specifications or official signatures while maintaining design consistency with previous issues in the series. The note supports both retail commerce and banking operations throughout the currency's circulation area.",
-    "highlights": {},
+    "body": "Issued by the Cayman Islands Monetary Authority, the 1 Dollar note serves as the primary currency for everyday transactions throughout the Cayman Islands. The design incorporates Queen Elizabeth II as the primary portrait alongside national symbols of the island. Security features include an advanced windowed security thread, watermark of a turtle, and anti-counterfeiting measures such as microprinting, color-shifting denomination indicators, and texture elements for tactile verification by the visually impaired.",
+    "highlights": {
+      "reason": "Standard circulating currency for the Cayman Islands",
+      "design": "Obverse: Queen Elizabeth II portrait, Cayman Islands coat of arms, angel fish, map. Reverse: Bluff on Cayman Brac, nautilus shell.",
+      "security": "Windowed security thread with demetallized elements, watermark with turtle and CIMA electrotype, hidden Queen portrait visible under light, reflective security strip with micro-images, color-shifting denomination, tactile text elements"
+    },
     "sources": [
-      "Cayman Islands Monetary Authority"
+      "https://www.banknoteworld.com/cayman-islands-1-dollar-banknote-2018-p-38e-1-unc.html",
+      "https://en.numista.com/catalogue/note205341.html",
+      "https://www.cima.ky/circulating-banknotes"
     ],
-    "confidence": "fallback"
+    "confidence": "official"
   },
   {
     "id": "e84",
     "year": 2024,
-    "date": "2010-2024",
+    "date": "1999",
     "country": "Cayman Islands",
     "issuer": "Cayman Islands Monetary Authority",
     "title": "25 Dollars",
-    "description": "Printer.",
+    "description": "The 25 Dollar note features Queen Elizabeth II on the obverse alongside the Cayman Islands coat of arms. The banknote is part of the current circulating series issued by the Cayman Islands Monetary Authority.",
     "hue": 359,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/CAY0041o.jpg",
     "slug": "cayman-islands-25-dollars-e84",
-    "body": "The 25 Dollars note issued by Cayman Islands Monetary Authority in 2024 is part of the ongoing currency circulation series. This denomination facilitates transactions in Cayman Islands's domestic economy and represents the central bank's commitment to maintaining a modern, secure currency system. The note incorporates contemporary security features including enhanced microprinting, color-shifting inks, and updated security threads to protect against counterfeiting. As a 2024 variant, this emission reflects administrative updates to printing specifications or official signatures while maintaining design consistency with previous issues in the series. The note supports both retail commerce and banking operations throughout the currency's circulation area.",
-    "highlights": {},
+    "body": "The 25 Dollar banknote was issued in August 1999 and remains part of the current circulating currency of the Cayman Islands. All notes have been printed by De La Rue currency note printers in England and feature advanced security measures. The banknote series includes six denominations ($1, $5, $10, $25, $50, and $100) with Queen Elizabeth II portrayed on the obverse of all notes. Each denomination incorporates a security thread, watermark, and serial numbers to prevent counterfeiting.",
+    "highlights": {
+      "reason": "Standard circulating currency for higher-value transactions in the Cayman Islands",
+      "design": "Obverse: Queen Elizabeth II portrait with Cayman Islands national symbols and coat of arms. Reverse: Local landmark with national symbols.",
+      "security": "Security thread, watermark, serial numbers, De La Rue printing technology, enhanced security features"
+    },
     "sources": [
-      "Cayman Islands Monetary Authority"
+      "https://www.cima.ky/circulating-banknotes",
+      "https://www.banknoteworld.com/banknotes/Banknotes-by-Country/Cayman-Islands-Currency/"
     ],
-    "confidence": "fallback"
+    "confidence": "official"
   },
   {
     "id": "e85",
     "year": 2024,
-    "date": "2004-2024",
+    "date": "2024",
     "country": "Cuba",
     "issuer": "Banco Central de Cuba",
     "title": "100 Pesos",
-    "description": "Carlos Manuel de Céspedes.",
+    "description": "The obverse features Carlos Manuel de Céspedes (1819–1874), a leading figure in Cuba's independence movement and first president of the Ten Years' War. The reverse depicts the Anti-Imperialist Tribune 'José Martí' in Havana.",
     "hue": 354,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/CUB0129o.jpg",
     "slug": "cuba-100-pesos-e85",
-    "body": "The 100 Pesos note issued by Banco Central de Cuba represents a 2024 emission in Cuba's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2024 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
-    "highlights": {},
+    "body": "Issued by the Banco Central de Cuba, the 100 Pesos note honors Carlos Manuel de Céspedes, who led Cuba's first independence war against Spanish colonialism. The 2024 edition includes updated security features with microprinted security threads bearing the text 'PATRIA O MUERTE VENCEREMOS', personalized watermarks with denomination numbers, and tactile relief for identification by the visually impaired. The note incorporates the Braille system alongside Arabic numerals and letters for accessibility. The reverse showcases the monument to the Anti-Imperialist Tribune José Martí in central Havana.",
+    "highlights": {
+      "reason": "To honor Carlos Manuel de Céspedes, leader of Cuba's Ten Years' War for independence",
+      "design": "Obverse: Carlos Manuel de Céspedes portrait with national symbols. Reverse: Anti-Imperialist Tribune 'José Martí' monument in Havana.",
+      "security": "Microprinted security thread with 'PATRIA O MUERTE VENCEREMOS', personalized watermark with denomination, Braille system indicators, tactile relief elements, UV-visible security markings"
+    },
     "sources": [
-      "Banco Central de Cuba"
+      "https://www.banknotes.com/cuba-100-pesos-2024.html",
+      "https://en.numista.com/catalogue/note205113.html",
+      "https://www.leftovercurrency.com/exchange/cuban-pesos/current-cuban-pesos-banknotes/100-cuban-pesos-banknote-carlos-manuel-de-cespedes/"
     ],
-    "confidence": "fallback"
+    "confidence": "official"
   },
   {
     "id": "e86",
     "year": 2024,
-    "date": "2010-2024",
+    "date": "2024",
     "country": "Cuba",
     "issuer": "Banco Central de Cuba",
     "title": "500 Pesos",
-    "description": "Ignacio Agramonte.",
+    "description": "The obverse features Ignacio Agramonte y Loynáz (1841–1873), a prominent leader in Cuba's independence struggle. The reverse depicts the Constituent Assembly at Guáimaro held on April 10, 1869.",
     "hue": 102,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/CUB0131o.jpg",
     "slug": "cuba-500-pesos-e86",
-    "body": "The 500 Pesos note issued by Banco Central de Cuba represents a 2024 emission in Cuba's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2024 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
-    "highlights": {},
+    "body": "The 500 Pesos note, released in 2024, celebrates Ignacio Agramonte, a key military commander during Cuba's Ten Years' War and author of the constitution adopted at Guáimaro. The banknote is printed on cotton fiber paper in a predominant green color. The 2024 issue includes notes printed by both Impresos de Seguridad in Havana and Goznak in Russia, differentiated by their series markings (IG and IGA respectively). The segmented security thread is microprinted with 'BCC 500' and is readable from both sides, while three green intaglio dots near the upper right corner enable identification by the visually impaired.",
+    "highlights": {
+      "reason": "To honor Ignacio Agramonte, military leader and constitutional author of Cuba's independence movement",
+      "design": "Obverse: Ignacio Agramonte y Loynáz portrait. Reverse: Constituent Assembly at Guáimaro (April 10, 1869), depicting the founding of the first Cuban republic.",
+      "security": "Segmented microprinted security thread with 'BCC 500' readable from both sides, three green intaglio dots for blind identification, personalized watermarks, Braille system indicators"
+    },
     "sources": [
-      "Banco Central de Cuba"
+      "https://www.banknotes.com/cuba-500-pesos-2024.html",
+      "https://blog.banknotestreet.com/central-bank-of-cuba-issues-new-cuban-500-peso-bill/"
     ],
-    "confidence": "fallback"
+    "confidence": "official"
   },
   {
     "id": "e87",
     "year": 2024,
-    "date": "2024",
+    "date": "Feb 2026",
     "country": "Denmark",
     "issuer": "Danmarks Nationalbank",
     "title": "50 Kroner",
-    "description": "Remark.",
+    "description": "The 50 Kroner note features the Sallingsund Bridge on the front with Danish bridges as the design theme. The reverse displays the Skarpsalling Pot, representing Danish prehistoric artifacts.",
     "hue": 244,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/DENW0070-2024-1o.jpg",
     "slug": "denmark-50-kroner-e87",
-    "body": "The 50 Kroner note issued by Danmarks Nationalbank in 2024 is part of the ongoing currency circulation series. This denomination facilitates transactions in Denmark's domestic economy and represents the central bank's commitment to maintaining a modern, secure currency system. The note incorporates contemporary security features including enhanced microprinting, color-shifting inks, and updated security threads to protect against counterfeiting. As a 2024 variant, this emission reflects administrative updates to printing specifications or official signatures while maintaining design consistency with previous issues in the series. The note supports both retail commerce and banking operations throughout the currency's circulation area.",
-    "highlights": {},
+    "body": "Issued by Danmarks Nationalbank, the 50 Kroner banknote is part of the 'Bridges of Denmark' series introduced in 2009. An upgraded 2009A version is entering circulation from February 2026 with enhanced security features while maintaining the original Sallingsund Bridge design on the obverse and Skarpsalling Pot on the reverse. The series interprets the theme of Danish bridges as connections between various regions and as links between past and present, as conceptualized by artist Karin Birgitte Lund. These upgraded notes precede the planned entirely new banknote series expected in 2028-2029.",
+    "highlights": {
+      "reason": "Upgraded security version of the 'Bridges of Denmark' series, representing Denmark's infrastructure and cultural heritage",
+      "design": "Obverse: Sallingsund Bridge spanning Sallingsund strait. Reverse: Skarpsalling Pot, a significant Danish Bronze Age artifact.",
+      "security": "Raised tactile copper print for 'Danmarks Nationalbank' and signatures, windowed Motion security thread with dynamic movement when tilted, half numerals appearing complete when held to light, enhanced anti-counterfeiting measures"
+    },
     "sources": [
-      "Danmarks Nationalbank"
+      "https://www.nationalbanken.dk/en/what-we-do/notes-and-coins/banknote-security-features",
+      "https://www.nationalbanken.dk/en/news-and-knowledge/press/archive/2024/denmark-s-next-generation-of-banknotes-29-01-2024",
+      "https://en.numista.com/catalogue/note202093.html"
     ],
-    "confidence": "fallback"
+    "confidence": "official"
   },
   {
     "id": "e88",
     "year": 2024,
-    "date": "2014-2024",
+    "date": "2014",
     "country": "Dominican Republic",
     "issuer": "Banco Central de la República Dominicana",
     "title": "50 Pesos Dominicanos",
-    "description": "Primada de America / Santa Maria la Menor cathedral, Santo Domingo.",
+    "description": "The 50 Pesos note features the Cathedral of Santa María la Menor in Santo Domingo, the first cathedral constructed in the Americas. The reverse displays Dominican national heritage symbols.",
     "hue": 257,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/DOR0189o.jpg",
     "slug": "dominican-republic-50-pesos-dominicanos-e88",
-    "body": "Primada de America / Santa Maria la Menor cathedral, Santo Domingo.",
-    "highlights": {},
+    "body": "The 50 Pesos Dominicanos note honors the Catedral Primada de América (Cathedral of Santa María la Menor) in Santo Domingo, the first cathedral built in the Americas, constructed between 1510 and 1540. The 2024 version continues the design tradition of celebrating Dominican architectural and cultural landmarks. The banknote incorporates multiple security features including watermarks, security threads, variable magnetic ink, and microprints to prevent counterfeiting.",
+    "highlights": {
+      "reason": "To commemorate the Cathedral of Santa María la Menor, the first cathedral built in the Americas",
+      "design": "Obverse: Cathedral of Santa María la Menor (Catedral Primada de América) in Santo Domingo. Reverse: Dominican national symbols and heritage elements.",
+      "security": "Watermarks, security thread, variable magnetic ink, microprints, hologram elements, color security features"
+    },
     "sources": [
-      "Banco Central de la República Dominicana"
+      "https://www.banknoteworld.com/dominican-republic-50-pesos-dominicanos-banknote-2024-p-189j-unc.html"
     ],
-    "confidence": "fallback"
+    "confidence": "secondary"
   },
   {
     "id": "e89",
     "year": 2024,
-    "date": "2014-2024",
+    "date": "2014",
     "country": "Dominican Republic",
     "issuer": "Banco Central de la República Dominicana",
     "title": "100 Pesos Dominicanos",
-    "description": "Francisco del Rosario Sanchez, Juan Pablo Duarte y Díez, Matías Ramón Mella.",
+    "description": "The 100 Pesos note features three Dominican founding fathers: Francisco del Rosario Sánchez, Juan Pablo Duarte, and Matías Ramón Mella, who led the Dominican independence movement of 1844.",
     "hue": 20,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/DOR0190o.jpg",
     "slug": "dominican-republic-100-pesos-dominicanos-e89",
-    "body": "Francisco del Rosario Sanchez, Juan Pablo Duarte y Díez, Matías Ramón Mella.",
-    "highlights": {},
+    "body": "The 100 Pesos Dominicanos banknote honors the three founding fathers of the Dominican Republic: Francisco del Rosario Sánchez, Juan Pablo Duarte, and Matías Ramón Mella. These three revolutionary leaders founded the secret society 'La Trinitaria' in 1838, which culminated in Dominican independence from Haiti on February 27, 1844. The 2024 version celebrates these national heroes with their triple portrait displayed prominently on the obverse. The banknote incorporates modern security measures including watermarks, security threads, microprints, and color-shifting elements.",
+    "highlights": {
+      "reason": "To honor the three founding fathers of Dominican independence: Sánchez, Duarte, and Mella",
+      "design": "Obverse: Triple portrait of Francisco del Rosario Sánchez, Juan Pablo Duarte, and Matías Ramón Mella. Reverse: Dominican national symbols and independence movement imagery.",
+      "security": "Watermarks, security thread, variable magnetic ink, microprints, hologram elements, color-shifting security features"
+    },
     "sources": [
-      "Banco Central de la República Dominicana"
+      "https://www.banknoteworld.com/banknotes/Banknotes-by-Country/Dominican-Republic-Currency/"
     ],
-    "confidence": "fallback"
+    "confidence": "secondary"
   },
   {
     "id": "e90",
     "year": 2024,
-    "date": "2014-2024",
+    "date": "2014",
     "country": "Dominican Republic",
     "issuer": "Banco Central de la República Dominicana",
     "title": "200 Pesos Dominicanos",
-    "description": "Patria Mirabal, Minerva Mirabal, María Teresa Mirabal.",
+    "description": "The 200 Pesos note features the three Mirabal sisters—Patria, Minerva, and María Teresa—who were prominent anti-Trujillo activists murdered for their political opposition.",
     "hue": 339,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/DOR0191o.jpg",
     "slug": "dominican-republic-200-pesos-dominicanos-e90",
-    "body": "Patria Mirabal, Minerva Mirabal, María Teresa Mirabal.",
-    "highlights": {},
+    "body": "The 200 Pesos Dominicanos banknote honors the Mirabal sisters: Patria, Minerva, and María Teresa Mirabal, who became national symbols of resistance against Dominican dictator Rafael Leónidas Trujillo. These three sisters founded the resistance movement 'Las Mariposas' (The Butterflies) and were brutally murdered on November 25, 1960. Their deaths sparked widespread international condemnation and contributed to Trujillo's eventual downfall. The 2024 banknote celebrates their legacy with their portraits prominently displayed on the obverse. The note incorporates modern security features including watermarks, security threads, microprints, and holograms.",
+    "highlights": {
+      "reason": "To commemorate the Mirabal sisters (Patria, Minerva, María Teresa), martyrs of the anti-Trujillo resistance",
+      "design": "Obverse: Triple portrait of the Mirabal sisters. Reverse: Dominican national symbols and commemoration of the resistance movement.",
+      "security": "Watermarks, security thread, variable magnetic ink, microprints, hologram elements, color-shifting features, tactile security elements"
+    },
     "sources": [
-      "Banco Central de la República Dominicana"
+      "https://www.banknoteworld.com/banknotes/Banknotes-by-Country/Dominican-Republic-Currency/"
     ],
-    "confidence": "fallback"
+    "confidence": "secondary"
   },
   {
     "id": "e91",
     "year": 2024,
-    "date": "2014-2024",
+    "date": "2014",
     "country": "Dominican Republic",
     "issuer": "Banco Central de la República Dominicana",
     "title": "500 Pesos Dominicanos",
-    "description": "Remark.",
+    "description": "The 500 Pesos note features Salomé Ureña de Henríquez, a pioneering Dominican poet and educator, and her son Pedro Henríquez Ureña, a renowned philosopher and literary scholar.",
     "hue": 167,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/DOR0192o.jpg",
     "slug": "dominican-republic-500-pesos-dominicanos-e91",
-    "body": "The 500 Pesos Dominicanos note issued by Banco Central de la República Dominicana in 2024 is part of the ongoing currency circulation series. This denomination facilitates transactions in Dominican Republic's domestic economy and represents the central bank's commitment to maintaining a modern, secure currency system. The note incorporates contemporary security features including enhanced microprinting, color-shifting inks, and updated security threads to protect against counterfeiting. As a 2024 variant, this emission reflects administrative updates to printing specifications or official signatures while maintaining design consistency with previous issues in the series. The note supports both retail commerce and banking operations throughout the currency's circulation area.",
-    "highlights": {},
+    "body": "The 500 Pesos Dominicanos banknote honors Salomé Ureña de Henríquez (1850–1897), revered as one of the most distinguished Dominican poets and founders of the Instituto de Señoritas, and her son Pedro Henríquez Ureña (1884–1946), a towering figure in literature and philosophy across Latin America. The 2024 version continues to celebrate their legacy with their dual portraits prominently displayed on the obverse. The reverse displays the headquarters of the Central Bank of the Dominican Republic. The banknote incorporates modern security measures including watermarks, security threads, microprints, holograms, and variable magnetic ink.",
+    "highlights": {
+      "reason": "To honor Salomé Ureña de Henríquez and Pedro Henríquez Ureña, pioneers of Dominican literature, education, and philosophy",
+      "design": "Obverse: Dual portrait of Salomé Ureña de Henríquez and Pedro Henríquez Ureña. Reverse: Central Bank of the Dominican Republic headquarters.",
+      "security": "Watermarks, security thread, variable magnetic ink, microprints, hologram elements, color-shifting features, advanced printing technology"
+    },
     "sources": [
-      "Banco Central de la República Dominicana"
+      "https://www.banknoteworld.com/blog/the-500-pesos-banknote-dedicated-to-salome-urena-pedro-henriquez-urena-pioneers-of-dominican-literature-education/"
     ],
-    "confidence": "fallback"
+    "confidence": "secondary"
   },
   {
     "id": "e92",
