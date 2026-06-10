@@ -311,135 +311,135 @@
     "year": 2025,
     "country": "Egypt",
     "title": "10 Pounds",
-    "status": "pending",
+    "status": "ok",
     "issues": [],
-    "ts": null
+    "ts": "2026-06-10T05:30:54.068123+00:00"
   },
   {
     "id": "e2",
     "year": 2025,
     "country": "Poland",
     "title": "20 Zlotych",
-    "status": "pending",
+    "status": "ok",
     "issues": [],
-    "ts": null
+    "ts": "2026-06-10T05:30:54.068123+00:00"
   },
   {
     "id": "e3",
     "year": 2025,
     "country": "Fiji",
     "title": "100 Cents",
-    "status": "pending",
+    "status": "ok",
     "issues": [],
-    "ts": null
+    "ts": "2026-06-10T05:30:54.068123+00:00"
   },
   {
     "id": "e4",
     "year": 2025,
     "country": "Belize",
     "title": "2 Dollars",
-    "status": "pending",
+    "status": "ok",
     "issues": [],
-    "ts": null
+    "ts": "2026-06-10T05:30:54.068123+00:00"
   },
   {
     "id": "e5",
     "year": 2025,
     "country": "Belize",
     "title": "5 Dollars",
-    "status": "pending",
+    "status": "ok",
     "issues": [],
-    "ts": null
+    "ts": "2026-06-10T05:30:54.068123+00:00"
   },
   {
     "id": "e6",
     "year": 2025,
     "country": "Belize",
     "title": "10 Dollars",
-    "status": "pending",
+    "status": "ok",
     "issues": [],
-    "ts": null
+    "ts": "2026-06-10T05:30:54.068123+00:00"
   },
   {
     "id": "e7",
     "year": 2025,
     "country": "Belize",
     "title": "20 Dollars",
-    "status": "pending",
+    "status": "ok",
     "issues": [],
-    "ts": null
+    "ts": "2026-06-10T05:30:54.068123+00:00"
   },
   {
     "id": "e8",
     "year": 2025,
     "country": "Belize",
     "title": "50 Dollars",
-    "status": "pending",
+    "status": "ok",
     "issues": [],
-    "ts": null
+    "ts": "2026-06-10T05:30:54.068123+00:00"
   },
   {
     "id": "e9",
     "year": 2025,
     "country": "Belize",
     "title": "100 Dollars",
-    "status": "pending",
+    "status": "ok",
     "issues": [],
-    "ts": null
+    "ts": "2026-06-10T05:30:54.068123+00:00"
   },
   {
     "id": "e10",
     "year": 2025,
     "country": "Mexico",
     "title": "1,000 Pesos",
-    "status": "pending",
+    "status": "ok",
     "issues": [],
-    "ts": null
+    "ts": "2026-06-10T05:30:54.068123+00:00"
   },
   {
     "id": "e11",
     "year": 2025,
     "country": "Curaçao and Sint Maarten",
     "title": "10 Caribbean Guilders",
-    "status": "pending",
+    "status": "ok",
     "issues": [],
-    "ts": null
+    "ts": "2026-06-10T05:30:54.068123+00:00"
   },
   {
     "id": "e12",
     "year": 2025,
     "country": "Curaçao and Sint Maarten",
     "title": "20 Caribbean Guilders",
-    "status": "pending",
+    "status": "ok",
     "issues": [],
-    "ts": null
+    "ts": "2026-06-10T05:30:54.068123+00:00"
   },
   {
     "id": "e13",
     "year": 2025,
     "country": "Curaçao and Sint Maarten",
     "title": "50 Caribbean Guilders",
-    "status": "pending",
+    "status": "ok",
     "issues": [],
-    "ts": null
+    "ts": "2026-06-10T05:30:54.068123+00:00"
   },
   {
     "id": "e14",
     "year": 2025,
     "country": "Curaçao and Sint Maarten",
     "title": "100 Caribbean Guilders",
-    "status": "pending",
+    "status": "ok",
     "issues": [],
-    "ts": null
+    "ts": "2026-06-10T05:30:54.068123+00:00"
   },
   {
     "id": "e15",
     "year": 2025,
     "country": "Curaçao and Sint Maarten",
     "title": "200 Caribbean Guilders",
-    "status": "pending",
+    "status": "ok",
     "issues": [],
-    "ts": null
+    "ts": "2026-06-10T05:30:54.068123+00:00"
   },
   {
     "id": "e16",
@@ -511,45 +511,45 @@
     "year": 2025,
     "country": "Falkland Islands",
     "title": "5 Pounds",
-    "status": "pending",
+    "status": "ok",
     "issues": [],
-    "ts": null
+    "ts": "2026-06-10T05:30:54.068123+00:00"
   },
   {
     "id": "e22",
     "year": 2025,
     "country": "Falkland Islands",
     "title": "10 Pounds",
-    "status": "pending",
+    "status": "ok",
     "issues": [],
-    "ts": null
+    "ts": "2026-06-10T05:30:54.068123+00:00"
   },
   {
     "id": "e23",
     "year": 2025,
     "country": "Falkland Islands",
     "title": "20 Pounds",
-    "status": "pending",
+    "status": "ok",
     "issues": [],
-    "ts": null
+    "ts": "2026-06-10T05:30:54.068123+00:00"
   },
   {
     "id": "e24",
     "year": 2025,
     "country": "Guatemala",
     "title": "100 Quetzales",
-    "status": "pending",
+    "status": "ok",
     "issues": [],
-    "ts": null
+    "ts": "2026-06-10T05:30:54.068123+00:00"
   },
   {
     "id": "e25",
     "year": 2025,
     "country": "Mexico",
     "title": "100 Pesos",
-    "status": "pending",
+    "status": "ok",
     "issues": [],
-    "ts": null
+    "ts": "2026-06-10T05:30:54.068123+00:00"
   },
   {
     "id": "e26",
@@ -621,45 +621,45 @@
     "year": 2025,
     "country": "Maldives",
     "title": "100 Rufiyaa",
-    "status": "pending",
+    "status": "ok",
     "issues": [],
-    "ts": null
+    "ts": "2026-06-10T05:30:54.068123+00:00"
   },
   {
     "id": "e32",
     "year": 2025,
     "country": "Mongolia",
     "title": "100,000 Tögrög",
-    "status": "pending",
+    "status": "ok",
     "issues": [],
-    "ts": null
+    "ts": "2026-06-10T05:30:54.068123+00:00"
   },
   {
     "id": "e33",
     "year": 2025,
     "country": "Poland",
     "title": "10 Zlotych",
-    "status": "pending",
+    "status": "ok",
     "issues": [],
-    "ts": null
+    "ts": "2026-06-10T05:30:54.068123+00:00"
   },
   {
     "id": "e34",
     "year": 2025,
     "country": "Poland",
     "title": "20 Zlotych",
-    "status": "pending",
+    "status": "ok",
     "issues": [],
-    "ts": null
+    "ts": "2026-06-10T05:30:54.068123+00:00"
   },
   {
     "id": "e35",
     "year": 2025,
     "country": "Sri Lanka",
     "title": "2,000 Rupees",
-    "status": "pending",
+    "status": "ok",
     "issues": [],
-    "ts": null
+    "ts": "2026-06-10T05:30:54.068123+00:00"
   },
   {
     "id": "e36",
@@ -1010,1359 +1010,1661 @@
     "year": 2024,
     "country": "Abkhazia",
     "title": "10 Apsar",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e48",
     "year": 2024,
     "country": "Abkhazia",
     "title": "100 Apsar",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e49",
     "year": 2024,
     "country": "Argentina",
     "title": "10.000 Pesos",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e50",
     "year": 2024,
     "country": "Argentina",
     "title": "20.000 Pesos",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e51",
     "year": 2024,
     "country": "Armenia",
     "title": "5.000 Dram",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e52",
     "year": 2024,
     "country": "Armenia",
     "title": "10.000 Dram",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e53",
     "year": 2024,
     "country": "Armenia",
     "title": "20.000 Dram",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e54",
     "year": 2024,
     "country": "Azerbaijan",
     "title": "1 Manat",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e55",
     "year": 2024,
     "country": "Bahamas",
     "title": "1 Dollar",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e56",
     "year": 2024,
     "country": "Bangladesh",
     "title": "2 Taka",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e57",
     "year": 2024,
     "country": "Bangladesh",
     "title": "1.000 Taka",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e58",
     "year": 2024,
     "country": "Bangladesh",
     "title": "5 Taka",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e59",
     "year": 2024,
     "country": "Bangladesh",
     "title": "50 Taka",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e60",
     "year": 2024,
     "country": "Bangladesh",
     "title": "200 Taka",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e61",
     "year": 2024,
     "country": "Barbados",
     "title": "2 Dollars",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e62",
     "year": 2024,
     "country": "Barbados",
     "title": "5 Dollars",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e63",
     "year": 2024,
     "country": "Barbados",
     "title": "10 Dollars",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e64",
     "year": 2024,
     "country": "Barbados",
     "title": "20 Dollars",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e65",
     "year": 2024,
     "country": "Barbados",
     "title": "50 Dollars",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e66",
     "year": 2024,
     "country": "Barbados",
     "title": "100 Dollars",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e67",
     "year": 2024,
     "country": "Bosnia & Herzegovina",
     "title": "10 Konvertibilnih Maraka",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e68",
     "year": 2024,
     "country": "Bosnia & Herzegovina",
     "title": "10 Konvertibilnih Maraka",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e69",
     "year": 2024,
     "country": "Bosnia & Herzegovina",
     "title": "20 Konvertibilnih Maraka",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e70",
     "year": 2024,
     "country": "Bosnia & Herzegovina",
     "title": "20 Konvertibilnih Maraka",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e71",
     "year": 2024,
     "country": "Bosnia & Herzegovina",
     "title": "50 Konvertibilnih Maraka",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e72",
     "year": 2024,
     "country": "Bosnia & Herzegovina",
     "title": "50 Konvertibilnih Maraka",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e73",
     "year": 2024,
     "country": "Bosnia & Herzegovina",
     "title": "100 Konvertibilnih Maraka",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e74",
     "year": 2024,
     "country": "Bosnia & Herzegovina",
     "title": "100 Konvertibilnih Maraka",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e75",
     "year": 2024,
     "country": "Botswana",
     "title": "20 Pula",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e76",
     "year": 2024,
     "country": "Botswana",
     "title": "50 Pula",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e77",
     "year": 2024,
     "country": "Brunei",
     "title": "1 Brunei Dollar",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e78",
     "year": 2024,
     "country": "Brunei",
     "title": "5 Brunei Dollars",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e79",
     "year": 2024,
     "country": "Brunei",
     "title": "10 Brunei Dollars",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e80",
     "year": 2024,
     "country": "Brunei",
     "title": "100 Brunei Dollars",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e81",
     "year": 2024,
     "country": "Brunei",
     "title": "500 Brunei Dollars",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e82",
     "year": 2024,
     "country": "China — People's Republic",
     "title": "20 Yuan",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e83",
     "year": 2024,
     "country": "Cayman Islands",
     "title": "1 Dollar",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e84",
     "year": 2024,
     "country": "Cayman Islands",
     "title": "25 Dollars",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e85",
     "year": 2024,
     "country": "Cuba",
     "title": "100 Pesos",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e86",
     "year": 2024,
     "country": "Cuba",
     "title": "500 Pesos",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e87",
     "year": 2024,
     "country": "Denmark",
     "title": "50 Kroner",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e88",
     "year": 2024,
     "country": "Dominican Republic",
     "title": "50 Pesos Dominicanos",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e89",
     "year": 2024,
     "country": "Dominican Republic",
     "title": "100 Pesos Dominicanos",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e90",
     "year": 2024,
     "country": "Dominican Republic",
     "title": "200 Pesos Dominicanos",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e91",
     "year": 2024,
     "country": "Dominican Republic",
     "title": "500 Pesos Dominicanos",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e92",
     "year": 2024,
     "country": "East Caribbean States",
     "title": "50 Dollars",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e93",
     "year": 2024,
     "country": "Georgia",
     "title": "100 Lari",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e95",
     "year": 2024,
     "country": "Guinea",
     "title": "1.000 Francs Guinéens",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e96",
     "year": 2024,
     "country": "Guinea",
     "title": "5.000 Francs Guinéens",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e97",
     "year": 2024,
     "country": "Guinea",
     "title": "20.000 Francs Guinéens",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e98",
     "year": 2024,
     "country": "Guinea",
     "title": "2.000 Francs Guinéens",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e99",
     "year": 2024,
     "country": "Guinea",
     "title": "500 Francs Guinéens",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e100",
     "year": 2024,
     "country": "Guyana",
     "title": "500 Dollars",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e101",
     "year": 2024,
     "country": "Guyana",
     "title": "1.000 Dollars",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e102",
     "year": 2024,
     "country": "Indonesia",
     "title": "50.000 Rupiah",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e103",
     "year": 2024,
     "country": "Japan",
     "title": "1.000 Yen",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e104",
     "year": 2024,
     "country": "Japan",
     "title": "5.000 Yen",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e105",
     "year": 2024,
     "country": "Japan",
     "title": "10.000 Yen",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e106",
     "year": 2024,
     "country": "Kazakhstan",
     "title": "1.000 Tenge",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e107",
     "year": 2024,
     "country": "Kazakhstan",
     "title": "2.000 Tenge",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e108",
     "year": 2024,
     "country": "Kazakhstan",
     "title": "10.000 Tenge",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e109",
     "year": 2024,
     "country": "Kenya",
     "title": "50 Shillings",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e110",
     "year": 2024,
     "country": "Kenya",
     "title": "100 Shillings",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e111",
     "year": 2024,
     "country": "Kenya",
     "title": "200 Shillings",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e112",
     "year": 2024,
     "country": "Kenya",
     "title": "500 Shillings",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e113",
     "year": 2024,
     "country": "Kenya",
     "title": "1.000 Shillings",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e114",
     "year": 2024,
     "country": "Lesotho",
     "title": "10 Maloti",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e115",
     "year": 2024,
     "country": "Lesotho",
     "title": "20 Maloti",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e116",
     "year": 2024,
     "country": "Lesotho",
     "title": "50 Maloti",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e117",
     "year": 2024,
     "country": "Lesotho",
     "title": "100 Maloti",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e118",
     "year": 2024,
     "country": "Lesotho",
     "title": "200 Maloti",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e119",
     "year": 2024,
     "country": "Liberia",
     "title": "20 Dollars",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e120",
     "year": 2024,
     "country": "Liberia",
     "title": "50 Dollars",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e121",
     "year": 2024,
     "country": "Liberia",
     "title": "500 Dollars",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e122",
     "year": 2024,
     "country": "Malaysia",
     "title": "20 Ringgit",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e123",
     "year": 2024,
     "country": "Malaysia",
     "title": "100 Ringgit",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e124",
     "year": 2024,
     "country": "Mauritius",
     "title": "25 Rupees",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e125",
     "year": 2024,
     "country": "Mauritius",
     "title": "100 Rupees",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e126",
     "year": 2024,
     "country": "Mauritius",
     "title": "200 Rupees",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e127",
     "year": 2024,
     "country": "Mauritius",
     "title": "1.000 Rupees",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e128",
     "year": 2024,
     "country": "Mauritius",
     "title": "2.000 Rupees",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e129",
     "year": 2024,
     "country": "Mongolia",
     "title": "50 Tögrög",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e130",
     "year": 2024,
     "country": "Mongolia",
     "title": "5.000 Tögrög",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e131",
     "year": 2024,
     "country": "Mongolia",
     "title": "5.000 Tögrög",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e132",
     "year": 2024,
     "country": "Nepal",
     "title": "5 Rupees",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e133",
     "year": 2024,
     "country": "Nepal",
     "title": "10 Rupees",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e134",
     "year": 2024,
     "country": "Nepal",
     "title": "100 Rupees",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e135",
     "year": 2024,
     "country": "Nigeria",
     "title": "100 Naira",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e136",
     "year": 2024,
     "country": "Papua New Guinea",
     "title": "5 Kina",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e137",
     "year": 2024,
     "country": "Papua New Guinea",
     "title": "20 Kina",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e138",
     "year": 2024,
     "country": "Paraguay",
     "title": "20.000 Guaraníes",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e139",
     "year": 2024,
     "country": "Paraguay",
     "title": "100.000 Guaraníes",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e140",
     "year": 2024,
     "country": "Paraguay",
     "title": "10.000 Guaraníes",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e141",
     "year": 2024,
     "country": "Philippines",
     "title": "500 Piso",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e143",
     "year": 2024,
     "country": "Philippines",
     "title": "1.000 Piso",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e147",
     "year": 2024,
     "country": "Saudi Arabia",
     "title": "50 Riyals",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e148",
     "year": 2024,
     "country": "Saudi Arabia",
     "title": "100 Riyals",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e149",
     "year": 2024,
     "country": "Singapore",
     "title": "2 Dollars",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e150",
     "year": 2024,
     "country": "Singapore",
     "title": "10 Dollars",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e151",
     "year": 2024,
     "country": "Singapore",
     "title": "50 Dollars",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e152",
     "year": 2024,
     "country": "Sudan",
     "title": "1.000 Sudanese Pounds",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e153",
     "year": 2024,
     "country": "Syria",
     "title": "5.000 Syrian Pounds",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e154",
     "year": 2024,
     "country": "Tajikistan",
     "title": "200 Somoni",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e155",
     "year": 2024,
     "country": "Tajikistan",
     "title": "500 Somoni",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e156",
     "year": 2024,
     "country": "Thailand",
     "title": "100 Baht",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e157",
     "year": 2024,
     "country": "Transnistria",
     "title": "1 Rubl'",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e158",
     "year": 2024,
     "country": "Transnistria",
     "title": "1 Rubl'",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e159",
     "year": 2024,
     "country": "Uganda",
     "title": "1.000 Shillings",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e160",
     "year": 2024,
     "country": "United Arab Emirates",
     "title": "5 Dirhams",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e161",
     "year": 2024,
     "country": "United Arab Emirates",
     "title": "10 Dirhams",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e162",
     "year": 2024,
     "country": "United Arab Emirates",
     "title": "1.000 Dirhams",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e163",
     "year": 2024,
     "country": "West African States — Guinea-Bissau",
     "title": "1.000 Francs CFA",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e164",
     "year": 2024,
     "country": "West African States — Mali",
     "title": "1.000 Francs CFA",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e165",
     "year": 2024,
     "country": "West African States — Mali",
     "title": "500 Francs CFA",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e166",
     "year": 2024,
     "country": "West African States — Senegal",
     "title": "2.000 Francs CFA",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e167",
     "year": 2024,
     "country": "Zambia",
     "title": "10 Kwacha",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e168",
     "year": 2024,
     "country": "Zambia",
     "title": "20 Kwacha",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e169",
     "year": 2024,
     "country": "Zambia",
     "title": "50 Kwacha",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e170",
     "year": 2024,
     "country": "Zambia",
     "title": "100 Kwacha",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e171",
     "year": 2024,
     "country": "Zambia",
     "title": "200 Kwacha",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e172",
     "year": 2024,
     "country": "Zambia",
     "title": "500 Kwacha",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e173",
     "year": 2024,
     "country": "Zimbabwe",
     "title": "1 ZiG (Zimbabwe Gold)",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e174",
     "year": 2024,
     "country": "Zimbabwe",
     "title": "2 ZiG (Zimbabwe Gold)",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e175",
     "year": 2024,
     "country": "Zimbabwe",
     "title": "5 ZiG (Zimbabwe Gold)",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e176",
     "year": 2024,
     "country": "Zimbabwe",
     "title": "10 ZiG (Zimbabwe Gold)",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e177",
     "year": 2024,
     "country": "Zimbabwe",
     "title": "20 ZiG (Zimbabwe Gold)",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e178",
     "year": 2024,
     "country": "Zimbabwe",
     "title": "50 ZiG (Zimbabwe Gold)",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e179",
     "year": 2024,
     "country": "Zimbabwe",
     "title": "100 ZiG (Zimbabwe Gold)",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e180",
     "year": 2024,
     "country": "Zimbabwe",
     "title": "200 ZiG (Zimbabwe Gold)",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e390",
     "year": 2024,
     "country": "Barbados",
     "title": "2 Dollars",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e391",
     "year": 2024,
     "country": "Barbados",
     "title": "5 Dollars",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e392",
     "year": 2024,
     "country": "Barbados",
     "title": "10 Dollars",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e393",
     "year": 2024,
     "country": "Barbados",
     "title": "20 Dollars",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e394",
     "year": 2024,
     "country": "Barbados",
     "title": "50 Dollars",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e395",
     "year": 2024,
     "country": "Barbados",
     "title": "100 Dollars",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e425",
     "year": 2024,
     "country": "Indonesia",
     "title": "50.000 Rupiah",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e437",
     "year": 2024,
     "country": "Liberia",
     "title": "20 Dollars",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e438",
     "year": 2024,
     "country": "Liberia",
     "title": "50 Dollars",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e440",
     "year": 2024,
     "country": "Liberia",
     "title": "500 Dollars",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e455",
     "year": 2024,
     "country": "Philippines",
     "title": "500 Piso",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e456",
     "year": 2024,
     "country": "Philippines",
     "title": "1.000 Piso",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e465",
     "year": 2024,
     "country": "Samoa",
     "title": "60 Tala",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e472",
     "year": 2024,
     "country": "United Arab Emirates",
     "title": "5 Dirhams",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e473",
     "year": 2024,
     "country": "United Arab Emirates",
     "title": "10 Dirhams",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e474",
     "year": 2024,
     "country": "United Arab Emirates",
     "title": "1.000 Dirhams",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e511",
     "year": 2024,
     "country": "Lesotho",
     "title": "10 Maloti",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e512",
     "year": 2024,
     "country": "Lesotho",
     "title": "20 Maloti",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e513",
     "year": 2024,
     "country": "Lesotho",
     "title": "50 Maloti",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e514",
     "year": 2024,
     "country": "Lesotho",
     "title": "100 Maloti",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e515",
     "year": 2024,
     "country": "Lesotho",
     "title": "200 Maloti",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e520",
     "year": 2024,
     "country": "Papua New Guinea",
     "title": "20 Kina",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "fallback content: generic/placeholder/wrong-country body, no source URL"
+    ],
+    "ts": "2026-06-10T05:31:36.952800+00:00"
   },
   {
     "id": "e94",
