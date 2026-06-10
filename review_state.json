@@ -446,45 +446,65 @@
     "year": 2025,
     "country": "Egypt",
     "title": "5 Pounds",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "body is placeholder (== description)",
+      "no source URL",
+      "no highlights"
+    ],
+    "ts": "2026-06-10T05:26:31.235471+00:00"
   },
   {
     "id": "e17",
     "year": 2025,
     "country": "Egypt",
     "title": "20 Pounds",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "body is placeholder (== description)",
+      "no source URL",
+      "no highlights"
+    ],
+    "ts": "2026-06-10T05:26:31.235471+00:00"
   },
   {
     "id": "e18",
     "year": 2025,
     "country": "Egypt",
     "title": "50 Pounds",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "body is placeholder (== description)",
+      "no source URL",
+      "no highlights"
+    ],
+    "ts": "2026-06-10T05:26:31.235471+00:00"
   },
   {
     "id": "e19",
     "year": 2025,
     "country": "Egypt",
     "title": "100 Pounds",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "body is placeholder (== description)",
+      "no source URL",
+      "no highlights"
+    ],
+    "ts": "2026-06-10T05:26:31.235471+00:00"
   },
   {
     "id": "e20",
     "year": 2025,
     "country": "Egypt",
     "title": "200 Pounds",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "body is placeholder (== description)",
+      "no source URL",
+      "no highlights"
+    ],
+    "ts": "2026-06-10T05:26:31.235471+00:00"
   },
   {
     "id": "e21",
@@ -536,45 +556,65 @@
     "year": 2025,
     "country": "Mexico",
     "title": "200 Pesos",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "body is placeholder (== description)",
+      "no source URL",
+      "no highlights"
+    ],
+    "ts": "2026-06-10T05:26:31.235471+00:00"
   },
   {
     "id": "e27",
     "year": 2025,
     "country": "Mexico",
     "title": "500 Pesos",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "body is placeholder (== description)",
+      "no source URL",
+      "no highlights"
+    ],
+    "ts": "2026-06-10T05:26:31.235471+00:00"
   },
   {
     "id": "e28",
     "year": 2025,
     "country": "Mexico",
     "title": "200 Pesos",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "body is placeholder (== description)",
+      "no source URL",
+      "no highlights"
+    ],
+    "ts": "2026-06-10T05:26:31.235471+00:00"
   },
   {
     "id": "e29",
     "year": 2025,
     "country": "Maldives",
     "title": "10 Rufiyaa",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "body is placeholder (== description)",
+      "no source URL",
+      "no highlights"
+    ],
+    "ts": "2026-06-10T05:26:31.235471+00:00"
   },
   {
     "id": "e30",
     "year": 2025,
     "country": "Maldives",
     "title": "20 Rufiyaa",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "body is placeholder (== description)",
+      "no source URL",
+      "no highlights"
+    ],
+    "ts": "2026-06-10T05:26:31.235471+00:00"
   },
   {
     "id": "e31",
@@ -626,261 +666,344 @@
     "year": 2025,
     "country": "Tunisia",
     "title": "50 Dinars",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "body is placeholder (== description)",
+      "no source URL",
+      "no highlights"
+    ],
+    "ts": "2026-06-10T05:26:31.235471+00:00"
   },
   {
     "id": "e37",
     "year": 2025,
     "country": "Tunisia",
     "title": "20 Dinars",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "body is placeholder (== description)",
+      "no source URL",
+      "no highlights"
+    ],
+    "ts": "2026-06-10T05:26:31.235471+00:00"
   },
   {
     "id": "e38",
     "year": 2025,
     "country": "Tunisia",
     "title": "5 Dinars",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "body is placeholder (== description)",
+      "no source URL",
+      "no highlights"
+    ],
+    "ts": "2026-06-10T05:26:31.235471+00:00"
   },
   {
     "id": "e39",
     "year": 2025,
     "country": "Tunisia",
     "title": "10 Dinars",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "body is placeholder (== description)",
+      "no source URL",
+      "no highlights"
+    ],
+    "ts": "2026-06-10T05:26:31.235471+00:00"
   },
   {
     "id": "e40",
     "year": 2025,
     "country": "Venezuela",
     "title": "200 Bolívares",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "body is placeholder (== description)",
+      "no source URL",
+      "no highlights"
+    ],
+    "ts": "2026-06-10T05:26:31.235471+00:00"
   },
   {
     "id": "e41",
     "year": 2025,
     "country": "Venezuela",
     "title": "500 Bolívares",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "body is placeholder (== description)",
+      "no source URL",
+      "no highlights"
+    ],
+    "ts": "2026-06-10T05:26:31.235471+00:00"
   },
   {
     "id": "e42",
     "year": 2025,
     "country": "Papua New Guinea",
     "title": "50 Kina",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "body is placeholder (== description)",
+      "no source URL",
+      "no highlights"
+    ],
+    "ts": "2026-06-10T05:26:31.235471+00:00"
   },
   {
     "id": "e44",
     "year": 2025,
     "country": "Tajikistan",
     "title": "100 Somoni",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "body is placeholder (== description)",
+      "no source URL",
+      "no highlights"
+    ],
+    "ts": "2026-06-10T05:26:31.235471+00:00"
   },
   {
     "id": "e45",
     "year": 2025,
     "country": "Transnistria",
     "title": "1 Rubl'",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "body is placeholder (== description)",
+      "no source URL",
+      "no highlights"
+    ],
+    "ts": "2026-06-10T05:26:31.235471+00:00"
   },
   {
     "id": "e46",
     "year": 2025,
     "country": "Thailand",
     "title": "100 Baht",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "body is placeholder (== description)",
+      "no source URL",
+      "no highlights"
+    ],
+    "ts": "2026-06-10T05:26:31.235471+00:00"
   },
   {
     "id": "e142",
     "year": 2025,
     "country": "Philippines",
     "title": "500 Piso",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "body describes Jamaica 100 Dollars, not Philippines"
+    ],
+    "ts": "2026-06-10T05:26:31.235471+00:00"
   },
   {
     "id": "e144",
     "year": 2025,
     "country": "Philippines",
     "title": "50 Piso",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "body describes Jamaica note, not Philippines"
+    ],
+    "ts": "2026-06-10T05:26:31.235471+00:00"
   },
   {
     "id": "e145",
     "year": 2025,
     "country": "Philippines",
     "title": "100 Piso",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "body describes Jamaica note, not Philippines"
+    ],
+    "ts": "2026-06-10T05:26:31.235471+00:00"
   },
   {
     "id": "e146",
     "year": 2025,
     "country": "Philippines",
     "title": "500 Piso",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "source says Bank of Jamaica, generic body",
+      "possible duplicate of e142"
+    ],
+    "ts": "2026-06-10T05:26:31.235471+00:00"
   },
   {
     "id": "e247",
     "year": 2025,
     "country": "Philippines",
     "title": "50 Piso",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "generic body, no URL sources",
+      "possible duplicate of e348"
+    ],
+    "ts": "2026-06-10T05:26:31.235471+00:00"
   },
   {
     "id": "e249",
     "year": 2025,
     "country": "Philippines",
     "title": "100 Piso",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "generic body, no URL sources",
+      "possible duplicate of e350"
+    ],
+    "ts": "2026-06-10T05:26:31.235471+00:00"
   },
   {
     "id": "e348",
     "year": 2025,
     "country": "Philippines",
     "title": "50 Piso",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "generic body, no URL sources",
+      "possible duplicate of e247"
+    ],
+    "ts": "2026-06-10T05:26:31.235471+00:00"
   },
   {
     "id": "e350",
     "year": 2025,
     "country": "Philippines",
     "title": "100 Piso",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "generic body, no URL sources",
+      "possible duplicate of e249"
+    ],
+    "ts": "2026-06-10T05:26:31.235471+00:00"
   },
   {
     "id": "e420",
     "year": 2025,
     "country": "Indonesia",
     "title": "2.000 Rupiah",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "body describes Russia 5000 Rubles, not Indonesia"
+    ],
+    "ts": "2026-06-10T05:26:31.235471+00:00"
   },
   {
     "id": "e421",
     "year": 2025,
     "country": "Indonesia",
     "title": "1.000 Rupiah",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "body describes Rwanda 500 Francs, not Indonesia"
+    ],
+    "ts": "2026-06-10T05:26:31.235471+00:00"
   },
   {
     "id": "e422",
     "year": 2025,
     "country": "Indonesia",
     "title": "5.000 Rupiah",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "body describes Rwanda 1000 Francs, not Indonesia"
+    ],
+    "ts": "2026-06-10T05:26:31.235471+00:00"
   },
   {
     "id": "e423",
     "year": 2025,
     "country": "Indonesia",
     "title": "10.000 Rupiah",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "body describes Rwanda 2000 Francs, not Indonesia"
+    ],
+    "ts": "2026-06-10T05:26:31.235471+00:00"
   },
   {
     "id": "e426",
     "year": 2025,
     "country": "Indonesia",
     "title": "100.000 Rupiah",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "body describes ECCB 5 Dollars, not Indonesia"
+    ],
+    "ts": "2026-06-10T05:26:31.235471+00:00"
   },
   {
     "id": "e431",
     "year": 2025,
     "country": "Jordan",
     "title": "5 Dinars",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "body describes ECCB Saint Lucia note, not Jordan"
+    ],
+    "ts": "2026-06-10T05:26:31.235471+00:00"
   },
   {
     "id": "e457",
     "year": 2025,
     "country": "Philippines",
     "title": "1.000 Piso",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "body describes Saudi 20 Riyal, not Philippines"
+    ],
+    "ts": "2026-06-10T05:26:31.235471+00:00"
   },
   {
     "id": "e519",
     "year": 2025,
     "country": "Mongolia",
     "title": "100.000 Tögrög",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "body describes Spain circulation, not Mongolia"
+    ],
+    "ts": "2026-06-10T05:26:31.235471+00:00"
   },
   {
     "id": "e529",
     "year": 2025,
     "country": "Saudi Arabia",
     "title": "200 Riyals",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "source says Central Bank of Sudan, not Saudi Arabia"
+    ],
+    "ts": "2026-06-10T05:26:31.235471+00:00"
   },
   {
     "id": "e537",
     "year": 2025,
     "country": "Tajikistan",
     "title": "100 Somoni",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "source says Riksbank, not Tajikistan"
+    ],
+    "ts": "2026-06-10T05:26:31.235471+00:00"
   },
   {
     "id": "e572",
     "year": 2025,
     "country": "Guatemala",
     "title": "100 Quetzales",
-    "status": "pending",
-    "issues": [],
-    "ts": null
+    "status": "needs_fix",
+    "issues": [
+      "body describes Timor-Leste, not Guatemala"
+    ],
+    "ts": "2026-06-10T05:26:31.235471+00:00"
   },
   {
     "id": "e47",
