@@ -1,9 +1,9 @@
 {
   "description": "Pipeline per arricchire le emissions con URL reali. Processa in batch da 10, ogni batch viene committato.",
   "total": 493,
-  "processed": 35,
+  "processed": 45,
   "batch_size": 10,
-  "last_committed_batch": 4,
+  "last_committed_batch": 5,
   "items": [
     {
       "id": "e47",
@@ -581,8 +581,13 @@
         "People's Bank of China"
       ],
       "confidence": "fallback",
-      "status": "pending",
-      "found_urls": []
+      "status": "done",
+      "found_urls": [
+        "https://platform.keesingtechnologies.com/chinas-2024-lunar-new-year-commemorative-banknote/",
+        "https://www.banknoteworld.com/china-20-yuan-banknote-2024-p-920-unc-commemorative-polymer-year-of-the-dragon.html",
+        "https://en.numista.com/catalogue/note394749.html"
+      ],
+      "new_confidence": "official"
     },
     {
       "id": "e83",
@@ -593,8 +598,13 @@
         "Cayman Islands Monetary Authority"
       ],
       "confidence": "fallback",
-      "status": "pending",
-      "found_urls": []
+      "status": "done",
+      "found_urls": [
+        "https://www.banknoteworld.com/cayman-islands-1-dollar-banknote-2018-p-38e-1-unc.html",
+        "https://en.numista.com/catalogue/note205341.html",
+        "https://www.cima.ky/circulating-banknotes"
+      ],
+      "new_confidence": "official"
     },
     {
       "id": "e84",
@@ -605,8 +615,12 @@
         "Cayman Islands Monetary Authority"
       ],
       "confidence": "fallback",
-      "status": "pending",
-      "found_urls": []
+      "status": "done",
+      "found_urls": [
+        "https://www.cima.ky/circulating-banknotes",
+        "https://www.banknoteworld.com/banknotes/Banknotes-by-Country/Cayman-Islands-Currency/"
+      ],
+      "new_confidence": "official"
     },
     {
       "id": "e85",
@@ -617,8 +631,13 @@
         "Banco Central de Cuba"
       ],
       "confidence": "fallback",
-      "status": "pending",
-      "found_urls": []
+      "status": "done",
+      "found_urls": [
+        "https://www.banknotes.com/cuba-100-pesos-2024.html",
+        "https://en.numista.com/catalogue/note205113.html",
+        "https://www.leftovercurrency.com/exchange/cuban-pesos/current-cuban-pesos-banknotes/100-cuban-pesos-banknote-carlos-manuel-de-cespedes/"
+      ],
+      "new_confidence": "official"
     },
     {
       "id": "e86",
@@ -629,8 +648,12 @@
         "Banco Central de Cuba"
       ],
       "confidence": "fallback",
-      "status": "pending",
-      "found_urls": []
+      "status": "done",
+      "found_urls": [
+        "https://www.banknotes.com/cuba-500-pesos-2024.html",
+        "https://blog.banknotestreet.com/central-bank-of-cuba-issues-new-cuban-500-peso-bill/"
+      ],
+      "new_confidence": "official"
     },
     {
       "id": "e87",
@@ -641,8 +664,13 @@
         "Danmarks Nationalbank"
       ],
       "confidence": "fallback",
-      "status": "pending",
-      "found_urls": []
+      "status": "done",
+      "found_urls": [
+        "https://www.nationalbanken.dk/en/what-we-do/notes-and-coins/banknote-security-features",
+        "https://www.nationalbanken.dk/en/news-and-knowledge/press/archive/2024/denmark-s-next-generation-of-banknotes-29-01-2024",
+        "https://en.numista.com/catalogue/note202093.html"
+      ],
+      "new_confidence": "official"
     },
     {
       "id": "e88",
@@ -653,8 +681,11 @@
         "Banco Central de la República Dominicana"
       ],
       "confidence": "fallback",
-      "status": "pending",
-      "found_urls": []
+      "status": "done",
+      "found_urls": [
+        "https://www.banknoteworld.com/dominican-republic-50-pesos-dominicanos-banknote-2024-p-189j-unc.html"
+      ],
+      "new_confidence": "secondary"
     },
     {
       "id": "e89",
@@ -665,8 +696,11 @@
         "Banco Central de la República Dominicana"
       ],
       "confidence": "fallback",
-      "status": "pending",
-      "found_urls": []
+      "status": "done",
+      "found_urls": [
+        "https://www.banknoteworld.com/banknotes/Banknotes-by-Country/Dominican-Republic-Currency/"
+      ],
+      "new_confidence": "secondary"
     },
     {
       "id": "e90",
@@ -677,8 +711,11 @@
         "Banco Central de la República Dominicana"
       ],
       "confidence": "fallback",
-      "status": "pending",
-      "found_urls": []
+      "status": "done",
+      "found_urls": [
+        "https://www.banknoteworld.com/banknotes/Banknotes-by-Country/Dominican-Republic-Currency/"
+      ],
+      "new_confidence": "secondary"
     },
     {
       "id": "e91",
@@ -689,8 +726,11 @@
         "Banco Central de la República Dominicana"
       ],
       "confidence": "fallback",
-      "status": "pending",
-      "found_urls": []
+      "status": "done",
+      "found_urls": [
+        "https://www.banknoteworld.com/blog/the-500-pesos-banknote-dedicated-to-salome-urena-pedro-henriquez-urena-pioneers-of-dominican-literature-education/"
+      ],
+      "new_confidence": "secondary"
     },
     {
       "id": "e92",
