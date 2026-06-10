@@ -27,12 +27,22 @@ describe the wrong country, caused by a row-shift in an earlier bulk merge.
    - `highlights`: `{ reason, design, security }`
    - `sources`: real URLs (central bank first when available)
    - `confidence`: `official` (central bank source) or `secondary` (catalog only)
-4. Merge with: `python3 merge_results.py '<json array>'` — idempotent by id,
-   updates `content/emissions.json` + `progress.json`.
-5. Set those ids to `fixed` in `review_state.json`.
-6. **Commit and push after every merged batch** (a batch = one country or a few
+4. Merge with: `python3 tools/qc_merge.py <batch.json> [...]` — runs QC first
+   (foreign-country mention guard, https-only sources, completeness, confidence
+   normalized by source domain), then merges via `merge_results.py` (idempotent
+   by id, updates `content/emissions.json` + `progress.json`) and marks the ids
+   `fixed` in `review_state.json`. Research can be delegated to parallel Haiku
+   subagents that write their JSON batch to a file; QC stays in the main session.
+5. **Commit and push after every merged batch** (a batch = one country or a few
    small ones). A killed session loses at most one un-committed batch; on resume,
    re-read `review_state.json` and continue from the first non-`fixed`/non-`ok` id.
+
+## Duplicate pairs found so far
+
+e43/e577 (PNG 100 Kina), e424/e575 (Indonesia 20.000), e547/e581 (UAE 50
+Dirhams), e142/e146 (Philippines 500 Piso polymer), e247/e348 (Philippines 50
+Piso), e249/e350 (Philippines 100 Piso). Content fixed in both entries; actual
+deduplication is a user decision.
 
 ## Invariants
 
