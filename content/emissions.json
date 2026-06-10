@@ -1085,9 +1085,9 @@
     "body": "Arms, leopard, ancient bronze axe with primitive drawing of animal. investment bank note.",
     "highlights": {},
     "sources": [
-      "Apsniy Abank (Abkhazian Bank)"
+      "https://www.banknoteworld.com/abkhazia-10-apsar-banknote-2024-p-3-unc.html"
     ],
-    "confidence": "fallback"
+    "confidence": "secondary"
   },
   {
     "id": "e48",
@@ -1103,9 +1103,9 @@
     "body": "Arms, mountain, Caucasian red deer, blackbird. investment bank note.",
     "highlights": {},
     "sources": [
-      "Apsniy Abank (Abkhazian Bank)"
+      "https://www.banknoteworld.com/abkhazia-100-apsar-banknote-2024-p-4-unc.html"
     ],
-    "confidence": "fallback"
+    "confidence": "secondary"
   },
   {
     "id": "e49",
@@ -1121,9 +1121,9 @@
     "body": "The 10.000 Pesos note issued by Banco Central de la República Argentina represents a 2024 emission in Argentina's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2024 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
     "highlights": {},
     "sources": [
-      "Banco Central de la República Argentina"
+      "https://banknotenews.com/?p=43929"
     ],
-    "confidence": "fallback"
+    "confidence": "secondary"
   },
   {
     "id": "e50",
@@ -1139,9 +1139,9 @@
     "body": "The 20.000 Pesos note issued by Banco Central de la República Argentina represents a 2024 emission in Argentina's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2024 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
     "highlights": {},
     "sources": [
-      "Banco Central de la República Argentina"
+      "https://www.banknoteworld.com/blog/new-argentina-20000-pesos-banknote-introduced-for-2024/"
     ],
-    "confidence": "fallback"
+    "confidence": "secondary"
   },
   {
     "id": "e51",
@@ -1157,9 +1157,9 @@
     "body": "William Saroyan, covers from Saroyan's books, mountain.",
     "highlights": {},
     "sources": [
-      "Central Bank of the Republic of Armenia"
+      "https://banknotenews.com/?p=44764"
     ],
-    "confidence": "fallback"
+    "confidence": "secondary"
   },
   {
     "id": "e52",
@@ -1175,9 +1175,9 @@
     "body": "Soghomon Gevorki Soghomonian (a.k.a. Komitas Vardapet), musical notes.",
     "highlights": {},
     "sources": [
-      "Central Bank of the Republic of Armenia"
+      "https://banknotenews.com/?p=44768"
     ],
-    "confidence": "fallback"
+    "confidence": "secondary"
   },
   {
     "id": "e53",
@@ -1193,9 +1193,9 @@
     "body": "Ivan (Hovhannes) Konstantinovich Aivazovskiy; fragments of his canvas, Noah leaving the Ark.",
     "highlights": {},
     "sources": [
-      "Central Bank of the Republic of Armenia"
+      "https://armbanks.am/en/2025/01/27/259473/"
     ],
-    "confidence": "fallback"
+    "confidence": "secondary"
   },
   {
     "id": "e54",
@@ -1211,9 +1211,9 @@
     "body": "The 1 Manat note issued by Azərbaycan Mərkəzi Bankı represents a 2024 emission in Azerbaijan's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2024 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
     "highlights": {},
     "sources": [
-      "Azərbaycan Mərkəzi Bankı"
+      "https://banknotenews.com/?p=50223"
     ],
-    "confidence": "fallback"
+    "confidence": "secondary"
   },
   {
     "id": "e55",
@@ -1229,9 +1229,9 @@
     "body": "The 1 Dollar note issued by Central Bank of the Bahamas in 2024 is part of the ongoing currency circulation series. This denomination facilitates transactions in Bahamas's domestic economy and represents the central bank's commitment to maintaining a modern, secure currency system. The note incorporates contemporary security features including enhanced microprinting, color-shifting inks, and updated security threads to protect against counterfeiting. As a 2024 variant, this emission reflects administrative updates to printing specifications or official signatures while maintaining design consistency with previous issues in the series. The note supports both retail commerce and banking operations throughout the currency's circulation area.",
     "highlights": {},
     "sources": [
-      "Central Bank of the Bahamas"
+      "https://www.centralbankbahamas.com/news/press-releases/series-2024-crisp-evolution-1-banknote"
     ],
-    "confidence": "fallback"
+    "confidence": "official"
   },
   {
     "id": "e56",
@@ -1247,9 +1247,9 @@
     "body": "Sheikh Mujibur Rahman, National Martyrs' monument (Savar).",
     "highlights": {},
     "sources": [
-      "People's Republic of Bangladesh"
+      "https://www.bb.org.bd/en/index.php/currency/twotaka"
     ],
-    "confidence": "fallback"
+    "confidence": "official"
   },
   {
     "id": "e57",

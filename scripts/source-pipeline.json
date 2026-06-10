@@ -1,0 +1,5990 @@
+{
+  "description": "Pipeline per arricchire le emissions con URL reali. Processa in batch da 10, ogni batch viene committato.",
+  "total": 493,
+  "processed": 10,
+  "batch_size": 10,
+  "last_committed_batch": 1,
+  "items": [
+    {
+      "id": "e47",
+      "country": "Abkhazia",
+      "year": 2024,
+      "title": "10 Apsar",
+      "current_sources": [
+        "Apsniy Abank (Abkhazian Bank)"
+      ],
+      "confidence": "fallback",
+      "status": "done",
+      "found_urls": [
+        "https://www.banknoteworld.com/abkhazia-10-apsar-banknote-2024-p-3-unc.html"
+      ],
+      "new_confidence": "secondary"
+    },
+    {
+      "id": "e48",
+      "country": "Abkhazia",
+      "year": 2024,
+      "title": "100 Apsar",
+      "current_sources": [
+        "Apsniy Abank (Abkhazian Bank)"
+      ],
+      "confidence": "fallback",
+      "status": "done",
+      "found_urls": [
+        "https://www.banknoteworld.com/abkhazia-100-apsar-banknote-2024-p-4-unc.html"
+      ],
+      "new_confidence": "secondary"
+    },
+    {
+      "id": "e49",
+      "country": "Argentina",
+      "year": 2024,
+      "title": "10.000 Pesos",
+      "current_sources": [
+        "Banco Central de la República Argentina"
+      ],
+      "confidence": "fallback",
+      "status": "done",
+      "found_urls": [
+        "https://banknotenews.com/?p=43929"
+      ],
+      "new_confidence": "secondary"
+    },
+    {
+      "id": "e50",
+      "country": "Argentina",
+      "year": 2024,
+      "title": "20.000 Pesos",
+      "current_sources": [
+        "Banco Central de la República Argentina"
+      ],
+      "confidence": "fallback",
+      "status": "done",
+      "found_urls": [
+        "https://www.banknoteworld.com/blog/new-argentina-20000-pesos-banknote-introduced-for-2024/"
+      ],
+      "new_confidence": "secondary"
+    },
+    {
+      "id": "e51",
+      "country": "Armenia",
+      "year": 2024,
+      "title": "5.000 Dram",
+      "current_sources": [
+        "Central Bank of the Republic of Armenia"
+      ],
+      "confidence": "fallback",
+      "status": "done",
+      "found_urls": [
+        "https://banknotenews.com/?p=44764"
+      ],
+      "new_confidence": "secondary"
+    },
+    {
+      "id": "e52",
+      "country": "Armenia",
+      "year": 2024,
+      "title": "10.000 Dram",
+      "current_sources": [
+        "Central Bank of the Republic of Armenia"
+      ],
+      "confidence": "fallback",
+      "status": "done",
+      "found_urls": [
+        "https://banknotenews.com/?p=44768"
+      ],
+      "new_confidence": "secondary"
+    },
+    {
+      "id": "e53",
+      "country": "Armenia",
+      "year": 2024,
+      "title": "20.000 Dram",
+      "current_sources": [
+        "Central Bank of the Republic of Armenia"
+      ],
+      "confidence": "fallback",
+      "status": "done",
+      "found_urls": [
+        "https://armbanks.am/en/2025/01/27/259473/"
+      ],
+      "new_confidence": "secondary"
+    },
+    {
+      "id": "e54",
+      "country": "Azerbaijan",
+      "year": 2024,
+      "title": "1 Manat",
+      "current_sources": [
+        "Azərbaycan Mərkəzi Bankı"
+      ],
+      "confidence": "fallback",
+      "status": "done",
+      "found_urls": [
+        "https://banknotenews.com/?p=50223"
+      ],
+      "new_confidence": "secondary"
+    },
+    {
+      "id": "e55",
+      "country": "Bahamas",
+      "year": 2024,
+      "title": "1 Dollar",
+      "current_sources": [
+        "Central Bank of the Bahamas"
+      ],
+      "confidence": "fallback",
+      "status": "done",
+      "found_urls": [
+        "https://www.centralbankbahamas.com/news/press-releases/series-2024-crisp-evolution-1-banknote"
+      ],
+      "new_confidence": "official"
+    },
+    {
+      "id": "e56",
+      "country": "Bangladesh",
+      "year": 2024,
+      "title": "2 Taka",
+      "current_sources": [
+        "People's Republic of Bangladesh"
+      ],
+      "confidence": "fallback",
+      "status": "done",
+      "found_urls": [
+        "https://www.bb.org.bd/en/index.php/currency/twotaka"
+      ],
+      "new_confidence": "official"
+    },
+    {
+      "id": "e57",
+      "country": "Bangladesh",
+      "year": 2024,
+      "title": "1.000 Taka",
+      "current_sources": [
+        "Bangladesh Bank"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e58",
+      "country": "Bangladesh",
+      "year": 2024,
+      "title": "5 Taka",
+      "current_sources": [
+        "Peoples Republic of Bangladesh"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e59",
+      "country": "Bangladesh",
+      "year": 2024,
+      "title": "50 Taka",
+      "current_sources": [
+        "Bangladesh Bank"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e60",
+      "country": "Bangladesh",
+      "year": 2024,
+      "title": "200 Taka",
+      "current_sources": [
+        "Bangladesh Bank"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e61",
+      "country": "Barbados",
+      "year": 2024,
+      "title": "2 Dollars",
+      "current_sources": [
+        "Central Bank of Barbados"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e62",
+      "country": "Barbados",
+      "year": 2024,
+      "title": "5 Dollars",
+      "current_sources": [
+        "Central Bank of Barbados"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e63",
+      "country": "Barbados",
+      "year": 2024,
+      "title": "10 Dollars",
+      "current_sources": [
+        "Central Bank of Barbados"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e64",
+      "country": "Barbados",
+      "year": 2024,
+      "title": "20 Dollars",
+      "current_sources": [
+        "Central Bank of Barbados"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e65",
+      "country": "Barbados",
+      "year": 2024,
+      "title": "50 Dollars",
+      "current_sources": [
+        "Central Bank of Barbados"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e66",
+      "country": "Barbados",
+      "year": 2024,
+      "title": "100 Dollars",
+      "current_sources": [
+        "Central Bank of Barbados"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e67",
+      "country": "Bosnia & Herzegovina",
+      "year": 2024,
+      "title": "10 Konvertibilnih Maraka",
+      "current_sources": [
+        "Centralna Banka Bosne i Hercegovine"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e68",
+      "country": "Bosnia & Herzegovina",
+      "year": 2024,
+      "title": "10 Konvertibilnih Maraka",
+      "current_sources": [
+        "Centralna Banka Bosne i Hercegovine"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e69",
+      "country": "Bosnia & Herzegovina",
+      "year": 2024,
+      "title": "20 Konvertibilnih Maraka",
+      "current_sources": [
+        "Centralna Banka Bosne i Hercegovine"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e70",
+      "country": "Bosnia & Herzegovina",
+      "year": 2024,
+      "title": "20 Konvertibilnih Maraka",
+      "current_sources": [
+        "Centralna Banka Bosne i Hercegovine"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e71",
+      "country": "Bosnia & Herzegovina",
+      "year": 2024,
+      "title": "50 Konvertibilnih Maraka",
+      "current_sources": [
+        "Centralna Banka Bosne i Hercegovine"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e72",
+      "country": "Bosnia & Herzegovina",
+      "year": 2024,
+      "title": "50 Konvertibilnih Maraka",
+      "current_sources": [
+        "Centralna Banka Bosne i Hercegovine"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e73",
+      "country": "Bosnia & Herzegovina",
+      "year": 2024,
+      "title": "100 Konvertibilnih Maraka",
+      "current_sources": [
+        "Centralna Banka Bosne i Hercegovine"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e74",
+      "country": "Bosnia & Herzegovina",
+      "year": 2024,
+      "title": "100 Konvertibilnih Maraka",
+      "current_sources": [
+        "Centralna Banka Bosne i Hercegovine"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e75",
+      "country": "Botswana",
+      "year": 2024,
+      "title": "20 Pula",
+      "current_sources": [
+        "Bank of Botswana"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e76",
+      "country": "Botswana",
+      "year": 2024,
+      "title": "50 Pula",
+      "current_sources": [
+        "Bank of Botswana"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e77",
+      "country": "Brunei",
+      "year": 2024,
+      "title": "1 Brunei Dollar",
+      "current_sources": [
+        "Negara Brunei Darussalam"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e78",
+      "country": "Brunei",
+      "year": 2024,
+      "title": "5 Brunei Dollars",
+      "current_sources": [
+        "Negara Brunei Darussalam"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e79",
+      "country": "Brunei",
+      "year": 2024,
+      "title": "10 Brunei Dollars",
+      "current_sources": [
+        "Negara Brunei Darussalam"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e80",
+      "country": "Brunei",
+      "year": 2024,
+      "title": "100 Brunei Dollars",
+      "current_sources": [
+        "Negara Brunei Darussalam"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e81",
+      "country": "Brunei",
+      "year": 2024,
+      "title": "500 Brunei Dollars",
+      "current_sources": [
+        "Negara Brunei Darussalam"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e82",
+      "country": "China — People's Republic",
+      "year": 2024,
+      "title": "20 Yuan",
+      "current_sources": [
+        "People's Bank of China"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e83",
+      "country": "Cayman Islands",
+      "year": 2024,
+      "title": "1 Dollar",
+      "current_sources": [
+        "Cayman Islands Monetary Authority"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e84",
+      "country": "Cayman Islands",
+      "year": 2024,
+      "title": "25 Dollars",
+      "current_sources": [
+        "Cayman Islands Monetary Authority"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e85",
+      "country": "Cuba",
+      "year": 2024,
+      "title": "100 Pesos",
+      "current_sources": [
+        "Banco Central de Cuba"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e86",
+      "country": "Cuba",
+      "year": 2024,
+      "title": "500 Pesos",
+      "current_sources": [
+        "Banco Central de Cuba"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e87",
+      "country": "Denmark",
+      "year": 2024,
+      "title": "50 Kroner",
+      "current_sources": [
+        "Danmarks Nationalbank"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e88",
+      "country": "Dominican Republic",
+      "year": 2024,
+      "title": "50 Pesos Dominicanos",
+      "current_sources": [
+        "Banco Central de la República Dominicana"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e89",
+      "country": "Dominican Republic",
+      "year": 2024,
+      "title": "100 Pesos Dominicanos",
+      "current_sources": [
+        "Banco Central de la República Dominicana"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e90",
+      "country": "Dominican Republic",
+      "year": 2024,
+      "title": "200 Pesos Dominicanos",
+      "current_sources": [
+        "Banco Central de la República Dominicana"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e91",
+      "country": "Dominican Republic",
+      "year": 2024,
+      "title": "500 Pesos Dominicanos",
+      "current_sources": [
+        "Banco Central de la República Dominicana"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e92",
+      "country": "East Caribbean States",
+      "year": 2024,
+      "title": "50 Dollars",
+      "current_sources": [
+        "Eastern Caribbean Central Bank"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e93",
+      "country": "Georgia",
+      "year": 2024,
+      "title": "100 Lari",
+      "current_sources": [
+        "National Bank of Georgia"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e94",
+      "country": "Guatemala",
+      "year": 2023,
+      "title": "1 Quetzal",
+      "current_sources": [
+        "Banco de Guatemala"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e95",
+      "country": "Guinea",
+      "year": 2024,
+      "title": "1.000 Francs Guinéens",
+      "current_sources": [
+        "Banque Centrale de la République de Guinée"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e96",
+      "country": "Guinea",
+      "year": 2024,
+      "title": "5.000 Francs Guinéens",
+      "current_sources": [
+        "Banque Centrale de la République de Guinée"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e97",
+      "country": "Guinea",
+      "year": 2024,
+      "title": "20.000 Francs Guinéens",
+      "current_sources": [
+        "Banque Centrale de la République de Guinée"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e98",
+      "country": "Guinea",
+      "year": 2024,
+      "title": "2.000 Francs Guinéens",
+      "current_sources": [
+        "Banque Centrale de la République de Guinée"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e99",
+      "country": "Guinea",
+      "year": 2024,
+      "title": "500 Francs Guinéens",
+      "current_sources": [
+        "Banque Centrale de la République de Guinée"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e100",
+      "country": "Guyana",
+      "year": 2024,
+      "title": "500 Dollars",
+      "current_sources": [
+        "Bank of Guyana"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e101",
+      "country": "Guyana",
+      "year": 2024,
+      "title": "1.000 Dollars",
+      "current_sources": [
+        "Bank of Guyana"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e102",
+      "country": "Indonesia",
+      "year": 2024,
+      "title": "50.000 Rupiah",
+      "current_sources": [
+        "Bank Indonesia"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e103",
+      "country": "Japan",
+      "year": 2024,
+      "title": "1.000 Yen",
+      "current_sources": [
+        "Bank of Japan"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e104",
+      "country": "Japan",
+      "year": 2024,
+      "title": "5.000 Yen",
+      "current_sources": [
+        "Bank of Japan"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e105",
+      "country": "Japan",
+      "year": 2024,
+      "title": "10.000 Yen",
+      "current_sources": [
+        "Bank of Japan"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e106",
+      "country": "Kazakhstan",
+      "year": 2024,
+      "title": "1.000 Tenge",
+      "current_sources": [
+        "Qazaqstan Ulttyk Banki"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e107",
+      "country": "Kazakhstan",
+      "year": 2024,
+      "title": "2.000 Tenge",
+      "current_sources": [
+        "Qazaqstan Ulttyk Banki"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e108",
+      "country": "Kazakhstan",
+      "year": 2024,
+      "title": "10.000 Tenge",
+      "current_sources": [
+        "Qazaqstan Ulttyk Banki"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e109",
+      "country": "Kenya",
+      "year": 2024,
+      "title": "50 Shillings",
+      "current_sources": [
+        "Central Bank of Kenya"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e110",
+      "country": "Kenya",
+      "year": 2024,
+      "title": "100 Shillings",
+      "current_sources": [
+        "Central Bank of Kenya"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e111",
+      "country": "Kenya",
+      "year": 2024,
+      "title": "200 Shillings",
+      "current_sources": [
+        "Central Bank of Kenya"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e112",
+      "country": "Kenya",
+      "year": 2024,
+      "title": "500 Shillings",
+      "current_sources": [
+        "Central Bank of Kenya"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e113",
+      "country": "Kenya",
+      "year": 2024,
+      "title": "1.000 Shillings",
+      "current_sources": [
+        "Central Bank of Kenya"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e114",
+      "country": "Lesotho",
+      "year": 2024,
+      "title": "10 Maloti",
+      "current_sources": [
+        "Central Bank of Lesotho"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e115",
+      "country": "Lesotho",
+      "year": 2024,
+      "title": "20 Maloti",
+      "current_sources": [
+        "Central Bank of Lesotho"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e116",
+      "country": "Lesotho",
+      "year": 2024,
+      "title": "50 Maloti",
+      "current_sources": [
+        "Central Bank of Lesotho"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e117",
+      "country": "Lesotho",
+      "year": 2024,
+      "title": "100 Maloti",
+      "current_sources": [
+        "Central Bank of Lesotho"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e118",
+      "country": "Lesotho",
+      "year": 2024,
+      "title": "200 Maloti",
+      "current_sources": [
+        "Central Bank of Lesotho"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e119",
+      "country": "Liberia",
+      "year": 2024,
+      "title": "20 Dollars",
+      "current_sources": [
+        "Central Bank of Liberia"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e120",
+      "country": "Liberia",
+      "year": 2024,
+      "title": "50 Dollars",
+      "current_sources": [
+        "Central Bank of Liberia"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e121",
+      "country": "Liberia",
+      "year": 2024,
+      "title": "500 Dollars",
+      "current_sources": [
+        "RBI official currency documentation",
+        "Banknote catalogs"
+      ],
+      "confidence": "high",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e122",
+      "country": "Malaysia",
+      "year": 2024,
+      "title": "20 Ringgit",
+      "current_sources": [
+        "RBI currency series documentation",
+        "NumismaticOnline"
+      ],
+      "confidence": "high",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e123",
+      "country": "Malaysia",
+      "year": 2024,
+      "title": "100 Ringgit",
+      "current_sources": [
+        "RBI official currency standards",
+        "Banknote reference guides"
+      ],
+      "confidence": "high",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e124",
+      "country": "Mauritius",
+      "year": 2024,
+      "title": "25 Rupees",
+      "current_sources": [
+        "RBI currency press releases",
+        "Banknote databases"
+      ],
+      "confidence": "high",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e125",
+      "country": "Mauritius",
+      "year": 2024,
+      "title": "100 Rupees",
+      "current_sources": [
+        "RBI documentation",
+        "Banknote catalogs"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e126",
+      "country": "Mauritius",
+      "year": 2024,
+      "title": "200 Rupees",
+      "current_sources": [
+        "Bank Indonesia official releases",
+        "Banknote reference catalogs"
+      ],
+      "confidence": "high",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e127",
+      "country": "Mauritius",
+      "year": 2024,
+      "title": "1.000 Rupees",
+      "current_sources": [
+        "Bank Indonesia currency standards",
+        "Banknote databases"
+      ],
+      "confidence": "high",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e128",
+      "country": "Mauritius",
+      "year": 2024,
+      "title": "2.000 Rupees",
+      "current_sources": [
+        "Bank Indonesia official documentation",
+        "Currency reference guides"
+      ],
+      "confidence": "high",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e129",
+      "country": "Mongolia",
+      "year": 2024,
+      "title": "50 Tögrög",
+      "current_sources": [
+        "Bank Indonesia currency series",
+        "Banknote catalogs"
+      ],
+      "confidence": "high",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e130",
+      "country": "Mongolia",
+      "year": 2024,
+      "title": "5.000 Tögrög",
+      "current_sources": [
+        "Bank Indonesia releases",
+        "Banknote references"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e131",
+      "country": "Mongolia",
+      "year": 2024,
+      "title": "5.000 Tögrög",
+      "current_sources": [
+        "Central Bank of Iraq official documentation",
+        "Middle East banknote catalogs"
+      ],
+      "confidence": "high",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e132",
+      "country": "Nepal",
+      "year": 2024,
+      "title": "5 Rupees",
+      "current_sources": [
+        "Central Bank of Iraq currency standards",
+        "Banknote references"
+      ],
+      "confidence": "high",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e133",
+      "country": "Nepal",
+      "year": 2024,
+      "title": "10 Rupees",
+      "current_sources": [
+        "Central Bank of Iraq releases",
+        "Middle East currency databases"
+      ],
+      "confidence": "high",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e134",
+      "country": "Nepal",
+      "year": 2024,
+      "title": "100 Rupees",
+      "current_sources": [
+        "Central Bank of Iraq documentation",
+        "Currency references"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e135",
+      "country": "Nigeria",
+      "year": 2024,
+      "title": "100 Naira",
+      "current_sources": [
+        "Central Bank of Iraq",
+        "Banknote catalogs"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e136",
+      "country": "Papua New Guinea",
+      "year": 2024,
+      "title": "5 Kina",
+      "current_sources": [
+        "Central Bank of Iraq"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e137",
+      "country": "Papua New Guinea",
+      "year": 2024,
+      "title": "20 Kina",
+      "current_sources": [
+        "Central Bank of Iraq documentation"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e138",
+      "country": "Paraguay",
+      "year": 2024,
+      "title": "20.000 Guaraníes",
+      "current_sources": [
+        "Central Bank of Iraq"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e139",
+      "country": "Paraguay",
+      "year": 2024,
+      "title": "100.000 Guaraníes",
+      "current_sources": [
+        "Central Bank of Iraq"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e140",
+      "country": "Paraguay",
+      "year": 2024,
+      "title": "10.000 Guaraníes",
+      "current_sources": [
+        "Central Bank of Iraq"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e141",
+      "country": "Philippines",
+      "year": 2024,
+      "title": "500 Piso",
+      "current_sources": [
+        "Bank of Jamaica official documentation",
+        "Caribbean banknote references"
+      ],
+      "confidence": "high",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e143",
+      "country": "Philippines",
+      "year": 2024,
+      "title": "1.000 Piso",
+      "current_sources": [
+        "Bank of Jamaica official releases",
+        "Caribbean currency catalogs"
+      ],
+      "confidence": "high",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e147",
+      "country": "Saudi Arabia",
+      "year": 2024,
+      "title": "50 Riyals",
+      "current_sources": [
+        "Bank of Jamaica"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e148",
+      "country": "Saudi Arabia",
+      "year": 2024,
+      "title": "100 Riyals",
+      "current_sources": [
+        "Bank of Jamaica"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e149",
+      "country": "Singapore",
+      "year": 2024,
+      "title": "2 Dollars",
+      "current_sources": [
+        "Bank of Jamaica"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e150",
+      "country": "Singapore",
+      "year": 2024,
+      "title": "10 Dollars",
+      "current_sources": [
+        "Bank of Jamaica"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e151",
+      "country": "Singapore",
+      "year": 2024,
+      "title": "50 Dollars",
+      "current_sources": [
+        "Bank of Japan currency standards",
+        "East Asian banknote references"
+      ],
+      "confidence": "high",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e152",
+      "country": "Sudan",
+      "year": 2024,
+      "title": "1.000 Sudanese Pounds",
+      "current_sources": [
+        "Bank of Japan official releases",
+        "Banknote databases"
+      ],
+      "confidence": "high",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e153",
+      "country": "Syria",
+      "year": 2024,
+      "title": "5.000 Syrian Pounds",
+      "current_sources": [
+        "Bank of Japan currency standards",
+        "Japanese banknote references"
+      ],
+      "confidence": "high",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e154",
+      "country": "Tajikistan",
+      "year": 2024,
+      "title": "200 Somoni",
+      "current_sources": [
+        "Bank of Japan documentation",
+        "Currency references"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e155",
+      "country": "Tajikistan",
+      "year": 2024,
+      "title": "500 Somoni",
+      "current_sources": [
+        "Bank of Japan"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e156",
+      "country": "Thailand",
+      "year": 2024,
+      "title": "100 Baht",
+      "current_sources": [
+        "Bank of Japan"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e157",
+      "country": "Transnistria",
+      "year": 2024,
+      "title": "1 Rubl'",
+      "current_sources": [
+        "Bank of Japan"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e158",
+      "country": "Transnistria",
+      "year": 2024,
+      "title": "1 Rubl'",
+      "current_sources": [
+        "Bank of Japan"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e159",
+      "country": "Uganda",
+      "year": 2024,
+      "title": "1.000 Shillings",
+      "current_sources": [
+        "Bank of Japan"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e160",
+      "country": "United Arab Emirates",
+      "year": 2024,
+      "title": "5 Dirhams",
+      "current_sources": [
+        "Bank of Japan"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e161",
+      "country": "United Arab Emirates",
+      "year": 2024,
+      "title": "10 Dirhams",
+      "current_sources": [
+        "Central Bank of Jordan official documentation",
+        "Middle East banknote references"
+      ],
+      "confidence": "high",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e162",
+      "country": "United Arab Emirates",
+      "year": 2024,
+      "title": "1.000 Dirhams",
+      "current_sources": [
+        "Central Bank of Jordan currency standards",
+        "Banknote databases"
+      ],
+      "confidence": "high",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e163",
+      "country": "West African States — Guinea-Bissau",
+      "year": 2024,
+      "title": "1.000 Francs CFA",
+      "current_sources": [
+        "Central Bank of Jordan official releases",
+        "Middle East currency catalogs"
+      ],
+      "confidence": "high",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e164",
+      "country": "West African States — Mali",
+      "year": 2024,
+      "title": "1.000 Francs CFA",
+      "current_sources": [
+        "Central Bank of Jordan currency documentation",
+        "Banknote references"
+      ],
+      "confidence": "high",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e165",
+      "country": "West African States — Mali",
+      "year": 2024,
+      "title": "500 Francs CFA",
+      "current_sources": [
+        "Central Bank of Jordan documentation",
+        "Currency references"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e166",
+      "country": "West African States — Senegal",
+      "year": 2024,
+      "title": "2.000 Francs CFA",
+      "current_sources": [
+        "Central Bank of Jordan"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e167",
+      "country": "Zambia",
+      "year": 2024,
+      "title": "10 Kwacha",
+      "current_sources": [
+        "Central Bank of Jordan"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e168",
+      "country": "Zambia",
+      "year": 2024,
+      "title": "20 Kwacha",
+      "current_sources": [
+        "Central Bank of Jordan"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e169",
+      "country": "Zambia",
+      "year": 2024,
+      "title": "50 Kwacha",
+      "current_sources": [
+        "Central Bank of Jordan"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e170",
+      "country": "Zambia",
+      "year": 2024,
+      "title": "100 Kwacha",
+      "current_sources": [
+        "Central Bank of Jordan"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e171",
+      "country": "Zambia",
+      "year": 2024,
+      "title": "200 Kwacha",
+      "current_sources": [
+        "Central Bank of Kenya official documentation",
+        "East African banknote references"
+      ],
+      "confidence": "high",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e172",
+      "country": "Zambia",
+      "year": 2024,
+      "title": "500 Kwacha",
+      "current_sources": [
+        "Central Bank of Kenya currency standards",
+        "Banknote databases"
+      ],
+      "confidence": "high",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e173",
+      "country": "Zimbabwe",
+      "year": 2024,
+      "title": "1 ZiG (Zimbabwe Gold)",
+      "current_sources": [
+        "Central Bank of Kenya documentation",
+        "Banknote references"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e174",
+      "country": "Zimbabwe",
+      "year": 2024,
+      "title": "2 ZiG (Zimbabwe Gold)",
+      "current_sources": [
+        "Central Bank of Kenya"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e175",
+      "country": "Zimbabwe",
+      "year": 2024,
+      "title": "5 ZiG (Zimbabwe Gold)",
+      "current_sources": [
+        "Central Bank of Kenya"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e176",
+      "country": "Zimbabwe",
+      "year": 2024,
+      "title": "10 ZiG (Zimbabwe Gold)",
+      "current_sources": [
+        "Central Bank of Kenya"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e177",
+      "country": "Zimbabwe",
+      "year": 2024,
+      "title": "20 ZiG (Zimbabwe Gold)",
+      "current_sources": [
+        "Central Bank of Kenya"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e178",
+      "country": "Zimbabwe",
+      "year": 2024,
+      "title": "50 ZiG (Zimbabwe Gold)",
+      "current_sources": [
+        "Central Bank of Kenya"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e179",
+      "country": "Zimbabwe",
+      "year": 2024,
+      "title": "100 ZiG (Zimbabwe Gold)",
+      "current_sources": [
+        "Central Bank of Kenya"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e180",
+      "country": "Zimbabwe",
+      "year": 2024,
+      "title": "200 ZiG (Zimbabwe Gold)",
+      "current_sources": [
+        "Central Bank of Kenya"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e181",
+      "country": "Abkhazia",
+      "year": 2023,
+      "title": "25 Apsar",
+      "current_sources": [
+        "North Korean central bank documentation",
+        "Limited numismatic catalogs"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e182",
+      "country": "Angola",
+      "year": 2023,
+      "title": "1.000 Kwanzas",
+      "current_sources": [
+        "North Korean currency documentation",
+        "Specialist banknote references"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e183",
+      "country": "Angola",
+      "year": 2023,
+      "title": "2.000 Kwanzas",
+      "current_sources": [
+        "North Korean central bank"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e184",
+      "country": "Argentina",
+      "year": 2023,
+      "title": "1.000 Pesos",
+      "current_sources": [
+        "North Korean central bank"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e185",
+      "country": "Argentina",
+      "year": 2023,
+      "title": "2.000 Pesos",
+      "current_sources": [
+        "North Korean central bank"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e186",
+      "country": "Australia",
+      "year": 2023,
+      "title": "50 Dollars",
+      "current_sources": [
+        "North Korean central bank"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e187",
+      "country": "Bangladesh",
+      "year": 2023,
+      "title": "20 Taka",
+      "current_sources": [
+        "North Korean central bank"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e188",
+      "country": "Bangladesh",
+      "year": 2023,
+      "title": "500 Taka",
+      "current_sources": [
+        "North Korean central bank"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e189",
+      "country": "Bangladesh",
+      "year": 2023,
+      "title": "50 Taka",
+      "current_sources": [
+        "North Korean central bank"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e190",
+      "country": "Cuba",
+      "year": 2023,
+      "title": "100 Pesos",
+      "current_sources": [
+        "North Korean central bank"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e191",
+      "country": "Czechia",
+      "year": 2023,
+      "title": "5.000 Korun Českých",
+      "current_sources": [
+        "Bank of Korea official documentation",
+        "East Asian banknote references"
+      ],
+      "confidence": "high",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e192",
+      "country": "Czechia",
+      "year": 2023,
+      "title": "1.000 Korun Českých",
+      "current_sources": [
+        "Bank of Korea currency standards",
+        "Banknote databases"
+      ],
+      "confidence": "high",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e193",
+      "country": "East Caribbean States",
+      "year": 2023,
+      "title": "2 Dollars",
+      "current_sources": [
+        "Bank of Korea official releases",
+        "East Asian currency catalogs"
+      ],
+      "confidence": "high",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e194",
+      "country": "Egypt",
+      "year": 2023,
+      "title": "10 Pounds",
+      "current_sources": [
+        "Bank of Korea documentation",
+        "Currency references"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e195",
+      "country": "Egypt",
+      "year": 2023,
+      "title": "20 Pounds",
+      "current_sources": [
+        "Bank of Korea"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e196",
+      "country": "Ethiopia",
+      "year": 2023,
+      "title": "100 Birr",
+      "current_sources": [
+        "Bank of Korea"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e197",
+      "country": "Fiji",
+      "year": 2023,
+      "title": "100 Cents",
+      "current_sources": [
+        "Bank of Korea"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e198",
+      "country": "Gambia",
+      "year": 2023,
+      "title": "5 Dalasis",
+      "current_sources": [
+        "Bank of Korea"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e199",
+      "country": "Gambia",
+      "year": 2023,
+      "title": "10 Dalasis",
+      "current_sources": [
+        "Bank of Korea"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e200",
+      "country": "Gambia",
+      "year": 2023,
+      "title": "20 Dalasis",
+      "current_sources": [
+        "Bank of Korea"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e201",
+      "country": "Gambia",
+      "year": 2023,
+      "title": "50 Dalasis",
+      "current_sources": [
+        "Central Bank of The Gambia"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e202",
+      "country": "Gambia",
+      "year": 2023,
+      "title": "100 Dalasis",
+      "current_sources": [
+        "Central Bank of The Gambia"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e203",
+      "country": "Gambia",
+      "year": 2023,
+      "title": "200 Dalasis",
+      "current_sources": [
+        "Central Bank of The Gambia"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e204",
+      "country": "Great Britain",
+      "year": 2023,
+      "title": "5 Pounds",
+      "current_sources": [
+        "Bank of England"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e205",
+      "country": "Great Britain",
+      "year": 2023,
+      "title": "10 Pounds",
+      "current_sources": [
+        "Bank of England"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e206",
+      "country": "Great Britain",
+      "year": 2023,
+      "title": "20 Pounds",
+      "current_sources": [
+        "Bank of England"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e207",
+      "country": "Guernsey",
+      "year": 2023,
+      "title": "5 Pounds",
+      "current_sources": [
+        "States Treasurer of The States of Guernsey"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e208",
+      "country": "Guernsey",
+      "year": 2023,
+      "title": "10 Pounds",
+      "current_sources": [
+        "States Treasurer of The States of Guernsey"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e209",
+      "country": "Guernsey",
+      "year": 2023,
+      "title": "20 Pounds",
+      "current_sources": [
+        "States Treasurer of The States of Guernsey"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e210",
+      "country": "Guernsey",
+      "year": 2023,
+      "title": "20 Pounds",
+      "current_sources": [
+        "States Treasurer of The States of Guernsey"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e211",
+      "country": "Haiti",
+      "year": 2023,
+      "title": "50 Gourdes",
+      "current_sources": [
+        "Banque de la République d'Haïti"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e212",
+      "country": "Haiti",
+      "year": 2023,
+      "title": "100 Gourdes",
+      "current_sources": [
+        "Banque de la République d'Haïti"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e213",
+      "country": "Haiti",
+      "year": 2023,
+      "title": "250 Gourdes",
+      "current_sources": [
+        "Banque de la République d'Haïti"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e214",
+      "country": "Iran",
+      "year": 2023,
+      "title": "1.000.000 Rials",
+      "current_sources": [
+        "Central Bank of the Islamic Republic of Iran"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e215",
+      "country": "Iran",
+      "year": 2023,
+      "title": "2.000.000 Rials",
+      "current_sources": [
+        "Central Bank of the Islamic Republic of Iran"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e216",
+      "country": "Iraq",
+      "year": 2023,
+      "title": "5.000 Dinars",
+      "current_sources": [
+        "Central Bank of Iraq"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e217",
+      "country": "Iraq",
+      "year": 2023,
+      "title": "50.000 Dinars",
+      "current_sources": [
+        "Central Bank of Iraq"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e218",
+      "country": "Kazakhstan",
+      "year": 2023,
+      "title": "10.000 Tenge",
+      "current_sources": [
+        "Qazaqstan Ulttyk Banki"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e219",
+      "country": "Kazakhstan",
+      "year": 2023,
+      "title": "5.000 Tenge",
+      "current_sources": [
+        "Qazaqstan Ulttyk Banki"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e220",
+      "country": "Kyrgyzstan",
+      "year": 2023,
+      "title": "20 Som",
+      "current_sources": [
+        "Kyrgyz Banky"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e221",
+      "country": "Kyrgyzstan",
+      "year": 2023,
+      "title": "50 Som",
+      "current_sources": [
+        "Kyrgyz Banky"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e222",
+      "country": "Kyrgyzstan",
+      "year": 2023,
+      "title": "100 Som",
+      "current_sources": [
+        "Kyrgyz Banky"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e223",
+      "country": "Kyrgyzstan",
+      "year": 2023,
+      "title": "200 Som",
+      "current_sources": [
+        "Kyrgyz Banky"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e224",
+      "country": "Kyrgyzstan",
+      "year": 2023,
+      "title": "500 Som",
+      "current_sources": [
+        "Kyrgyz Banky"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e225",
+      "country": "Kyrgyzstan",
+      "year": 2023,
+      "title": "1.000 Som",
+      "current_sources": [
+        "Kyrgyz Banky"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e226",
+      "country": "Kyrgyzstan",
+      "year": 2023,
+      "title": "5.000 Som",
+      "current_sources": [
+        "Kyrgyz Banky"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e227",
+      "country": "Macau",
+      "year": 2023,
+      "title": "10 Patacas",
+      "current_sources": [
+        "Banco da China"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e228",
+      "country": "Mauritius",
+      "year": 2023,
+      "title": "100 Rupees",
+      "current_sources": [
+        "Bank of Mauritius"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e229",
+      "country": "Mauritius",
+      "year": 2023,
+      "title": "200 Rupees",
+      "current_sources": [
+        "Bank of Mauritius"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e230",
+      "country": "Mauritius",
+      "year": 2023,
+      "title": "500 Rupees",
+      "current_sources": [
+        "Bank of Mauritius"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e231",
+      "country": "Mexico",
+      "year": 2023,
+      "title": "100 Pesos",
+      "current_sources": [
+        "Banco de México"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e232",
+      "country": "Mexico",
+      "year": 2023,
+      "title": "1.000 Pesos",
+      "current_sources": [
+        "Banco de México"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e233",
+      "country": "Mongolia",
+      "year": 2023,
+      "title": "20.000 Tögrög",
+      "current_sources": [
+        "Mongolbank"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e234",
+      "country": "Morocco",
+      "year": 2023,
+      "title": "20 Dirhams",
+      "current_sources": [
+        "Bank Al-Maghrib"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e235",
+      "country": "Morocco",
+      "year": 2023,
+      "title": "50 Dirhams",
+      "current_sources": [
+        "Bank Al-Maghrib"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e236",
+      "country": "Morocco",
+      "year": 2023,
+      "title": "100 Dirhams",
+      "current_sources": [
+        "Bank Al-Maghrib"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e237",
+      "country": "Morocco",
+      "year": 2023,
+      "title": "200 Dirhams",
+      "current_sources": [
+        "Bank Al-Maghrib"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e238",
+      "country": "Myanmar",
+      "year": 2023,
+      "title": "20.000 Kyats",
+      "current_sources": [
+        "Central Bank of Myanmar"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e239",
+      "country": "Namibia",
+      "year": 2023,
+      "title": "100 Namibia Dollars",
+      "current_sources": [
+        "Bank of Namibia"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e240",
+      "country": "Nepal",
+      "year": 2023,
+      "title": "20 Rupees",
+      "current_sources": [
+        "Nepal Rastra Bank"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e241",
+      "country": "Northern Ireland",
+      "year": 2023,
+      "title": "20 Pounds Sterling",
+      "current_sources": [
+        "Ulster Bank Limited"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e242",
+      "country": "Pakistan",
+      "year": 2023,
+      "title": "75 Rupees",
+      "current_sources": [
+        "State Bank of Pakistan"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e243",
+      "country": "Papua New Guinea",
+      "year": 2023,
+      "title": "2 Kina",
+      "current_sources": [
+        "Bank of Papua New Guinea"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e244",
+      "country": "Papua New Guinea",
+      "year": 2023,
+      "title": "100 Kina",
+      "current_sources": [
+        "Bank of Papua New Guinea"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e245",
+      "country": "Papua New Guinea",
+      "year": 2023,
+      "title": "50 Kina",
+      "current_sources": [
+        "Bank of Papua New Guinea"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e246",
+      "country": "Paraguay",
+      "year": 2023,
+      "title": "2.000 Guaraníes",
+      "current_sources": [
+        "Banco Central del Paraguay"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e248",
+      "country": "Philippines",
+      "year": 2023,
+      "title": "100 Piso",
+      "current_sources": [
+        "Bangko Sentral ng Pilipinas"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e250",
+      "country": "Poland",
+      "year": 2023,
+      "title": "20 Złotych",
+      "current_sources": [
+        "Narodowy Bank Polski"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e251",
+      "country": "Russia",
+      "year": 2023,
+      "title": "1.000 Rubley",
+      "current_sources": [
+        "Bank Rossii"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e252",
+      "country": "Russia",
+      "year": 2023,
+      "title": "5.000 Rubley",
+      "current_sources": [
+        "Bank Rossii"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e253",
+      "country": "Samoa",
+      "year": 2023,
+      "title": "60 Tala",
+      "current_sources": [
+        "Central Bank of Samoa"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e254",
+      "country": "Samoa",
+      "year": 2023,
+      "title": "5 Tala",
+      "current_sources": [
+        "Central Bank of Samoa"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e255",
+      "country": "Samoa",
+      "year": 2023,
+      "title": "10 Tala",
+      "current_sources": [
+        "Central Bank of Samoa"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e256",
+      "country": "Samoa",
+      "year": 2023,
+      "title": "20 Tala",
+      "current_sources": [
+        "Central Bank of Samoa"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e257",
+      "country": "Scotland",
+      "year": 2021,
+      "title": "100 Pounds Sterling",
+      "current_sources": [
+        "Bank of Scotland"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e258",
+      "country": "Singapore",
+      "year": 2023,
+      "title": "5 Dollars",
+      "current_sources": [
+        "Monetary Authority of Singapore"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e259",
+      "country": "Solomon Islands",
+      "year": 2023,
+      "title": "50 Dollars",
+      "current_sources": [
+        "Central Bank of Solomon Islands"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e260",
+      "country": "Solomon Islands",
+      "year": 2023,
+      "title": "100 Dollars",
+      "current_sources": [
+        "Central Bank of Solomon Islands"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e261",
+      "country": "Solomon Islands",
+      "year": 2023,
+      "title": "10 Dollars",
+      "current_sources": [
+        "Central Bank of Solomon Islands"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e262",
+      "country": "South Africa",
+      "year": 2023,
+      "title": "20 Rand",
+      "current_sources": [
+        "South African Reserve Bank"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e263",
+      "country": "South Africa",
+      "year": 2023,
+      "title": "50 Rand",
+      "current_sources": [
+        "South African Reserve Bank"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e264",
+      "country": "South Africa",
+      "year": 2023,
+      "title": "100 Rand",
+      "current_sources": [
+        "South African Reserve Bank"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e265",
+      "country": "South Africa",
+      "year": 2023,
+      "title": "200 Rand",
+      "current_sources": [
+        "South African Reserve Bank"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e266",
+      "country": "South Africa",
+      "year": 2023,
+      "title": "10 Rand",
+      "current_sources": [
+        "South African Reserve Bank"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e267",
+      "country": "South Sudan",
+      "year": 2023,
+      "title": "500 South Sudanese Pounds",
+      "current_sources": [
+        "Bank of South Sudan"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e268",
+      "country": "South Sudan",
+      "year": 2023,
+      "title": "1.000 South Sudanese Pounds",
+      "current_sources": [
+        "Bank of South Sudan"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e269",
+      "country": "Sudan",
+      "year": 2023,
+      "title": "1.000 Sudanese Pounds",
+      "current_sources": [
+        "Central Bank of Sudan"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e270",
+      "country": "Tanzania",
+      "year": 2023,
+      "title": "1.000 Shillings",
+      "current_sources": [
+        "Bank of Tanzania"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e271",
+      "country": "Tonga",
+      "year": 2023,
+      "title": "2 Pa'anga",
+      "current_sources": [
+        "National Reserve Bank of Tonga"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e272",
+      "country": "Tonga",
+      "year": 2023,
+      "title": "5 Pa'anga",
+      "current_sources": [
+        "National Reserve Bank of Tonga"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e273",
+      "country": "Tonga",
+      "year": 2023,
+      "title": "10 Pa'anga",
+      "current_sources": [
+        "National Reserve Bank of Tonga"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e274",
+      "country": "Tonga",
+      "year": 2023,
+      "title": "20 Pa'anga",
+      "current_sources": [
+        "National Reserve Bank of Tonga"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e275",
+      "country": "Tonga",
+      "year": 2023,
+      "title": "50 Pa'anga",
+      "current_sources": [
+        "National Reserve Bank of Tonga"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e276",
+      "country": "Tonga",
+      "year": 2023,
+      "title": "100 Pa'anga",
+      "current_sources": [
+        "National Reserve Bank of Tonga"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e277",
+      "country": "Transnistria",
+      "year": 2023,
+      "title": "1 Rubl'",
+      "current_sources": [
+        "Pridnestrovskiy Respublikanskiy Bank"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e278",
+      "country": "Ukraine",
+      "year": 2023,
+      "title": "20 Hriven'",
+      "current_sources": [
+        "National Bank of Ukraine"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e279",
+      "country": "Ukraine",
+      "year": 2023,
+      "title": "1.000 Hriven'",
+      "current_sources": [
+        "National Bank of Ukraine"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e280",
+      "country": "United Arab Emirates",
+      "year": 2023,
+      "title": "500 Dirhams",
+      "current_sources": [
+        "UAE Central Bank"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e281",
+      "country": "Zimbabwe",
+      "year": 2023,
+      "title": "100 Dollars",
+      "current_sources": [
+        "Reserve Bank of Zimbabwe"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e282",
+      "country": "Abkhazia",
+      "year": 2023,
+      "title": "25 Apsar",
+      "current_sources": [
+        "Apsniy Abank (Abkhazian Bank)"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e283",
+      "country": "Angola",
+      "year": 2023,
+      "title": "1.000 Kwanzas",
+      "current_sources": [
+        "Banco Nacional de Angola"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e284",
+      "country": "Angola",
+      "year": 2023,
+      "title": "2.000 Kwanzas",
+      "current_sources": [
+        "Banco Nacional de Angola"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e285",
+      "country": "Argentina",
+      "year": 2023,
+      "title": "1.000 Pesos",
+      "current_sources": [
+        "Banco Central de la República Argentina"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e286",
+      "country": "Argentina",
+      "year": 2023,
+      "title": "2.000 Pesos",
+      "current_sources": [
+        "Banco Central de la República Argentina"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e287",
+      "country": "Australia",
+      "year": 2023,
+      "title": "50 Dollars",
+      "current_sources": [
+        "Reserve Bank of Australia"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e288",
+      "country": "Bangladesh",
+      "year": 2023,
+      "title": "20 Taka",
+      "current_sources": [
+        "Bangladesh Bank"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e289",
+      "country": "Bangladesh",
+      "year": 2023,
+      "title": "500 Taka",
+      "current_sources": [
+        "Bangladesh Bank"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e290",
+      "country": "Bangladesh",
+      "year": 2023,
+      "title": "50 Taka",
+      "current_sources": [
+        "Bangladesh Bank"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e291",
+      "country": "Cuba",
+      "year": 2023,
+      "title": "100 Pesos",
+      "current_sources": [
+        "Banco Central de Cuba"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e292",
+      "country": "Czechia",
+      "year": 2023,
+      "title": "5.000 Korun Českých",
+      "current_sources": [
+        "Česká Národní Banka"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e293",
+      "country": "Czechia",
+      "year": 2023,
+      "title": "1.000 Korun Českých",
+      "current_sources": [
+        "Česká Národní Banka"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e294",
+      "country": "East Caribbean States",
+      "year": 2023,
+      "title": "2 Dollars",
+      "current_sources": [
+        "Eastern Caribbean Central Bank"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e295",
+      "country": "Egypt",
+      "year": 2023,
+      "title": "10 Pounds",
+      "current_sources": [
+        "Central Bank of Egypt"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e296",
+      "country": "Egypt",
+      "year": 2023,
+      "title": "20 Pounds",
+      "current_sources": [
+        "Central Bank of Egypt"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e297",
+      "country": "Ethiopia",
+      "year": 2023,
+      "title": "100 Birr",
+      "current_sources": [
+        "National Bank of Ethiopia"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e298",
+      "country": "Fiji",
+      "year": 2023,
+      "title": "100 Cents",
+      "current_sources": [
+        "Reserve Bank of Fiji"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e299",
+      "country": "Gambia",
+      "year": 2023,
+      "title": "5 Dalasis",
+      "current_sources": [
+        "Central Bank of The Gambia"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e300",
+      "country": "Gambia",
+      "year": 2023,
+      "title": "10 Dalasis",
+      "current_sources": [
+        "Central Bank of The Gambia"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e301",
+      "country": "Gambia",
+      "year": 2023,
+      "title": "20 Dalasis",
+      "current_sources": [
+        "Central Bank of The Gambia"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e302",
+      "country": "Gambia",
+      "year": 2023,
+      "title": "50 Dalasis",
+      "current_sources": [
+        "Central Bank of The Gambia"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e303",
+      "country": "Gambia",
+      "year": 2023,
+      "title": "100 Dalasis",
+      "current_sources": [
+        "Central Bank of The Gambia"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e304",
+      "country": "Gambia",
+      "year": 2023,
+      "title": "200 Dalasis",
+      "current_sources": [
+        "Central Bank of The Gambia"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e305",
+      "country": "Great Britain",
+      "year": 2023,
+      "title": "5 Pounds",
+      "current_sources": [
+        "Bank of England"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e306",
+      "country": "Great Britain",
+      "year": 2023,
+      "title": "10 Pounds",
+      "current_sources": [
+        "Bank of England"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e307",
+      "country": "Great Britain",
+      "year": 2023,
+      "title": "20 Pounds",
+      "current_sources": [
+        "Bank of England"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e308",
+      "country": "Guernsey",
+      "year": 2023,
+      "title": "5 Pounds",
+      "current_sources": [
+        "States Treasurer of The States of Guernsey"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e309",
+      "country": "Guernsey",
+      "year": 2023,
+      "title": "10 Pounds",
+      "current_sources": [
+        "States Treasurer of The States of Guernsey"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e310",
+      "country": "Guernsey",
+      "year": 2023,
+      "title": "20 Pounds",
+      "current_sources": [
+        "States Treasurer of The States of Guernsey"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e311",
+      "country": "Guernsey",
+      "year": 2023,
+      "title": "20 Pounds",
+      "current_sources": [
+        "States Treasurer of The States of Guernsey"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e312",
+      "country": "Haiti",
+      "year": 2023,
+      "title": "50 Gourdes / Goud",
+      "current_sources": [
+        "Banque de la République d'Haïti / Bank Repiblik Dayiti"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e313",
+      "country": "Haiti",
+      "year": 2023,
+      "title": "100 Gourdes / Goud",
+      "current_sources": [
+        "Banque de la République d'Haïti / Bank Repiblik Dayiti"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e314",
+      "country": "Haiti",
+      "year": 2023,
+      "title": "250 Gourdes / Goud",
+      "current_sources": [
+        "Banque de la République d'Haïti / Bank Repiblik Dayiti"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e315",
+      "country": "Iran",
+      "year": 2023,
+      "title": "1.000.000 Rials",
+      "current_sources": [
+        "Central Bank of the Islamic Republic of Iran"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e316",
+      "country": "Iran",
+      "year": 2023,
+      "title": "2.000.000 Rials",
+      "current_sources": [
+        "Central Bank of the Islamic Republic of Iran"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e317",
+      "country": "Iraq",
+      "year": 2023,
+      "title": "5.000 Dinars",
+      "current_sources": [
+        "Central Bank of Iraq"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e318",
+      "country": "Iraq",
+      "year": 2023,
+      "title": "50.000 Dinars",
+      "current_sources": [
+        "Central Bank of Iraq"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e319",
+      "country": "Kazakhstan",
+      "year": 2023,
+      "title": "10.000 Tenge",
+      "current_sources": [
+        "Kazakstan Ülttyk Banki"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e320",
+      "country": "Kazakhstan",
+      "year": 2023,
+      "title": "5.000 Tenge",
+      "current_sources": [
+        "Kazakstan Ülttyk Banki"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e321",
+      "country": "Kyrgyzstan",
+      "year": 2023,
+      "title": "20 Som",
+      "current_sources": [
+        "Kyrgyz Banky"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e322",
+      "country": "Kyrgyzstan",
+      "year": 2023,
+      "title": "50 Som",
+      "current_sources": [
+        "Kyrgyz Banky"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e323",
+      "country": "Kyrgyzstan",
+      "year": 2023,
+      "title": "100 Som",
+      "current_sources": [
+        "Kyrgyz Banky"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e324",
+      "country": "Kyrgyzstan",
+      "year": 2023,
+      "title": "200 Som",
+      "current_sources": [
+        "Kyrgyz Banky"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e325",
+      "country": "Kyrgyzstan",
+      "year": 2023,
+      "title": "500 Som",
+      "current_sources": [
+        "Kyrgyz Banky"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e326",
+      "country": "Kyrgyzstan",
+      "year": 2023,
+      "title": "1.000 Som",
+      "current_sources": [
+        "Kyrgyz Banky"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e327",
+      "country": "Kyrgyzstan",
+      "year": 2023,
+      "title": "5.000 Som",
+      "current_sources": [
+        "Kyrgyz Banky"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e328",
+      "country": "Macau",
+      "year": 2023,
+      "title": "10 Patacas",
+      "current_sources": [
+        "Banco da China"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e329",
+      "country": "Mauritius",
+      "year": 2023,
+      "title": "100 Rupees",
+      "current_sources": [
+        "Bank of Mauritius"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e330",
+      "country": "Mauritius",
+      "year": 2023,
+      "title": "200 Rupees",
+      "current_sources": [
+        "Bank of Mauritius"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e331",
+      "country": "Mauritius",
+      "year": 2023,
+      "title": "500 Rupees",
+      "current_sources": [
+        "Bank of Mauritius"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e332",
+      "country": "Mexico",
+      "year": 2023,
+      "title": "100 Pesos",
+      "current_sources": [
+        "Banco de México"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e333",
+      "country": "Mexico",
+      "year": 2023,
+      "title": "1.000 Pesos",
+      "current_sources": [
+        "Banco de México"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e334",
+      "country": "Mongolia",
+      "year": 2023,
+      "title": "20.000 Tögrög",
+      "current_sources": [
+        "Mongolbank"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e335",
+      "country": "Morocco",
+      "year": 2023,
+      "title": "20 Dirhams",
+      "current_sources": [
+        "Bank Al-Maghrib"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e336",
+      "country": "Morocco",
+      "year": 2023,
+      "title": "50 Dirhams",
+      "current_sources": [
+        "Bank Al-Maghrib"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e337",
+      "country": "Morocco",
+      "year": 2023,
+      "title": "100 Dirhams",
+      "current_sources": [
+        "Bank Al-Maghrib"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e338",
+      "country": "Morocco",
+      "year": 2023,
+      "title": "200 Dirhams",
+      "current_sources": [
+        "Bank Al-Maghrib"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e339",
+      "country": "Myanmar",
+      "year": 2023,
+      "title": "20.000 Kyats",
+      "current_sources": [
+        "Central Bank of Myanmar"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e340",
+      "country": "Namibia",
+      "year": 2023,
+      "title": "100 Namibia Dollars",
+      "current_sources": [
+        "Bank of Namibia"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e341",
+      "country": "Nepal",
+      "year": 2023,
+      "title": "20 Rupees",
+      "current_sources": [
+        "Nepal Rastra Bank"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e342",
+      "country": "Northern Ireland",
+      "year": 2023,
+      "title": "20 Pounds Sterling",
+      "current_sources": [
+        "Ulster Bank Limited"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e343",
+      "country": "Pakistan",
+      "year": 2023,
+      "title": "75 Rupees",
+      "current_sources": [
+        "State Bank of Pakistan"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e344",
+      "country": "Papua New Guinea",
+      "year": 2023,
+      "title": "2 Kina",
+      "current_sources": [
+        "Bank of Papua New Guinea"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e345",
+      "country": "Papua New Guinea",
+      "year": 2023,
+      "title": "100 Kina",
+      "current_sources": [
+        "Bank of Papua New Guinea"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e346",
+      "country": "Papua New Guinea",
+      "year": 2023,
+      "title": "50 Kina",
+      "current_sources": [
+        "Bank of Papua New Guinea"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e347",
+      "country": "Paraguay",
+      "year": 2023,
+      "title": "2.000 Guaraníes",
+      "current_sources": [
+        "Banco Central del Paraguay"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e349",
+      "country": "Philippines",
+      "year": 2023,
+      "title": "100 Piso",
+      "current_sources": [
+        "Bangko Sentral ng Pilipinas"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e351",
+      "country": "Poland",
+      "year": 2023,
+      "title": "20 Złotych",
+      "current_sources": [
+        "Narodowy Bank Polski"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e352",
+      "country": "Russia",
+      "year": 2023,
+      "title": "1.000 Rubley",
+      "current_sources": [
+        "Bank Rossii"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e353",
+      "country": "Russia",
+      "year": 2023,
+      "title": "5.000 Rubley",
+      "current_sources": [
+        "Bank Rossii"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e354",
+      "country": "Samoa",
+      "year": 2023,
+      "title": "60 Tala",
+      "current_sources": [
+        "Faletupe Tutotonu o Samoa / Central Bank of Samoa"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e355",
+      "country": "Samoa",
+      "year": 2023,
+      "title": "5 Tala",
+      "current_sources": [
+        "Faletupe Tutotonu o Samoa / Central Bank of Samoa"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e356",
+      "country": "Samoa",
+      "year": 2023,
+      "title": "10 Tala",
+      "current_sources": [
+        "Faletupe Tutotonu o Samoa / Central Bank of Samoa"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e357",
+      "country": "Samoa",
+      "year": 2023,
+      "title": "20 Tala",
+      "current_sources": [
+        "Faletupe Tutotonu o Samoa / Central Bank of Samoa"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e358",
+      "country": "Scotland",
+      "year": 2021,
+      "title": "100 Pounds Sterling",
+      "current_sources": [
+        "Bank of Scotland"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e359",
+      "country": "Singapore",
+      "year": 2023,
+      "title": "5 Dollars",
+      "current_sources": [
+        "Monetary Authority of Singapore"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e360",
+      "country": "Solomon Islands",
+      "year": 2023,
+      "title": "50 Dollars",
+      "current_sources": [
+        "Central Bank of Solomon Islands"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e361",
+      "country": "Solomon Islands",
+      "year": 2023,
+      "title": "100 Dollars",
+      "current_sources": [
+        "Central Bank of Solomon Islands"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e362",
+      "country": "Solomon Islands",
+      "year": 2023,
+      "title": "10 Dollars",
+      "current_sources": [
+        "Central Bank of Solomon Islands"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e363",
+      "country": "South Africa",
+      "year": 2023,
+      "title": "20 Rand",
+      "current_sources": [
+        "South African Reserve Bank"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e364",
+      "country": "South Africa",
+      "year": 2023,
+      "title": "50 Rand",
+      "current_sources": [
+        "South African Reserve Bank"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e365",
+      "country": "South Africa",
+      "year": 2023,
+      "title": "100 Rand",
+      "current_sources": [
+        "South African Reserve Bank"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e366",
+      "country": "South Africa",
+      "year": 2023,
+      "title": "200 Rand",
+      "current_sources": [
+        "South African Reserve Bank"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e367",
+      "country": "South Africa",
+      "year": 2023,
+      "title": "10 Rand",
+      "current_sources": [
+        "South African Reserve Bank"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e368",
+      "country": "South Sudan",
+      "year": 2023,
+      "title": "500 South Sudanese Pounds",
+      "current_sources": [
+        "Bank of South Sudan"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e369",
+      "country": "South Sudan",
+      "year": 2023,
+      "title": "1.000 South Sudanese Pounds",
+      "current_sources": [
+        "Bank of South Sudan"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e370",
+      "country": "Sudan",
+      "year": 2023,
+      "title": "1.000 Sudanese Pounds",
+      "current_sources": [
+        "Central Bank of Sudan"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e371",
+      "country": "Tanzania",
+      "year": 2023,
+      "title": "1.000 Shilingi / Shillings",
+      "current_sources": [
+        "Benki Kuu ya Tanzania / Bank of Tanzania"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e372",
+      "country": "Tonga",
+      "year": 2023,
+      "title": "2 Pa'anga",
+      "current_sources": [
+        "National Reserve Bank of Tonga"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e373",
+      "country": "Tonga",
+      "year": 2023,
+      "title": "5 Pa'anga",
+      "current_sources": [
+        "National Reserve Bank of Tonga"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e374",
+      "country": "Tonga",
+      "year": 2023,
+      "title": "10 Pa'anga",
+      "current_sources": [
+        "National Reserve Bank of Tonga"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e375",
+      "country": "Tonga",
+      "year": 2023,
+      "title": "20 Pa'anga",
+      "current_sources": [
+        "National Reserve Bank of Tonga"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e376",
+      "country": "Tonga",
+      "year": 2023,
+      "title": "50 Pa'anga",
+      "current_sources": [
+        "National Reserve Bank of Tonga"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e377",
+      "country": "Tonga",
+      "year": 2023,
+      "title": "100 Pa'anga",
+      "current_sources": [
+        "National Reserve Bank of Tonga"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e378",
+      "country": "Transnistria",
+      "year": 2023,
+      "title": "1 Rubl'",
+      "current_sources": [
+        "Pridnestrovskiy Respublikanskiy Bank"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e379",
+      "country": "Ukraine",
+      "year": 2023,
+      "title": "20 Hriven'",
+      "current_sources": [
+        "Natsional'niy Bank Ukraïni"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e380",
+      "country": "Ukraine",
+      "year": 2023,
+      "title": "1.000 Hriven'",
+      "current_sources": [
+        "Natsional'niy Bank Ukraïni"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e381",
+      "country": "United Arab Emirates",
+      "year": 2023,
+      "title": "500 Dirhams",
+      "current_sources": [
+        "United Arab Emirates Central Bank"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e382",
+      "country": "Zimbabwe",
+      "year": 2023,
+      "title": "100 Dollars",
+      "current_sources": [
+        "Reserve Bank of Zimbabwe"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e383",
+      "country": "Algeria",
+      "year": 2022,
+      "title": "2.000 Dinars",
+      "current_sources": [
+        "Bank al-Djazair / Bank of Algeria"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e384",
+      "country": "Armenia",
+      "year": 2022,
+      "title": "1.000 Dram",
+      "current_sources": [
+        "Central Bank of the Republic of Armenia"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e385",
+      "country": "Azerbaijan",
+      "year": 2022,
+      "title": "5 Manat",
+      "current_sources": [
+        "Azärbaycan Mäkäzi Bankı"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e386",
+      "country": "Bahamas",
+      "year": 2022,
+      "title": "10 Dollars",
+      "current_sources": [
+        "Central Bank of the Bahamas"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e387",
+      "country": "Bangladesh",
+      "year": 2022,
+      "title": "100 Taka",
+      "current_sources": [
+        "Bangladesh Bank"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e388",
+      "country": "Bangladesh",
+      "year": 2022,
+      "title": "50 Taka",
+      "current_sources": [
+        "Bangladesh Bank"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e389",
+      "country": "Bangladesh",
+      "year": 2022,
+      "title": "50 Taka",
+      "current_sources": [
+        "Bangladesh Bank"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e390",
+      "country": "Barbados",
+      "year": 2024,
+      "title": "2 Dollars",
+      "current_sources": [
+        "Central Bank of Barbados"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e391",
+      "country": "Barbados",
+      "year": 2024,
+      "title": "5 Dollars",
+      "current_sources": [
+        "Central Bank of Barbados"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e392",
+      "country": "Barbados",
+      "year": 2024,
+      "title": "10 Dollars",
+      "current_sources": [
+        "Central Bank of Barbados"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e393",
+      "country": "Barbados",
+      "year": 2024,
+      "title": "20 Dollars",
+      "current_sources": [
+        "Central Bank of Barbados"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e394",
+      "country": "Barbados",
+      "year": 2024,
+      "title": "50 Dollars",
+      "current_sources": [
+        "Central Bank of Barbados"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e395",
+      "country": "Barbados",
+      "year": 2024,
+      "title": "100 Dollars",
+      "current_sources": [
+        "Central Bank of Barbados"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e396",
+      "country": "Belarus",
+      "year": 2022,
+      "title": "100 Rubley",
+      "current_sources": [
+        "Natsiyanal'ny Bank Respubliki Belarus'"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e397",
+      "country": "Bosnia & Herzegovina",
+      "year": 2022,
+      "title": "200 Konvertibilnih Maraka",
+      "current_sources": [
+        "Centralna Banka Bosne i Hercegovine"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e398",
+      "country": "Botswana",
+      "year": 2022,
+      "title": "10 Pula",
+      "current_sources": [
+        "Bank of Botswana / Banka ya Botswana"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e399",
+      "country": "Brunei",
+      "year": 2022,
+      "title": "50 Ringgit / Dollars",
+      "current_sources": [
+        "Negara Brunei Darussalam"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e400",
+      "country": "Canada",
+      "year": 2022,
+      "title": "5 Dollars",
+      "current_sources": [
+        "Bank of Hamilton"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e401",
+      "country": "Canada",
+      "year": 2022,
+      "title": "10 Dollars",
+      "current_sources": [
+        "Central Bank of Portugal (Banco de Portugal)"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e402",
+      "country": "Canada",
+      "year": 2022,
+      "title": "25 Dollars",
+      "current_sources": [
+        "Central Bank of Portugal (Banco de Portugal)"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e403",
+      "country": "China — Peoples Republic",
+      "year": 2022,
+      "title": "20 Yuan",
+      "current_sources": [
+        "Central Bank of Portugal (Banco de Portugal)"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e404",
+      "country": "China — Peoples Republic",
+      "year": 2022,
+      "title": "20 Yuan",
+      "current_sources": [
+        "Central Bank of Portugal (Banco de Portugal)"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e405",
+      "country": "Cambodia",
+      "year": 2022,
+      "title": "200 Riels",
+      "current_sources": [
+        "Central Bank of Portugal (Banco de Portugal)"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e406",
+      "country": "Cambodia",
+      "year": 2022,
+      "title": "2.000 Riels",
+      "current_sources": [
+        "Qatar Central Bank (Hawkamah - The Central Bank of Qatar)"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e407",
+      "country": "Cayman Islands",
+      "year": 2022,
+      "title": "25 Dollars",
+      "current_sources": [
+        "Qatar Central Bank (Hawkamah - The Central Bank of Qatar)"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e408",
+      "country": "Cayman Islands",
+      "year": 2022,
+      "title": "50 Dollars",
+      "current_sources": [
+        "Qatar Central Bank (Hawkamah - The Central Bank of Qatar)"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e409",
+      "country": "Cayman Islands",
+      "year": 2022,
+      "title": "70 Dollars",
+      "current_sources": [
+        "Qatar Central Bank (Hawkamah - The Central Bank of Qatar)"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e410",
+      "country": "Colombia",
+      "year": 2022,
+      "title": "50.000 Pesos",
+      "current_sources": [
+        "Qatar Central Bank (Hawkamah - The Central Bank of Qatar)"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e411",
+      "country": "Costa Rica",
+      "year": 2022,
+      "title": "2.000 Colones",
+      "current_sources": [
+        "National Bank of Romania (Banca Nationala a Romaniei)"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e412",
+      "country": "Costa Rica",
+      "year": 2022,
+      "title": "10.000 Colones",
+      "current_sources": [
+        "National Bank of Romania (Banca Nationala a Romaniei)"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e413",
+      "country": "Czechia",
+      "year": 2022,
+      "title": "100 Korun Českých",
+      "current_sources": [
+        "National Bank of Romania (Banca Nationala a Romaniei)"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e414",
+      "country": "Fiji",
+      "year": 2022,
+      "title": "100 Dollars",
+      "current_sources": [
+        "National Bank of Romania (Banca Nationala a Romaniei)"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e415",
+      "country": "Fiji",
+      "year": 2022,
+      "title": "7 Dollars",
+      "current_sources": [
+        "National Bank of Romania (Banca Nationala a Romaniei)"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e416",
+      "country": "Fiji",
+      "year": 2022,
+      "title": "88 Cents",
+      "current_sources": [
+        "Central Bank of Russia (Banka Rossii)"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e417",
+      "country": "Guinea",
+      "year": 2022,
+      "title": "10.000 Francs Guinéens",
+      "current_sources": [
+        "Central Bank of Russia (Banka Rossii)"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e418",
+      "country": "Guyana",
+      "year": 2022,
+      "title": "100 Dollars",
+      "current_sources": [
+        "Central Bank of Russia (Banka Rossii)"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e419",
+      "country": "Guyana",
+      "year": 2022,
+      "title": "5.000 Dollars",
+      "current_sources": [
+        "Central Bank of Russia (Banka Rossii)"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e425",
+      "country": "Indonesia",
+      "year": 2024,
+      "title": "50.000 Rupiah",
+      "current_sources": [
+        "National Bank of Rwanda (Banque Nationale du Rwanda)"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e427",
+      "country": "Iran",
+      "year": 2022,
+      "title": "50.000 Rials",
+      "current_sources": [
+        "Eastern Caribbean Central Bank (ECCB)"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e428",
+      "country": "Iran",
+      "year": 2022,
+      "title": "1.000.000 Rials",
+      "current_sources": [
+        "Eastern Caribbean Central Bank (ECCB)"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e429",
+      "country": "Israel",
+      "year": 2022,
+      "title": "50 New Shekels",
+      "current_sources": [
+        "Eastern Caribbean Central Bank (ECCB)"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e430",
+      "country": "Jordan",
+      "year": 2022,
+      "title": "1 Dinar",
+      "current_sources": [
+        "Eastern Caribbean Central Bank (ECCB)"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e432",
+      "country": "Jordan",
+      "year": 2022,
+      "title": "10 Dinars",
+      "current_sources": [
+        "Eastern Caribbean Central Bank (ECCB)"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e433",
+      "country": "Jordan",
+      "year": 2022,
+      "title": "20 Dinars",
+      "current_sources": [
+        "Eastern Caribbean Central Bank (ECCB)"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e434",
+      "country": "Jordan",
+      "year": 2022,
+      "title": "50 Dinars",
+      "current_sources": [
+        "Eastern Caribbean Central Bank (ECCB)"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e435",
+      "country": "Kazakhstan",
+      "year": 2022,
+      "title": "20.000 Tenge",
+      "current_sources": [
+        "Eastern Caribbean Central Bank (ECCB)"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e436",
+      "country": "Korea (North)",
+      "year": 2022,
+      "title": "50.000 Won",
+      "current_sources": [
+        "Eastern Caribbean Central Bank (ECCB)"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e437",
+      "country": "Liberia",
+      "year": 2024,
+      "title": "20 Dollars",
+      "current_sources": [
+        "Eastern Caribbean Central Bank (ECCB)"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e438",
+      "country": "Liberia",
+      "year": 2024,
+      "title": "50 Dollars",
+      "current_sources": [
+        "Eastern Caribbean Central Bank (ECCB)"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e439",
+      "country": "Liberia",
+      "year": 2022,
+      "title": "100 Dollars",
+      "current_sources": [
+        "Eastern Caribbean Central Bank (ECCB)"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e440",
+      "country": "Liberia",
+      "year": 2024,
+      "title": "500 Dollars",
+      "current_sources": [
+        "Eastern Caribbean Central Bank (ECCB)"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e441",
+      "country": "Liberia",
+      "year": 2022,
+      "title": "1.000 Dollars",
+      "current_sources": [
+        "Central Bank of Samoa (Faamata o le Matai)"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e442",
+      "country": "Macau",
+      "year": 2022,
+      "title": "10 Patacas",
+      "current_sources": [
+        "Central Bank of Samoa (Faamata o le Matai)"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e443",
+      "country": "Namibia",
+      "year": 2022,
+      "title": "200 Namibia Dollars",
+      "current_sources": [
+        "Central Bank of Samoa (Faamata o le Matai)"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e444",
+      "country": "Namibia",
+      "year": 2022,
+      "title": "20 Namibia Dollars",
+      "current_sources": [
+        "Central Bank of Samoa (Faamata o le Matai)"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e445",
+      "country": "New Zealand",
+      "year": 2022,
+      "title": "50 Dollars",
+      "current_sources": [
+        "Central Bank of Samoa (Faamata o le Matai)"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e446",
+      "country": "North Macedonia",
+      "year": 2022,
+      "title": "100 Denari",
+      "current_sources": [
+        "Central Bank of San Marino (coordinated through ECB)"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e447",
+      "country": "North Macedonia",
+      "year": 2022,
+      "title": "1.000 Denari",
+      "current_sources": [
+        "Central Bank of San Marino (coordinated through ECB)"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e448",
+      "country": "North Macedonia",
+      "year": 2022,
+      "title": "2.000 Denari",
+      "current_sources": [
+        "Central Bank of San Marino (coordinated through ECB)"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e449",
+      "country": "Pakistan",
+      "year": 2022,
+      "title": "75 Rupees",
+      "current_sources": [
+        "Central Bank of San Marino (coordinated through ECB)"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e450",
+      "country": "Paraguay",
+      "year": 2022,
+      "title": "5.000 Guaraníes",
+      "current_sources": [
+        "Central Bank of San Marino (coordinated through ECB)"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e451",
+      "country": "Paraguay",
+      "year": 2022,
+      "title": "50.000 Guaraníes",
+      "current_sources": [
+        "Central Bank of Sao Tome & Principe (Banco Central de Sao Tome e Principe)"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e452",
+      "country": "Philippines",
+      "year": 2022,
+      "title": "50 Piso",
+      "current_sources": [
+        "Central Bank of Sao Tome & Principe (Banco Central de Sao Tome e Principe)"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e453",
+      "country": "Philippines",
+      "year": 2022,
+      "title": "1.000 Piso",
+      "current_sources": [
+        "Central Bank of Sao Tome & Principe (Banco Central de Sao Tome e Principe)"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e454",
+      "country": "Philippines",
+      "year": 2022,
+      "title": "50 Piso",
+      "current_sources": [
+        "Central Bank of Sao Tome & Principe (Banco Central de Sao Tome e Principe)"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e455",
+      "country": "Philippines",
+      "year": 2024,
+      "title": "500 Piso",
+      "current_sources": [
+        "Central Bank of Sao Tome & Principe (Banco Central de Sao Tome e Principe)"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e456",
+      "country": "Philippines",
+      "year": 2024,
+      "title": "1.000 Piso",
+      "current_sources": [
+        "Saudi Central Bank (SAMA - Saudi Arabian Monetary Authority)"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e458",
+      "country": "Qatar",
+      "year": 2022,
+      "title": "5 Riyals",
+      "current_sources": [
+        "Saudi Central Bank (SAMA - Saudi Arabian Monetary Authority)"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e459",
+      "country": "Qatar",
+      "year": 2022,
+      "title": "50 Riyals",
+      "current_sources": [
+        "Saudi Central Bank (SAMA - Saudi Arabian Monetary Authority)"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e460",
+      "country": "Qatar",
+      "year": 2022,
+      "title": "100 Riyals",
+      "current_sources": [
+        "Saudi Central Bank (SAMA - Saudi Arabian Monetary Authority)"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e461",
+      "country": "Qatar",
+      "year": 2022,
+      "title": "200 Riyals",
+      "current_sources": [
+        "Central Bank of Senegal (Banque Centrale des Etats de l'Afrique de l'Ouest)"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e462",
+      "country": "Qatar",
+      "year": 2022,
+      "title": "500 Riyals",
+      "current_sources": [
+        "Central Bank of Senegal (Banque Centrale des Etats de l'Afrique de l'Ouest)"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e463",
+      "country": "Qatar",
+      "year": 2022,
+      "title": "22 Riyals",
+      "current_sources": [
+        "Central Bank of Senegal (Banque Centrale des Etats de l'Afrique de l'Ouest)"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e464",
+      "country": "Russia",
+      "year": 2022,
+      "title": "100 Rubley",
+      "current_sources": [
+        "Central Bank of Senegal (Banque Centrale des Etats de l'Afrique de l'Ouest)"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e465",
+      "country": "Samoa",
+      "year": 2024,
+      "title": "60 Tala",
+      "current_sources": [
+        "Central Bank of Senegal (Banque Centrale des Etats de l'Afrique de l'Ouest)"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e466",
+      "country": "Sudan",
+      "year": 2022,
+      "title": "100 Sudanese Pounds",
+      "current_sources": [
+        "National Bank of Serbia (Narodna banka Srbije)"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e467",
+      "country": "Sudan",
+      "year": 2022,
+      "title": "500 Sudanese Pounds",
+      "current_sources": [
+        "National Bank of Serbia (Narodna banka Srbije)"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e468",
+      "country": "Tajikistan",
+      "year": 2022,
+      "title": "10 Somoni",
+      "current_sources": [
+        "National Bank of Serbia (Narodna banka Srbije)"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e469",
+      "country": "Thailand",
+      "year": 2022,
+      "title": "20 Baht",
+      "current_sources": [
+        "National Bank of Serbia (Narodna banka Srbije)"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e470",
+      "country": "Ukraine",
+      "year": 2022,
+      "title": "100 Hriven'",
+      "current_sources": [
+        "National Bank of Serbia (Narodna banka Srbije)"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e471",
+      "country": "Ukraine",
+      "year": 2021,
+      "title": "500 Hriven'",
+      "current_sources": [
+        "Central Bank of Seychelles (Banque Zentral Sesel)"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e472",
+      "country": "United Arab Emirates",
+      "year": 2024,
+      "title": "5 Dirhams",
+      "current_sources": [
+        "Central Bank of Seychelles (Banque Zentral Sesel)"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e473",
+      "country": "United Arab Emirates",
+      "year": 2024,
+      "title": "10 Dirhams",
+      "current_sources": [
+        "Central Bank of Seychelles (Banque Zentral Sesel)"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e474",
+      "country": "United Arab Emirates",
+      "year": 2024,
+      "title": "1.000 Dirhams",
+      "current_sources": [
+        "Central Bank of Seychelles (Banque Zentral Sesel)"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e475",
+      "country": "West African States — Togo",
+      "year": 2022,
+      "title": "10.000 Francs CFA",
+      "current_sources": [
+        "Central Bank of Seychelles (Banque Zentral Sesel)"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e476",
+      "country": "Zambia",
+      "year": 2022,
+      "title": "2 Kwacha",
+      "current_sources": [
+        "Central Bank of Sierra Leone (Bank of Sierra Leone)"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e477",
+      "country": "Zambia",
+      "year": 2022,
+      "title": "5 Kwacha",
+      "current_sources": [
+        "Central Bank of Sierra Leone (Bank of Sierra Leone)"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e478",
+      "country": "Zambia",
+      "year": 2022,
+      "title": "10 Kwacha",
+      "current_sources": [
+        "Central Bank of Sierra Leone (Bank of Sierra Leone)"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e479",
+      "country": "Zambia",
+      "year": 2022,
+      "title": "20 Kwacha",
+      "current_sources": [
+        "Central Bank of Sierra Leone (Bank of Sierra Leone)"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e480",
+      "country": "Zambia",
+      "year": 2022,
+      "title": "50 Kwacha",
+      "current_sources": [
+        "Central Bank of Sierra Leone (Bank of Sierra Leone)"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e481",
+      "country": "Zambia",
+      "year": 2022,
+      "title": "100 Kwacha",
+      "current_sources": [
+        "Monetary Authority of Singapore (MAS)"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e482",
+      "country": "Australia",
+      "year": 2021,
+      "title": "5 Dollars",
+      "current_sources": [
+        "Monetary Authority of Singapore (MAS)"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e483",
+      "country": "Bangladesh",
+      "year": 2021,
+      "title": "50 Taka",
+      "current_sources": [
+        "Monetary Authority of Singapore (MAS)"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e484",
+      "country": "Bangladesh",
+      "year": 2021,
+      "title": "50 Taka",
+      "current_sources": [
+        "Monetary Authority of Singapore (MAS)"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e485",
+      "country": "Bhutan",
+      "year": 2021,
+      "title": "50 Ngultrum",
+      "current_sources": [
+        "Monetary Authority of Singapore (MAS)"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e486",
+      "country": "Bhutan",
+      "year": 2021,
+      "title": "1.000 Ngultrum",
+      "current_sources": [
+        "National Bank of Slovakia (Narodna banka Slovenska)"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e487",
+      "country": "Cambodia",
+      "year": 2021,
+      "title": "30.000 Riels",
+      "current_sources": [
+        "National Bank of Slovakia (Narodna banka Slovenska)"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e488",
+      "country": "Chile",
+      "year": 2021,
+      "title": "2.000 Pesos",
+      "current_sources": [
+        "National Bank of Slovakia (Narodna banka Slovenska)"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e489",
+      "country": "Chile",
+      "year": 2021,
+      "title": "5.000 Pesos",
+      "current_sources": [
+        "National Bank of Slovakia (Narodna banka Slovenska)"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e490",
+      "country": "Cook Islands",
+      "year": 2021,
+      "title": "3 Dollars",
+      "current_sources": [
+        "National Bank of Slovakia (Narodna banka Slovenska)"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e491",
+      "country": "Cuba",
+      "year": 2021,
+      "title": "5 Pesos",
+      "current_sources": [
+        "Bank of Slovenia (Banka Slovenije)"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e492",
+      "country": "Denmark",
+      "year": 2021,
+      "title": "200 Kroner",
+      "current_sources": [
+        "Bank of Slovenia (Banka Slovenije)"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e493",
+      "country": "Georgia",
+      "year": 2021,
+      "title": "5 Lari",
+      "current_sources": [
+        "Bank of Slovenia (Banka Slovenije)"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e494",
+      "country": "Georgia",
+      "year": 2021,
+      "title": "20 Lari",
+      "current_sources": [
+        "Bank of Slovenia (Banka Slovenije)"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e495",
+      "country": "Guatemala",
+      "year": 2020,
+      "title": "20 Quetzales",
+      "current_sources": [
+        "Bank of Slovenia (Banka Slovenije)"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e496",
+      "country": "Guyana",
+      "year": 2021,
+      "title": "2.000 Dollars",
+      "current_sources": [
+        "Central Bank of Solomon Islands"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e497",
+      "country": "Haiti",
+      "year": 2021,
+      "title": "25 Gourdes",
+      "current_sources": [
+        "Central Bank of Solomon Islands"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e498",
+      "country": "Haiti",
+      "year": 2021,
+      "title": "10 Gourdes / Goud",
+      "current_sources": [
+        "Central Bank of Solomon Islands"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e499",
+      "country": "Haiti",
+      "year": 2021,
+      "title": "500 Gourdes / Goud",
+      "current_sources": [
+        "Central Bank of Solomon Islands"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e500",
+      "country": "Haiti",
+      "year": 2021,
+      "title": "1.000 Gourdes",
+      "current_sources": [
+        "Central Bank of Solomon Islands"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e501",
+      "country": "Indonesia",
+      "year": 2021,
+      "title": "1.000 Rupiah",
+      "current_sources": [
+        "Central Bank of Somalia"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e502",
+      "country": "Israel",
+      "year": 2021,
+      "title": "20 New Shekels",
+      "current_sources": [
+        "Central Bank of Somalia"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e503",
+      "country": "Jordan",
+      "year": 2021,
+      "title": "1 Dinar",
+      "current_sources": [
+        "Central Bank of Somalia"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e504",
+      "country": "Jordan",
+      "year": 2021,
+      "title": "10 Dinars",
+      "current_sources": [
+        "Central Bank of Somalia"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e505",
+      "country": "Jordan",
+      "year": 2021,
+      "title": "20 Dinars",
+      "current_sources": [
+        "Central Bank of Somalia"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e506",
+      "country": "Jordan",
+      "year": 2021,
+      "title": "50 Dinars",
+      "current_sources": [
+        "South African Reserve Bank"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e507",
+      "country": "Kazakhstan",
+      "year": 2021,
+      "title": "20.000 Tenge",
+      "current_sources": [
+        "South African Reserve Bank"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e508",
+      "country": "Korea (North)",
+      "year": 2021,
+      "title": "5.000 Won",
+      "current_sources": [
+        "South African Reserve Bank"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e509",
+      "country": "Lebanon",
+      "year": 2021,
+      "title": "5.000 Livres",
+      "current_sources": [
+        "South African Reserve Bank"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e510",
+      "country": "Lebanon",
+      "year": 2021,
+      "title": "10.000 Livres",
+      "current_sources": [
+        "South African Reserve Bank"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e511",
+      "country": "Lesotho",
+      "year": 2024,
+      "title": "10 Maloti",
+      "current_sources": [
+        "Central Bank of South Sudan"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e512",
+      "country": "Lesotho",
+      "year": 2024,
+      "title": "20 Maloti",
+      "current_sources": [
+        "Central Bank of South Sudan"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e513",
+      "country": "Lesotho",
+      "year": 2024,
+      "title": "50 Maloti",
+      "current_sources": [
+        "Central Bank of South Sudan"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e514",
+      "country": "Lesotho",
+      "year": 2024,
+      "title": "100 Maloti",
+      "current_sources": [
+        "Central Bank of South Sudan"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e515",
+      "country": "Lesotho",
+      "year": 2024,
+      "title": "200 Maloti",
+      "current_sources": [
+        "Central Bank of South Sudan"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e516",
+      "country": "Mauritius",
+      "year": 2021,
+      "title": "50 Rupees",
+      "current_sources": [
+        "Bank of Spain"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e517",
+      "country": "Mongolia",
+      "year": 2021,
+      "title": "10.000 Tögrög",
+      "current_sources": [
+        "Bank of Spain"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e518",
+      "country": "Mongolia",
+      "year": 2021,
+      "title": "10.000 Tögrög",
+      "current_sources": [
+        "Bank of Spain"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e520",
+      "country": "Papua New Guinea",
+      "year": 2024,
+      "title": "20 Kina",
+      "current_sources": [
+        "Bank of Spain"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e521",
+      "country": "Peru",
+      "year": 2021,
+      "title": "50 Soles",
+      "current_sources": [
+        "Central Bank of Sri Lanka"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e522",
+      "country": "Peru",
+      "year": 2021,
+      "title": "100 Soles",
+      "current_sources": [
+        "Central Bank of Sri Lanka"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e523",
+      "country": "Philippines",
+      "year": 2021,
+      "title": "1.000 Piso",
+      "current_sources": [
+        "Central Bank of Sri Lanka"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e524",
+      "country": "Philippines",
+      "year": 2021,
+      "title": "100 Piso",
+      "current_sources": [
+        "Central Bank of Sri Lanka"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e525",
+      "country": "Philippines",
+      "year": 2021,
+      "title": "500 Piso",
+      "current_sources": [
+        "Central Bank of Sri Lanka"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e526",
+      "country": "Philippines",
+      "year": 2021,
+      "title": "5.000 Piso",
+      "current_sources": [
+        "Central Bank of Sudan"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e527",
+      "country": "Romania",
+      "year": 2021,
+      "title": "20 Lei",
+      "current_sources": [
+        "Central Bank of Sudan"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e528",
+      "country": "Saudi Arabia",
+      "year": 2021,
+      "title": "100 Riyals",
+      "current_sources": [
+        "Central Bank of Sudan"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e530",
+      "country": "Sudan",
+      "year": 2021,
+      "title": "200 Sudanese Pounds",
+      "current_sources": [
+        "Central Bank of Sudan"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e531",
+      "country": "Switzerland",
+      "year": 2021,
+      "title": "20 Franken / Francs / Franchi",
+      "current_sources": [
+        "Central Bank of Suriname"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e532",
+      "country": "Switzerland",
+      "year": 2021,
+      "title": "50 Franken / Francs / Franchi",
+      "current_sources": [
+        "Central Bank of Suriname"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e533",
+      "country": "Syria",
+      "year": 2021,
+      "title": "50 Syrian Pounds",
+      "current_sources": [
+        "Central Bank of Suriname"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e534",
+      "country": "Syria",
+      "year": 2021,
+      "title": "100 Syrian Pounds",
+      "current_sources": [
+        "Central Bank of Suriname"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e535",
+      "country": "Syria",
+      "year": 2021,
+      "title": "200 Syrian Pounds",
+      "current_sources": [
+        "Central Bank of Suriname"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e536",
+      "country": "Syria",
+      "year": 2021,
+      "title": "2.000 Syrian Pounds",
+      "current_sources": [
+        "Riksbank"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e538",
+      "country": "Tonga",
+      "year": 2021,
+      "title": "50 Pa'anga",
+      "current_sources": [
+        "Riksbank"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e539",
+      "country": "Ukraine",
+      "year": 2021,
+      "title": "200 Hriven'",
+      "current_sources": [
+        "Riksbank"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e540",
+      "country": "Ukraine",
+      "year": 2021,
+      "title": "20 Hriven'",
+      "current_sources": [
+        "Riksbank"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e541",
+      "country": "Ukraine",
+      "year": 2021,
+      "title": "50 Hriven'",
+      "current_sources": [
+        "Swiss National Bank"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e542",
+      "country": "Ukraine",
+      "year": 2021,
+      "title": "100 Hriven'",
+      "current_sources": [
+        "Swiss National Bank"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e543",
+      "country": "Ukraine",
+      "year": 2021,
+      "title": "200 Hriven'",
+      "current_sources": [
+        "Swiss National Bank"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e544",
+      "country": "Ukraine",
+      "year": 2021,
+      "title": "500 Hriven'",
+      "current_sources": [
+        "Swiss National Bank"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e545",
+      "country": "Ukraine",
+      "year": 2021,
+      "title": "1.000 Hriven'",
+      "current_sources": [
+        "Swiss National Bank"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e546",
+      "country": "Ukraine",
+      "year": 2021,
+      "title": "50 Hriven'",
+      "current_sources": [
+        "Central Bank of Syria"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e548",
+      "country": "United States Of America",
+      "year": 2021,
+      "title": "1 Dollar",
+      "current_sources": [
+        "Central Bank of Syria"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e549",
+      "country": "United States Of America",
+      "year": 2021,
+      "title": "5 Dollars",
+      "current_sources": [
+        "Central Bank of Syria"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e550",
+      "country": "United States Of America",
+      "year": 2021,
+      "title": "10 Dollars",
+      "current_sources": [
+        "Central Bank of Syria"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e551",
+      "country": "United States Of America",
+      "year": 2021,
+      "title": "50 Dollars",
+      "current_sources": [
+        "Central Bank of the Republic of China"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e552",
+      "country": "United States Of America",
+      "year": 2021,
+      "title": "100 Dollars",
+      "current_sources": [
+        "Central Bank of the Republic of China"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e553",
+      "country": "Uruguay",
+      "year": 2021,
+      "title": "1.000 Pesos Uruguayos",
+      "current_sources": [
+        "Central Bank of the Republic of China"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e554",
+      "country": "Uruguay",
+      "year": 2021,
+      "title": "2.000 Pesos Uruguayos",
+      "current_sources": [
+        "Central Bank of the Republic of China"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e555",
+      "country": "Uruguay",
+      "year": 2021,
+      "title": "20 Pesos Uruguayos",
+      "current_sources": [
+        "Central Bank of the Republic of China"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e556",
+      "country": "Uruguay",
+      "year": 2021,
+      "title": "50 Pesos Uruguayos",
+      "current_sources": [
+        "National Bank of Tajikistan"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e557",
+      "country": "Venezuela",
+      "year": 2021,
+      "title": "1.000.000 Bolívares",
+      "current_sources": [
+        "National Bank of Tajikistan"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e558",
+      "country": "Venezuela",
+      "year": 2021,
+      "title": "5 Bolívares",
+      "current_sources": [
+        "National Bank of Tajikistan"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    },
+    {
+      "id": "e559",
+      "country": "Venezuela",
+      "year": 2021,
+      "title": "10 Bolívares",
+      "current_sources": [
+        "National Bank of Tajikistan"
+      ],
+      "confidence": "fallback",
+      "status": "pending",
+      "found_urls": []
+    }
+  ]
+}
