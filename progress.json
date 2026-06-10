@@ -107,36 +107,36 @@
   {
     "id": "e16",
     "status": "done",
-    "ts": "2026-06-09T00:00:00+00:00",
-    "confidence": "",
+    "ts": "2026-06-10T05:29:45.584118+00:00",
+    "confidence": "official",
     "error": null
   },
   {
     "id": "e17",
     "status": "done",
-    "ts": "2026-06-09T00:00:00+00:00",
-    "confidence": "",
+    "ts": "2026-06-10T05:29:45.584118+00:00",
+    "confidence": "official",
     "error": null
   },
   {
     "id": "e18",
     "status": "done",
-    "ts": "2026-06-09T00:00:00+00:00",
-    "confidence": "",
+    "ts": "2026-06-10T05:29:45.584118+00:00",
+    "confidence": "secondary",
     "error": null
   },
   {
     "id": "e19",
     "status": "done",
-    "ts": "2026-06-09T00:00:00+00:00",
-    "confidence": "",
+    "ts": "2026-06-10T05:29:45.584118+00:00",
+    "confidence": "secondary",
     "error": null
   },
   {
     "id": "e20",
     "status": "done",
-    "ts": "2026-06-09T00:00:00+00:00",
-    "confidence": "",
+    "ts": "2026-06-10T05:29:45.584118+00:00",
+    "confidence": "secondary",
     "error": null
   },
   {
@@ -177,36 +177,36 @@
   {
     "id": "e26",
     "status": "done",
-    "ts": "2026-06-09T00:00:00+00:00",
-    "confidence": "",
+    "ts": "2026-06-10T05:29:45.584118+00:00",
+    "confidence": "official",
     "error": null
   },
   {
     "id": "e27",
     "status": "done",
-    "ts": "2026-06-09T00:00:00+00:00",
-    "confidence": "",
+    "ts": "2026-06-10T05:29:45.584118+00:00",
+    "confidence": "official",
     "error": null
   },
   {
     "id": "e28",
     "status": "done",
-    "ts": "2026-06-09T00:00:00+00:00",
-    "confidence": "",
+    "ts": "2026-06-10T05:29:45.584118+00:00",
+    "confidence": "official",
     "error": null
   },
   {
     "id": "e29",
     "status": "done",
-    "ts": "2026-06-09T00:00:00+00:00",
-    "confidence": "",
+    "ts": "2026-06-10T05:29:45.584118+00:00",
+    "confidence": "secondary",
     "error": null
   },
   {
     "id": "e30",
     "status": "done",
-    "ts": "2026-06-09T00:00:00+00:00",
-    "confidence": "",
+    "ts": "2026-06-10T05:29:45.584118+00:00",
+    "confidence": "secondary",
     "error": null
   },
   {
@@ -247,50 +247,50 @@
   {
     "id": "e36",
     "status": "done",
-    "ts": "2026-06-09T00:00:00+00:00",
-    "confidence": "",
+    "ts": "2026-06-10T05:29:45.584118+00:00",
+    "confidence": "secondary",
     "error": null
   },
   {
     "id": "e37",
     "status": "done",
-    "ts": "2026-06-09T00:00:00+00:00",
-    "confidence": "",
+    "ts": "2026-06-10T05:29:45.584118+00:00",
+    "confidence": "secondary",
     "error": null
   },
   {
     "id": "e38",
     "status": "done",
-    "ts": "2026-06-09T00:00:00+00:00",
-    "confidence": "",
+    "ts": "2026-06-10T05:29:45.584118+00:00",
+    "confidence": "secondary",
     "error": null
   },
   {
     "id": "e39",
     "status": "done",
-    "ts": "2026-06-09T00:00:00+00:00",
-    "confidence": "",
+    "ts": "2026-06-10T05:29:45.584118+00:00",
+    "confidence": "secondary",
     "error": null
   },
   {
     "id": "e40",
     "status": "done",
-    "ts": "2026-06-09T00:00:00+00:00",
-    "confidence": "",
+    "ts": "2026-06-10T05:29:45.584118+00:00",
+    "confidence": "secondary",
     "error": null
   },
   {
     "id": "e41",
     "status": "done",
-    "ts": "2026-06-09T00:00:00+00:00",
-    "confidence": "",
+    "ts": "2026-06-10T05:29:45.584118+00:00",
+    "confidence": "secondary",
     "error": null
   },
   {
     "id": "e42",
     "status": "done",
-    "ts": "2026-06-09T00:00:00+00:00",
-    "confidence": "",
+    "ts": "2026-06-10T05:29:45.584118+00:00",
+    "confidence": "official",
     "error": null
   },
   {
@@ -303,22 +303,22 @@
   {
     "id": "e44",
     "status": "done",
-    "ts": "2026-06-09T00:00:00+00:00",
-    "confidence": "",
+    "ts": "2026-06-10T05:29:45.584118+00:00",
+    "confidence": "official",
     "error": null
   },
   {
     "id": "e45",
     "status": "done",
-    "ts": "2026-06-09T00:00:00+00:00",
-    "confidence": "",
+    "ts": "2026-06-10T05:29:45.584118+00:00",
+    "confidence": "secondary",
     "error": null
   },
   {
     "id": "e46",
     "status": "done",
-    "ts": "2026-06-09T00:00:00+00:00",
-    "confidence": "",
+    "ts": "2026-06-10T05:29:45.584118+00:00",
+    "confidence": "official",
     "error": null
   },
   {
@@ -989,8 +989,8 @@
   {
     "id": "e142",
     "status": "done",
-    "ts": "2026-06-09T00:00:00+00:00",
-    "confidence": "high",
+    "ts": "2026-06-10T05:29:45.584118+00:00",
+    "confidence": "secondary",
     "error": null
   },
   {
@@ -1003,22 +1003,22 @@
   {
     "id": "e144",
     "status": "done",
-    "ts": "2026-06-09T00:00:00+00:00",
-    "confidence": "fallback",
+    "ts": "2026-06-10T05:29:45.584118+00:00",
+    "confidence": "secondary",
     "error": null
   },
   {
     "id": "e145",
     "status": "done",
-    "ts": "2026-06-09T00:00:00+00:00",
-    "confidence": "fallback",
+    "ts": "2026-06-10T05:29:45.584118+00:00",
+    "confidence": "secondary",
     "error": null
   },
   {
     "id": "e146",
     "status": "done",
-    "ts": "2026-06-09T00:00:00+00:00",
-    "confidence": "fallback",
+    "ts": "2026-06-10T05:29:45.584118+00:00",
+    "confidence": "secondary",
     "error": null
   },
   {
@@ -1724,8 +1724,8 @@
   {
     "id": "e247",
     "status": "done",
-    "ts": "2026-06-09T00:00:00+00:00",
-    "confidence": "",
+    "ts": "2026-06-10T05:29:45.584118+00:00",
+    "confidence": "secondary",
     "error": null
   },
   {
@@ -1738,8 +1738,8 @@
   {
     "id": "e249",
     "status": "done",
-    "ts": "2026-06-09T00:00:00+00:00",
-    "confidence": "",
+    "ts": "2026-06-10T05:29:45.584118+00:00",
+    "confidence": "secondary",
     "error": null
   },
   {
@@ -2431,8 +2431,8 @@
   {
     "id": "e348",
     "status": "done",
-    "ts": "2026-06-09T00:00:00+00:00",
-    "confidence": "",
+    "ts": "2026-06-10T05:29:45.584118+00:00",
+    "confidence": "secondary",
     "error": null
   },
   {
@@ -2445,8 +2445,8 @@
   {
     "id": "e350",
     "status": "done",
-    "ts": "2026-06-09T00:00:00+00:00",
-    "confidence": "",
+    "ts": "2026-06-10T05:29:45.584118+00:00",
+    "confidence": "secondary",
     "error": null
   },
   {
@@ -2935,29 +2935,29 @@
   {
     "id": "e420",
     "status": "done",
-    "ts": "2026-06-09T00:00:00+00:00",
-    "confidence": "fallback",
+    "ts": "2026-06-10T05:29:45.584118+00:00",
+    "confidence": "secondary",
     "error": null
   },
   {
     "id": "e421",
     "status": "done",
-    "ts": "2026-06-09T00:00:00+00:00",
-    "confidence": "fallback",
+    "ts": "2026-06-10T05:29:45.584118+00:00",
+    "confidence": "secondary",
     "error": null
   },
   {
     "id": "e422",
     "status": "done",
-    "ts": "2026-06-09T00:00:00+00:00",
-    "confidence": "fallback",
+    "ts": "2026-06-10T05:29:45.584118+00:00",
+    "confidence": "secondary",
     "error": null
   },
   {
     "id": "e423",
     "status": "done",
-    "ts": "2026-06-09T00:00:00+00:00",
-    "confidence": "fallback",
+    "ts": "2026-06-10T05:29:45.584118+00:00",
+    "confidence": "secondary",
     "error": null
   },
   {
@@ -2977,8 +2977,8 @@
   {
     "id": "e426",
     "status": "done",
-    "ts": "2026-06-09T00:00:00+00:00",
-    "confidence": "fallback",
+    "ts": "2026-06-10T05:29:45.584118+00:00",
+    "confidence": "secondary",
     "error": null
   },
   {
@@ -3012,8 +3012,8 @@
   {
     "id": "e431",
     "status": "done",
-    "ts": "2026-06-09T00:00:00+00:00",
-    "confidence": "fallback",
+    "ts": "2026-06-10T05:29:45.584118+00:00",
+    "confidence": "official",
     "error": null
   },
   {
@@ -3194,8 +3194,8 @@
   {
     "id": "e457",
     "status": "done",
-    "ts": "2026-06-09T00:00:00+00:00",
-    "confidence": "fallback",
+    "ts": "2026-06-10T05:29:45.584118+00:00",
+    "confidence": "secondary",
     "error": null
   },
   {
@@ -3628,8 +3628,8 @@
   {
     "id": "e519",
     "status": "done",
-    "ts": "2026-06-09T00:00:00+00:00",
-    "confidence": "fallback",
+    "ts": "2026-06-10T05:29:45.584118+00:00",
+    "confidence": "official",
     "error": null
   },
   {
@@ -3698,8 +3698,8 @@
   {
     "id": "e529",
     "status": "done",
-    "ts": "2026-06-09T00:00:00+00:00",
-    "confidence": "fallback",
+    "ts": "2026-06-10T05:29:45.584118+00:00",
+    "confidence": "official",
     "error": null
   },
   {
@@ -3754,8 +3754,8 @@
   {
     "id": "e537",
     "status": "done",
-    "ts": "2026-06-09T00:00:00+00:00",
-    "confidence": "fallback",
+    "ts": "2026-06-10T05:29:45.584118+00:00",
+    "confidence": "secondary",
     "error": null
   },
   {
@@ -3999,8 +3999,8 @@
   {
     "id": "e572",
     "status": "done",
-    "ts": "2026-06-09T00:00:00+00:00",
-    "confidence": "fallback",
+    "ts": "2026-06-10T05:29:45.584118+00:00",
+    "confidence": "secondary",
     "error": null
   },
   {

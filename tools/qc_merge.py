@@ -33,6 +33,9 @@ ALIASES = {
 }
 EXTRA_FOREIGN = ['Tanzania', 'WAEMU', 'Transnistria', 'Jamaica', 'Rwanda', 'Syria',
                  'Timor', 'Riksbank', 'Saudi', 'Sudan']
+# benign phrases that contain a country name but are valid context, not row-shift
+ALLOWED_PHRASES = ['Note Printing Australia', 'Gran Colombia', 'Russian Empire',
+                   'Russian military', 'De La Rue', 'Crane Currency']
 
 
 def main(paths):
@@ -48,6 +51,8 @@ def main(paths):
                 errors.append(f'{rid}: unknown id'); continue
             own = ALIASES.get(em[rid]['country'], em[rid]['country'])
             text = r['body'] + ' ' + ' '.join(r['highlights'].values())
+            for ph in ALLOWED_PHRASES:
+                text = text.replace(ph, '')
             foreign = [c for c in countries + EXTRA_FOREIGN
                        if c != own and c not in own and own not in c
                        and re.search(r'\b' + re.escape(c), text)]
