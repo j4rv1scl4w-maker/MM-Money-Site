@@ -1374,182 +1374,242 @@
   {
     "id": "e62",
     "year": 2024,
-    "date": "2022 & 2024",
+    "date": "December 2022",
     "country": "Barbados",
     "issuer": "Central Bank of Barbados",
     "title": "5 Dollars",
-    "description": "Sir Frank Mortimer Maglinne Worrell.",
+    "description": "Sir Frank Mortimer Maglinne Worrell, legendary West Indies cricketer and member of the famous 'Three Ws,' appears on this green polymer note. The reverse features the 3Ws Oval cricket field at the University of the West Indies, Cave Hill Campus.",
     "hue": 124,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/BBDW0081o.jpg",
     "slug": "barbados-5-dollars-e62",
-    "body": "The 5 Dollars note issued by Central Bank of Barbados represents a 2024 emission in Barbados's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2024 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
-    "highlights": {},
+    "body": "The Central Bank of Barbados issued the $5 note in December 2022 as part of its historic transition to polymer banknotes. The note celebrates Sir Frank Worrell (1924–1967), a cricket icon who pioneered West Indian cricket excellence alongside Sir Everton Weekes and Sir Clyde Walcott. The reverse showcases the 3Ws Oval, the cricket facility named after these three national heroes. The polymer note features advanced security technology including the De La Rue SPOTLIGHT™ holographic feature—images sharpen under mobile phone torch light and blur under diffuse lighting. This series was recognized as Best New Series at Reconnaissance International's Regional Banknote and ID Document Awards in 2023.",
+    "highlights": {
+      "reason": "Transition to polymer banknotes; honors cricket legend Sir Frank Worrell; features De La Rue SPOTLIGHT™ technology for first time on circulating banknotes worldwide.",
+      "design": "Obverse: Portrait of Sir Frank Worrell in cricket uniform, Barbados national emblem, trident symbol. Reverse: 3Ws Oval cricket field at University of the West Indies, Cave Hill Campus.",
+      "security": "De La Rue SPOTLIGHT™ holographic stripe with counter-rotating images, transparent window with embedded hologram, hologram color-shifting when tilted, inverted triangle tactile emboss for visually impaired, broken trident reveals denomination under light, UV-reactive elements, national anthem lines highlighted under ultraviolet light"
+    },
     "sources": [
-      "Central Bank of Barbados"
+      "https://www.centralbank.org.bb/banknotes/2022-series",
+      "https://www.delarue.com/media-center/new-central-bank-of-barbados-polymer-banknote-series",
+      "https://banknotenews.com/?p=38000"
     ],
-    "confidence": "fallback"
+    "confidence": "official"
   },
   {
     "id": "e63",
     "year": 2024,
-    "date": "2022 & 2024",
+    "date": "December 2022",
     "country": "Barbados",
     "issuer": "Central Bank of Barbados",
     "title": "10 Dollars",
-    "description": "Charles Duncan O'Neal.",
+    "description": "Right Excellent Charles Duncan O'Neal, a medical doctor and social activist who fought for equality and workers' rights in the 1920s-1930s, appears on this brown polymer note. The reverse features the Charles Duncan O'Neal Bridge spanning the Careenage in Bridgetown.",
     "hue": 10,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/BBDW0082o.jpg",
     "slug": "barbados-10-dollars-e63",
-    "body": "The 10 Dollars note issued by Central Bank of Barbados represents a 2024 emission in Barbados's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2024 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
-    "highlights": {},
+    "body": "The Central Bank of Barbados issued the $10 note in December 2022 as part of its historic polymer banknote series. The note honors Charles Duncan O'Neal (1879–1936), one of Barbados's 10 National Heroes, who agitated against racism and for the rights of the underprivileged. He founded the Democratic League in 1924 and is remembered as a champion of social justice. The reverse features the iconic Charles Duncan O'Neal Bridge, an architectural landmark spanning the Careenage in Bridgetown. The note includes enhanced security features and a unique tactile X-shaped emboss for visually impaired users. All six denomination notes in this series create a map of Barbados when arranged sequentially.",
+    "highlights": {
+      "reason": "Honors National Hero Charles Duncan O'Neal, medical doctor and labour activist; part of transition to polymer banknotes.",
+      "design": "Obverse: Portrait of Charles Duncan O'Neal, Barbados national emblem, trident symbol. Reverse: Aerial view of Charles Duncan O'Neal Bridge over the Careenage in Bridgetown.",
+      "security": "De La Rue ARGENTUM™ highly reflective silver ink, GEMINI™ enhanced security features, transparent window, X-shaped tactile emboss for visually impaired, broken trident reveals denomination under light, UV-reactive elements, national anthem lines highlighted under ultraviolet light"
+    },
     "sources": [
-      "Central Bank of Barbados"
+      "https://www.centralbank.org.bb/banknotes/2022-series",
+      "https://www.centralbank.org.bb/news/general-press-release/four-security-features-to-look-for-in-barbados-polymer-banknotes",
+      "https://banknotenews.com/?p=38000"
     ],
-    "confidence": "fallback"
+    "confidence": "official"
   },
   {
     "id": "e64",
     "year": 2024,
-    "date": "2022 & 2024",
+    "date": "December 2022",
     "country": "Barbados",
     "issuer": "Central Bank of Barbados",
     "title": "20 Dollars",
-    "description": "Samuel Jackman Prescod.",
+    "description": "Right Excellent Samuel Jackman Prescod, an activist and journalist who founded the Liberal Party and fought for equality for the free-colored and black populations, appears on this purple polymer note. The reverse features the Parliament Buildings, the seat of Barbados's government.",
     "hue": 249,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/BBDW0083o.jpg",
     "slug": "barbados-20-dollars-e64",
-    "body": "The 20 Dollars note issued by Central Bank of Barbados represents a 2024 emission in Barbados's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2024 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
-    "highlights": {},
+    "body": "The Central Bank of Barbados issued the $20 note in December 2022, honoring Samuel Jackman Prescod (1806–1871), one of Barbados's 10 National Heroes. Prescod was a pioneering political activist and journalist who used his editorship to agitate for social justice and equality. He became the first non-white member of the House of Assembly in 1843. The reverse showcases the historic Parliament Buildings. The $20 note features De La Rue's revolutionary SPOTLIGHT™ holographic stripe—a first for circulating banknotes worldwide. This interactive security feature sharpen under mobile phone torch light, providing enhanced anti-counterfeiting protection. The note includes a circle-shaped tactile emboss for accessibility.",
+    "highlights": {
+      "reason": "Honors National Hero Samuel Jackman Prescod, pioneering journalist and politician; features De La Rue SPOTLIGHT™ holographic technology.",
+      "design": "Obverse: Portrait of Samuel Jackman Prescod, Barbados national emblem, trident symbol. Reverse: Parliament Buildings, faded rendition reproduced as hologram at bottom.",
+      "security": "De La Rue SPOTLIGHT™ holographic stripe with counter-rotating images, images sharpen under mobile phone torch light, hologram color-shifting when tilted, circle-shaped tactile emboss for visually impaired, broken trident reveals denomination under light, hologram featuring Parliament Buildings, UV-reactive elements"
+    },
     "sources": [
-      "Central Bank of Barbados"
+      "https://www.centralbank.org.bb/banknotes/2022-series",
+      "https://www.delarue.com/media-center/new-central-bank-of-barbados-polymer-banknote-series",
+      "https://banknotenews.com/?p=38000"
     ],
-    "confidence": "fallback"
+    "confidence": "official"
   },
   {
     "id": "e65",
     "year": 2024,
-    "date": "2022 & 2024",
+    "date": "December 2022",
     "country": "Barbados",
     "issuer": "Central Bank of Barbados",
     "title": "50 Dollars",
-    "description": "Errol Barrow.",
+    "description": "Right Excellent Errol Barrow, Barbados's first Prime Minister who led the nation to independence from Great Britain in 1966, appears on this orange polymer note. The reverse features Independence Square in Bridgetown with a statue honoring his legacy.",
     "hue": 24,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/BBDW0084o.jpg",
     "slug": "barbados-50-dollars-e65",
-    "body": "The 50 Dollars note issued by Central Bank of Barbados represents a 2024 emission in Barbados's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2024 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
-    "highlights": {},
+    "body": "The Central Bank of Barbados issued the $50 note in December 2022, celebrating Errol Barrow (1920–1987), one of Barbados's most beloved national figures. Barrow led the Democratic Labour Party to victory in 1961 and became the nation's first Prime Minister upon independence in 1966, serving until 1976. He is credited as the architect of modern Barbados. The reverse showcases Independence Square in Bridgetown with Barrow's statue, symbolizing his enduring legacy. The note features the innovative De La Rue SPOTLIGHT™ holographic stripe, providing advanced security through interactive visual effects. The L-shaped tactile emboss aids visually impaired users. When all six denominations are arranged sequentially, they collectively form a map of Barbados.",
+    "highlights": {
+      "reason": "Honors First Prime Minister Errol Barrow; celebrates independence and nation-building; features De La Rue SPOTLIGHT™ technology.",
+      "design": "Obverse: Portrait of Errol Barrow, Barbados national emblem, trident symbol. Reverse: Independence Square in Bridgetown with Errol Barrow statue, faded rendition reproduced as hologram.",
+      "security": "De La Rue SPOTLIGHT™ holographic stripe with counter-rotating images, images sharpen under mobile phone torch light, hologram color-shifting when tilted, L-shaped tactile emboss for visually impaired, broken trident reveals denomination under light, hologram featuring Independence Square, UV-reactive elements, national anthem lines visible under ultraviolet light"
+    },
     "sources": [
-      "Central Bank of Barbados"
+      "https://www.centralbank.org.bb/banknotes/2022-series",
+      "https://www.delarue.com/media-center/new-central-bank-of-barbados-polymer-banknote-series",
+      "https://banknotenews.com/?p=38000"
     ],
-    "confidence": "fallback"
+    "confidence": "official"
   },
   {
     "id": "e66",
     "year": 2024,
-    "date": "2022 & 2024",
+    "date": "December 2022",
     "country": "Barbados",
     "issuer": "Central Bank of Barbados",
     "title": "100 Dollars",
-    "description": "Sir Grantley Adams.",
+    "description": "Sir Grantley Herbert Adams, Barbados's first Premier and a central figure in the nation's social revolution, appears on this gray polymer note. The reverse features Grantley Adams International Airport in Christ Church, named in his honor.",
     "hue": 210,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/BBDW0085o.jpg",
     "slug": "barbados-100-dollars-e66",
-    "body": "The 100 Dollars note issued by Central Bank of Barbados represents a 2024 emission in Barbados's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2024 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
-    "highlights": {},
+    "body": "The Central Bank of Barbados issued the $100 note in December 2022, honoring Sir Grantley Adams (1898–1971), Barbados's first Premier and one of the nation's 10 National Heroes. Adams was instrumental in the social revolution that transformed Barbados and guided the nation's path toward independence and prosperity. The reverse features Grantley Adams International Airport in Christ Church, the nation's primary gateway and a lasting monument to his leadership. The note includes the De La Rue SPOTLIGHT™ holographic stripe with sophisticated security elements. The hologram displays dolphins, broken tridents, Pride of Barbados flowers, and the numeral '100.' A square-shaped tactile emboss provides accessibility for visually impaired users. Watermarks featuring Adams's image add further security.",
+    "highlights": {
+      "reason": "Honors First Premier Sir Grantley Adams, founding statesman; highest denomination in polymer series; features advanced De La Rue SPOTLIGHT™ holographic technology.",
+      "design": "Obverse: Portrait of Sir Grantley Adams, watermark featuring his image, secondary watermark with denomination, Barbados national emblem, trident symbol. Reverse: Grantley Adams International Airport in Christ Church, faded airport rendition reproduced as hologram.",
+      "security": "De La Rue SPOTLIGHT™ holographic stripe with counter-rotating images, hologram with dolphins, broken tridents, Pride of Barbados flowers, numeral '100', images sharpen under mobile phone torch light, primary and secondary watermarks, square-shaped tactile emboss for visually impaired, broken trident reveals denomination under light, UV-reactive elements"
+    },
     "sources": [
-      "Central Bank of Barbados"
+      "https://www.centralbank.org.bb/banknotes/2022-series",
+      "https://www.delarue.com/media-center/new-central-bank-of-barbados-polymer-banknote-series",
+      "https://banknotenews.com/?p=38000"
     ],
-    "confidence": "fallback"
+    "confidence": "official"
   },
   {
     "id": "e67",
     "year": 2024,
-    "date": "2012-2024",
+    "date": "June 1998",
     "country": "Bosnia & Herzegovina",
     "issuer": "Centralna Banka Bosne i Hercegovine",
     "title": "10 Konvertibilnih Maraka",
-    "description": "Remark.",
+    "description": "Mehmedalija 'Mak' Dizdar (1917–1971), an influential Bosnian poet, appears on this Federation variant note in Latin script. The reverse features a fragment of the Stećak Radimlja, a medieval tombstone representing Bosnia's rich cultural heritage.",
     "hue": 25,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/BIH0080o.jpg",
     "slug": "bosnia-herzegovina-10-konvertibilnih-maraka-e67",
-    "body": "The 10 Konvertibilnih Maraka note issued by Centralna Banka Bosne i Hercegovine in 2024 is part of the ongoing currency circulation series. This denomination facilitates transactions in Bosnia & Herzegovina's domestic economy and represents the central bank's commitment to maintaining a modern, secure currency system. The note incorporates contemporary security features including enhanced microprinting, color-shifting inks, and updated security threads to protect against counterfeiting. As a 2024 variant, this emission reflects administrative updates to printing specifications or official signatures while maintaining design consistency with previous issues in the series. The note supports both retail commerce and banking operations throughout the currency's circulation area.",
-    "highlights": {},
+    "body": "The Central Bank of Bosnia and Herzegovina issued the 10 KM note on June 22, 1998, as the currency was established following the Dayton Agreement. The Federation variant (Latin script) features Mehmedalija 'Mak' Dizdar, one of Bosnia's most celebrated 20th-century poets. The note represents the dual-entity design system of BiH banknotes, with parallel Latin-script and Cyrillic-script variants that serve both the Federation of Bosnia and Herzegovina and Republika Srpska. The reverse displays a fragment of Stećak Radimlja, medieval tombstones that symbolize Bosnia's historical and cultural significance. The note includes advanced micro-optical security elements and iridescent features. Current notes from 2012 onward remain in full circulation; pre-2012 issues ceased to be legal tender on January 1, 2025.",
+    "highlights": {
+      "reason": "Celebrates Bosnian poet Mehmedalija Dizdar; represents Federation entity in dual-script banknote system; features medieval Stećak cultural heritage.",
+      "design": "Obverse: Portrait of Mehmedalija 'Mak' Dizdar, Latin text, Centralna Banka Bosne i Hercegovine branding. Reverse: Fragment of Stećak Radimlja medieval tombstone, denomination, 10 mm iridescent stripe with KM and denomination text.",
+      "security": "Micro-optical Motion™ security thread (4 mm wide) with moving quills that shift direction based on viewing angle, 10 mm vertical iridescent holographic stripe with color-shifting KM and 10, watermark with electrotype, intaglio printing on portrait and text, optically variable ink elements"
+    },
     "sources": [
-      "Centralna Banka Bosne i Hercegovine"
+      "https://www.cbbh.ba/content/read/1077",
+      "https://en.numista.com/catalogue/bosnia_herzegovina_section-banknotes-1.html",
+      "https://www.leftovercurrency.com/exchange/bosnia-and-herzegovina-convertible-marks/"
     ],
-    "confidence": "fallback"
+    "confidence": "official"
   },
   {
     "id": "e68",
     "year": 2024,
-    "date": "2012-2024",
+    "date": "June 1998",
     "country": "Bosnia & Herzegovina",
     "issuer": "Centralna Banka Bosne i Hercegovine",
     "title": "10 Konvertibilnih Maraka",
-    "description": "Remark.",
+    "description": "Aleksa Šantić (1868–1924), a celebrated Serbian and Yugoslav poet, appears on this Republika Srpska variant note in Cyrillic script. The reverse features a loaf of bread, representing Šantić's literary legacy and cultural significance.",
     "hue": 27,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/BIH0081o.jpg",
     "slug": "bosnia-herzegovina-10-konvertibilnih-maraka-e68",
-    "body": "The 10 Konvertibilnih Maraka note issued by Centralna Banka Bosne i Hercegovine in 2024 is part of the ongoing currency circulation series. This denomination facilitates transactions in Bosnia & Herzegovina's domestic economy and represents the central bank's commitment to maintaining a modern, secure currency system. The note incorporates contemporary security features including enhanced microprinting, color-shifting inks, and updated security threads to protect against counterfeiting. As a 2024 variant, this emission reflects administrative updates to printing specifications or official signatures while maintaining design consistency with previous issues in the series. The note supports both retail commerce and banking operations throughout the currency's circulation area.",
-    "highlights": {},
+    "body": "The Central Bank of Bosnia and Herzegovina issued the 10 KM Cyrillic-script note on June 22, 1998, representing Republika Srpska within the dual-entity banknote system. The note features Aleksa Šantić (1868–1924), a prominent Serbian and Yugoslav poet whose works are foundational to South Slavic literature. Unlike the Federation variant with its Stećak imagery, the Republika Srpska reverse displays a loaf of bread, symbolizing cultural and poetic themes in Šantić's work. Both variants—Latin-script (Federation) and Cyrillic-script (Republika Srpska)—are fully interchangeable legal tender throughout Bosnia and Herzegovina, reflecting the country's constitutional structure and post-war reconciliation through currency design. Current 2012+ issues remain in circulation; pre-2012 notes ceased legal tender on January 1, 2025.",
+    "highlights": {
+      "reason": "Honors Serbian poet Aleksa Šantić; represents Republika Srpska entity in dual-script system; reflects constitutional balance in currency design.",
+      "design": "Obverse: Portrait of Aleksa Šantić, Cyrillic text, Centralna Banka Bosne i Hercegovine branding. Reverse: Loaf of bread representing Šantić's literary heritage, denomination, 10 mm iridescent stripe with KM and 10.",
+      "security": "Micro-optical Motion™ security thread (4 mm wide) with moving quills shifting with viewing angle, 10 mm vertical iridescent holographic stripe with color-shifting KM and denomination, watermark with electrotype, intaglio printing on portrait and text, optically variable ink elements"
+    },
     "sources": [
-      "Centralna Banka Bosne i Hercegovine"
+      "https://www.cbbh.ba/content/read/1077",
+      "https://en.numista.com/catalogue/bosnia_herzegovina_section-banknotes-1.html",
+      "https://sarajevotimes.com/23-years-ago-the-first-banknotes-printed-in-bih/"
     ],
-    "confidence": "fallback"
+    "confidence": "official"
   },
   {
     "id": "e69",
     "year": 2024,
-    "date": "2012-2024",
+    "date": "July 1998",
     "country": "Bosnia & Herzegovina",
     "issuer": "Centralna Banka Bosne i Hercegovine",
     "title": "20 Konvertibilnih Maraka",
-    "description": "Remark.",
+    "description": "Antun Branko Šimić (1898–1925), a Croatian expressionist poet, appears on this Federation variant note in Latin script. The reverse features a fragment of Stećak Radimlja, a medieval tombstone symbolizing Bosnia's cultural heritage.",
     "hue": 38,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/BIH0082o.jpg",
     "slug": "bosnia-herzegovina-20-konvertibilnih-maraka-e69",
-    "body": "The 20 Konvertibilnih Maraka note issued by Centralna Banka Bosne i Hercegovine in 2024 is part of the ongoing currency circulation series. This denomination facilitates transactions in Bosnia & Herzegovina's domestic economy and represents the central bank's commitment to maintaining a modern, secure currency system. The note incorporates contemporary security features including enhanced microprinting, color-shifting inks, and updated security threads to protect against counterfeiting. As a 2024 variant, this emission reflects administrative updates to printing specifications or official signatures while maintaining design consistency with previous issues in the series. The note supports both retail commerce and banking operations throughout the currency's circulation area.",
-    "highlights": {},
+    "body": "The Central Bank of Bosnia and Herzegovina issued the 20 KM note on July 27, 1998, as part of the higher-denomination set following the initial currency launch. The Federation variant (Latin script) honors Antun Branko Šimić (1898–1925), a pioneering Croatian expressionist poet whose experimental work transformed Croatian literature. Šimić's portrait represents the Croatian cultural contribution within Bosnia and Herzegovina's multi-ethnic heritage. The reverse displays Stećak Radimlja, medieval tombstones that serve as powerful symbols of Bosnia's historical continuity and artistic legacy. Like all BiH banknotes, this note exists in both Latin (Federation) and Cyrillic (Republika Srpska) variants, both fully legal tender. Current 2012+ issues remain in circulation.",
+    "highlights": {
+      "reason": "Honors Croatian poet Antun Branko Šimić; represents Federation cultural heritage; features medieval Stećak symbolism.",
+      "design": "Obverse: Portrait of Antun Branko Šimić in dark brown, Latin text, Centralna Banka Bosne i Hercegovine branding. Reverse: Fragment of Stećak Radimlja medieval tombstone, denomination, 10 mm iridescent stripe with KM and 20.",
+      "security": "Micro-optical Motion™ security thread (4 mm wide) with moving quills responsive to viewing angle, 10 mm vertical iridescent stripe with color-shifting KM and 20, watermark with electrotype, intaglio printing on portrait and text, optically variable security elements"
+    },
     "sources": [
-      "Centralna Banka Bosne i Hercegovine"
+      "https://www.cbbh.ba/content/read/1077",
+      "https://en.numista.com/catalogue/bosnia_herzegovina_section-banknotes-1.html",
+      "https://www.leftovercurrency.com/exchange/bosnia-and-herzegovina-convertible-marks/"
     ],
-    "confidence": "fallback"
+    "confidence": "official"
   },
   {
     "id": "e70",
     "year": 2024,
-    "date": "2012-2024",
+    "date": "July 1998",
     "country": "Bosnia & Herzegovina",
     "issuer": "Centralna Banka Bosne i Hercegovine",
     "title": "20 Konvertibilnih Maraka",
-    "description": "Remark.",
+    "description": "Filip Višnjić (1767–1847), a celebrated Serbian folk singer and poet, appears on this Republika Srpska variant note in Cyrillic script. The reverse features a different medieval tombstone design representing Bosnian cultural heritage.",
     "hue": 37,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/BIH0083o.jpg",
     "slug": "bosnia-herzegovina-20-konvertibilnih-maraka-e70",
-    "body": "The 20 Konvertibilnih Maraka note issued by Centralna Banka Bosne i Hercegovine in 2024 is part of the ongoing currency circulation series. This denomination facilitates transactions in Bosnia & Herzegovina's domestic economy and represents the central bank's commitment to maintaining a modern, secure currency system. The note incorporates contemporary security features including enhanced microprinting, color-shifting inks, and updated security threads to protect against counterfeiting. As a 2024 variant, this emission reflects administrative updates to printing specifications or official signatures while maintaining design consistency with previous issues in the series. The note supports both retail commerce and banking operations throughout the currency's circulation area.",
-    "highlights": {},
+    "body": "The Central Bank of Bosnia and Herzegovina issued the 20 KM Cyrillic-script note on July 27, 1998, completing the higher-denomination set in the dual-entity banknote system. The note features Filip Višnjić (1767–1847), a legendary Serbian folk poet and singer whose epic poems are cornerstones of South Slavic oral tradition. Višnjić represents the Serbian cultural heritage within Bosnia and Herzegovina's constitutionally mandated balance between Federation and Republika Srpska. The reverse displays a different medieval stećak design from the Federation variant, reflecting the two entities' distinct cultural narratives while maintaining currency unity. Both 20 KM variants—Latin and Cyrillic—are fully interchangeable throughout the country. Enhanced security features distinguish 2012+ issues from older notes. Pre-2012 issues ceased legal tender on January 1, 2025.",
+    "highlights": {
+      "reason": "Honors Serbian folk poet Filip Višnjić; represents Republika Srpska cultural heritage; reflects dual-entity constitutional design.",
+      "design": "Obverse: Portrait of Filip Višnjić, Cyrillic text, Centralna Banka Bosne i Hercegovine branding. Reverse: Medieval stećak tombstone design (different from Federation variant), denomination, 10 mm iridescent stripe with KM and 20.",
+      "security": "Micro-optical Motion™ security thread (4 mm wide) with quills shifting with viewing angle, 10 mm vertical iridescent holographic stripe with color-shifting KM and 20, watermark with electrotype, intaglio printing on portrait and text, optically variable ink elements"
+    },
     "sources": [
-      "Centralna Banka Bosne i Hercegovine"
+      "https://www.cbbh.ba/content/read/1077",
+      "https://en.numista.com/catalogue/bosnia_herzegovina_section-banknotes-1.html",
+      "https://sarajevotimes.com/23-years-ago-the-first-banknotes-printed-in-bih/"
     ],
-    "confidence": "fallback"
+    "confidence": "official"
   },
   {
     "id": "e71",
     "year": 2024,
-    "date": "2012-2024",
+    "date": "July 1998",
     "country": "Bosnia & Herzegovina",
     "issuer": "Centralna Banka Bosne i Hercegovine",
     "title": "50 Konvertibilnih Maraka",
-    "description": "Remark.",
+    "description": "This 50 KM note features Musa Ćazim Ćatić (Federation variant) or Jovan Dučić (Republika Srpska variant), representing Bosniak and Serbian literary heritage respectively. The reverse features Zgošća Stećak (Federation) or books and a pen symbolizing intellectual heritage (Republika Srpska).",
     "hue": 357,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/BIH0084o.jpg",
     "slug": "bosnia-herzegovina-50-konvertibilnih-maraka-e71",
-    "body": "The 50 Konvertibilnih Maraka note issued by Centralna Banka Bosne i Hercegovine in 2024 is part of the ongoing currency circulation series. This denomination facilitates transactions in Bosnia & Herzegovina's domestic economy and represents the central bank's commitment to maintaining a modern, secure currency system. The note incorporates contemporary security features including enhanced microprinting, color-shifting inks, and updated security threads to protect against counterfeiting. As a 2024 variant, this emission reflects administrative updates to printing specifications or official signatures while maintaining design consistency with previous issues in the series. The note supports both retail commerce and banking operations throughout the currency's circulation area.",
-    "highlights": {},
+    "body": "The Central Bank of Bosnia and Herzegovina issued the 50 KM note on July 27, 1998, as the highest denomination in the initial banknote release. The Federation variant features Musa Ćazim Ćatić (1878–1915), a pivotal Bosniak Muslim poet and intellectual whose literary contributions shaped modern Bosnian culture. The Republika Srpska variant features Jovan Dučić (1871–1943), a Bosnian Serbian poet and diplomat whose diplomatic efforts advanced South Slavic literature and political thought. The 50 KM reverse in the Cyrillic variant displays books, reading glasses, and a pen—symbols of literary heritage. The Federation version features Zgošća Stećak, another medieval tombstone. Both variants remain fully legal tender. Enhanced 2012+ issues are in circulation; pre-2012 notes ceased legal tender January 1, 2025.",
+    "highlights": {
+      "reason": "Honors Bosniak poet Musa Ćazim Ćatić (Federation) and Serbian poet Jovan Dučić (Republika Srpska); highest denomination in original series.",
+      "design": "Federation obverse: Portrait of Musa Ćazim Ćatić, Latin text. Srpska obverse: Portrait of Jovan Dučić, Cyrillic text. Federation reverse: Fragment of Zgošća Stećak. Srpska reverse: Books, reading glasses, and pen symbolizing literary heritage.",
+      "security": "Micro-optical security thread with moving quills, watermark with electrotype, intaglio printing on portrait and text, optically variable ink color-shifting from purple-red to greenish-brown, security thread with 50 KM text, front and back elements form rhombus shape when held to light"
+    },
     "sources": [
-      "Centralna Banka Bosne i Hercegovine"
+      "https://www.cbbh.ba/content/read/1078?lang=en",
+      "https://en.numista.com/catalogue/bosnia_herzegovina_section-banknotes-1.html",
+      "https://www.leftovercurrency.com/exchange/bosnia-and-herzegovina-convertible-marks/"
     ],
-    "confidence": "fallback"
+    "confidence": "official"
   },
   {
     "id": "e72",

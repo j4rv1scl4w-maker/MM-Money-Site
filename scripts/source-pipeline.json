@@ -1,9 +1,9 @@
 {
   "description": "Pipeline per arricchire le emissions con URL reali. Processa in batch da 10, ogni batch viene committato.",
   "total": 493,
-  "processed": 15,
+  "processed": 25,
   "batch_size": 10,
-  "last_committed_batch": 2,
+  "last_committed_batch": 3,
   "items": [
     {
       "id": "e47",
@@ -249,8 +249,13 @@
         "Central Bank of Barbados"
       ],
       "confidence": "fallback",
-      "status": "pending",
-      "found_urls": []
+      "status": "done",
+      "found_urls": [
+        "https://www.centralbank.org.bb/banknotes/2022-series",
+        "https://www.delarue.com/media-center/new-central-bank-of-barbados-polymer-banknote-series",
+        "https://banknotenews.com/?p=38000"
+      ],
+      "new_confidence": "official"
     },
     {
       "id": "e63",
@@ -261,8 +266,13 @@
         "Central Bank of Barbados"
       ],
       "confidence": "fallback",
-      "status": "pending",
-      "found_urls": []
+      "status": "done",
+      "found_urls": [
+        "https://www.centralbank.org.bb/banknotes/2022-series",
+        "https://www.centralbank.org.bb/news/general-press-release/four-security-features-to-look-for-in-barbados-polymer-banknotes",
+        "https://banknotenews.com/?p=38000"
+      ],
+      "new_confidence": "official"
     },
     {
       "id": "e64",
@@ -273,8 +283,13 @@
         "Central Bank of Barbados"
       ],
       "confidence": "fallback",
-      "status": "pending",
-      "found_urls": []
+      "status": "done",
+      "found_urls": [
+        "https://www.centralbank.org.bb/banknotes/2022-series",
+        "https://www.delarue.com/media-center/new-central-bank-of-barbados-polymer-banknote-series",
+        "https://banknotenews.com/?p=38000"
+      ],
+      "new_confidence": "official"
     },
     {
       "id": "e65",
@@ -285,8 +300,13 @@
         "Central Bank of Barbados"
       ],
       "confidence": "fallback",
-      "status": "pending",
-      "found_urls": []
+      "status": "done",
+      "found_urls": [
+        "https://www.centralbank.org.bb/banknotes/2022-series",
+        "https://www.delarue.com/media-center/new-central-bank-of-barbados-polymer-banknote-series",
+        "https://banknotenews.com/?p=38000"
+      ],
+      "new_confidence": "official"
     },
     {
       "id": "e66",
@@ -297,8 +317,13 @@
         "Central Bank of Barbados"
       ],
       "confidence": "fallback",
-      "status": "pending",
-      "found_urls": []
+      "status": "done",
+      "found_urls": [
+        "https://www.centralbank.org.bb/banknotes/2022-series",
+        "https://www.delarue.com/media-center/new-central-bank-of-barbados-polymer-banknote-series",
+        "https://banknotenews.com/?p=38000"
+      ],
+      "new_confidence": "official"
     },
     {
       "id": "e67",
@@ -309,8 +334,13 @@
         "Centralna Banka Bosne i Hercegovine"
       ],
       "confidence": "fallback",
-      "status": "pending",
-      "found_urls": []
+      "status": "done",
+      "found_urls": [
+        "https://www.cbbh.ba/content/read/1077",
+        "https://en.numista.com/catalogue/bosnia_herzegovina_section-banknotes-1.html",
+        "https://www.leftovercurrency.com/exchange/bosnia-and-herzegovina-convertible-marks/"
+      ],
+      "new_confidence": "official"
     },
     {
       "id": "e68",
@@ -321,8 +351,13 @@
         "Centralna Banka Bosne i Hercegovine"
       ],
       "confidence": "fallback",
-      "status": "pending",
-      "found_urls": []
+      "status": "done",
+      "found_urls": [
+        "https://www.cbbh.ba/content/read/1077",
+        "https://en.numista.com/catalogue/bosnia_herzegovina_section-banknotes-1.html",
+        "https://sarajevotimes.com/23-years-ago-the-first-banknotes-printed-in-bih/"
+      ],
+      "new_confidence": "official"
     },
     {
       "id": "e69",
@@ -333,8 +368,13 @@
         "Centralna Banka Bosne i Hercegovine"
       ],
       "confidence": "fallback",
-      "status": "pending",
-      "found_urls": []
+      "status": "done",
+      "found_urls": [
+        "https://www.cbbh.ba/content/read/1077",
+        "https://en.numista.com/catalogue/bosnia_herzegovina_section-banknotes-1.html",
+        "https://www.leftovercurrency.com/exchange/bosnia-and-herzegovina-convertible-marks/"
+      ],
+      "new_confidence": "official"
     },
     {
       "id": "e70",
@@ -345,8 +385,13 @@
         "Centralna Banka Bosne i Hercegovine"
       ],
       "confidence": "fallback",
-      "status": "pending",
-      "found_urls": []
+      "status": "done",
+      "found_urls": [
+        "https://www.cbbh.ba/content/read/1077",
+        "https://en.numista.com/catalogue/bosnia_herzegovina_section-banknotes-1.html",
+        "https://sarajevotimes.com/23-years-ago-the-first-banknotes-printed-in-bih/"
+      ],
+      "new_confidence": "official"
     },
     {
       "id": "e71",
@@ -357,8 +402,13 @@
         "Centralna Banka Bosne i Hercegovine"
       ],
       "confidence": "fallback",
-      "status": "pending",
-      "found_urls": []
+      "status": "done",
+      "found_urls": [
+        "https://www.cbbh.ba/content/read/1078?lang=en",
+        "https://en.numista.com/catalogue/bosnia_herzegovina_section-banknotes-1.html",
+        "https://www.leftovercurrency.com/exchange/bosnia-and-herzegovina-convertible-marks/"
+      ],
+      "new_confidence": "official"
     },
     {
       "id": "e72",
