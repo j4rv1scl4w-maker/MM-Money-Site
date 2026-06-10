@@ -1,9 +1,9 @@
 {
   "description": "Pipeline per arricchire le emissions con URL reali. Processa in batch da 10, ogni batch viene committato.",
   "total": 493,
-  "processed": 10,
+  "processed": 15,
   "batch_size": 10,
-  "last_committed_batch": 1,
+  "last_committed_batch": 2,
   "items": [
     {
       "id": "e47",
@@ -164,8 +164,13 @@
         "Bangladesh Bank"
       ],
       "confidence": "fallback",
-      "status": "pending",
-      "found_urls": []
+      "status": "done",
+      "found_urls": [
+        "https://banknotenews.com/?p=47038",
+        "https://www.banknoteworld.com/blog/new-bangladesh-banknote-family-for-2025/",
+        "https://www.bb.org.bd/en/index.php/currency/onethousandtaka"
+      ],
+      "new_confidence": "official"
     },
     {
       "id": "e58",
@@ -176,8 +181,13 @@
         "Peoples Republic of Bangladesh"
       ],
       "confidence": "fallback",
-      "status": "pending",
-      "found_urls": []
+      "status": "done",
+      "found_urls": [
+        "https://en.numista.com/catalogue/note208208.html",
+        "https://en.wikipedia.org/wiki/Banknotes_of_the_Bangladeshi_taka",
+        "https://www.bb.org.bd/en/index.php/currency/fivetaka"
+      ],
+      "new_confidence": "official"
     },
     {
       "id": "e59",
@@ -188,8 +198,13 @@
         "Bangladesh Bank"
       ],
       "confidence": "fallback",
-      "status": "pending",
-      "found_urls": []
+      "status": "done",
+      "found_urls": [
+        "https://en.numista.com/catalogue/note208208.html",
+        "https://www.coinworld.com/news/paper-money/bangladesh-bank-releases-new-50-taka-notes-for-circulation",
+        "https://www.banknoteworld.com/bangladesh-500-taka-banknote-2019-p-58i-unc.html"
+      ],
+      "new_confidence": "secondary"
     },
     {
       "id": "e60",
@@ -200,8 +215,13 @@
         "Bangladesh Bank"
       ],
       "confidence": "fallback",
-      "status": "pending",
-      "found_urls": []
+      "status": "done",
+      "found_urls": [
+        "https://en.numista.com/207400",
+        "https://www.banknoteworld.com/bangladesh-200-taka-banknote-2023-p-67c-unc-commemorative-father-of-the-nation-bangabandhu-sheikh-mujibur-rahman-birth-centenary-1920-2020-.html",
+        "https://www.daily-sun.com/post/469919/Prime-Minister-launches-new-banknote-of-Taka-200-on-Bangabandhu%E2%80%99s-birth-centenary"
+      ],
+      "new_confidence": "secondary"
     },
     {
       "id": "e61",
@@ -212,8 +232,13 @@
         "Central Bank of Barbados"
       ],
       "confidence": "fallback",
-      "status": "pending",
-      "found_urls": []
+      "status": "done",
+      "found_urls": [
+        "https://www.centralbank.org.bb/banknotes/2013-series/2-note-john-redman-bovell",
+        "https://www.centralbank.org.bb/banknotes/2022-series-1",
+        "https://www.worldbanknotescoins.com/2015/06/barbados-2-dollars-banknote-2013-john-redman-bovell.html"
+      ],
+      "new_confidence": "official"
     },
     {
       "id": "e62",

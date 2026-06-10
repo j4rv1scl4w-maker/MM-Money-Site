@@ -1254,92 +1254,122 @@
   {
     "id": "e57",
     "year": 2024,
-    "date": "2011-2024",
+    "date": "Jun 2025",
     "country": "Bangladesh",
     "issuer": "Bangladesh Bank",
     "title": "1.000 Taka",
-    "description": "Sheikh Mujibur Rahman, National Martyrs' monument (Savar).",
+    "description": "The front features the National Martyrs' Monument in Savar alongside shapla flowers with violet and purple hues. The reverse displays the Jatiya Sangsad Bhaban (National Parliament building) in Dhaka, part of Bangladesh's new architectural heritage series.",
     "hue": 303,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/BDE0059ao.jpg",
     "slug": "bangladesh-1-000-taka-e57",
-    "body": "Sheikh Mujibur Rahman, National Martyrs' monument (Savar).",
-    "highlights": {},
+    "body": "Bangladesh Bank introduced a redesigned 1000 taka note on June 1, 2025, as part of the 'Historical & Archaeological Architecture of Bangladesh' series following the 2024 political transition. The new design eliminates human portraits in favor of iconic national landmarks and cultural symbols. The obverse features the National Martyrs' Monument at Savar—a pivotal independence war memorial—flanked by shapla flowers (Bangladesh's national flower), with denomination in optically variable ink (OVI). The reverse displays the impressive Jatiya Sangsad Bhaban designed by architect Louis Kahn. The redesign reflects a broader modernization of Bangladeshi currency to enhance security and celebrate the nation's architectural heritage.",
+    "highlights": {
+      "reason": "Part of a comprehensive currency redesign following political transition; modernization of security features and emphasis on cultural heritage instead of portraits.",
+      "design": "Obverse: National Martyrs' Monument in Savar, shapla flowers, denomination in optically variable ink. Reverse: Jatiya Sangsad Bhaban (National Parliament building), Bangladesh Bank logo.",
+      "security": "5mm-wide windowed security thread with color-shifting element (red to green), optically variable multicolor ink (OVMI) showing denomination, watermark with Royal Bengal tiger on pixelated background with bank logo and denomination, shape and color registration device"
+    },
     "sources": [
-      "Bangladesh Bank"
+      "https://banknotenews.com/?p=47038",
+      "https://www.banknoteworld.com/blog/new-bangladesh-banknote-family-for-2025/",
+      "https://www.bb.org.bd/en/index.php/currency/onethousandtaka"
     ],
-    "confidence": "fallback"
+    "confidence": "official"
   },
   {
     "id": "e58",
     "year": 2024,
-    "date": "2016-2024",
+    "date": "2016",
     "country": "Bangladesh",
-    "issuer": "Peoples Republic of Bangladesh",
+    "issuer": "Bangladesh Bank",
     "title": "5 Taka",
-    "description": "Remark.",
+    "description": "Sheikh Mujibur Rahman appears on the front with the National Martyrs' Monument visible. The reverse displays the Naogaon Kusumba mosque alongside Bangladesh's national symbols including the shapla flower, rice, and jute.",
     "hue": 240,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/BDE0064A2-2016o.jpg",
     "slug": "bangladesh-5-taka-e58",
-    "body": "The 5 Taka note issued by Peoples Republic of Bangladesh in 2024 is part of the ongoing currency circulation series. This denomination facilitates transactions in Bangladesh's domestic economy and represents the central bank's commitment to maintaining a modern, secure currency system. The note incorporates contemporary security features including enhanced microprinting, color-shifting inks, and updated security threads to protect against counterfeiting. As a 2024 variant, this emission reflects administrative updates to printing specifications or official signatures while maintaining design consistency with previous issues in the series. The note supports both retail commerce and banking operations throughout the currency's circulation area.",
-    "highlights": {},
+    "body": "The 5 taka note, redesigned in 2016, features a portrait of Sheikh Mujibur Rahman, the Father of the Nation and founding father of Bangladesh, positioned at the left of the obverse. The National Martyrs' Monument in Savar is depicted in light color at the center. At 117 x 60 mm, it is Bangladesh's smallest banknote. The reverse showcases the historic Naogaon Kusumba mosque, representing Bangladesh's architectural heritage, alongside the national coat of arms with symbolic elements: the shapla flower (national flower), rice, and jute (economic mainstays). The note is printed in purple and includes security features to prevent counterfeiting.",
+    "highlights": {
+      "reason": "Standard circulation note in a commemorative purple color; represents the standard series replacing earlier designs.",
+      "design": "Obverse: Sheikh Mujibur Rahman portrait at left, National Martyrs' Monument at center in light color. Reverse: Naogaon Kusumba mosque, Bangladesh coat of arms with shapla flower, rice, and jute.",
+      "security": "Watermark with Sheikh Mujibur Rahman portrait on pixelated background, bright electrotype watermark of numeral 5 below portrait, electrotype watermark of Bangladesh Bank logo at left, solid security thread at right side of portrait"
+    },
     "sources": [
-      "Peoples Republic of Bangladesh"
+      "https://en.numista.com/catalogue/note208208.html",
+      "https://en.wikipedia.org/wiki/Banknotes_of_the_Bangladeshi_taka",
+      "https://www.bb.org.bd/en/index.php/currency/fivetaka"
     ],
-    "confidence": "fallback"
+    "confidence": "official"
   },
   {
     "id": "e59",
     "year": 2024,
-    "date": "2019-2024",
+    "date": "Dec 2019",
     "country": "Bangladesh",
     "issuer": "Bangladesh Bank",
     "title": "50 Taka",
-    "description": "Sheikh Mujibur Rahman, National Martyrs' monument (Savar).",
+    "description": "Sheikh Mujibur Rahman's portrait appears on the left side with the National Martyrs' Monument at center. The reverse shows a scene of men ploughing fields with oxen, depicted in the style of artist Zainul Abedin's painting 'Ploughing,' celebrating Bangladesh's agricultural heritage.",
     "hue": 22,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/BDEW2019-0050o.jpg",
     "slug": "bangladesh-50-taka-e59",
-    "body": "Sheikh Mujibur Rahman, National Martyrs' monument (Savar).",
-    "highlights": {},
+    "body": "Bangladesh Bank issued redesigned 50 taka notes on December 15, 2019, maintaining the same core design as the 2011 version but introducing vibrant orange, brown, and fluorescent yellow-green colors for enhanced visual distinction. Sheikh Mujibur Rahman, the Father of Bangladesh, appears prominently on the obverse at left with the National Martyrs' Monument depicted at center—symbols of the nation's independence struggle. The reverse features agricultural imagery: men ploughing fields with oxen, rendered in the artistic style of Shilpacharya Zainul Abedin's famous painting 'Ploughing,' emphasizing Bangladesh's agrarian foundation. The note includes holographic security features and tactile elements for visually impaired users.",
+    "highlights": {
+      "reason": "Color redesign for enhanced security and visibility; updated version of 2011 design with modernized visual elements.",
+      "design": "Obverse: Sheikh Mujibur Rahman portrait at left, National Martyrs' Monument at center in light color. Reverse: Agricultural scene of men ploughing with oxen (in style of Zainul Abedin's 'Ploughing').",
+      "security": "Holographic windowed security thread with holographic bank logo and '50' in Bengali numerals, watermark with Sheikh Mujibur Rahman portrait on pixelated background, latent image '50' in frame at lower front, raised print dots and 7 lines at right front for visually impaired"
+    },
     "sources": [
-      "Bangladesh Bank"
+      "https://en.numista.com/catalogue/note208208.html",
+      "https://www.coinworld.com/news/paper-money/bangladesh-bank-releases-new-50-taka-notes-for-circulation",
+      "https://www.banknoteworld.com/bangladesh-500-taka-banknote-2019-p-58i-unc.html"
     ],
-    "confidence": "fallback"
+    "confidence": "secondary"
   },
   {
     "id": "e60",
     "year": 2024,
-    "date": "2020-2024",
+    "date": "Mar 2020",
     "country": "Bangladesh",
     "issuer": "Bangladesh Bank",
     "title": "200 Taka",
-    "description": "Sheikh Mujibur Rahman. Father of the Nation Bangabandhu Sheikh Mujibur Rahman Birth Centenary (1920-2020).",
+    "description": "Sheikh Mujibur Rahman portrait dominates the front. The reverse features Sheikh Mujibur Rahman again with farmers on the riverbank, celebrating the Birth Centenary (1920-2020) of Bangabandhu, the Father of the Nation.",
     "hue": 34,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/BDEW2020-0200o.jpg",
     "slug": "bangladesh-200-taka-e60",
-    "body": "Sheikh Mujibur Rahman. Father of the Nation Bangabandhu Sheikh Mujibur Rahman Birth Centenary (1920-2020).",
-    "highlights": {},
+    "body": "Bangladesh Bank issued a commemorative 200 taka note on March 18, 2020, to honor the birth centenary of Bangabandhu Sheikh Mujibur Rahman (1920-2020), the founding father and first president of Bangladesh. Though commemorative, the note is legal tender for all domestic transactions. The obverse features a prominent portrait of Sheikh Mujibur Rahman with electrotype denomination '200' and the Bangladesh Bank coat of arms. At the top, 'Father of the Nation Bangabandhu Sheikh Mujibur Rahman Centenary 1920-2020' is inscribed, with 'Birth Centenary' printed at the left corner. The reverse displays another portrait of Sheikh Mujibur Rahman against a background showing farmers on the riverbank, reflecting his commitment to agrarian development. The note measures 146 x 63 millimeters and represents Bangladesh's first 200 taka denomination.",
+    "highlights": {
+      "reason": "Commemorative issue celebrating the 100th birth anniversary of Sheikh Mujibur Rahman, founder of Bangladesh; first 200 taka denomination ever issued.",
+      "design": "Obverse: Sheikh Mujibur Rahman portrait, electrotype denomination 200, Bangladesh Bank coat of arms, inscriptions of birth centenary celebration. Reverse: Sheikh Mujibur Rahman portrait with riverbank agricultural scene.",
+      "security": "Watermark with Sheikh Mujibur Rahman portrait on pixelated background, electrotype bank logo and denomination, security thread, color-shifting elements, enhanced printing techniques"
+    },
     "sources": [
-      "Bangladesh Bank"
+      "https://en.numista.com/207400",
+      "https://www.banknoteworld.com/bangladesh-200-taka-banknote-2023-p-67c-unc-commemorative-father-of-the-nation-bangabandhu-sheikh-mujibur-rahman-birth-centenary-1920-2020-.html",
+      "https://www.daily-sun.com/post/469919/Prime-Minister-launches-new-banknote-of-Taka-200-on-Bangabandhu%E2%80%99s-birth-centenary"
     ],
-    "confidence": "fallback"
+    "confidence": "secondary"
   },
   {
     "id": "e61",
     "year": 2024,
-    "date": "2022 & 2024",
+    "date": "May 2022",
     "country": "Barbados",
     "issuer": "Central Bank of Barbados",
     "title": "2 Dollars",
-    "description": "John Redman Bovell.",
+    "description": "John Redman Bovell, the Barbadian agronomist credited with saving the sugar industry, appears on the blue polymer note. The reverse features the Morgan Lewis Windmill, the last operational sugar windmill in Barbados.",
     "hue": 211,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/BBDW0080o.jpg",
     "slug": "barbados-2-dollars-e61",
-    "body": "The 2 Dollars note issued by Central Bank of Barbados represents a 2024 emission in Barbados's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2024 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
-    "highlights": {},
+    "body": "The Central Bank of Barbados issued the 2 Dollar note in 2022 as part of its historic transition to polymer banknotes, making Barbados one of the first Caribbean nations to adopt this durable plastic substrate. The note features a portrait of John Redman Bovell (1855-1928), a pioneering scientist and agronomist whose genetic experiments with sugar cane varieties saved Barbados's vital sugar industry and established the island as a leading cane breeding station in the Caribbean. In 1908, Bovell was awarded the Imperial Service Star for his contributions to tropical agriculture. The obverse displays his portrait in blue with red elements. The reverse showcases the Morgan Lewis Windmill in St. Andrew, Barbados—the last sugar windmill to operate in the nation—representing the agricultural heritage that Bovell helped preserve. The polymer note includes advanced security features and was recognized as the 'Best New Series' at Reconnaissance International's Regional Banknote and ID Document Awards.",
+    "highlights": {
+      "reason": "First polymer banknote series in Barbados; honors agronomist John Redman Bovell's legacy in saving the sugar industry; awarded Best New Series internationally.",
+      "design": "Obverse: John Redman Bovell portrait in blue with red elements, denomination, Barbados coat of arms. Reverse: Morgan Lewis Windmill (St. Andrew), the last operational sugar windmill in Barbados.",
+      "security": "Windowed security thread, two raised tactile lines for visually impaired (also serving as security feature), holographic elements with pearly sheen on the windmill (blue and gold sheen), color-shifting security features, denomination on registration device"
+    },
     "sources": [
-      "Central Bank of Barbados"
+      "https://www.centralbank.org.bb/banknotes/2013-series/2-note-john-redman-bovell",
+      "https://www.centralbank.org.bb/banknotes/2022-series-1",
+      "https://www.worldbanknotescoins.com/2015/06/barbados-2-dollars-banknote-2013-john-redman-bovell.html"
     ],
-    "confidence": "fallback"
+    "confidence": "official"
   },
   {
     "id": "e62",
