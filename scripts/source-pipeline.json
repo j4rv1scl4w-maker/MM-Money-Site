@@ -1,9 +1,9 @@
 {
   "description": "Pipeline per arricchire le emissions con URL reali. Processa in batch da 10, ogni batch viene committato.",
   "total": 493,
-  "processed": 25,
+  "processed": 35,
   "batch_size": 10,
-  "last_committed_batch": 3,
+  "last_committed_batch": 4,
   "items": [
     {
       "id": "e47",
@@ -419,8 +419,12 @@
         "Centralna Banka Bosne i Hercegovine"
       ],
       "confidence": "fallback",
-      "status": "pending",
-      "found_urls": []
+      "status": "done",
+      "found_urls": [
+        "https://www.cbbh.ba/",
+        "https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina_convertible_mark"
+      ],
+      "new_confidence": "official"
     },
     {
       "id": "e73",
@@ -431,8 +435,12 @@
         "Centralna Banka Bosne i Hercegovine"
       ],
       "confidence": "fallback",
-      "status": "pending",
-      "found_urls": []
+      "status": "done",
+      "found_urls": [
+        "https://www.cbbh.ba/",
+        "https://en.wikipedia.org/wiki/Nikola_%C5%A0op"
+      ],
+      "new_confidence": "official"
     },
     {
       "id": "e74",
@@ -443,8 +451,12 @@
         "Centralna Banka Bosne i Hercegovine"
       ],
       "confidence": "fallback",
-      "status": "pending",
-      "found_urls": []
+      "status": "done",
+      "found_urls": [
+        "https://www.cbbh.ba/",
+        "https://en.wikipedia.org/wiki/Petar_Ko%C4%8Di%C4%87"
+      ],
+      "new_confidence": "official"
     },
     {
       "id": "e75",
@@ -455,8 +467,13 @@
         "Bank of Botswana"
       ],
       "confidence": "fallback",
-      "status": "pending",
-      "found_urls": []
+      "status": "done",
+      "found_urls": [
+        "https://www.bankofbotswana.bw/",
+        "https://en.wikipedia.org/wiki/Botswana_pula",
+        "https://banknotenews.com/?p=49936"
+      ],
+      "new_confidence": "official"
     },
     {
       "id": "e76",
@@ -467,8 +484,13 @@
         "Bank of Botswana"
       ],
       "confidence": "fallback",
-      "status": "pending",
-      "found_urls": []
+      "status": "done",
+      "found_urls": [
+        "https://www.bankofbotswana.bw/",
+        "https://en.wikipedia.org/wiki/Botswana_pula",
+        "https://banknotenews.com/?p=49936"
+      ],
+      "new_confidence": "official"
     },
     {
       "id": "e77",
@@ -479,8 +501,12 @@
         "Negara Brunei Darussalam"
       ],
       "confidence": "fallback",
-      "status": "pending",
-      "found_urls": []
+      "status": "done",
+      "found_urls": [
+        "https://banknotenews.com/?p=49669",
+        "https://en.wikipedia.org/wiki/Brunei_dollar"
+      ],
+      "new_confidence": "official"
     },
     {
       "id": "e78",
@@ -491,8 +517,12 @@
         "Negara Brunei Darussalam"
       ],
       "confidence": "fallback",
-      "status": "pending",
-      "found_urls": []
+      "status": "done",
+      "found_urls": [
+        "https://banknotenews.com/?p=49673",
+        "https://en.wikipedia.org/wiki/Brunei_dollar"
+      ],
+      "new_confidence": "official"
     },
     {
       "id": "e79",
@@ -503,8 +533,12 @@
         "Negara Brunei Darussalam"
       ],
       "confidence": "fallback",
-      "status": "pending",
-      "found_urls": []
+      "status": "done",
+      "found_urls": [
+        "https://banknotenews.com/?p=49677",
+        "https://en.wikipedia.org/wiki/Brunei_dollar"
+      ],
+      "new_confidence": "official"
     },
     {
       "id": "e80",
@@ -515,8 +549,12 @@
         "Negara Brunei Darussalam"
       ],
       "confidence": "fallback",
-      "status": "pending",
-      "found_urls": []
+      "status": "done",
+      "found_urls": [
+        "https://banknotenews.com/?p=49681",
+        "https://en.wikipedia.org/wiki/Brunei_dollar"
+      ],
+      "new_confidence": "official"
     },
     {
       "id": "e81",
@@ -527,8 +565,12 @@
         "Negara Brunei Darussalam"
       ],
       "confidence": "fallback",
-      "status": "pending",
-      "found_urls": []
+      "status": "done",
+      "found_urls": [
+        "https://en.wikipedia.org/wiki/Brunei_dollar",
+        "https://noteshobby.com/blogs/banknote/brunei-2026-polymer-banknotes"
+      ],
+      "new_confidence": "secondary"
     },
     {
       "id": "e82",

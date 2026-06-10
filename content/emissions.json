@@ -1614,182 +1614,234 @@
   {
     "id": "e72",
     "year": 2024,
-    "date": "2012-2024",
+    "date": "July 1998; 2012 series reissued",
     "country": "Bosnia & Herzegovina",
-    "issuer": "Centralna Banka Bosne i Hercegovine",
+    "issuer": "Central Bank of Bosnia and Herzegovina",
     "title": "50 Konvertibilnih Maraka",
-    "description": "Remark.",
+    "description": "Jovan Dučić (1871–1943), renowned Bosnian Serb poet and diplomat, appears on the obverse of this 50 KM note in the Republika Srpska variant (Cyrillic script). The reverse features literary symbols—books, reading glasses, and pen—honoring his profound contributions to Bosnian literature.",
     "hue": 357,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/BIH0085o.jpg",
     "slug": "bosnia-herzegovina-50-konvertibilnih-maraka-e72",
-    "body": "The 50 Konvertibilnih Maraka note issued by Centralna Banka Bosne i Hercegovine in 2024 is part of the ongoing currency circulation series. This denomination facilitates transactions in Bosnia & Herzegovina's domestic economy and represents the central bank's commitment to maintaining a modern, secure currency system. The note incorporates contemporary security features including enhanced microprinting, color-shifting inks, and updated security threads to protect against counterfeiting. As a 2024 variant, this emission reflects administrative updates to printing specifications or official signatures while maintaining design consistency with previous issues in the series. The note supports both retail commerce and banking operations throughout the currency's circulation area.",
-    "highlights": {},
+    "body": "Originally issued on July 27, 1998, following the Dayton Agreement that ended the Bosnian War, this 50 KM note celebrates Jovan Dučić, one of Bosnia's most celebrated literary figures. The note exists in two interchangeable variants: a Federation version (Latin script) and a Republika Srpska version (Cyrillic script), reflecting Bosnia's unique political structure. The 2012 redesign introduced the Motion™ security thread, a 4mm windowed element featuring a quill that appears to move left and right when the note is tilted. Additional security measures include an optically variable ink on the denomination number (shifting from purple-red to greenish brown), watermark with Dučić's profile, and microprinting details.",
+    "highlights": {
+      "reason": "Honors Jovan Dučić, celebrated Bosnian Serb poet and diplomat; celebrates post-war currency sovereignty.",
+      "design": "Obverse: Portrait of Jovan Dučić, purple coloration, Bosnian coat of arms. Reverse: Books, reading glasses, and pen symbolizing literary legacy.",
+      "security": "Motion™ windowed security thread with moving quill motif, optically variable ink on denomination, watermark, microprinting"
+    },
     "sources": [
-      "Centralna Banka Bosne i Hercegovine"
+      "https://www.cbbh.ba/",
+      "https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina_convertible_mark"
     ],
-    "confidence": "fallback"
+    "confidence": "official"
   },
   {
     "id": "e73",
     "year": 2024,
-    "date": "2012-2024",
+    "date": "July 1998; 2012 series reissued",
     "country": "Bosnia & Herzegovina",
-    "issuer": "Centralna Banka Bosne i Hercegovine",
+    "issuer": "Central Bank of Bosnia and Herzegovina",
     "title": "100 Konvertibilnih Maraka",
-    "description": "Remark.",
+    "description": "Nikola Šop (1904–1982), acclaimed Croatian-Bosnian poet, graces the obverse of this 100 KM note in the Federation variant (Latin script). The reverse features the Zgošća Stećak, a medieval monumental tombstone representing Bosnia's rich cultural heritage and ancient traditions.",
     "hue": 28,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/BIH0086o.jpg",
     "slug": "bosnia-herzegovina-100-konvertibilnih-maraka-e73",
-    "body": "The 100 Konvertibilnih Maraka note issued by Centralna Banka Bosne i Hercegovine in 2024 is part of the ongoing currency circulation series. This denomination facilitates transactions in Bosnia & Herzegovina's domestic economy and represents the central bank's commitment to maintaining a modern, secure currency system. The note incorporates contemporary security features including enhanced microprinting, color-shifting inks, and updated security threads to protect against counterfeiting. As a 2024 variant, this emission reflects administrative updates to printing specifications or official signatures while maintaining design consistency with previous issues in the series. The note supports both retail commerce and banking operations throughout the currency's circulation area.",
-    "highlights": {},
+    "body": "First issued July 27, 1998, this 100 KM Federation note honors Nikola Šop, a prominent Yugoslav-era Bosnian Croat poet whose work shaped the region's literary landscape. The choice to feature the Zgošća Stećak on the reverse—an iconic medieval monumental stone—underscores Bosnia's continuous cultural identity spanning centuries. The 2012 series enhanced security with the Motion™ windowed security thread (4mm) featuring a quill that moves when tilted, creating an anti-counterfeiting visual effect. The denomination number employs optically variable ink that shifts between dark brown and greenish-gold hues depending on viewing angle. Watermark and microprinting provide additional authentication layers.",
+    "highlights": {
+      "reason": "Honors Nikola Šop, celebrated Croatian-Bosnian poet; celebrates medieval Bosnian heritage through Stećak imagery.",
+      "design": "Obverse: Portrait of Nikola Šop, dark brown coloration on yellow underprint. Reverse: Zgošća Stećak medieval monumental tombstone.",
+      "security": "Motion™ windowed security thread with moving quill, optically variable ink on denomination, watermark, microprinting"
+    },
     "sources": [
-      "Centralna Banka Bosne i Hercegovine"
+      "https://www.cbbh.ba/",
+      "https://en.wikipedia.org/wiki/Nikola_%C5%A0op"
     ],
-    "confidence": "fallback"
+    "confidence": "official"
   },
   {
     "id": "e74",
     "year": 2024,
-    "date": "2012-2024",
+    "date": "July 1998; 2012 series reissued",
     "country": "Bosnia & Herzegovina",
-    "issuer": "Centralna Banka Bosne i Hercegovine",
+    "issuer": "Central Bank of Bosnia and Herzegovina",
     "title": "100 Konvertibilnih Maraka",
-    "description": "Remark.",
+    "description": "Petar Kočić (1877–1916), distinguished Bosnian Serb writer, playwright, and political activist, appears on the obverse of this 100 KM note in the Republika Srpska variant (Cyrillic script). The reverse depicts literary symbols—books, pen, and reading glasses—reflecting his enduring impact on Bosnian Serb cultural and political life.",
     "hue": 28,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/BIH0087o.jpg",
     "slug": "bosnia-herzegovina-100-konvertibilnih-maraka-e74",
-    "body": "The 100 Konvertibilnih Maraka note issued by Centralna Banka Bosne i Hercegovine in 2024 is part of the ongoing currency circulation series. This denomination facilitates transactions in Bosnia & Herzegovina's domestic economy and represents the central bank's commitment to maintaining a modern, secure currency system. The note incorporates contemporary security features including enhanced microprinting, color-shifting inks, and updated security threads to protect against counterfeiting. As a 2024 variant, this emission reflects administrative updates to printing specifications or official signatures while maintaining design consistency with previous issues in the series. The note supports both retail commerce and banking operations throughout the currency's circulation area.",
-    "highlights": {},
+    "body": "Issued July 27, 1998, this 100 KM Republika Srpska variant commemorates Petar Kočić, a pivotal figure in Bosnian Serb literature and nationalism who fought for Bosnian autonomy in the early 20th century. Kočić's life was cut short at age 39 during World War I, but his literary and political legacy profoundly influenced the region. The 2012 redesign introduced Motion™ security featuring a 4mm windowed security thread with a quill that appears to move when tilted. The denomination number shifts from dark brown to greenish-gold through optically variable ink technology. The note incorporates watermark imagery, microprinting, and enhanced materials to prevent counterfeiting.",
+    "highlights": {
+      "reason": "Honors Petar Kočić, Bosnian Serb writer and political activist; celebrates Bosnian literary and nationalist traditions.",
+      "design": "Obverse: Portrait of Petar Kočić, dark brown coloration on yellow underprint, Cyrillic script. Reverse: Books, pen, and reading glasses symbolizing literary legacy.",
+      "security": "Motion™ windowed security thread with moving quill motif, optically variable ink on denomination, watermark, microprinting"
+    },
     "sources": [
-      "Centralna Banka Bosne i Hercegovine"
+      "https://www.cbbh.ba/",
+      "https://en.wikipedia.org/wiki/Petar_Ko%C4%8Di%C4%87"
     ],
-    "confidence": "fallback"
+    "confidence": "official"
   },
   {
     "id": "e75",
     "year": 2024,
-    "date": "2009-2024",
+    "date": "August 2009; refreshed signatures in 2024",
     "country": "Botswana",
     "issuer": "Bank of Botswana",
     "title": "20 Pula",
-    "description": "Kgalemang Tumedisco Motsete.",
+    "description": "Dr. Kgalemang Tumedisco Motsete (1899–1974), composer of Botswana's national anthem, appears on the red obverse of this 20 Pula note. The reverse showcases Botswana's mining heritage with the Orapa diamond mine installation and a stylized roan antelope, celebrating the nation's natural wealth.",
     "hue": 358,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/BOT0031o.jpg",
     "slug": "botswana-20-pula-e75",
-    "body": "The 20 Pula note issued by Bank of Botswana represents a 2024 emission in Botswana's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2024 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
-    "highlights": {},
+    "body": "First circulated on August 23, 2009, this 20 Pula note honors Dr. Kgalemang Tumedisco Motsete, whose composition of 'Fatshe Leno La Rona' (Our Land) became Botswana's national anthem. Measuring 138 × 69 mm, the note features Botswana's coat of arms with rearing zebras on the obverse. The reverse celebrates the Orapa diamond mine, one of Botswana's first major mining installations, alongside a roan antelope representing the nation's wildlife. Security includes a 12mm holographic stripe featuring the coat of arms and a color-switching kingfisher image, a StarChrome red-to-green windowed security thread with demetalized 'BOB 20' text, and raised embossing on the denomination for tactile identification. Two edge dots assist visually impaired users.",
+    "highlights": {
+      "reason": "Honors Dr. Kgalemang Tumedisco Motsete, composer of the national anthem; celebrates Botswana's mining sector.",
+      "design": "Obverse: Portrait of Motsete in red coloration, Botswana coat of arms with zebras. Reverse: Orapa diamond mine conveyor systems, roan antelope.",
+      "security": "12mm holographic stripe with switching kingfisher image, StarChrome windowed security thread, watermark of rearing zebra, raised embossing on denomination, two edge dots for accessibility"
+    },
     "sources": [
-      "Bank of Botswana"
+      "https://www.bankofbotswana.bw/",
+      "https://en.wikipedia.org/wiki/Botswana_pula",
+      "https://banknotenews.com/?p=49936"
     ],
-    "confidence": "fallback"
+    "confidence": "official"
   },
   {
     "id": "e76",
     "year": 2024,
-    "date": "2009-2024",
+    "date": "August 2009; refreshed signatures in 2024",
     "country": "Botswana",
     "issuer": "Bank of Botswana",
     "title": "50 Pula",
-    "description": "President Sir Seretse Khama.",
+    "description": "Sir Seretse Khama (1921–1980), founding President of Botswana, is prominently featured on the obverse of this brown and yellow 50 Pula note, accompanied by a malachite kingfisher. The reverse depicts the iconic Okavango Delta swamps with a traditional mokoro and African fish eagle, symbolizing Botswana's natural treasures.",
     "hue": 23,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/BOT0032o.jpg",
     "slug": "botswana-50-pula-e76",
-    "body": "The 50 Pula note issued by Bank of Botswana represents a 2024 emission in Botswana's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2024 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
-    "highlights": {},
+    "body": "Circulated since August 23, 2009, this 50 Pula note celebrates Sir Seretse Khama, Botswana's revered founding President who led the nation to independence in 1966 and established democratic governance. The obverse features Khama's portrait alongside the Botswana coat of arms and a malachite kingfisher, a symbol of the nation's natural heritage. The reverse showcases the Okavango Delta, one of Africa's most pristine wilderness areas, with a poler navigating a traditional mokoro (dugout canoe) beneath an African fish eagle—representing Botswana's commitment to wildlife conservation. Security features include a StarChrome windowed security thread with demetalized 'BOB 50' text and color-shifting properties, a watermark depicting a rearing zebra, and electrotype '50' details.",
+    "highlights": {
+      "reason": "Honors Sir Seretse Khama, founding President and architect of Botswana's independence and democracy.",
+      "design": "Obverse: Portrait of Sir Seretse Khama in brown/yellow coloration, malachite kingfisher, Botswana coat of arms. Reverse: Okavango Delta scene with mokoro and African fish eagle.",
+      "security": "StarChrome windowed security thread with demetalized BOB 50, watermark of rearing zebra, electrotype 50, cornerstones security element"
+    },
     "sources": [
-      "Bank of Botswana"
+      "https://www.bankofbotswana.bw/",
+      "https://en.wikipedia.org/wiki/Botswana_pula",
+      "https://banknotenews.com/?p=49936"
     ],
-    "confidence": "fallback"
+    "confidence": "official"
   },
   {
     "id": "e77",
     "year": 2024,
-    "date": "2024",
+    "date": "First half of 2026",
     "country": "Brunei",
-    "issuer": "Negara Brunei Darussalam",
+    "issuer": "Autoriti Monetari Brunei Darussalam",
     "title": "1 Brunei Dollar",
-    "description": "Sultan Hassan al-Bolkiah I; bunga simpur (Dillenia suffruticosa) flower.",
+    "description": "His Majesty Sultan Hassanal Bolkiah Mu'izzaddin Waddaulah appears in formal military attire and traditional dastar on the obverse. The note features the bunga simpur (Dillenia suffruticosa), Brunei's national flower, alongside the Sultan Omar Ali Saifuddien mosque and the royal ceremonial barge (Mahligai).",
     "hue": 143,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/BRUW0041o.jpg",
     "slug": "brunei-1-brunei-dollar-e77",
-    "body": "Sultan Hassan al-Bolkiah I; bunga simpur (Dillenia suffruticosa) flower.",
-    "highlights": {},
+    "body": "Scheduled for circulation in the first half of 2026, this 1 Brunei Dollar note is part of the new GUARDIAN™ polymer series announced on September 22, 2025. The denomination presents Sultan Hassanal Bolkiah alongside the bunga simpur (Dillenia suffruticosa), Brunei's national flower. The obverse also features the Sultan Omar Ali Saifuddien mosque and the Mahligai (royal ceremonial barge), iconic symbols of Brunei's Islamic heritage. The GUARDIAN™ polymer substrate provides enhanced durability and waterproofing. DOMINO™ tactile marks—raised dots in a unique arrangement for this denomination—enable visually impaired users to identify the note.",
+    "highlights": {
+      "reason": "Introduces redesigned polymer currency series; honors Sultan Hassanal Bolkiah and celebrates Brunei's national botanical heritage.",
+      "design": "Obverse: Portrait of Sultan Hassanal Bolkiah in military uniform and dastar, bunga simpur flower, Brunei coat of arms. Reverse: Sultan Omar Ali Saifuddien mosque, Mahligai ceremonial barge.",
+      "security": "Color-shifting inks, dynamic window effects, DOMINO™ tactile marks (single dot pattern), GUARDIAN™ polymer substrate"
+    },
     "sources": [
-      "Negara Brunei Darussalam"
+      "https://banknotenews.com/?p=49669",
+      "https://en.wikipedia.org/wiki/Brunei_dollar"
     ],
-    "confidence": "fallback"
+    "confidence": "official"
   },
   {
     "id": "e78",
     "year": 2024,
-    "date": "2024",
+    "date": "First half of 2026",
     "country": "Brunei",
-    "issuer": "Negara Brunei Darussalam",
+    "issuer": "Autoriti Monetari Brunei Darussalam",
     "title": "5 Brunei Dollars",
-    "description": "Sultan Hassan al-Bolkiah I, bunga kunyit (Curcuma longa) flower.",
+    "description": "Sultan Hassanal Bolkiah appears in military dress and dastar on the obverse of this 5 Brunei Dollar note alongside the bunga kunyit (Curcuma longa), the turmeric plant. The Lapau (Royal Ceremonial Hall) provides architectural context on the obverse design.",
     "hue": 74,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/BRUW0042o.jpg",
     "slug": "brunei-5-brunei-dollars-e78",
-    "body": "Sultan Hassan al-Bolkiah I, bunga kunyit (Curcuma longa) flower.",
-    "highlights": {},
+    "body": "Part of the 2026 polymer banknote series announced in September 2025, the 5 Brunei Dollar note continues the tradition of honoring Sultan Hassanal Bolkiah while introducing a different native Brunei flower. The bunga kunyit (Curcuma longa), commonly known as turmeric, represents the nation's botanical diversity and its historical significance in traditional medicine and culinary practices throughout Southeast Asia. The Lapau, Brunei's Royal Ceremonial Hall, appears on the obverse as an important venue for state functions and cultural events. GUARDIAN™ polymer construction ensures durability in tropical climates. Color-shifting inks and dynamic window security elements provide authentication, while DOMINO™ tactile embossed marks in a multi-dot pattern unique to this denomination enable accessibility.",
+    "highlights": {
+      "reason": "Celebrates Brunei's botanical heritage through the turmeric plant; honors Sultan Hassanal Bolkiah with modernized polymer technology.",
+      "design": "Obverse: Portrait of Sultan Hassanal Bolkiah in uniform and dastar, bunga kunyit (turmeric) flower, Lapau Royal Ceremonial Hall, Brunei coat of arms. Reverse: Complementary national iconography.",
+      "security": "Optically variable inks, dynamic window effects, DOMINO™ tactile embossed marks (multi-dot pattern unique to denomination), GUARDIAN™ polymer substrate"
+    },
     "sources": [
-      "Negara Brunei Darussalam"
+      "https://banknotenews.com/?p=49673",
+      "https://en.wikipedia.org/wiki/Brunei_dollar"
     ],
-    "confidence": "fallback"
+    "confidence": "official"
   },
   {
     "id": "e79",
     "year": 2024,
-    "date": "2024",
+    "date": "First half of 2026",
     "country": "Brunei",
-    "issuer": "Negara Brunei Darussalam",
+    "issuer": "Autoriti Monetari Brunei Darussalam",
     "title": "10 Brunei Dollars",
-    "description": "Sultan Hassan al-Bolkiah I, rancah rancah (Cosmos caudatus) flower.",
+    "description": "Sultan Hassanal Bolkiah in formal military attire and traditional dastar is featured alongside the rancah rancah (Cosmos caudatus), an ornamental flowering plant. The impressive Jame' Asr Hassanil Bolkiah mosque in Bandar Seri Begawan dominates the reverse, showcasing Brunei's Islamic heritage.",
     "hue": 28,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/BRUW0043o.jpg",
     "slug": "brunei-10-brunei-dollars-e79",
-    "body": "Sultan Hassan al-Bolkiah I, rancah rancah (Cosmos caudatus) flower.",
-    "highlights": {},
+    "body": "Part of the 2026 GUARDIAN™ polymer series, the 10 Brunei Dollar note presents Sultan Hassanal Bolkiah alongside the rancah rancah (Cosmos caudatus), a flowering plant valued for both ornamental and culinary purposes. The Jame' Asr Hassanil Bolkiah mosque, one of Southeast Asia's largest and most spectacular mosque structures completed in 1994 and named after the Sultan, is featured on this denomination. GUARDIAN™ polymer construction ensures durability in Brunei's tropical climate. Color-shifting inks and dynamic window security elements provide authentication, while DOMINO™ tactile marks in a distinctive three-dot pattern arrangement enable visually impaired identification.",
+    "highlights": {
+      "reason": "Honors Sultan Hassanal Bolkiah and Brunei's Islamic heritage through the Jame' Asr Hassanil Bolkiah mosque; celebrates the rancah rancah ornamental flower.",
+      "design": "Obverse: Sultan Hassanal Bolkiah in uniform and dastar, rancah rancah (Cosmos caudatus) flower, Brunei coat of arms. Reverse: Jame' Asr Hassanil Bolkiah mosque in Bandar Seri Begawan.",
+      "security": "Color-shifting inks, dynamic window effects, DOMINO™ tactile marks (three-dot pattern), GUARDIAN™ polymer substrate"
+    },
     "sources": [
-      "Negara Brunei Darussalam"
+      "https://banknotenews.com/?p=49677",
+      "https://en.wikipedia.org/wiki/Brunei_dollar"
     ],
-    "confidence": "fallback"
+    "confidence": "official"
   },
   {
     "id": "e80",
     "year": 2024,
-    "date": "2024",
+    "date": "First half of 2026",
     "country": "Brunei",
-    "issuer": "Negara Brunei Darussalam",
+    "issuer": "Autoriti Monetari Brunei Darussalam",
     "title": "100 Brunei Dollars",
-    "description": "Sultan Hassan al-Bolkiah I, Melastoma malabathricum flower.",
+    "description": "Sultan Hassanal Bolkiah appears in formal military dress and dastar on the obverse, accompanied by the kuduk-kuduk (Melastoma malabathricum), a striking blue-purple flowering plant native to Brunei. The Jame' Asr Hassanil Bolkiah mosque reinforces Islamic themes on the reverse.",
     "hue": 24,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/BRUW0045o.jpg",
     "slug": "brunei-100-brunei-dollars-e80",
-    "body": "Sultan Hassan al-Bolkiah I, Melastoma malabathricum flower.",
-    "highlights": {},
+    "body": "As part of the 2026 GUARDIAN™ polymer series, the 100 Brunei Dollar note features Sultan Hassanal Bolkiah alongside the kuduk-kuduk (Melastoma malabathricum), known as Singapore rhododendron, with striking blue-purple blooms that hold medicinal significance in traditional Southeast Asian medicine. The Jame' Asr Hassanil Bolkiah mosque appears again on this denomination as a unifying design element, emphasizing Brunei's Islamic foundation. GUARDIAN™ polymer substrate provides exceptional durability for this high-circulation note, with advanced anti-counterfeiting measures including optically variable inks and sophisticated window features. DOMINO™ tactile embossed marks in a unique multi-dot arrangement specific to the 100 denomination assist visually impaired users.",
+    "highlights": {
+      "reason": "Celebrates Brunei's natural flora and Islamic heritage; advances security technology for higher denomination.",
+      "design": "Obverse: Sultan Hassanal Bolkiah in military uniform and dastar, kuduk-kuduk (Melastoma malabathricum) flower, Brunei coat of arms. Reverse: Jame' Asr Hassanil Bolkiah mosque.",
+      "security": "Optically variable inks, dynamic window effects with animated elements, DOMINO™ tactile marks (unique multi-dot pattern), GUARDIAN™ polymer substrate"
+    },
     "sources": [
-      "Negara Brunei Darussalam"
+      "https://banknotenews.com/?p=49681",
+      "https://en.wikipedia.org/wiki/Brunei_dollar"
     ],
-    "confidence": "fallback"
+    "confidence": "official"
   },
   {
     "id": "e81",
     "year": 2024,
-    "date": "2024",
+    "date": "First half of 2026",
     "country": "Brunei",
-    "issuer": "Negara Brunei Darussalam",
+    "issuer": "Autoriti Monetari Brunei Darussalam",
     "title": "500 Brunei Dollars",
-    "description": "Sultan Hassan al-Bolkiah I.",
+    "description": "Al-Marhum Sultan Haji Omar 'Ali Saifuddien Sa'adul Khairi Waddien, the former Sultan and father of the current reign, is honored on this 500 Brunei Dollar note. The obverse features the tepus kantan (Etlingera solaris), a medicinal flowering ginger plant representing Brunei's botanical heritage.",
     "hue": 181,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/BRUW0046o.jpg",
     "slug": "brunei-500-brunei-dollars-e81",
-    "body": "The 500 Brunei Dollars note issued by Negara Brunei Darussalam represents a 2024 emission in Brunei's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2024 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
-    "highlights": {},
+    "body": "The highest denomination in the 2026 GUARDIAN™ polymer series, the 500 Brunei Dollar note pays tribute to Al-Marhum Sultan Haji Omar 'Ali Saifuddien Sa'adul Khairi Waddien (1914–1986), the previous Sultan and father of the current reigning Sultan. Omar 'Ali Saifuddien transformed Brunei from a protectorate into a sovereign nation and established the foundation of modern Brunei Darussalam. The note features the tepus kantan (Etlingera solaris), a flowering ginger plant valued in traditional Brunei medicine and cuisine. This denomination employs the most advanced security features in the series. GUARDIAN™ polymer construction combined with state-of-the-art anti-counterfeiting measures ensures the 500 note resists fraud and counterfeiting.",
+    "highlights": {
+      "reason": "Honors former Sultan Omar 'Ali Saifuddien who established modern Brunei as a sovereign nation; celebrates medicinal ginger plant heritage.",
+      "design": "Obverse: Portrait of Al-Marhum Sultan Haji Omar 'Ali Saifuddien, tepus kantan (Etlingera solaris) flowering ginger, Brunei coat of arms. Reverse: National imagery honoring Brunei's historical leadership.",
+      "security": "Advanced color-shifting inks, sophisticated window features with animated effects, DOMINO™ tactile marks (most distinctive pattern for highest denomination), GUARDIAN™ polymer substrate"
+    },
     "sources": [
-      "Negara Brunei Darussalam"
+      "https://en.wikipedia.org/wiki/Brunei_dollar",
+      "https://noteshobby.com/blogs/banknote/brunei-2026-polymer-banknotes"
     ],
-    "confidence": "fallback"
+    "confidence": "secondary"
   },
   {
     "id": "e82",
