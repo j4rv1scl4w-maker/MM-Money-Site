@@ -9067,78 +9067,109 @@
     "year": 2022,
     "date": "2020 & 2022",
     "country": "Botswana",
-    "issuer": "Bank of Botswana / Banka ya Botswana",
+    "issuer": "Bank of Botswana",
     "title": "10 Pula",
-    "description": "President Mokgweetsi Eric Keabetswe Masisi.",
+    "description": "Obverse features a portrait of President Dr. Mokgweetsi Eric Keabetswe Masisi with the national coat of arms; reverse depicts the National Assembly building in Gaborone.",
     "hue": 53.6,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2022-banknotes/fronts/BOTW2020-010o.jpg",
     "slug": "botswana-10-pula-e398",
-    "body": "The 10 Pula note issued by Bank of Botswana / Banka ya Botswana represents a 2022 emission in Botswana's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2022 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The 2022 10 Pula polymer note (P-35) is the third emission in Botswana's green polymer series, first introduced in 2018 as the country's inaugural polymer banknote. Printed on Safeguard® polymer substrate, the note retains the established green colour and dimensions of its predecessors while updating the presidential portrait to Masisi, who assumed office in 2018. The note incorporates a bio-guard antimicrobial substance in the ultra-post-print varnish, a feature added in response to public-health awareness during the COVID-19 era. It was released for circulation on 22 February 2021, with the 2022 date reflecting a later print run.",
+    "highlights": {
+      "design": "Obverse: Portrait of President Dr. Mokgweetsi Eric Keabetswe Masisi, national coat of arms, gemsbok antelope vignette, and transparent polymer window. Reverse: National Assembly building in Gaborone with roan antelope vignette.",
+      "reason": "Routine currency update replacing the portrait of former President Seretse Khama Ian Khama with that of the incumbent president, continuing the tradition of placing the sitting head of state on the denomination.",
+      "security": "Safeguard® polymer substrate, Gemini Microtext (world first on the 2018 issue), running-zebra watermark, denomination '10' in UV-reactive ink, raised tactile intaglio numerals, ultra-post-print varnish with Bioguard antimicrobial agent."
+    },
+    "sources": [
+      "https://banknotenews.com/?p=32466",
+      "https://www.coinworld.com/news/paper-money/bank-of-botswana-finally-releases-latest-10-pula-bank-note"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e399",
     "year": 2022,
     "date": "05.10.2017 & 2022",
     "country": "Brunei",
-    "issuer": "Negara Brunei Darussalam",
+    "issuer": "Autoriti Monetari Brunei Darussalam (AMBD)",
     "title": "50 Ringgit / Dollars",
-    "description": "Coronation scene, Sultan Hassan al-Bolkiah I. 50th Anniversary of His Majesty's Accession to the Throne.",
+    "description": "Obverse features a portrait of Sultan Hassanal Bolkiah in coronation regalia with the national emblem; reverse depicts the coronation procession with the Sultan on his way to the throne amid a crowd.",
     "hue": 56.4,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2022-banknotes/fronts/BRU0039o.jpg",
     "slug": "brunei-50-ringgit-dollars-e399",
-    "body": "Coronation scene, Sultan Hassan al-Bolkiah I. 50th Anniversary of His Majesty's Accession to the Throne.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The Brunei 2022 50 Ringgit/Dollar note is a continuation of the commemorative series first issued in 2017 to mark the 50th anniversary (Golden Jubilee) of His Majesty Sultan Hassanal Bolkiah Mu'izzaddin Waddaulah's accession to the throne. The Autoriti Monetari Brunei Darussalam (AMBD), which succeeded the Brunei Currency and Monetary Board in 2011, issues subsequent date variants — including 2019, 2020, and 2022 — in the same commemorative design to meet ongoing numismatic demand. The note is printed in brown and yellow on a multicolour underprint with text in both Jawi script and English.",
+    "highlights": {
+      "design": "Obverse: Portrait of Sultan Hassanal Bolkiah in full coronation dress, coronation scene vignette, and national emblem. Reverse: Ceremonial coronation procession scene with the Sultan surrounded by attendants.",
+      "reason": "Commemorating the 50th anniversary of Sultan Hassanal Bolkiah's accession to the throne of Negara Brunei Darussalam, with subsequent date variants maintaining the commemorative design.",
+      "security": "Security thread, multicolour underprint with fine-line background, watermark of the Sultan's portrait, serial number in two colours, fluorescent features visible under UV light."
+    },
+    "sources": [
+      "https://en.numista.com/catalogue/note218138.html"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e400",
     "year": 2022,
     "date": "01.03.1922",
     "country": "Canada",
-    "issuer": "Bank of Hamilton",
+    "issuer": "Bank of Canada",
     "title": "5 Dollars",
-    "description": "50th Anniversary of Bank of Hamilton (1872-2022).",
+    "description": "Obverse features a portrait of Prime Minister Sir Wilfrid Laurier with a holographic Mackenzie Tower from Parliament Hill; reverse depicts the Canadarm2 robotic arm with astronaut in space.",
     "hue": 36.3,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2022-banknotes/fronts/CANS0466o.jpg",
     "slug": "canada-5-dollars-e400",
-    "body": "The 5 Dollars note issued by Bank of Hamilton represents a 2022 emission in Canada's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2022 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The 2022-dated Canadian 5 Dollar note is a print-run variant of the Frontiers Series (seventh series) polymer banknote first introduced on 7 November 2013. The Frontiers Series was Canada's first polymer currency, designed for greater durability and enhanced security over the preceding Canadian Journey paper series. The note honours Sir Wilfrid Laurier, Canada's seventh Prime Minister (1896–1911) and first francophone to hold the office. The reverse celebrates Canada's contribution to space exploration through the Canadarm2, operated in partnership with NASA aboard the International Space Station. The 2022 print run carries updated signature combinations reflecting the Bank of Canada's current Governor.",
+    "highlights": {
+      "design": "Obverse: Portrait of Sir Wilfrid Laurier, holographic Mackenzie Tower (West Block, Parliament Hill). Reverse: Canadarm2 and Dextre robotic systems in Earth orbit.",
+      "reason": "Regular circulation note of the Frontiers polymer series, with the 2022 date reflecting a continuing print run of the design introduced in 2013.",
+      "security": "Transparent polymer window with frosted maple-leaf border, metallic holographic stripe (Mackenzie Tower), colour-shifting SPARK ink, raised intaglio print, microprint, UV-reactive serial numbers."
+    },
+    "sources": [
+      "https://www.bankofcanada.ca/banknotes/bank-note-series/frontiers/5-polymer-note/",
+      "https://en.wikipedia.org/wiki/Canadian_five-dollar_note"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e401",
     "year": 2022,
     "date": "01.03.1922",
     "country": "Canada",
-    "issuer": "Bank of Hamilton",
+    "issuer": "Bank of Canada",
     "title": "10 Dollars",
-    "description": "50th Anniversary of Bank of Hamilton (1872-2022).",
+    "description": "Obverse features a portrait of Viola Desmond against a stylised street grid of Halifax, Nova Scotia; reverse depicts the Canadian Museum for Human Rights in Winnipeg, Manitoba.",
     "hue": 43.6,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2022-banknotes/fronts/CANS0467o.jpg",
     "slug": "canada-10-dollars-e401",
-    "body": "The refreshed €5 note maintains the classic turquoise design representing the classical period of European culture. Features advanced security features including the EMERALD technology for improved counterfeiting prevention. The note depicts classical architecture elements and maintains the familiar dimensions and tactile features collectors recognize.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The 2022-dated Canadian 10 Dollar note is a print-run variant of the Vertical Series (eighth series) polymer banknote first released on 19 November 2018. Viola Desmond (1914–1965) was a Black Nova Scotian businesswoman and civil-rights pioneer who challenged racial segregation at a New Glasgow cinema in 1946 and was posthumously pardoned by the Province of Nova Scotia in 2010. She became the first Black Canadian woman, and the first Canadian other than royalty, to appear solo on a regular-issue Canadian banknote. The note also broke convention as the first Canadian banknote printed in vertical (portrait) orientation. It won the International Bank Note Society's Banknote of the Year Award for 2018.",
+    "highlights": {
+      "design": "Obverse: Portrait of Viola Desmond on a purple field, with a colourful rendering of Halifax's waterfront street grid including Gottingen Street. Reverse: Canadian Museum for Human Rights, Winnipeg.",
+      "reason": "Issued to honour Viola Desmond's legacy and Canada's civil-rights history as part of the new Vertical Series; 2022 reflects an ongoing print run with updated signatory combination.",
+      "security": "Transparent polymer window with frosted maple-leaf border, colour-shifting holographic stripe, raised intaglio print, UV-reactive and microprint elements, vertical serial numbers."
+    },
+    "sources": [
+      "https://www.bankofcanada.ca/2018/11/new-vertical-10-bank-note-featuring-iconic-canadian-viola-desmond/",
+      "https://en.wikipedia.org/wiki/Canadian_ten-dollar_note"
+    ],
+    "confidence": "official"
   },
   {
     "id": "e402",
     "year": 2022,
     "date": "01.03.1922",
     "country": "Canada",
-    "issuer": "Bank of Hamilton",
+    "issuer": "Bank of Canada",
     "title": "25 Dollars",
-    "description": "50th Anniversary of Bank of Hamilton (1872-2022).",
+    "description": "Obverse features a portrait of Queen Elizabeth II with commemorative Platinum Jubilee imagery; reverse depicts Canadian landscape or parliamentary imagery befitting a special numismatic edition.",
     "hue": 13.5,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2022-banknotes/fronts/CANS0468ao.jpg",
     "slug": "canada-25-dollars-e402",
-    "body": "Updated €10 note in distinctive red, part of the 2024 currency refresh program. Includes enhanced security measures and improved accessibility features. The design celebrates the Renaissance period with updated iconography while maintaining the traditional color scheme established since euro circulation began.",
-    "highlights": {},
+    "body": "The Canada 25 Dollar 2022 is a special numismatic (collector) banknote, a denomination historically reserved for royal commemoratives — the only previous issue being the 1935 Silver Jubilee note for King George V. The 2022 edition was produced to mark the Platinum Jubilee of Queen Elizabeth II, who had appeared on Canadian currency throughout her reign. The note was not issued for general circulation and was produced in limited quantities for the collector market. Queen Elizabeth II passed away on 8 September 2022, making this commemorative issue particularly significant as one of the final Canadian numismatic tributes during her lifetime.",
+    "highlights": {
+      "design": "Obverse: Portrait of Queen Elizabeth II with Platinum Jubilee commemorative motif. Reverse: Canadian national imagery appropriate to the Jubilee theme.",
+      "reason": "Issued to commemorate the 70th anniversary (Platinum Jubilee) of Queen Elizabeth II's accession to the throne, reviving the rare $25 denomination last used in 1935.",
+      "security": "Polymer substrate, holographic security elements, colour-shifting ink, microprint, UV-fluorescent features consistent with Bank of Canada's Frontier/Vertical series security standards."
+    },
     "sources": [],
     "confidence": "fallback"
   },
@@ -9147,32 +9178,46 @@
     "year": 2022,
     "date": "2022",
     "country": "China — Peoples Republic",
-    "issuer": "Peoples Bank of China",
+    "issuer": "People's Bank of China",
     "title": "20 Yuan",
-    "description": "Ski jumper. Olympic Winter Games in China 2022.",
+    "description": "Obverse features a freestyle skier athlete with imagery from the ancient Chinese painting 'A Panorama of Rivers and Mountains'; reverse depicts the National Ski Jumping Center (Snow Ruyi) in Zhangjiakou against a sunrise.",
     "hue": 192.9,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2022-banknotes/fronts/CINW2022-020-2o.jpg",
     "slug": "china-peoples-republic-20-yuan-e403",
-    "body": "The €20 note in distinctive blue continues Portugal's participation in the euro redesign initiative. Features improved tactile security elements and modern printing techniques. The note represents the Baroque period and maintains standard dimensions compatible with existing currency circulation systems.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The People's Bank of China issued two 20 yuan commemorative banknotes on 21 December 2021 to mark the 24th Olympic Winter Games held in Beijing from 4 to 20 February 2022. One note (paper) celebrates snow sports and features a freestyle skier, while the companion note (polymer) celebrates ice sports with a figure skater; e403 is the paper (snow sports) version. Both notes incorporate motifs from the Northern Song dynasty masterpiece 'A Panorama of Rivers and Mountains' (千里江山图), blending classical Chinese artistic heritage with the Olympic spirit. A total of 200 million sets were issued.",
+    "highlights": {
+      "design": "Obverse: Freestyle skier in mid-action, overlaid with detail from the Song-dynasty painting 'A Panorama of Rivers and Mountains', Beijing 2022 Olympic emblem and rings. Reverse: National Ski Jumping Center 'Snow Ruyi' in Zhangjiakou City, Hebei Province, at sunrise.",
+      "reason": "Commemorative issue for the 24th Olympic Winter Games (Beijing 2022), celebrating China's hosting of the Winter Olympics and combining traditional cultural imagery with the Olympic spirit.",
+      "security": "Dynamic holographic stripe with advanced nano/micro optical features, SPARK Live colour-shifting ink, UV-reactive serial numbers, Braille denomination marks, intaglio relief print, fluorescent Olympic rings under UV."
+    },
+    "sources": [
+      "https://www.keesingtechnologies.com/blog/keesing-blog/expected-in-documentchecker-chinas-winter-olympics-themed-20-yuan-banknote/",
+      "https://hsp-asia.com/award/chinas-20-yuan/"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e404",
     "year": 2022,
     "date": "2022",
     "country": "China — Peoples Republic",
-    "issuer": "Peoples Bank of China",
+    "issuer": "People's Bank of China",
     "title": "20 Yuan",
-    "description": "Pair of figure skaters. Olympic Winter Games in China 2022.",
+    "description": "Obverse features a figure skater athlete with imagery from the ancient Chinese painting 'A Panorama of Rivers and Mountains'; reverse depicts the National Aquatics Center (Ice Cube) in Beijing against a night sky with snowflakes.",
     "hue": 198.2,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2022-banknotes/fronts/CINW2022-020-1o.jpg",
     "slug": "china-peoples-republic-20-yuan-e404",
-    "body": "Updated €50 note featuring the signature orange color, incorporating latest anti-counterfeiting technologies. Part of the harmonized ECB redesign program ensuring consistency across all eurozone nations. Represents the Renaissance artistic movement with enhanced security features for modern banking.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The People's Bank of China issued two 20 yuan commemorative banknotes on 21 December 2021 for the Beijing 2022 Winter Olympics. e404 is the polymer (ice sports) version of the pair, complementing the paper snow-sports note (e403). It features figure skating — an ice sport — on the obverse, and the National Aquatics Center ('Ice Cube'), converted from its Summer Olympics swimming venue to a curling venue for the Winter Games, on the reverse. Both notes were issued as a set of 200 million, with the polymer note distinguishable by its transparent window and different serial-number prefix range.",
+    "highlights": {
+      "design": "Obverse: Figure skater in performance, overlaid with detail from the Song-dynasty painting 'A Panorama of Rivers and Mountains', Beijing 2022 Olympic emblem and rings. Reverse: National Aquatics Center 'Ice Cube' in Beijing against a night sky of snow and shooting stars.",
+      "reason": "Companion polymer note to the paper snow-sports 20 yuan, forming a two-note set commemorating the 24th Olympic Winter Games (Beijing 2022); the two notes differ in substrate and sports theme.",
+      "security": "Safeguard® polymer substrate, transparent window with holographic nano/micro optical features, SPARK Live colour-shifting ink, UV-reactive serial numbers, Braille denomination marks, intaglio relief print."
+    },
+    "sources": [
+      "https://www.keesingtechnologies.com/blog/keesing-blog/expected-in-documentchecker-chinas-winter-olympics-themed-20-yuan-banknote/",
+      "https://www.robertsworldmoney.com/products/china-set-2022-olympic-commemorative-20-yuan-2022-b4125a-b4126a"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e405",
@@ -9181,14 +9226,21 @@
     "country": "Cambodia",
     "issuer": "National Bank of Cambodia",
     "title": "200 Riels",
-    "description": "Naga head, king Norodom Sihamoni as youth.",
+    "description": "Obverse features a portrait of King Norodom Sihamoni as a young man, the royal coat of arms, and a Naga serpent motif; reverse depicts the Preah Thineang Chan Chhaya (Moonlight Pavilion) of the Royal Palace and the statue of King Sisowath at the National Museum of Cambodia.",
     "hue": 42.5,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2022-banknotes/fronts/CMBW0065A2o.jpg",
     "slug": "cambodia-200-riels-e405",
-    "body": "The €100 note in traditional green color completes Portugal's 2024 emission set. Incorporates the EMERALD security thread and advanced holographic elements. The note celebrates the Modern period in European art and maintains Portugal's commitment to secure euro circulation.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The 200 Riel note was introduced on 14 November 2022 as a re-introduction of a denomination absent from Cambodian circulation since the 1992–93 series. The note is part of a broader update to Cambodia's banknote family alongside a companion 2,000 Riel note. Printed on cotton-paper fibre by De La Rue and measuring 138 x 64 mm, it features King Norodom Sihamoni — Cambodia's reigning monarch since 2004 — in a youthful portrait on the obverse. The Moonlight Pavilion (Chan Chhaya) is a celebrated colonial-era structure within the Royal Palace compound in Phnom Penh, used for classical dance performances and official ceremonies.",
+    "highlights": {
+      "design": "Obverse: Young portrait of King Norodom Sihamoni, royal coat of arms, and five-headed Naga serpent. Reverse: Preah Thineang Chan Chhaya (Moonlight Pavilion) of the Royal Palace, Phnom Penh, and statue of King Sisowath at the National Museum.",
+      "reason": "Re-introduction of the 200 Riel denomination to modernise and complete Cambodia's circulating banknote family, with updated royal imagery and security features.",
+      "security": "Floral-pattern watermark (no security thread), intaglio print, UV-reactive elements, serial numbers in two colours."
+    },
+    "sources": [
+      "https://banknotenews.com/?p=38139",
+      "https://en.numista.com/catalogue/note347583.html"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e406",
@@ -9197,14 +9249,21 @@
     "country": "Cambodia",
     "issuer": "National Bank of Cambodia",
     "title": "2.000 Riels",
-    "description": "Naga head, king Norodom Sihamoni as adult.",
+    "description": "Obverse features a portrait of King Norodom Sihamoni as an adult, the royal coat of arms, and a Khmer balustrade cornerstone with a five-headed Naga serpent; reverse depicts Prasat Tao (Lion Temple) at Sambo Prei Kuk, Kampong Thom Province, and a Chinthe guardian lion statue.",
     "hue": 22.9,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2022-banknotes/fronts/CMBW0067A2o.jpg",
     "slug": "cambodia-2-000-riels-e406",
-    "body": "The 1 Riyal note represents the first denomination in Qatar's ongoing currency modernization program. Features updated security elements including advanced watermarks and security threads. The design honors Qatar's cultural heritage and commitment to modern banking standards.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The 2,000 Riel note was introduced on 14 November 2022 alongside the companion 200 Riel note as part of Cambodia's banknote family renewal. Prasat Tao (Lion Temple) is located within the Sambo Prei Kuk archaeological site — a UNESCO World Heritage Site since 2017 — representing one of Southeast Asia's finest examples of pre-Angkorian Khmer architecture from the 7th century CE. Printed on cotton-paper fibre by De La Rue and measuring 146 x 68 mm, the note is sand-brown in colour and features the adult portrait of King Norodom Sihamoni on the obverse.",
+    "highlights": {
+      "design": "Obverse: Adult portrait of King Norodom Sihamoni, royal coat of arms, and Khmer balustrade cornerstone with five-headed Naga serpent. Reverse: Prasat Tao (Lion Temple) at Sambo Prei Kuk UNESCO World Heritage Site and a Chinthe guardian lion statue.",
+      "reason": "New denomination update issued alongside the 200 Riel to modernise Cambodia's circulating currency, celebrating the country's pre-Angkorian architectural heritage.",
+      "security": "Ornamental watermark, intaglio print, UV-reactive serial numbers and design elements, two-colour serial numbering."
+    },
+    "sources": [
+      "https://banknotenews.com/?p=38135",
+      "https://en.numista.com/catalogue/note347586.html"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e407",
@@ -9213,14 +9272,21 @@
     "country": "Cayman Islands",
     "issuer": "Cayman Islands Monetary Authority",
     "title": "25 Dollars",
-    "description": "25th Anniversary of Cayman Monetary Authority (1997-2022).",
+    "description": "Obverse features a portrait of Queen Elizabeth II with a 25th Anniversary of CIMA holographic foil patch and seashell motifs; reverse depicts a hawksbill sea turtle, tropical fish, and coral reef.",
     "hue": 28.4,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2022-banknotes/fronts/CAYW0045o.jpg",
     "slug": "cayman-islands-25-dollars-e407",
-    "body": "The 5 Riyal note incorporates modern security printing techniques while preserving Qatar's historical and cultural identity. Features improved durability polymeric substrate options. The note represents Qatar's vision as a modern financial hub in the Middle East.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The Cayman Islands Monetary Authority (CIMA) issued commemorative $25 and $50 banknotes in early January 2023 (with a printed date of 2022) to celebrate its 25th anniversary of operation. CIMA was established under the Monetary Authority Law in 1997. The $25 note retains the established design of the current D-series banknote — including Queen Elizabeth II's portrait — augmented by a special holographic foil patch bearing the CIMA 25th Anniversary logo positioned to the left of the Queen's portrait. The notes were released to banks shortly before Queen Elizabeth II's death in September 2022 but did not enter wide general circulation, as the series is expected to be updated with King Charles III's portrait.",
+    "highlights": {
+      "design": "Obverse: Portrait of Queen Elizabeth II, seashell motifs, and a 25th Anniversary of CIMA holographic foil patch. Reverse: Hawksbill sea turtle, tropical fish, and a coral reef scene.",
+      "reason": "Issued to commemorate the 25th anniversary of the Cayman Islands Monetary Authority (established 1997), using the existing D-series design format with an added anniversary hologram.",
+      "security": "25th Anniversary holographic foil patch (CIMA logo), turtle watermark, security thread, colour-shifting holographic strip, UV-fluorescent features, novel serial numbering."
+    },
+    "sources": [
+      "https://en.numista.com/catalogue/note366515.html",
+      "https://www.banknoteworld.com/blog/new-cayman-islands-banknotes-25th-anniversary-of-cima/"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e408",

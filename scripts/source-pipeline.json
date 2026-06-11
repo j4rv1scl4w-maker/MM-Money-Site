@@ -1,9 +1,9 @@
 {
   "description": "Pipeline per arricchire le emissions con URL reali. Processa in batch da 10, ogni batch viene committato.",
   "total": 493,
-  "processed": 358,
+  "processed": 368,
   "batch_size": 10,
-  "last_committed_batch": 32,
+  "last_committed_batch": 33,
   "items": [
     {
       "id": "e47",
@@ -4540,7 +4540,7 @@
         "Bank of Botswana / Banka ya Botswana"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -4552,7 +4552,7 @@
         "Negara Brunei Darussalam"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -4564,7 +4564,7 @@
         "Bank of Hamilton"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -4576,7 +4576,7 @@
         "Central Bank of Portugal (Banco de Portugal)"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -4588,7 +4588,7 @@
         "Central Bank of Portugal (Banco de Portugal)"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -4600,7 +4600,7 @@
         "Central Bank of Portugal (Banco de Portugal)"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -4612,7 +4612,7 @@
         "Central Bank of Portugal (Banco de Portugal)"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -4624,7 +4624,7 @@
         "Central Bank of Portugal (Banco de Portugal)"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -4636,7 +4636,7 @@
         "Qatar Central Bank (Hawkamah - The Central Bank of Qatar)"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -4648,7 +4648,7 @@
         "Qatar Central Bank (Hawkamah - The Central Bank of Qatar)"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
