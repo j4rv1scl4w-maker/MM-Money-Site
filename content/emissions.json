@@ -3587,227 +3587,235 @@
   {
     "id": "e156",
     "year": 2024,
-    "date": "2024",
+    "date": "2024-07-28",
     "country": "Thailand",
-    "issuer": "Government of Thailand",
+    "issuer": "Bank of Thailand",
     "title": "100 Baht",
-    "description": "King Rama X in full Regalia. 6th Cycle (72nd) Birthday of HM King Rama X.",
+    "description": "Thailand 100 Baht commemorative polymer banknote in red, orange, brown, and green featuring King Maha Vajiralongkorn (Rama X) on the 6th cycle (72nd) birthday anniversary.",
     "hue": 30,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/THLW0143o.jpg",
     "slug": "thailand-100-baht-e156",
-    "body": "The 100 Baht note issued by Government of Thailand represents a 2024 emission in Thailand's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2024 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
+    "body": "On June 20, 2024, the Bank of Thailand announced the issuance of a commemorative 100 Baht banknote in honor of the 6th cycle (72nd) birthday anniversary of His Majesty King Maha Vajiralongkorn (Rama X), celebrated on July 28, 2024. The commemorative banknote was printed on polymer substrate using state-of-the-art technology to ensure durability and incorporate advanced counterfeit deterrent features. The note was designed in a vertical format to emphasize the prominence and elegance of the King's image and to distinguish it from standard circulation banknotes.\n\nA total of 10 million notes were issued, each legal tender valued at 100 Baht. The banknotes bear the signatures of Dr. Sethaput Suthiwartnarueput and Srettha Thavisin. The obverse features King Rama X in full regalia with the Knight Grand Cordon (Special Class) of the Most Illustrious Order of Chula Chom Klao breast chain and the Royal Garuda emblem.\n\nThis commemorative issue follows the Thai tradition of honoring royal milestones with specially designed currency. The 6th cycle birthday, corresponding to the 72nd year in the 12-year Buddhist zodiac cycle, holds particular auspicious significance in Thai culture. The vertical format, measuring 89 mm x 163 mm, is distinctive from Thailand's standard horizontally formatted circulation banknotes.",
     "highlights": {
-      "reason": "Japanese currency variant",
-      "design": "Japanese elements",
-      "security": "Security features"
+      "design": "Obverse: King Rama X in full regalia with the Most Illustrious Order of Chula Chom Klao breast chain and Royal Garuda emblem. Reverse: Royal Garuda emblem, King Rama X in ceremonial dress with the Ancient and Auspicious order of nine gems, and a traditional sword. Dimensions: 89 mm x 163 mm vertical format.",
+      "reason": "Commemorative issue for the 6th cycle (72nd) birthday anniversary of King Maha Vajiralongkorn, marking a significant royal occasion in the Thai Buddhist calendar.",
+      "security": "Polymer substrate with state-of-the-art security features designed to deter counterfeiting, incorporating advanced anti-counterfeiting technology developed for modern polymer banknotes."
     },
     "sources": [
-      "Bank of Japan"
+      "https://www.bot.or.th/en/news-and-media/news/news-20240620.html",
+      "https://www.banknoteworld.com/blog/new-commemorative-thai-100-baht-banknote-for-2024/",
+      "https://banknotenews.com/?p=44357"
     ],
-    "confidence": "fallback"
+    "confidence": "official"
   },
   {
     "id": "e157",
     "year": 2024,
-    "date": "2024",
+    "date": "2024-08-15",
     "country": "Transnistria",
-    "issuer": "Pridnestrovskiy Respublikanskiy Bank",
+    "issuer": "Transnistrian Republican Bank",
     "title": "1 Rubl'",
-    "description": "Alexander Suvorov, commemorative overprint. 30th Anniversary of Transnistrian Ruble (1994-2024).",
+    "description": "Transnistria 1 Rubl commemorative banknote issued August 2024 to mark the 30th anniversary of the Transnistrian Ruble, featuring General Alexander Suvorov.",
     "hue": 24,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/TDNW0069B2o.jpg",
     "slug": "transnistria-1-rubl-e157",
-    "body": "The 1 Rubl' note issued by Pridnestrovskiy Respublikanskiy Bank represents a 2024 emission in Transnistria's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2024 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
+    "body": "On August 15, 2024, the Transnistrian Republican Bank introduced a commemorative 1 Rubl banknote marking the 30th anniversary of the introduction of the Transnistrian Ruble, which was first established in 1994 following the dissolution of the Soviet Union. The commemorative design is based on the standard circulation banknote but includes distinctive features to commemorate this milestone. The obverse portrays General Alexander Suvorov, a prominent Russian military commander and historical figure significant to the region.\n\nThe reverse displays the Kitskansky Bridgehead memorial complex, a monument of historical importance in Transnistria honoring those who defended the bridgehead during World War II. The banknote is colored in brown, green, orange, blue, and red, consistent with the standard Transnistrian color palette. A total of 1,500 notes were produced for this commemorative release, making it a limited edition collector's item.\n\nTransnistria, officially the Pridnestrovian Moldavian Republic, is an unrecognized breakaway state located between Moldova and Ukraine. Its currency, the Transnistrian ruble, operates independently of the Moldovan leu and is used exclusively within its territory. The 30th anniversary commemorative note reflects the territory's ongoing effort to assert its distinct identity and monetary sovereignty.",
     "highlights": {
-      "reason": "Japanese currency variant",
-      "design": "Japanese design",
-      "security": "Banknote security"
+      "design": "Standard design featuring General Alexander Suvorov on the obverse and the Kitskansky Bridgehead memorial complex on the reverse, colored in brown, green, orange, blue, and red.",
+      "reason": "Commemorative issue celebrating the 30th anniversary of the Transnistrian Ruble currency introduced in 1994. Limited edition of 1,500 notes.",
+      "security": "Watermark with electrotype Russian text featuring Alexander Suvorov, winged security thread, standard Transnistrian currency anti-counterfeiting features."
     },
     "sources": [
-      "Bank of Japan"
+      "https://www.banknoteworld.com/blog/new-transnistria-1-ruble-commemorative-banknote-for-2024-introduced/",
+      "https://en.numista.com/catalogue/note203746.html"
     ],
-    "confidence": "fallback"
+    "confidence": "secondary"
   },
   {
     "id": "e158",
     "year": 2024,
-    "date": "2024",
+    "date": "2024-08-15",
     "country": "Transnistria",
-    "issuer": "Pridnestrovskiy Respublikanskiy Bank",
+    "issuer": "Transnistrian Republican Bank",
     "title": "1 Rubl'",
-    "description": "Alexander Suvorov, commemorative overprint. 100th Anniversary of the Foundation of the Moldovian ASSR (1924-2024).",
+    "description": "Transnistria 1 Rubl commemorative variant (2024) with red overprint inscription marking 30 years of the Pridnestrovian Ruble, issued in a special folder.",
     "hue": 10,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/TDNW0069C2o.jpg",
     "slug": "transnistria-1-rubl-e158",
-    "body": "The 1 Rubl' note issued by Pridnestrovskiy Respublikanskiy Bank represents a 2024 emission in Transnistria's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2024 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
+    "body": "The August 2024 Transnistrian commemorative 1 Rubl issue features the standard banknote design with a distinctive commemorative red overprint to differentiate it from the base circulation design. This variant is specifically distinguished by the addition of a prominent red-colored inscription and Bank of Pridnestrovie logo overlay on the standard Alexander Suvorov and Kitskansky Bridgehead imagery. The overprint inscription reads: '30 YEARS OF THE PRIDNESTROVIAN RUBLE,' emphasizing the 30-year milestone of the currency since its establishment in 1994.\n\nThis commemorative variant was distributed with a special commemorative folder to collectors and commemorative currency enthusiasts, making it distinct from the standard commemorative issue (e157) which lacks the overprint. Production was limited to 1,500 units, making this a relatively scarce commemorative issue. The note remains legal tender in Transnistria at face value of 1 Rubl.\n\nThe two distinct versions of the 2024 commemorative 1 Rubl note — one plain and one with the red overprint and folder — reflect the Transnistrian Republican Bank's practice of issuing multiple commemorative variants for significant anniversaries, catering to both general commemorative interest and dedicated numismatic collectors.",
     "highlights": {
-      "reason": "Japanese currency variant",
-      "design": "Japanese imagery",
-      "security": "Security elements"
+      "design": "Base design of General Alexander Suvorov and Kitskansky Bridgehead memorial complex, enhanced with red commemorative overprint and Bank of Pridnestrovie logo featuring the inscription '30 YEARS OF THE PRIDNESTROVIAN RUBLE'.",
+      "reason": "Special commemorative variant with red overprint issued to mark the 30th anniversary of the Transnistrian currency system. Distributed in a special commemorative folder, limited to 1,500 units.",
+      "security": "Standard Transnistrian security features including watermark with electrotype Russian text and winged security thread, combined with red-colored commemorative overprint for identification."
     },
     "sources": [
-      "Bank of Japan"
+      "https://www.banknoteworld.com/blog/new-transnistria-1-ruble-commemorative-banknote-for-2024-introduced/",
+      "https://noteshobby.com/products/transnistria-1-ruble-2024-commemorative-30th-anniversary-new-p-69-unc-w-folder"
     ],
-    "confidence": "fallback"
+    "confidence": "secondary"
   },
   {
     "id": "e159",
     "year": 2024,
-    "date": "2010-2024",
+    "date": "2024",
     "country": "Uganda",
     "issuer": "Bank of Uganda",
     "title": "1.000 Shillings",
-    "description": "Stone, forest.",
+    "description": "Uganda 1,000 Shillings banknote in orange from the 2010-2024 series featuring Nyero rock paintings and a Karamojong-dressed figure with SPARK OVI security feature.",
     "hue": 11,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/UGA0049o.jpg",
     "slug": "uganda-1-000-shillings-e159",
-    "body": "The 1.000 Shillings note issued by Bank of Uganda represents a 2024 emission in Uganda's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2024 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
+    "body": "The Uganda 1,000 Shillings banknote is part of the 2010-2024 series designed and printed by De La Rue. The note features distinctive imagery reflecting Uganda's cultural heritage and natural wildlife. The obverse depicts the Nyero rock paintings located in Kumi District, showcasing prehistoric artistic expressions alongside a man wearing a traditional Karamojong headdress, savannah grasslands, the National Coat of Arms, and the map of Uganda.\n\nThe reverse features a Uganda Kob antelope with stylized natural shapes, along with the same Karamojong-dressed figure and the Independence Monument in Kampala. Ugandan basketry and mat patterns appear throughout both sides of the note. A defining security feature is the SPARK OVI patch, displaying a purple-to-green geometric pattern that shifts as the note is tilted. Uganda was the first African nation to introduce the SPARK advanced optical security feature on a regular banknote series.\n\nThe Nyero rock paintings, estimated to be over 1,500 years old, are among East Africa's most significant prehistoric art sites and represent the diverse heritage of Uganda's pre-colonial history. The Karamojong people of northeastern Uganda are known for their pastoral lifestyle and distinctive cultural traditions, reflected in the traditional headdress depicted on the note. The orange color and 131 x 64 mm dimensions make this note easily recognizable in everyday transactions.",
     "highlights": {
-      "reason": "Japanese currency variant",
-      "design": "Japanese cultural figures",
-      "security": "Modern features"
+      "design": "Obverse: Nyero rock paintings from Kumi District, man in Karamojong headdress, savannah grasslands, National Coat of Arms, Uganda map. Reverse: Uganda Kob antelope, Independence Monument in Kampala, basketry and mat patterns. Orange color, 131 x 64 mm.",
+      "reason": "Continued circulation of the 2010-2024 series celebrating Uganda's cultural heritage, natural biodiversity, and national monuments, with SPARK OVI security feature.",
+      "security": "Purple-to-green geometric SPARK OVI (Optically Variable Ink) patch — Uganda was the first African nation to introduce this advanced security feature on a regular banknote series."
     },
     "sources": [
-      "Bank of Japan"
+      "https://en.numista.com/catalogue/note203869.html",
+      "https://www.banknoteworld.com/banknotes/Banknotes-by-Country/Uganda-Currency/"
     ],
-    "confidence": "fallback"
+    "confidence": "secondary"
   },
   {
     "id": "e160",
     "year": 2024,
-    "date": "2022-2024",
+    "date": "2024",
     "country": "United Arab Emirates",
-    "issuer": "UAE Central Bank",
+    "issuer": "Central Bank of the United Arab Emirates",
     "title": "5 Dirhams",
-    "description": "Ajman Fort.",
+    "description": "United Arab Emirates 5 Dirhams polymer banknote dated 2024 (AH1445) in brown featuring Fort Ajman on the obverse and Dhayah Fort of Ras al-Khaimah on the reverse.",
     "hue": 8,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/UAEW0036o.jpg",
     "slug": "united-arab-emirates-5-dirhams-e160",
-    "body": "The 5 Dirhams note issued by UAE Central Bank represents a 2024 emission in United Arab Emirates's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2024 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
+    "body": "The UAE 5 Dirhams polymer banknote issued in 2024 is part of the Central Bank of the UAE's ongoing conversion of its currency to polymer substrate, which began in 2021. The brown-colored note measures 144 x 66 mm and is dated 2024 (AH1445) in the Islamic calendar. The obverse features Ajman Fort, a historic coastal fortification showcasing the UAE's architectural heritage, while the reverse depicts Dhayah Fort located in Ras al-Khaimah, representing the northern emirates' historical significance.\n\nThe note bears the signature of Sheikh Mansour bin Zayed al-Nahyan. The banknote incorporates a simulated windowed security thread with demetalized 5 AED text and Arabic numerals. Unlike currency series worldwide that typically feature portraits of leaders, the UAE dirham banknotes instead celebrate national monuments, religious sites, traditional maritime culture, and the nation's fauna including falcons.\n\nAjman Fort, also known as Ajman Museum since its conversion in 1981, served as the residence of Ajman's rulers for centuries before being repurposed as a repository of the emirate's history. Dhayah Fort in Ras al-Khaimah is the only hill fort in the UAE, perched atop a rocky hill at the northern end of the Hajar Mountains, and is a symbol of the emirate's historical resistance. These two forts together represent the rich heritage of the smaller emirates in the UAE federation.",
     "highlights": {
-      "reason": "Japanese currency variant",
-      "design": "Japanese elements",
-      "security": "Features"
+      "design": "Obverse: Ajman Fort representing coastal UAE heritage. Reverse: Dhayah Fort of Ras al-Khaimah representing northern emirates history. Brown color, 144 x 66 mm, non-portrait design focusing on national monuments.",
+      "reason": "Part of the Central Bank of UAE's polymer currency modernization program launched in 2021 to replace cotton-based notes with more durable, secure, and environmentally sustainable polymer substrate.",
+      "security": "Simulated windowed security thread with demetalized 5 AED text and Arabic numerals. Polymer substrate provides enhanced durability and advanced security compared to traditional paper banknotes."
     },
     "sources": [
-      "Bank of Japan"
+      "https://www.centralbank.ae/en/our-operations/currency-and-coins/circulated-currency/current-banknotes/aed-5-polymer/",
+      "https://www.banknoteworld.com/united-arab-emirates-uae-5-dirhams-banknote-2024-ah1445-p-36a-3-unc-polymer-tap-authenticated.html",
+      "https://www.coinworld.com/news/paper-money/united-arab-emirates-releases-two-new-polymer-notes"
     ],
-    "confidence": "fallback"
+    "confidence": "official"
   },
   {
     "id": "e161",
     "year": 2024,
-    "date": "2022-2024",
+    "date": "2024",
     "country": "United Arab Emirates",
-    "issuer": "UAE Central Bank",
+    "issuer": "Central Bank of the United Arab Emirates",
     "title": "10 Dirhams",
-    "description": "Sheikh Zayed Grand Mosque, Abu Dhabi.",
+    "description": "United Arab Emirates 10 Dirhams polymer banknote dated 2024 (AH1445) in green featuring Sheikh Zayed Grand Mosque and an amphitheater in Khorfakkan.",
     "hue": 154,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/UAEW0037o.jpg",
     "slug": "united-arab-emirates-10-dirhams-e161",
-    "body": "Jordan 5 Dinars, 2018-2024 variants. Features King Abdullah II on the obverse, the reigning monarch of Jordan. The reverse displays Nabataean ruins, specifically architectural or cultural heritage from Petra, one of the world's most significant ancient sites. The banknote reflects Jordan's rich historical heritage and contemporary governance. Security features include advanced holograms, security threads, and color-shifting elements. Variants across 2018-2024 represent signature updates from Central Bank of Jordan officials and enhanced anti-counterfeiting measures. The orange-colored note serves everyday Jordanian commerce.",
+    "body": "The UAE 10 Dirhams polymer banknote of 2024 continues the Central Bank's polymer currency series that began with the 50 Dirham note in 2021. The green-colored banknote measures 147 x 66 mm and is dated 2024 (AH1445). The obverse features the Sheikh Zayed Grand Mosque in Abu Dhabi, one of the UAE's most iconic architectural achievements and a symbol of Islamic heritage and the nation's development under the late Sheikh Zayed bin Sultan al-Nahyan.\n\nThe reverse depicts the amphitheater located in Khorfakkan, a coastal exclave of the emirate of Sharjah on the Gulf of Oman, representing cultural and entertainment infrastructure in the eastern emirates. The note bears the signature of Sheikh Mansour bin Zayed al-Nahyan. The polymer substrate was supplied by De La Rue's Safeguard technology and is printed by Oumolat Security Printing in the UAE, with design management by Crane Currency.\n\nThe Sheikh Zayed Grand Mosque, completed in 2007, is the largest mosque in the UAE and the eighth largest in the world, featuring 82 domes, over 1,000 columns, and the world's largest hand-knotted carpet. Its prominent placement on the 10 Dirham note reflects the mosque's status as both a religious landmark and an emblem of the UAE's architectural ambition and cultural identity. The tactile marks on the note enable visually impaired individuals to distinguish different denominations.",
     "highlights": {
-      "reason": "King Abdullah II and Nabataean heritage; signature and security updates",
-      "design": "King Abdullah II portrait obverse; Petra/Nabataean ruins reverse",
-      "security": "Holograms, security threads, color-shifting elements, advanced microprint"
+      "design": "Obverse: Sheikh Zayed Grand Mosque in Abu Dhabi representing Islamic heritage and national pride. Reverse: Amphitheater in Khorfakkan representing eastern emirates' cultural infrastructure. Green color, 147 x 66 mm with tactile marks for accessibility.",
+      "reason": "Continuation of the Central Bank of UAE's 2021-2024 polymer currency modernization program to replace traditional cotton-based banknotes with more durable, secure, and sustainable polymer substrate.",
+      "security": "De La Rue's Safeguard polymer substrate technology, printed by Oumolat Security Printing. Polymer lasts approximately 5-7 years versus 1-3 years for traditional paper notes."
     },
     "sources": [
-      "Central Bank of Jordan official documentation",
-      "Middle East banknote references"
+      "https://www.centralbank.ae/en/our-operations/currency-and-coins/circulated-currency/current-banknotes/aed-10-polymer/",
+      "https://banknotenews.com/?p=44413"
     ],
-    "confidence": "high"
+    "confidence": "official"
   },
   {
     "id": "e162",
     "year": 2024,
-    "date": "2022 & 2024",
+    "date": "2024",
     "country": "United Arab Emirates",
-    "issuer": "UAE Central Bank",
+    "issuer": "Central Bank of the United Arab Emirates",
     "title": "1.000 Dirhams",
-    "description": "Sheikh Zayed 'Hope' probe, Emirates' Mars mission.",
+    "description": "United Arab Emirates 1,000 Dirhams polymer banknote dated 2024 featuring the late Sheikh Zayed bin Sultan Al Nahyan and a model space shuttle, with the Barakah nuclear power plant on the reverse.",
     "hue": 24,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/UAEW0043o.jpg",
     "slug": "united-arab-emirates-1-000-dirhams-e162",
-    "body": "Jordan 10 Dinars, 2018-2024 variants. Features King Abdullah II alongside Nabataean or Arabic heritage imagery. The obverse displays the monarch's portrait with national emblems, while the reverse showcases Jordan's historical sites and cultural significance. The redesigned series incorporates modern security features to prevent counterfeiting. Variants during this period reflect signature updates from the Central Bank of Jordan and progressive security enhancements. The blue-colored note is a standard denomination for mid-range transactions in Jordan.",
+    "body": "The UAE 1,000 Dirhams polymer banknote was officially released into circulation on April 10, 2023, with 2024 dated versions continuing in circulation. The note is manufactured on SAFEGUARD polymer substrate, a durable and ecologically responsible material developed by De La Rue. The central bank projects that polymer banknotes will remain in circulation for approximately five to seven years, approximately three to four times longer than traditional textile-based notes.\n\nThe obverse features a portrait of the late Sheikh Zayed bin Sultan Al Nahyan, the founding father of the UAE, alongside an image of a model space shuttle symbolizing the nation's technological aspirations and forward-thinking vision. The reverse depicts the Barakah nuclear power plant in Abu Dhabi, representing the UAE's commitment to clean energy and technological advancement.\n\nThe banknote incorporates the Spark Flow Dimension optical security feature developed by Koenig and Bauer, making the UAE the first nation globally to employ this cutting-edge security technology on a mainstream banknote issue. The 1,000 Dirham denomination features the largest surface-applied multi-color KINEGRAM aluminum stripe of any banknote globally, providing an exceptionally high level of anti-counterfeiting protection for this highest-value denomination.",
     "highlights": {
-      "reason": "King Abdullah II and heritage series; governor signature and security updates",
-      "design": "King Abdullah II portrait; Jordanian/Nabataean heritage imagery",
-      "security": "Holographic elements, security threads, modern printing, color security"
+      "design": "Obverse: Late Sheikh Zayed bin Sultan Al Nahyan alongside a model space shuttle representing UAE's technological vision. Reverse: Barakah nuclear power plant symbolizing clean energy commitment. Largest surface-applied multi-color KINEGRAM aluminum stripe globally.",
+      "reason": "Issued to modernize UAE currency with advanced polymer technology and cutting-edge security features, demonstrating the nation's commitment to technological innovation and sustainable energy.",
+      "security": "Spark Flow Dimension optical security feature by Koenig and Bauer — first global mainstream use of this technology. Largest surface-applied multi-color KINEGRAM aluminum stripe globally. Polymer substrate lasts 5-7 years."
     },
     "sources": [
-      "Central Bank of Jordan currency standards",
-      "Banknote databases"
+      "https://www.centralbank.ae/en/our-operations/currency-and-coins/circulated-currency/current-banknotes/aed-1000-polymer/",
+      "https://numismag.com/en/2023/04/05/new-1000-dirhams-polymer-banknote-from-the-united-arab-emirates/",
+      "https://platform.keesingtechnologies.com/uae-issues-new-1000-dirham-polymer-banknote/"
     ],
-    "confidence": "high"
+    "confidence": "official"
   },
   {
     "id": "e163",
     "year": 2024,
-    "date": "2003-2024",
+    "date": "",
     "country": "West African States — Guinea-Bissau",
-    "issuer": "Banque Centrale des États de l'Afrique de l'Ouest",
+    "issuer": "Banque Centrale des États de l'Afrique de l'Ouest (BCEAO)",
     "title": "1.000 Francs CFA",
-    "description": "Code Letter S (Guinea-Bissau).",
+    "description": "West African States / Guinea-Bissau 1,000 Francs CFA banknote in green featuring pharmaceutical and education imagery on the obverse and dromedaries on the reverse.",
     "hue": 5,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/WAS0915S2ao.jpg",
     "slug": "west-african-states-guinea-bissau-1-000-francs-cfa-e163",
-    "body": "Jordan 20 Dinars, 2018-2024 variants. Features King Abdullah II on the obverse with national emblems and Arabic calligraphy. The reverse displays significant Jordanian monuments or Nabataean heritage sites representing the nation's historical importance. The banknote underwent modernization with sophisticated security features including advanced holograms and color-shifting inks. Variants across 2018-2024 reflect signature changes from successive Central Bank governors and ongoing anti-counterfeiting improvements. The purple-colored denomination serves as a higher-value currency for significant Jordanian transactions.",
+    "body": "The 1,000 Francs CFA banknote issued by BCEAO for use in West African member states including Guinea-Bissau is denominated in the West African CFA franc, a currency pegged to the Euro at a fixed rate of 655.957 CFA francs to 1 Euro. Guinea-Bissau adopted the CFA franc in 1997, replacing the Guinea-Bissau peso currency. The green-colored banknote measures 125 mm by 66 mm.\n\nThe front of the banknote is dedicated to the health and education sectors, illustrated with a pharmaceutical caduceus symbol and medical cross alongside books, a slate, and a globe, representing knowledge and medical advancement. These symbols reflect BCEAO's thematic approach of linking currency design to development goals across the West African Economic and Monetary Union member states.\n\nThe reverse depicts a pair of dromedaries (one-humped camels) against a typical Sahelian desert background, representing the region's fauna and geography. The note incorporates the modern security features and design standards established in the 2004 series update by BCEAO. The CFA franc's peg to the Euro provides monetary stability for Guinea-Bissau, one of the smaller and economically developing nations within the WAEMU zone.",
     "highlights": {
-      "reason": "King Abdullah II and heritage series; security and signature updates",
-      "design": "King Abdullah II portrait obverse; Jordanian monuments/heritage reverse",
-      "security": "Advanced holograms, color-shifting inks, security threads, microprint"
+      "design": "Obverse: Pharmaceutical caduceus, medical cross, books, slate, and globe representing health and education sectors. Reverse: Dromedaries in Sahelian landscape. Green color, 125 x 66 mm.",
+      "reason": "Standard circulation currency issued by BCEAO for the West African Economic and Monetary Union member states including Guinea-Bissau, which adopted the CFA franc in 1997.",
+      "security": "Modern security features established in the 2004 BCEAO series, including watermarks, security threads, and color-shifting properties. CFA franc pegged to Euro at 655.957 to 1."
     },
     "sources": [
-      "Central Bank of Jordan official releases",
-      "Middle East currency catalogs"
+      "https://www.bceao.int/en/content/cfa-f-5000-and-1000-banknotes",
+      "https://en.wikipedia.org/wiki/West_African_CFA_franc"
     ],
-    "confidence": "high"
+    "confidence": "secondary"
   },
   {
     "id": "e164",
     "year": 2024,
-    "date": "2003-2024",
+    "date": "",
     "country": "West African States — Mali",
-    "issuer": "Banque Centrale des États de l'Afrique de l'Ouest",
+    "issuer": "Banque Centrale des États de l'Afrique de l'Ouest (BCEAO)",
     "title": "1.000 Francs CFA",
-    "description": "Code Letter D (Mali).",
+    "description": "West African States / Mali 1,000 Francs CFA banknote in red featuring medical and educational imagery on the obverse and dromedaries on the reverse.",
     "hue": 354,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/WAS0415Dao.jpg",
     "slug": "west-african-states-mali-1-000-francs-cfa-e164",
-    "body": "Jordan 50 Dinars, 2018-2024 variants. Depicts King Abdullah II on the obverse, maintaining consistency across the Jordanian currency series. The reverse showcases important Nabataean or Islamic heritage sites, emphasizing Jordan's role as custodian of significant historical monuments. The highest standard denomination in Jordanian circulation, this note includes advanced security features reflecting international currency standards. Variants during this period represent signature updates from Central Bank officials and enhanced security technology. The green-colored note is used for major financial transactions in Jordan.",
+    "body": "The 1,000 Francs CFA banknote circulating in Mali is issued by BCEAO as the central currency of the West African Economic and Monetary Union. Mali readopted the CFA franc in 1984 at an exchange rate of 1 CFA franc = 2 Malian francs. The red-colored banknote measures 125 mm by 66 mm and represents the modern design standards of the BCEAO.\n\nThe obverse side showcases health and education themes through the depiction of a pharmaceutical caduceus (representing medicine), a medical cross, medical books, a writing slate, and a globe symbolizing knowledge and global education. These elements represent the health and education sectors' importance in West African development and reflect BCEAO's commitment to integrating development aspirations into currency design.\n\nThe reverse side features a naturalistic scene of dromedaries in their native Sahelian environment, highlighting the region's distinctive fauna and landscape. This design reflects the themes of WAEMU unity that emphasize the openness and solidarity of member states and their shared natural and cultural heritage. The note's design standards were established in the 2004 BCEAO series update and continue to serve Mali's monetary needs within the currency union.",
     "highlights": {
-      "reason": "King Abdullah II and Nabataean heritage; signature and security updates",
-      "design": "King Abdullah II portrait; Islamic/Nabataean heritage imagery",
-      "security": "Advanced security features, holograms, color-shifting elements, threads"
+      "design": "Obverse: Medical caduceus, medical cross, educational materials (books, slate), and globe representing health and education sectors. Reverse: Dromedaries in Sahelian desert landscape. Red color, 125 x 66 mm.",
+      "reason": "Standard circulation banknote issued by BCEAO for Mali and other West African WAEMU member states. Mali readopted the CFA franc in 1984 at the rate of 1 CFA franc = 2 Malian francs.",
+      "security": "Modern BCEAO security features from the 2004 series including watermarks and security threads. Currency pegged to Euro at 655.957 CFA francs to 1 Euro for monetary stability."
     },
     "sources": [
-      "Central Bank of Jordan currency documentation",
-      "Banknote references"
+      "https://www.bceao.int/en/content/cfa-f-5000-and-1000-banknotes",
+      "https://en.wikipedia.org/wiki/West_African_CFA_franc"
     ],
-    "confidence": "high"
+    "confidence": "secondary"
   },
   {
     "id": "e165",
     "year": 2024,
-    "date": "2012-2024",
+    "date": "",
     "country": "West African States — Mali",
-    "issuer": "Banque Centrale des États de l'Afrique de l'Ouest",
+    "issuer": "Banque Centrale des États de l'Afrique de l'Ouest (BCEAO)",
     "title": "500 Francs CFA",
-    "description": "Code Letter D (Mali).",
+    "description": "West African States / Mali 500 Francs CFA banknote in yellow-orange featuring the African continent outline and technology imagery on the obverse and hippopotamuses on the reverse.",
     "hue": 27,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/WAS0419D2ao.jpg",
     "slug": "west-african-states-mali-500-francs-cfa-e165",
-    "body": "Jordan banknote, King Abdullah II and heritage series, 2018-2024 variant. Represents either a commemorative release, security update, or variant of one of Jordan's standard denominations (5/10/20/50 dinars). The Jordanian currency series emphasizes King Abdullah II and the nation's Nabataean heritage. All notes feature Arabic calligraphy and modern security measures. Variants reflect ongoing Central Bank security enhancements and periodic governor signature changes.",
+    "body": "The 500 Francs CFA banknote was introduced by BCEAO on November 30, 2012, as a new denomination addition to the CFA franc banknote range. It was created in response to demand from the West African population for a smaller denomination banknote, complementing the existing 500 Francs CFA coin that had replaced the previous banknote denomination in 2003. The yellow-orange colored note is printed on high-quality banknote paper stock.\n\nThe obverse depicts the outline of the African continent alongside imagery representing modern technology and development, including a tablet computer, symbolizing Africa's technological advancement and digital transformation. These forward-looking design elements reflect BCEAO's commitment to presenting West Africa as a continent embracing modernity and innovation.\n\nThe reverse features a naturalistic scene of hippopotamuses, representing the diverse wildlife of the West African region and emphasizing the importance of environmental conservation. Hippopotamuses are native to several WAEMU member states including Mali, Burkina Faso, and Guinea-Bissau, where they inhabit river systems and wetlands. The banknote incorporates modern security features and standards established by BCEAO, designed to prevent counterfeiting while remaining accessible to the general population.",
     "highlights": {
-      "reason": "Jordanian currency variant; security or commemorative update",
-      "design": "King Abdullah II and heritage elements",
-      "security": "Series-standard security: holograms, threads, color features"
+      "design": "Obverse: Outline of African continent with tablet computer representing technological development. Reverse: Hippopotamuses representing West African wildlife. Yellow-orange color.",
+      "reason": "Issued November 30, 2012 to provide a smaller denomination for circulation in West African countries, complementing the 500 franc coin and providing greater transactional flexibility.",
+      "security": "Modern BCEAO security features consistent with the 2004 series standards, including watermarks and security threads. Printed on high-quality banknote paper."
     },
     "sources": [
-      "Central Bank of Jordan documentation",
-      "Currency references"
+      "https://www.bceao.int/en/content/cfa-f-500-banknote",
+      "https://en.wikipedia.org/wiki/West_African_CFA_franc"
     ],
-    "confidence": "fallback"
+    "confidence": "secondary"
   },
   {
     "id": "e166",
