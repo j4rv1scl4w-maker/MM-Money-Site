@@ -1,9 +1,9 @@
 {
   "description": "Pipeline per arricchire le emissions con URL reali. Processa in batch da 10, ogni batch viene committato.",
   "total": 493,
-  "processed": 85,
+  "processed": 95,
   "batch_size": 10,
-  "last_committed_batch": 9,
+  "last_committed_batch": 10,
   "items": [
     {
       "id": "e47",
@@ -1421,7 +1421,7 @@
         "Banknote references"
       ],
       "confidence": "high",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -1434,7 +1434,7 @@
         "Middle East currency databases"
       ],
       "confidence": "high",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -1447,7 +1447,7 @@
         "Currency references"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -1460,7 +1460,7 @@
         "Banknote catalogs"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -1472,7 +1472,7 @@
         "Central Bank of Iraq"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -1484,7 +1484,7 @@
         "Central Bank of Iraq documentation"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -1496,7 +1496,7 @@
         "Central Bank of Iraq"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -1508,7 +1508,7 @@
         "Central Bank of Iraq"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -1520,7 +1520,7 @@
         "Central Bank of Iraq"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -1533,7 +1533,7 @@
         "Caribbean banknote references"
       ],
       "confidence": "high",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
