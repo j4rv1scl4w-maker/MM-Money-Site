@@ -3820,24 +3820,25 @@
   {
     "id": "e166",
     "year": 2024,
-    "date": "2003-2024",
+    "date": "2003-10-20",
     "country": "West African States — Senegal",
-    "issuer": "Banque Centrale des États de l'Afrique de l'Ouest",
+    "issuer": "Banque Centrale des États de l'Afrique de l'Ouest (BCEAO)",
     "title": "2.000 Francs CFA",
-    "description": "Code Letter K (Senegal).",
+    "description": "West African States / Senegal 2,000 Francs CFA banknote from the 2003-2004 series featuring a stylized sawfish and modern African infrastructure.",
     "hue": 204,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/WAS0716K2ao.jpg",
     "slug": "west-african-states-senegal-2-000-francs-cfa-e166",
-    "body": "Jordan banknote variant, King Abdullah II series, 2018-2024.",
+    "body": "The 2,000 Francs CFA banknote was put into circulation on October 20, 2003, as part of the BCEAO's currency series for the eight West African Economic and Monetary Union (WAEMU) member states: Benin, Burkina Faso, Cote d'Ivoire, Guinea-Bissau, Mali, Niger, Senegal, and Togo. The front design displays the BCEAO's stylized sawfish logo, a symbol of fertility and prosperity in African mythology, alongside depictions of modern transportation and infrastructure including a public transport coach crossing a bridge over a river, a train, and an aircraft in flight with an airport in the background.\n\nThe reverse features the marine environment with two grouper fish depicted in the sea, emphasizing the natural resources of West Africa. The banknote measures 130 by 66 millimeters and is predominantly blue in color. Its design reflects the BCEAO's commitment to representing both the contemporary and natural aspects of West African identity.\n\nSenegal, as one of the founding members of the West African Economic and Monetary Union, uses the CFA franc as its official currency. The CFA franc is pegged to the Euro at a fixed rate of 655.957 to 1, providing monetary stability for WAEMU member states and facilitating regional trade and economic integration across West Africa.",
     "highlights": {
-      "reason": "Jordanian currency variant",
-      "design": "King Abdullah II and heritage imagery",
-      "security": "Modern security features"
+      "design": "Front: BCEAO sawfish logo, public transport coach crossing bridge, modern train, aircraft in flight with airport. Reverse: Grouper fish in seascape. Color: predominantly blue. Dimensions: 130 x 66 mm.",
+      "reason": "Part of the 2003-2004 BCEAO series issued for the West African Economic and Monetary Union member states including Senegal.",
+      "security": "Watermark featuring sawfish logo and face value; security thread overprinted with UMOA and face value; vertical reflective iridescent yellow/grey strip on reverse; embossed and tactually perceptible logo and face values on front."
     },
     "sources": [
-      "Central Bank of Jordan"
+      "https://www.bceao.int/en/content/cfa-f-2000-banknote",
+      "https://en.numista.com/catalogue/note206406.html"
     ],
-    "confidence": "fallback"
+    "confidence": "official"
   },
   {
     "id": "e167",
@@ -3846,20 +3847,21 @@
     "country": "Zambia",
     "issuer": "Bank of Zambia",
     "title": "10 Kwacha",
-    "description": "Fish eagle, Kariba dam, arms.",
+    "description": "Zambia 10 Kwacha banknote from the 2024 Heritage Series featuring green coloring with Kariba Dam and Kabwelume Falls imagery.",
     "hue": 86,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/ZAMW0062o.jpg",
     "slug": "zambia-10-kwacha-e167",
-    "body": "The 10 Kwacha note issued by Bank of Zambia represents a 2024 emission in Zambia's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2024 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
+    "body": "The Bank of Zambia launched the new Heritage Series on March 31, 2025, comprising six banknotes incorporating enhanced security features and national heritage themes. The 10 Kwacha note, the lowest banknote denomination in the series, features predominantly green coloring with red central motifs. The obverse displays the Bank of Zambia logo, a floral registration device, the Kariba Dam on the Zambezi River symbolizing the nation's hydroelectric infrastructure, a fish eagle in flight representing Zambia's national wildlife, a map of Zambia rendered in bronze Optically Variable Ink (OVI), and the Zambian coat of arms.\n\nThe reverse depicts natural elements of Zambian heritage, including the endemic Zambezi teak tree and a pair of pangolins, alongside the iconic Kabwelume Falls in the Northern Province. The design employs a color scheme where the central portion reflects the primary color of the next higher denomination, creating visual continuity throughout the series. The note measures 118 x 69 millimeters and was printed by Giesecke+Devrient of Germany.\n\nKabwelume Falls, located on the Kalungwishi River in northern Zambia, cascades over 100 meters and is surrounded by pristine forest habitat, making it one of Zambia's most scenic natural landmarks. The pangolin depicted on the reverse is one of the world's most trafficked mammals, and its inclusion on Zambia's currency reflects the nation's commitment to wildlife conservation and biodiversity protection.",
     "highlights": {
-      "reason": "Jordanian currency variant",
-      "design": "Jordanian heritage imagery",
-      "security": "Security features"
+      "design": "Obverse: Bank of Zambia logo, Kariba Dam, fish eagle in flight, bronze OVI map of Zambia, Zambian coat of arms. Reverse: Zambezi teak, pangolins, Kabwelume Falls. Color: green with red central motifs. Dimensions: 118 x 69 mm.",
+      "reason": "New Heritage Series launched to modernize Zambian currency with contemporary security features and celebrate national natural heritage.",
+      "security": "Windowed security thread with demetalized Bank of Zambia logo and denomination; watermark of fish eagle head with electrotype; hybrid banknote technology."
     },
     "sources": [
-      "Central Bank of Jordan"
+      "https://banknotenews.com/?p=46182",
+      "https://www.numiscollection.com/zambia-10-kwacha-kabwelume-falls-2024-serial-ac-or-ae-a69554-en.html"
     ],
-    "confidence": "fallback"
+    "confidence": "official"
   },
   {
     "id": "e168",
@@ -3868,20 +3870,21 @@
     "country": "Zambia",
     "issuer": "Bank of Zambia",
     "title": "20 Kwacha",
-    "description": "Fish eagle, tractor, arms.",
+    "description": "Zambia 20 Kwacha banknote from the 2024 Heritage Series featuring mauve and blue coloring with agricultural and wildlife motifs.",
     "hue": 334,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/ZAMW0063o.jpg",
     "slug": "zambia-20-kwacha-e168",
-    "body": "The 20 Kwacha note issued by Bank of Zambia represents a 2024 emission in Zambia's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2024 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
+    "body": "The 20 Kwacha note was released as part of the Bank of Zambia's Heritage Series launched in 2024. Featuring mauve and blue coloring, this denomination represents a middle-value note in the six-banknote family. The obverse displays a flower as a registration device, a tractor tilling a field representing Zambia's agricultural sector, a fish eagle in flight symbolizing the nation's fauna, a map of Zambia rendered in bronze-to-green OVI, and the Zambian coat of arms.\n\nThe reverse showcases a water buffalo, representing Zambia's rich wildlife heritage, and a candelabra tree. The series design philosophy employs single background colors for each note, with the central portion of both sides printed in a contrasting color reflecting the main color of the next higher denomination, creating a unified aesthetic progression through the series.\n\nAgriculture plays a fundamental role in Zambia's economy, employing over half the population and contributing significantly to GDP. The tractor imagery on the 20 Kwacha note acknowledges the importance of mechanized farming in boosting agricultural productivity and rural development. The water buffalo depicted on the reverse is native to Zambia's game management areas and national parks, representing the country's commitment to wildlife conservation alongside economic development.",
     "highlights": {
-      "reason": "Jordanian currency variant",
-      "design": "Jordanian design elements",
-      "security": "Banknote security"
+      "design": "Obverse: Bank of Zambia logo, flower registration device, tractor in field, fish eagle, bronze-to-green OVI map, coat of arms. Reverse: Water buffalo, candelabra tree. Colors: mauve and blue.",
+      "reason": "Heritage Series denomination emphasizing Zambia's agricultural sector and wildlife, modernizing currency with advanced security features.",
+      "security": "Advanced security thread with color-shifting properties; watermark integration; tactile elements for visually impaired users; hybrid banknote technology."
     },
     "sources": [
-      "Central Bank of Jordan"
+      "https://banknotenews.com/?p=46178",
+      "https://www.cabinet.gov.zm/?p=8213"
     ],
-    "confidence": "fallback"
+    "confidence": "official"
   },
   {
     "id": "e169",
@@ -3890,20 +3893,22 @@
     "country": "Zambia",
     "issuer": "Bank of Zambia",
     "title": "50 Kwacha",
-    "description": "Fish eagle, mining haul truck, arms.",
+    "description": "Zambia 50 Kwacha banknote from the 2024 Heritage Series featuring gold-green coloring with baobab tree, birds, and Lumangwe Falls.",
     "hue": 203,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/ZAMW0064o.jpg",
     "slug": "zambia-50-kwacha-e169",
-    "body": "The 50 Kwacha note issued by Bank of Zambia represents a 2024 emission in Zambia's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2024 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
+    "body": "The 50 Kwacha banknote was released as part of the Bank of Zambia's Heritage Series in 2024. Featuring gold and green coloring, this note emphasizes Zambia's natural environment and wildlife biodiversity. The obverse includes English text and Bank of Zambia branding, a flower registration device, a dump truck representing industrial development, a fish eagle in flight, a map of Zambia rendered in gold Optically Variable Ink, and the Zambian coat of arms.\n\nThe reverse highlights endemic natural elements including a baobab tree, two birds perched on a branch representing avian diversity, and the scenic Lumangwe Falls, one of Zambia's notable natural attractions located in Chienge District. The banknote was printed by Crane Currency, representing collaboration with international security printing expertise. The note's design emphasizes the connection between Zambian industrial development and its preserved natural heritage.\n\nLumangwe Falls, situated on the Kalungwishi River in northern Zambia, is one of the country's most visited waterfalls, forming part of a cluster of falls in the region alongside Kabwelume and Kundabwika Falls. The baobab tree, sometimes called the tree of life, is iconic to the African landscape and holds deep cultural significance for many Zambian communities, symbolizing longevity and resilience.",
     "highlights": {
-      "reason": "Jordanian currency variant",
-      "design": "Jordanian imagery",
-      "security": "Security elements"
+      "design": "Obverse: Bank of Zambia logo, dump truck representing industry, fish eagle in flight, gold OVI map of Zambia, coat of arms. Reverse: Baobab tree, two birds on branch, Lumangwe Falls. Colors: gold and green.",
+      "reason": "Heritage Series denomination emphasizing natural environment, wildlife biodiversity, and industrial development themes.",
+      "security": "Gold-to-green windowed RollingStar i+ security thread with demetalized denomination and Bank emblem; gold-to-green Spark Flow Prime ink patch with flame effect; see-through register featuring endemic flowers; latent image of stylized flower."
     },
     "sources": [
-      "Central Bank of Jordan"
+      "https://banknotenews.com/?p=46174",
+      "https://banknotedb.com/50-kwacha-2024",
+      "https://en.numista.com/catalogue/note203711.html"
     ],
-    "confidence": "fallback"
+    "confidence": "official"
   },
   {
     "id": "e170",
@@ -3912,20 +3917,22 @@
     "country": "Zambia",
     "issuer": "Bank of Zambia",
     "title": "100 Kwacha",
-    "description": "Fish eagle, Victoria Falls, arms.",
+    "description": "Zambia 100 Kwacha banknote from the 2024 Heritage Series featuring blue coloring with wildlife and natural landscape imagery.",
     "hue": 51,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/ZAMW0065o.jpg",
     "slug": "zambia-100-kwacha-e170",
-    "body": "The 100 Kwacha note issued by Bank of Zambia represents a 2024 emission in Zambia's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2024 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
+    "body": "The 100 Kwacha banknote was released as part of the Bank of Zambia's Heritage Series in 2024. Measuring 130 x 69 millimeters, this blue-colored denomination serves as a higher-value note in the six-banknote Heritage Series. The obverse displays a fish eagle in flight, the Bank of Zambia logo, a flower as a registration device, a dump truck, a map of Zambia rendered in gold OVI, and the Zambian coat of arms.\n\nThe reverse features a baobab tree, two birds perched on a branch, and Lumangwe Falls, emphasizing Zambia's natural heritage and biodiversity. The color progression through the series — from green at lower denominations through mauve and gold to blue at higher values — creates visual hierarchy and aids rapid denomination recognition in everyday transactions.\n\nThe fish eagle (Haliaeetus vocifer), featured prominently on the obverse, is Zambia's national bird and a symbol of the nation's identity across multiple denominations in the Heritage Series. Its iconic cry and distinctive appearance over Zambia's many lakes and rivers make it one of Africa's most recognizable birds of prey. The blue color scheme of the 100 Kwacha note visually distinguishes it as a higher-value denomination within the series.",
     "highlights": {
-      "reason": "Jordanian currency variant",
-      "design": "King Abdullah II and heritage",
-      "security": "Modern features"
+      "design": "Obverse: Fish eagle in flight, Bank of Zambia logo, flower registration device, dump truck, gold OVI map of Zambia, coat of arms. Reverse: Baobab tree, two birds on branch, Lumangwe Falls. Color: blue. Dimensions: 130 x 69 mm.",
+      "reason": "Higher-value Heritage Series denomination celebrating national wildlife heritage while modernizing Zambian currency to international standards.",
+      "security": "Gold-to-green windowed RollingStar i+ security thread; gold-to-green Spark Flow Prime ink patch with flame effect; see-through register with endemic flowers; latent image of stylized flower on lower left front."
     },
     "sources": [
-      "Central Bank of Jordan"
+      "https://banknotenews.com/?p=46170",
+      "https://banknotedb.com/100-kwacha-2024",
+      "https://en.numista.com/catalogue/note203874.html"
     ],
-    "confidence": "fallback"
+    "confidence": "official"
   },
   {
     "id": "e171",
@@ -3934,21 +3941,22 @@
     "country": "Zambia",
     "issuer": "Bank of Zambia",
     "title": "200 Kwacha",
-    "description": "Fish eagle, Kazungula bridge over the Zambezi River, arms.",
+    "description": "Zambia 200 Kwacha banknote from the 2024 Heritage Series featuring purple and brown coloring with Kazungula Bridge and Kalambo Falls.",
     "hue": 356,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/ZAMW0066o.jpg",
     "slug": "zambia-200-kwacha-e171",
-    "body": "Kenya 1,000 Shillings, 2019-2024 variants. Features Daniel arap Moi, Kenya's long-serving former president (1978-2002), on the obverse as a tribute to his leadership. The reverse displays African wildlife, specifically representing Kenya's natural heritage and conservation efforts. The banknote underwent modernization with enhanced security features including holographic elements and color-shifting inks. Variants during 2019-2024 reflect signature updates from Central Bank of Kenya governors and progressive anti-counterfeiting improvements. The brownish-toned note is the highest standard denomination in Kenyan circulation.",
+    "body": "The 200 Kwacha banknote was introduced in 2024 as part of the Bank of Zambia's Heritage Series, representing a newly introduced higher denomination designed to promote more efficient transactions in line with international best practices. The note features purple and brown coloring and bears the signature of Denny Kalyalya, the Bank of Zambia Governor.\n\nThe obverse depicts a fish eagle, the Kazungula Bridge connecting Zambia to Botswana across the Zambezi River, and the national coat of arms. The Kazungula Bridge, completed in 2021, is one of Africa's most significant infrastructure projects, carrying both road and rail traffic and symbolizing Zambia's role in regional commerce and connectivity. The reverse showcases the Ing'ombe Ilede tree, Kalambo Falls representing Zambia's scenic waterfall heritage, and rhinoceroses illustrating wildlife conservation efforts.\n\nKalambo Falls, at 235 meters, is one of Africa's highest uninterrupted waterfalls and is a UNESCO World Heritage Site, recognized for its archaeological significance as a site of early human activity dating back over 300,000 years. The introduction of the 200 Kwacha denomination alongside the 500 Kwacha note reflects the Bank of Zambia's modernization strategy to reduce reliance on multiple lower-value notes for larger transactions.",
     "highlights": {
-      "reason": "Daniel arap Moi tribute; wildlife heritage; signature and security updates",
-      "design": "Moi portrait obverse; African wildlife/conservation reverse",
-      "security": "Holographic elements, color-shifting inks, security threads, advanced microprint"
+      "design": "Obverse: Fish eagle, Kazungula Bridge connecting Zambia to Botswana, coat of arms. Reverse: Ing'ombe Ilede tree, Kalambo Falls (UNESCO World Heritage Site), rhinoceroses. Colors: purple and brown.",
+      "reason": "New denomination introduced to facilitate efficient transactions and modernize the currency system in line with international practices.",
+      "security": "Gold windowed security thread with demetalized Bank logo and denomination; watermark featuring fish eagle with electrotype designation."
     },
     "sources": [
-      "Central Bank of Kenya official documentation",
-      "East African banknote references"
+      "https://banknotenews.com/?p=46166",
+      "https://www.banknoteworld.com/zambia-200-kwacha-banknote-2024-p-66-unc.html",
+      "https://www.cabinet.gov.zm/?p=8213"
     ],
-    "confidence": "high"
+    "confidence": "official"
   },
   {
     "id": "e172",
@@ -3957,88 +3965,90 @@
     "country": "Zambia",
     "issuer": "Bank of Zambia",
     "title": "500 Kwacha",
-    "description": "Fish eagle, Bank of Zambia building (Lusaka), arms.",
+    "description": "Zambia 500 Kwacha banknote from the 2024 Heritage Series — highest denomination — featuring purple and green coloring with the Bank of Zambia headquarters.",
     "hue": 225,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/ZAMW0067o.jpg",
     "slug": "zambia-500-kwacha-e172",
-    "body": "Kenya 500 Shillings, 2019-2024 variants. Depicts Kenyan national symbols and cultural heritage on the obverse, potentially including wildlife or historical figures. The reverse showcases African wildlife or national monuments representing Kenya's identity. The banknote reflects Kenya's emphasis on wildlife conservation and national pride. Security features include advanced holograms and modern printing techniques. Variants across 2019-2024 represent signature updates from Central Bank governors and enhanced security measures. The red-colored note is a commonly used denomination for mid-range Kenyan transactions.",
+    "body": "The 500 Kwacha banknote was introduced in 2024 as part of the Bank of Zambia's new Heritage Series and represents the highest denomination in the six-note series. The note features distinctive purple and green coloring that distinguishes it from lower denominations. The obverse displays the Bank of Zambia headquarters building in Lusaka, representing the nation's financial governance and institutional strength, a fish eagle in flight symbolizing Zambian wildlife, a map of Zambia rendered in gold OVI, the Bank of Zambia logo, and a flower as a registration device.\n\nThe reverse features natural and cultural heritage elements that emphasize Zambia's environmental richness and biodiversity, consistent with the Heritage Series theme of celebrating the nation's natural and cultural patrimony. The 500 Kwacha and 200 Kwacha denominations were specifically introduced following international best practices for currency modernization, allowing for more efficient handling of large transactions.\n\nThe Bank of Zambia headquarters, depicted on the obverse, is located in Lusaka's central business district and serves as the institutional symbol of Zambia's monetary authority. The building's appearance on the highest denomination banknote reinforces the connection between financial governance and currency value, emphasizing the Bank's role in maintaining monetary stability and overseeing Zambia's financial system.",
     "highlights": {
-      "reason": "Kenyan wildlife heritage; governor signature and security updates",
-      "design": "Kenyan national symbols/wildlife obverse; African heritage reverse",
-      "security": "Holograms, security threads, modern printing, color-based security"
+      "design": "Obverse: Bank of Zambia Lusaka headquarters, fish eagle in flight, gold OVI map of Zambia, Bank logo, flower registration device. Reverse: Cultural and natural heritage elements. Colors: purple and green.",
+      "reason": "Highest denomination in Heritage Series introduced to support efficient high-value transactions and modernize currency to international standards.",
+      "security": "Advanced security features consistent with Heritage Series standards; color-shifting inks and threads; watermark with fish eagle motif; tactile design elements."
     },
     "sources": [
-      "Central Bank of Kenya currency standards",
-      "Banknote databases"
+      "https://banknotenews.com/?p=46162",
+      "https://www.cabinet.gov.zm/?p=8213"
     ],
-    "confidence": "high"
+    "confidence": "official"
   },
   {
     "id": "e173",
     "year": 2024,
-    "date": "2024",
+    "date": "2024-04-05",
     "country": "Zimbabwe",
     "issuer": "Reserve Bank of Zimbabwe",
     "title": "1 ZiG (Zimbabwe Gold)",
-    "description": "Remark.",
+    "description": "Zimbabwe 1 ZiG (Zimbabwe Gold) — issued as a coin only in April 2024; not released as a banknote in the initial ZiG currency introduction.",
     "hue": 198,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/ZIMW0107o.jpg",
     "slug": "zimbabwe-1-zig-zimbabwe-gold-e173",
-    "body": "Kenya banknote, wildlife series, 2019-2024 variant. Likely represents a variant or security update within Kenya's contemporary currency series emphasizing national wildlife and heritage. The series underwent modernization to reflect Kenya's commitment to conservation and national identity. All notes feature wildlife imagery and modern security features.",
+    "body": "The Reserve Bank of Zimbabwe announced on April 5, 2024 the introduction of the Zimbabwe Gold (ZiG), a new gold-backed currency to replace the Zimbabwean dollar. The ZiG was backed by Reserve Bank reserves consisting of USD 100 million in cash and 2,522 kilograms of gold valued at approximately USD 185 million. Eight denominations from 1 ZiG to 200 ZiG were planned for the new currency series.\n\nHowever, the 1 ZiG denomination was not released as a banknote. On April 30, 2024, it was issued exclusively as a circulation coin in nickel-plated steel as part of the ZiG coin family alongside 2 ZiG and 5 ZiG denominations. The Reserve Bank's decision to issue the three lowest denominations as coins rather than banknotes reflected monetary policy considerations and practical circulation requirements. Only the 10 ZiG and 20 ZiG banknotes entered circulation in April 2024.\n\nThe ZiG currency represented Zimbabwe's sixth attempt at currency stabilization since dollarization in 2009. The gold-backing mechanism was designed to provide credibility and stability to the new currency, addressing the hyperinflationary episodes that had plagued previous Zimbabwe dollar iterations. The coin design features Zimbabwe Bird imagery and Domboremari (Great Zimbabwe ruins), representing the nation's historical and cultural heritage.",
     "highlights": {
-      "reason": "Kenyan currency variant; security or signature update",
-      "design": "Kenyan wildlife and heritage imagery",
-      "security": "Series-standard security: holograms, threads, color features"
+      "design": "Coin (not banknote): features Zimbabwe Bird and Domboremari (Great Zimbabwe ruins) imagery in nickel-plated steel.",
+      "reason": "Lowest ZiG denomination issued as coin only; the Reserve Bank restricted initial banknote circulation to 10 ZiG and 20 ZiG denominations to manage inflation during currency transition.",
+      "security": "Coin specifications: nickel-plated steel composition; Zimbabwe Bird watermark equivalent design on coin face."
     },
     "sources": [
-      "Central Bank of Kenya documentation",
-      "Banknote references"
+      "https://en.wikipedia.org/wiki/Zimbabwean_ZiG",
+      "https://www.recoveryadvisers.com/insights/202407-zimbabwe/"
     ],
-    "confidence": "fallback"
+    "confidence": "secondary"
   },
   {
     "id": "e174",
     "year": 2024,
-    "date": "2024",
+    "date": "2024-04-30",
     "country": "Zimbabwe",
     "issuer": "Reserve Bank of Zimbabwe",
     "title": "2 ZiG (Zimbabwe Gold)",
-    "description": "Remark.",
+    "description": "Zimbabwe 2 ZiG (Zimbabwe Gold) — issued as a coin only on April 30, 2024; not released as a banknote in the initial ZiG currency introduction.",
     "hue": 164,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/ZIMW0108o.jpg",
     "slug": "zimbabwe-2-zig-zimbabwe-gold-e174",
-    "body": "Kenya banknote variant, wildlife series, 2019-2024.",
+    "body": "The Reserve Bank of Zimbabwe's April 5, 2024 announcement regarding the new ZiG currency outlined plans for eight denominations, with the 2 ZiG initially projected as a potential banknote denomination. However, this denomination was subsequently issued exclusively as a coin on April 30, 2024, minted in nickel-plated steel as part of the ZiG circulation coinage system alongside 1 ZiG and 5 ZiG denominations.\n\nThis decision reflected the Reserve Bank's monetary policy strategy to manage inflation and economic stability during the currency transition from the Zimbabwean dollar to the ZiG. The Reserve Bank maintained that restricting higher denominations to coin form would prevent the release from fueling inflation while still providing necessary denominations for daily transactions. The ZiG was Zimbabwe's sixth attempt at a stable currency since 2009, backed by gold reserves and foreign currency.\n\nThe 2 ZiG coin represented a mid-range value within the coin family, bridging transactions between the 1 ZiG and 5 ZiG. Only banknote denominations of 10 ZiG and 20 ZiG were released to the public in April 2024. The coin's design features Zimbabwe's national symbols including the Zimbabwe Bird and imagery from the Great Zimbabwe ruins at Domboremari, connecting the new currency to the nation's historical heritage.",
     "highlights": {
-      "reason": "Kenyan currency variant",
-      "design": "Kenyan wildlife imagery",
-      "security": "Modern security features"
+      "design": "Coin (not banknote): features Zimbabwe national symbols and Domboremari (Great Zimbabwe ruins) imagery; nickel-plated steel composition.",
+      "reason": "Issued as coin only to control inflation during ZiG currency transition; the Reserve Bank limited banknote issuance to 10 ZiG and 20 ZiG denominations.",
+      "security": "Coin specifications: nickel-plated steel; features Zimbabwe cultural heritage imagery consistent with other ZiG coin denominations."
     },
     "sources": [
-      "Central Bank of Kenya"
+      "https://en.wikipedia.org/wiki/Zimbabwean_ZiG",
+      "https://worldcoinnews.blogspot.com/2024/05/zimbabwe-zig-coins-2024-new-circulating-coinage/"
     ],
-    "confidence": "fallback"
+    "confidence": "secondary"
   },
   {
     "id": "e175",
     "year": 2024,
-    "date": "2024",
+    "date": "2024-04-30",
     "country": "Zimbabwe",
     "issuer": "Reserve Bank of Zimbabwe",
     "title": "5 ZiG (Zimbabwe Gold)",
-    "description": "Remark.",
+    "description": "Zimbabwe 5 ZiG (Zimbabwe Gold) — issued as a coin only on April 30, 2024; not released as a banknote in the initial ZiG currency introduction.",
     "hue": 2,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/ZIMW0109o.jpg",
     "slug": "zimbabwe-5-zig-zimbabwe-gold-e175",
-    "body": "The 5 ZiG (Zimbabwe Gold) note issued by Reserve Bank of Zimbabwe represents a 2024 emission in Zimbabwe's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2024 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
+    "body": "The Reserve Bank of Zimbabwe's announcement of the ZiG currency on April 5, 2024 outlined plans for the gold-backed Zimbabwe Gold currency across multiple denominations. The 5 ZiG denomination was issued exclusively as a circulation coin on April 30, 2024, minted in nickel-plated steel. This decision was part of the Reserve Bank's comprehensive monetary policy strategy to introduce the gold-backed ZiG currency while managing inflationary pressures during the transition period.\n\nThe 5 ZiG coin served as the highest-value denomination within the three-coin family (1, 2, 5 ZiG), designed for everyday retail and commercial transactions. The Reserve Bank's decision to limit banknote circulation to 10 ZiG and 20 ZiG denominations, while postponing higher denominations (50, 100, 200 ZiG), reflected concern that releasing additional banknotes could undermine currency stability and fuel inflation in an economy with a history of hyperinflationary episodes.\n\nThe ZiG was backed by a combination of USD 100 million in foreign currency reserves and 2,522 kilograms of gold held by the Reserve Bank, providing tangible backing for the new currency. The gold-backing mechanism represented a significant departure from previous Zimbabwean dollar iterations and was designed to build public confidence in the new monetary system. The 5 ZiG coin features Zimbabwe's national symbols, including the Zimbabwe Bird and Great Zimbabwe ruins imagery.",
     "highlights": {
-      "reason": "Kenyan currency variant",
-      "design": "Kenyan heritage elements",
-      "security": "Security features"
+      "design": "Coin (not banknote): features Zimbabwe national symbols and Great Zimbabwe ruins imagery; nickel-plated steel composition.",
+      "reason": "Highest denomination in the ZiG coin family, issued as coin only to manage inflation during the gold-backed currency transition; Reserve Bank limited banknote issuance to 10 ZiG and 20 ZiG.",
+      "security": "Coin specifications: nickel-plated steel composition; Zimbabwe Bird and Domboremari designs consistent with ZiG coin series."
     },
     "sources": [
-      "Central Bank of Kenya"
+      "https://en.wikipedia.org/wiki/Zimbabwean_ZiG",
+      "https://en.ucoin.net/coin/zimbabwe-5-zig-2024/?tid=169190"
     ],
-    "confidence": "fallback"
+    "confidence": "secondary"
   },
   {
     "id": "e176",
