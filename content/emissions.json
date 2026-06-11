@@ -6794,20 +6794,21 @@
     "country": "Fiji",
     "issuer": "Reserve Bank of Fiji",
     "title": "100 Cents",
-    "description": "Chinese Lunar Year of the Dragon (10.02.2024 - 28.01.2025).",
+    "description": "A red and yellow commemorative polymer note celebrating the Chinese Lunar Year of the Dragon, the world's first legal-tender 100-cent denomination banknote.",
     "hue": 25.9,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/FIJW0124o.jpg",
     "slug": "fiji-100-cents-e298",
-    "body": "Red and yellow polymer commemorative note (145 x 70 mm) celebrating the Chinese Lunar Year of the Dragon, released August 8, 2023. Obverse features hibiscus flowers and national coat of arms; reverse displays a stylized dragon with clouds and red lantern designed by renowned Chinese illustrator Li Min. Holographic foil strip shows Fijian wildlife and cultural symbols.",
+    "body": "Issued on 8 August 2023, this non-circulating legal-tender note was produced by De La Rue on Safeguard polymer substrate, measuring 145 x 70 mm and limited to 950,000 pieces. The obverse displays the Fijian coat of arms, a red hibiscus with a colour-shifting optically variable ink rendition, and a holographic foil strip incorporating the Fiji Banded Iguana, Red-throated Lorikeet, corals, fish, and the RBF logo. The reverse features a stylised Chinese dragon amid white and yellow clouds, which fluoresces yellow and green under ultraviolet light, marking Fiji's deep cultural ties with its Chinese-Fijian community.",
     "highlights": {
-      "reason": "Commemoration of the Chinese Lunar Year of the Dragon (2024-2025)",
-      "design": "Red and yellow polymer note with stylized dragon and red lantern, designed by celebrated Chinese banknote designer Liu Hongsheng",
-      "security": "Holographic foil strip featuring waves, leaves, banded iguana, red-throated lorikeet, and Fijian marine elements"
+      "design": "Stylised Chinese dragon on reverse surrounded by clouds, with a hibiscus and holographic foil strip incorporating Fijian wildlife on the obverse.",
+      "reason": "Commemorates the Chinese Lunar Year of the Dragon and celebrates Fiji's cultural diversity as the world's first 100-cent denomination legal-tender banknote.",
+      "security": "De La Rue Safeguard polymer substrate with SPOTLIGHT counter-rotating Pyramid Butterfly fish, GEMINI micro and line effects, PUREIMAGE window design, a golden pearl with Fresnel effect, optically variable magnetic ink hibiscus, and UV-reactive dragon on reverse."
     },
     "sources": [
-      "https://www.streetinsider.com/Press+Releases/Fiji+releases+worlds+first+100-cent+Year+of+the+Dragon+commemorative+banknote/22008457.html"
+      "https://banknotenews.com/?p=40715",
+      "https://www.banknoteworld.com/fiji-100-cents-banknote-2023-nd-p-124-unc-commemorative-polymer-chinese-lunar-year-of-the-dragon.html"
     ],
-    "confidence": "official"
+    "confidence": "secondary"
   },
   {
     "id": "e299",
@@ -6816,14 +6817,20 @@
     "country": "Gambia",
     "issuer": "Central Bank of The Gambia",
     "title": "5 Dalasis",
-    "description": "Giant kingfisher, arms.",
+    "description": "A red polymer note featuring the Giant Kingfisher on the obverse and a pastoral cattle-herding scene on the reverse.",
     "hue": 348.4,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/GAMW2019-005o.jpg",
     "slug": "gambia-5-dalasis-e299",
-    "body": "The 5 Dalasis note issued by Central Bank of The Gambia represents a 2023 emission in Gambia's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2023 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The 5 Dalasi note is part of the Central Bank of The Gambia's 2019 bird series, with the 2023 dated issues representing a new signature variety. Measuring 124 x 62 mm, the predominantly red note was printed by De La Rue and replaced earlier designs that featured the portrait of former president Yahya Jammeh, reflecting The Gambia's post-2017 democratic transition. The obverse showcases the Giant Kingfisher (Megaceryle maxima) alongside the Gambian coat of arms, while the reverse depicts cattle grazing — a nod to the country's agricultural heritage.",
+    "highlights": {
+      "design": "Giant Kingfisher in flight and perched on the obverse, with cattle and a rural landscape on the reverse.",
+      "reason": "Part of the 2019 redesign series issued to remove political imagery and celebrate indigenous wildlife following The Gambia's return to democratic governance.",
+      "security": "Holographic windowed security thread with demetalized numeral, pearlescent stripe on reverse, crocodile-head watermark with electrotype denomination and palm tree, and standing bush fowl registration device."
+    },
+    "sources": [
+      "https://www.leftovercurrency.com/exchange/gambian-dalasis/current-gambian-dalasi-banknotes/"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e300",
@@ -6832,14 +6839,21 @@
     "country": "Gambia",
     "issuer": "Central Bank of The Gambia",
     "title": "10 Dalasis",
-    "description": "Birds, arms.",
+    "description": "A green polymer note depicting a bird in flight on the obverse and the historic Kunta Kinteh Island ferry on the reverse.",
     "hue": 116.8,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/GAMW2019-010o.jpg",
     "slug": "gambia-10-dalasis-e300",
-    "body": "The 10 Dalasis note issued by Central Bank of The Gambia represents a 2023 emission in Gambia's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2023 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The 10 Dalasi note is a 2023 signature variety of the 2019 bird series introduced by the Central Bank of The Gambia. Measuring 125 x 65 mm, the green note was printed by De La Rue and features a bird in flight and perched on a branch alongside the national coat of arms on the obverse. The reverse depicts the Kunta Kinteh ferry connecting the north and south banks of the River Gambia, referencing the country's most symbolically important UNESCO World Heritage Site associated with the transatlantic slave trade.",
+    "highlights": {
+      "design": "Bird in flight and perched on a branch on the obverse, with the Kunta Kinteh Island ferry on the reverse.",
+      "reason": "Part of the 2019 redesign to celebrate Gambian wildlife and landmark heritage sites, replacing imagery tied to the former regime.",
+      "security": "Holographic windowed security thread with demetalized 10, pearlescent stripe on reverse, crocodile-head watermark with electrotype 10 and palm tree, and standing bush fowl registration device."
+    },
+    "sources": [
+      "https://www.banknoteworld.com/gambia-10-dalasis-banknote-2023-p-38c-unc.html",
+      "https://www.leftovercurrency.com/exchange/gambian-dalasis/current-gambian-dalasi-banknotes/"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e301",
@@ -6848,14 +6862,20 @@
     "country": "Gambia",
     "issuer": "Central Bank of The Gambia",
     "title": "20 Dalasis",
-    "description": "Birds, arms.",
+    "description": "A polymer note featuring a pair of native birds on the obverse and an agricultural harvesting machine on the reverse, honouring Gambian wildlife and rural industry.",
     "hue": 207.6,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/GAMW2019-020o.jpg",
     "slug": "gambia-20-dalasis-e301",
-    "body": "The 20 Dalasis note issued by Central Bank of The Gambia represents a 2023 emission in Gambia's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2023 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The 20 Dalasi note is a 2023 signature variety of the design first introduced in August 2019. The obverse displays a pair of finches alongside the national coat of arms, continuing the series-wide theme of celebrating indigenous Gambian birdlife. The reverse depicts an agricultural harvesting machine, reflecting the country's farming sector which employs a large share of the Gambian population and underpins groundnut and cereal production.",
+    "highlights": {
+      "design": "Pair of native finches on the obverse alongside the coat of arms, with an agricultural harvesting machine on the reverse.",
+      "reason": "Part of the 2019 redesign series to replace portraits of former president Jammeh with wildlife and national heritage imagery.",
+      "security": "Holographic windowed security thread with demetalized numeral, pearlescent stripe on reverse, crocodile-head watermark with electrotype denomination and palm tree, and standing bush fowl registration device."
+    },
+    "sources": [
+      "https://www.leftovercurrency.com/exchange/gambian-dalasis/current-gambian-dalasi-banknotes/"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e302",
@@ -6864,14 +6884,21 @@
     "country": "Gambia",
     "issuer": "Central Bank of The Gambia",
     "title": "50 Dalasis",
-    "description": "Birds, arms.",
+    "description": "A purple polymer note featuring eagles on the obverse and the UNESCO-listed Wassu Stone Circles on the reverse.",
     "hue": 270.1,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/GAMW2019-050o.jpg",
     "slug": "gambia-50-dalasis-e302",
-    "body": "The 50 Dalasis note issued by Central Bank of The Gambia represents a 2023 emission in Gambia's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2023 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The 50 Dalasi note is a 2023 signature variety of the design launched in 2019, when birds of prey replaced imagery on older issues. The obverse depicts an eagle soaring in flight with prey, with a second eagle perched on a rock — a powerful image representing freedom and the natural wealth of The Gambia. The reverse features the Wassu Stone Circles, a UNESCO World Heritage Site dating to the first millennium AD and one of The Gambia's most significant archaeological landmarks.",
+    "highlights": {
+      "design": "Soaring eagle clutching prey alongside a perched eagle on the obverse, with the Wassu Stone Circles on the reverse.",
+      "reason": "Part of the 2019 democratic redesign to depict national wildlife and heritage in place of the ousted regime's political imagery.",
+      "security": "Holographic windowed security thread with demetalized 50, pearlescent stripe on reverse, crocodile-head watermark with electrotype 50 and palm tree, and standing bush fowl registration device."
+    },
+    "sources": [
+      "https://www.leftovercurrency.com/exchange/gambian-dalasis/current-gambian-dalasi-banknotes/",
+      "https://www.banknoteworld.com/gambia-50-dalasis-banknote-2023-p-40c-unc.html"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e303",
@@ -6880,14 +6907,20 @@
     "country": "Gambia",
     "issuer": "Central Bank of The Gambia",
     "title": "100 Dalasis",
-    "description": "Crowned cranes, arms.",
+    "description": "A teal polymer note showcasing the Black Crowned Crane on the obverse and traditional fishermen on the reverse.",
     "hue": 189.2,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/GAMW2019-100o.jpg",
     "slug": "gambia-100-dalasis-e303",
-    "body": "The 100 Dalasis note issued by Central Bank of The Gambia represents a 2023 emission in Gambia's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2023 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The 100 Dalasi note is a 2023 signature variety of the 2019 series, with the obverse featuring the majestic Black Crowned Crane (Balearica pavonina) — the centrepiece of this denomination — alongside the national coat of arms. The reverse depicts fishermen casting nets from a boat on the River Gambia, honouring the fishing industry central to the livelihoods of many Gambians. The African Crested Crane was a brand-new addition to Gambian currency in the 2019 series.",
+    "highlights": {
+      "design": "Black Crowned Crane prominently displayed on the obverse with the coat of arms; fishermen on the River Gambia on the reverse.",
+      "reason": "Part of the 2019 redesign to celebrate Gambia's iconic birdlife and cultural industries, replacing political imagery of the former president.",
+      "security": "Holographic windowed security thread with demetalized 100, pearlescent stripe on reverse, crocodile-head watermark with electrotype 100 and palm tree, and iridescent bush fowl ink patch."
+    },
+    "sources": [
+      "https://www.leftovercurrency.com/exchange/gambian-dalasis/current-gambian-dalasi-banknotes/100-gambian-dalasis-banknote-crowned-cranes/"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e304",
@@ -6896,14 +6929,20 @@
     "country": "Gambia",
     "issuer": "Central Bank of The Gambia",
     "title": "200 Dalasis",
-    "description": "Birds, arms.",
+    "description": "A polymer note featuring two standing bush fowl birds on the obverse and a rice-planting scene on the reverse, celebrating Gambian agriculture and wildlife.",
     "hue": 22.2,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/GAMW2019-200o.jpg",
     "slug": "gambia-200-dalasis-e304",
-    "body": "The 200 Dalasis note issued by Central Bank of The Gambia represents a 2023 emission in Gambia's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2023 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The 200 Dalasi note is the highest denomination in the Gambian series, with the 2023 issue representing an updated signature variety of the 2019 design. The obverse displays two standing double-spurred bush fowl (Pternistis bicalcaratus) alongside a gold-to-green SPARK Orbital optically variable ink patch also shaped as a bush fowl, with the national coat of arms. The reverse depicts workers planting rice in paddy fields, reflecting the importance of rice cultivation to Gambian food security and rural employment.",
+    "highlights": {
+      "design": "Two standing bush fowl birds on the obverse with a SPARK Orbital OVI security patch; rice-planting workers in paddy fields on the reverse.",
+      "reason": "Highest denomination in the 2019 democratic redesign series, reflecting Gambian agricultural heritage and endemic wildlife after removal of former presidential imagery.",
+      "security": "SPARK Orbital optically variable ink patch in the shape of a bush fowl, holographic windowed security thread with demetalized 200, crocodile-head watermark with electrotype 200 and palm tree, and pearlescent stripe."
+    },
+    "sources": [
+      "https://www.robertsworldmoney.com/products/gambia-200-dalasis-2023-b240c-unc"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e305",
@@ -6912,14 +6951,21 @@
     "country": "Great Britain",
     "issuer": "Bank of England",
     "title": "5 Pounds",
-    "description": "Charles III, Bank of England building.",
+    "description": "A polymer £5 note bearing King Charles III's portrait on the obverse and Sir Winston Churchill with the Houses of Parliament on the reverse.",
     "hue": 198.5,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/GBRW0398o.jpg",
     "slug": "great-britain-5-pounds-e305",
-    "body": "The 5 Pounds note issued by Bank of England represents a 2023 emission in Great Britain's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2023 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The King Charles III £5 note was unveiled on 20 December 2022 and entered circulation on 5 June 2024, making it the first Bank of England note to carry the new monarch's portrait in the see-through security window as well as on the face. The reverse design is unchanged from the Elizabeth II series: it features a 1941 Yousuf Karsh photograph of Churchill, his famous speech quote, the Houses of Parliament, and a green foil maze representing Blenheim Palace, Churchill's birthplace. The note is legal tender alongside still-circulating Queen Elizabeth II £5 notes.",
+    "highlights": {
+      "design": "King Charles III portrait on the obverse; Sir Winston Churchill, the Houses of Parliament, and a Blenheim Palace maze in green foil on the reverse.",
+      "reason": "Issued to replace Queen Elizabeth II's portrait following her death in September 2022, maintaining all existing reverse designs and polymer security features unchanged.",
+      "security": "Transparent see-through window with King Charles III cameo portrait, Kinegram Colors holographic foil strip alternating 'Five' and 'Pounds', colour-changing border (purple to green) around the window, silver foil 3D coronation crown patch, and green BLENHEIM foil circle."
+    },
+    "sources": [
+      "https://www.bankofengland.co.uk/news/2022/december/king-charles-iii-banknotes-unveiled",
+      "https://www.bankofengland.co.uk/news/2024/june/king-charles-banknotes-enter-circulation-on-5-june-2024"
+    ],
+    "confidence": "official"
   },
   {
     "id": "e306",
@@ -6928,14 +6974,21 @@
     "country": "Great Britain",
     "issuer": "Bank of England",
     "title": "10 Pounds",
-    "description": "Charles III, Bank of England building.",
+    "description": "A polymer £10 note bearing King Charles III's portrait on the obverse and Jane Austen with Godmersham Park on the reverse.",
     "hue": 23.3,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/GBRW0399o.jpg",
     "slug": "great-britain-10-pounds-e306",
-    "body": "The 10 Pounds note issued by Bank of England represents a 2023 emission in Great Britain's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2023 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The King Charles III £10 note was unveiled alongside the other denominations on 20 December 2022 and entered circulation on 5 June 2024. Its reverse is carried over unchanged from the Elizabeth II series: it depicts a portrait of Jane Austen, a writing quill, an image of Godmersham Park in Kent (believed to have inspired her novels), a view of Winchester Cathedral where she was buried in 1817, and her celebrated Pride and Prejudice quote. A copper foil patch bearing her initials 'JA' and a colour-changing quill (purple to orange) are among its distinctive features.",
+    "highlights": {
+      "design": "King Charles III portrait on the obverse; Jane Austen, Godmersham Park, Winchester Cathedral, and a Pride and Prejudice quote on the reverse.",
+      "reason": "Issued to carry the new monarch's portrait following the accession of King Charles III, with the Jane Austen reverse — first introduced in September 2017 — remaining unchanged.",
+      "security": "Transparent see-through window with King Charles III cameo, holographic foil strip alternating 'Ten' and 'Pounds', colour-changing quill (purple to orange), silver foil 3D coronation crown patch, and copper 'JA' foil patch."
+    },
+    "sources": [
+      "https://www.bankofengland.co.uk/news/2022/december/king-charles-iii-banknotes-unveiled",
+      "https://www.bankofengland.co.uk/news/2024/june/king-charles-banknotes-enter-circulation-on-5-june-2024"
+    ],
+    "confidence": "official"
   },
   {
     "id": "e307",
@@ -6944,14 +6997,21 @@
     "country": "Great Britain",
     "issuer": "Bank of England",
     "title": "20 Pounds",
-    "description": "Charles III, Bank of England building.",
+    "description": "A polymer £20 note bearing King Charles III's portrait on the obverse and J.M.W. Turner's self-portrait alongside The Fighting Temeraire on the reverse.",
     "hue": 322.2,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/GBRW0400o.jpg",
     "slug": "great-britain-20-pounds-e307",
-    "body": "The 20 Pounds note issued by Bank of England represents a 2023 emission in Great Britain's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2023 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The King Charles III £20 note was unveiled on 20 December 2022 and entered circulation on 5 June 2024, replacing the Queen Elizabeth II version that had itself entered circulation in February 2020. The reverse design is retained in full: it shows a c.1799 self-portrait of J.M.W. Turner, a reproduction of his iconic painting The Fighting Temeraire (depicting HMS Temeraire being towed to its last berth after the Battle of Trafalgar), Turner's lecture quote 'Light is therefore colour', and a facsimile of his signature from his will. A round purple foil patch contains the letter 'T' in honour of Turner.",
+    "highlights": {
+      "design": "King Charles III portrait on the obverse; J.M.W. Turner self-portrait, The Fighting Temeraire painting, and a Turner lecture quote on the reverse.",
+      "reason": "Issued to update the monarch's portrait on the Bank of England's highest-circulation polymer note following the accession of Charles III, with Turner's artistically significant reverse unchanged.",
+      "security": "Large transparent see-through window with King Charles III cameo portrait, gold-and-blue foil over the window, holographic foil strip alternating 'Twenty' and 'Pounds', smaller second window in the lower corner, round purple 'T' foil patch, and tactile raised dots for the visually impaired."
+    },
+    "sources": [
+      "https://www.bankofengland.co.uk/news/2022/december/king-charles-iii-banknotes-unveiled",
+      "https://www.bankofengland.co.uk/news/2024/june/king-charles-banknotes-enter-circulation-on-5-june-2024"
+    ],
+    "confidence": "official"
   },
   {
     "id": "e308",
