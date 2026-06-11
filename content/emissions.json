@@ -4461,150 +4461,187 @@
   {
     "id": "e196",
     "year": 2023,
-    "date": "2020 & 2023",
+    "date": "2023",
     "country": "Ethiopia",
     "issuer": "National Bank of Ethiopia",
     "title": "100 Birr",
-    "description": "Enqulal Gemb fortress (Gondar).",
+    "description": "Ethiopia 100 Birr banknote (2023) featuring the Enqulab Gemb fortress in Gondar and the Sof Omar Caves.",
     "hue": 212,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/ETHW2020-100o.jpg",
     "slug": "ethiopia-100-birr-e196",
-    "body": "The 100 Birr note issued by National Bank of Ethiopia represents a 2023 emission in Ethiopia's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2023 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
+    "body": "The National Bank of Ethiopia released its 100 Birr note in 2023 as part of a modernized currency series. The note is dated Ethiopian Year 2015 (AD 2023) and bears the signature of Yinager Dessie. This blue denomination measures 147 mm x 72 mm and serves as a standard circulation banknote for the country's currency system.\n\nThe obverse side features a lion head and the Enqulab Gemb fortress located in Gondar, showcasing Ethiopia's rich medieval heritage. The fortress complex in Gondar was built in the 17th and 18th centuries and served as the royal seat of Ethiopian emperors, earning the city the nickname the Camelot of Africa. The reverse depicts the Sof Omar Caves and the historic walled city of Harar, emphasizing the nation's archaeological and architectural diversity across different regions.\n\nThe Sof Omar Caves form one of the most extensive cave systems in Africa, stretching over 15 kilometers through limestone mountains in the Bale region. The ancient walled city of Harar, a UNESCO World Heritage Site, is regarded as the fourth holiest city in Islam and home to over 80 mosques. Together these landmarks illustrate Ethiopia's extraordinary cultural and religious heritage spanning centuries.",
     "highlights": {
-      "reason": "South Korean currency variant",
-      "design": "Korean design elements",
-      "security": "Security features"
+      "design": "Obverse: Enqulab Gemb fortress in Gondar and lion head. Reverse: Sof Omar Caves and historic gates of the walled city of Harar.",
+      "reason": "Part of National Bank of Ethiopia's modernized currency series celebrating the nation's cultural and archaeological heritage.",
+      "security": "4-mm Rolling Star windowed security thread with demetalized NBE 100, castle and obelisk watermark."
     },
-    "sources": [],
-    "confidence": "fallback"
+    "sources": [
+      "https://www.banknoteworld.com/ethiopia-100-birr-banknote-2023-p-57a-2-unc.html",
+      "https://banknotedb.com/100-birr-2023"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e197",
     "year": 2023,
-    "date": "ND (2023)",
+    "date": "2023-08-08",
     "country": "Fiji",
     "issuer": "Reserve Bank of Fiji",
     "title": "100 Cents",
-    "description": "Chinese Lunar Year of the Dragon (2024).",
+    "description": "Fiji 100 Cents commemorative polymer banknote (August 2023) — world's first 100-cent denomination — celebrating the Chinese Lunar Year of the Dragon.",
     "hue": 26,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/FIJW0124o.jpg",
     "slug": "fiji-100-cents-e197",
-    "body": "The 100 Cents note issued by Reserve Bank of Fiji represents a 2023 emission in Fiji's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2023 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
+    "body": "The Reserve Bank of Fiji released a special 100 cents commemorative banknote on August 8, 2023, making it the world's first 100-cent Year of the Dragon commemorative banknote and the world's first plastic banknote with a 100-cent denomination. This non-circulating numismatic note is printed on SAFEGUARD polymer substrate by De La Rue and measures 145 mm x 70 mm. While the note has legal tender status, it is intended for collectors with a local selling price of FJD 30 and a limited production of 950,000 units.\n\nThe obverse features a hibiscus flower, the national coat of arms, and a gold-to-green optically variable ink (OVI) hibiscus flower. The reverse displays a stylized dragon with clouds, a red lantern, and the Reserve Bank of Fiji logo, celebrating the Chinese cultural tradition of the lunar calendar's Year of the Dragon. The note employs De La Rue's patented Spotlight, PureImage, and Depth technologies in its production.\n\nA distinctive feature is the half-window foil strip containing a pseudo relief laser gold numeral, a coral fish that moves when tilted, and animated colorful decorative motifs. The Fiji 100 Cents note represents a creative approach to commemorative currency, using a denomination not typically associated with banknotes to create a unique collector's item bridging Pacific Island culture with Chinese heritage traditions.",
     "highlights": {
-      "reason": "South Korean currency variant",
-      "design": "Korean cultural elements",
-      "security": "Banknote security"
+      "design": "Obverse: Hibiscus flower, national coat of arms, gold-to-green OVI hibiscus. Reverse: Stylized Year of the Dragon dragon with clouds, red lantern, Reserve Bank of Fiji logo.",
+      "reason": "Commemorative issue celebrating Chinese Lunar Year of the Dragon; world's first 100-cent denomination banknote. Limited edition of 950,000 units.",
+      "security": "Holographic foil strip with waves, leaves, banded iguana, red-throated lorikeet, fish, corals; De La Rue Spotlight, PureImage, and Depth technologies; SAFEGUARD polymer substrate."
     },
-    "sources": [],
-    "confidence": "fallback"
+    "sources": [
+      "https://www.rbf.gov.fj/fiji-100-cents-numismatic-banknote/",
+      "https://en.numista.com/catalogue/note373808.html",
+      "https://fijisun.com.fj/2023/08/11/rbf-issues-fiji-numismatic-100-cents-banknote/"
+    ],
+    "confidence": "official"
   },
   {
     "id": "e198",
     "year": 2023,
-    "date": "2019-2023",
+    "date": "2023",
     "country": "Gambia",
     "issuer": "Central Bank of The Gambia",
     "title": "5 Dalasis",
-    "description": "Giant kingfisher, arms.",
+    "description": "Gambia 5 Dalasis red polymer banknote (2023) featuring a giant kingfisher bird — lowest denomination of the 2019-2023 series.",
     "hue": 348,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/GAMW2019-005o.jpg",
     "slug": "gambia-5-dalasis-e198",
-    "body": "The 5 Dalasis note issued by Central Bank of The Gambia represents a 2023 emission in Gambia's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2023 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
+    "body": "The Central Bank of The Gambia issued the 5 Dalasis banknote in 2023 as part of its 2019-2023 modernized currency series featuring native birds of The Gambia. This red polymer note measures 125 mm x 65 mm and bears the signatures of Jallow and Saidy. The denomination represents the lowest value in the current circulating series and includes enhanced security features consistent with modern banknote production standards.\n\nThe obverse side features a giant kingfisher bird perched on a tree branch and in flight, along with two standing bush fowl birds serving as registration marks and the national coat of arms. The giant kingfisher (Megaceryle maxima) is the largest kingfisher in Africa, commonly found along Gambia's rivers and waterways, making it a fitting symbol for the country's rich avian heritage. The reverse depicts cattle and a rancher on a tropical landscape, representing Gambia's agricultural traditions.\n\nThe Gambia is world-renowned as a premier birdwatching destination in West Africa, with over 600 bird species recorded in a country smaller than many national parks on the continent. The birds-themed banknote series celebrates this extraordinary biodiversity while providing a distinctive visual identity that sets Gambian currency apart internationally.",
     "highlights": {
-      "reason": "South Korean currency variant",
-      "design": "Korean imagery",
-      "security": "Security elements"
+      "design": "Obverse: Giant kingfisher bird in flight and perched, standing bush fowls as registration marks, national coat of arms. Reverse: Cattle and rancher on tropical landscape.",
+      "reason": "Lowest denomination in Central Bank of The Gambia's modernized 2019-2023 currency series celebrating Gambia's exceptional bird diversity.",
+      "security": "Holographic windowed security thread with demetalized bird imagery and denomination; two bush fowls as registration device; pearlescent stripe; crocodile head watermark with electrotype 5."
     },
-    "sources": [],
-    "confidence": "fallback"
+    "sources": [
+      "https://www.robertsworldmoney.com/products/gambia-full-set-5-200-dalasis-2023-unc",
+      "https://en.numista.com/catalogue/note204140.html"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e199",
     "year": 2023,
-    "date": "2019-2023",
+    "date": "2023",
     "country": "Gambia",
     "issuer": "Central Bank of The Gambia",
     "title": "10 Dalasis",
-    "description": "Birds, arms.",
+    "description": "Gambia 10 Dalasis green polymer banknote (2023) featuring a dove bird and the Kunta Kinteh ferry on the reverse.",
     "hue": 117,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/GAMW2019-010o.jpg",
     "slug": "gambia-10-dalasis-e199",
-    "body": "The 10 Dalasis note issued by Central Bank of The Gambia represents a 2023 emission in Gambia's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2023 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
+    "body": "The Central Bank of The Gambia released the 10 Dalasis banknote in 2023 as the second denomination in its modernized 2019-2023 currency series. This green polymer note measures 127 mm x 65 mm and bears the signatures of Jallow and Saidy. The denomination continues the birds-themed series of Gambian banknotes, with each note showcasing native bird species representative of the country's remarkable avifauna.\n\nThe obverse features a dove bird perched on a tree branch and in flight, accompanied by two standing bush fowl birds as registration marks and the national coat of arms. The reverse depicts the Kunta Kinteh ferry, a significant Gambian vessel that connects Banjul to Barra across the River Gambia at its mouth, representing the nation's river transport heritage. The ferry crossing bears the name of Kunta Kinteh, the African slave whose story was told in Alex Haley's novel Roots.\n\nThe River Gambia is the defining geographical feature of the country, running its entire length from east to west. The ferry connection between Banjul and Barra represents one of the most important transport links in Gambia, connecting the capital with the northern regions of the country. Its depiction on the 10 Dalasis note underscores the river's central role in Gambian daily life, culture, and national identity.",
     "highlights": {
-      "reason": "South Korean currency variant",
-      "design": "Korean cultural figures",
-      "security": "Modern features"
+      "design": "Obverse: Dove bird in flight and perched, standing bush fowls, national coat of arms. Reverse: Kunta Kinteh ferry connecting Banjul and Barra across the River Gambia.",
+      "reason": "Second denomination in Central Bank of The Gambia's 2019-2023 series featuring avian and cultural transport heritage themes.",
+      "security": "Holographic windowed security thread with demetalized bird and denomination; pearlescent stripe with denomination; crocodile head watermark with electrotype 10."
     },
-    "sources": [],
-    "confidence": "fallback"
+    "sources": [
+      "https://www.banknoteworld.com/gambia-10-dalasis-banknote-2023-p-38c-unc.html",
+      "https://en.numista.com/catalogue/note207583.html"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e200",
     "year": 2023,
-    "date": "2019-2023",
+    "date": "2023",
     "country": "Gambia",
     "issuer": "Central Bank of The Gambia",
     "title": "20 Dalasis",
-    "description": "Birds, arms.",
+    "description": "Gambia 20 Dalasis blue polymer banknote (2023) featuring the red-billed firefinch and national coat of arms.",
     "hue": 208,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/GAMW2019-020o.jpg",
     "slug": "gambia-20-dalasis-e200",
-    "body": "The 20 Dalasis note issued by Central Bank of The Gambia represents a 2023 emission in Gambia's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2023 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
+    "body": "The Central Bank of The Gambia issued the 20 Dalasis banknote in 2023 as the third denomination in its modernized 2019-2023 currency series. This blue polymer note measures 125 mm x 65 mm and bears the signatures of Buah Saidy and Dr. Abodulie Sireh Jallow. The denomination continues the tradition of featuring indigenous Gambian birds, with the red-billed firefinch chosen as the primary design element.\n\nThe obverse displays the red-billed firefinch (Lagonosticta senegala), a small but vibrant bird common throughout sub-Saharan Africa and a familiar sight in Gambian gardens and agricultural areas, alongside the national coat of arms consisting of two lions holding an axe and hoe, a shield, a heraldic helmet, and an oil palm. The red-billed firefinch is notable for being the primary host of the village indigobird, a cuckoo-finch that mimics its songs and nesting habits.\n\nThe 20 Dalasis note sits in the middle of the denomination range and is one of the most commonly circulated notes in everyday Gambian transactions. The birds-themed design approach for Gambian currency was chosen to reflect the country's global reputation as one of Africa's top birdwatching destinations, supporting tourism and raising national pride in the country's extraordinary natural heritage.",
     "highlights": {
-      "reason": "South Korean currency variant",
-      "design": "Korean elements",
-      "security": "Features"
+      "design": "Obverse: Red-billed firefinch and national coat of arms with two lions, shield, heraldic helmet, and oil palm. Reverse: Cultural heritage elements.",
+      "reason": "Third denomination in Central Bank of The Gambia's 2019-2023 modernized currency series celebrating Gambian birdlife.",
+      "security": "Holographic windowed security thread with demetalized bird imagery; pearlescent stripe with denomination; enhanced watermarks."
     },
-    "sources": [],
-    "confidence": "fallback"
+    "sources": [
+      "https://en.numista.com/catalogue/note204145.html",
+      "https://www.foreigncurrencyandcoin.com/product/gambia-20-dalasis-2/"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e201",
     "year": 2023,
-    "date": "2019-2023",
+    "date": "2023",
     "country": "Gambia",
     "issuer": "Central Bank of The Gambia",
     "title": "50 Dalasis",
-    "description": "Birds, arms.",
+    "description": "Gambia 50 Dalasis purple polymer banknote (2023) featuring an osprey bird of prey and the Wassu stone circles archaeological site.",
     "hue": 270,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/GAMW2019-050o.jpg",
     "slug": "gambia-50-dalasis-e201",
-    "body": "The 50 Dalasis note issued by Central Bank of The Gambia represents a 2023 emission in Gambia's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2023 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The Central Bank of The Gambia released the 50 Dalasis banknote in 2023 as part of its 2019-2023 modernized currency series. This purple polymer note measures 125 mm x 65 mm and bears the signatures of Buah Saidy and Dr. Abodulie Sireh Jallow. The denomination represents the mid-to-higher value notes in the series and continues the birds-themed design approach.\n\nThe obverse side features an osprey (Pandion haliaetus) bird of prey perched on a tree branch and in flight, with two standing bush fowl birds as registration marks and the national coat of arms. The osprey is a widespread raptor found on Gambian rivers and coastline, known for its dramatic plunge-diving fishing technique. The reverse depicts the Wassu stone circles, an important archaeological site dating from the 8th century AD located in the North Bank Region of Gambia.\n\nThe Wassu stone circles are part of the Senegambian Stone Circles UNESCO World Heritage Site, comprising over 1,000 monuments consisting of stone circles, burial mounds, and tumuli spread across Senegal and Gambia. These circles were constructed between the 8th and 16th centuries AD by the ancestors of present-day inhabitants, representing one of the largest concentrations of megalithic sites on Earth and a significant marker of the region's pre-colonial civilizations.",
+    "highlights": {
+      "design": "Obverse: Osprey bird of prey in flight and perched, standing bush fowls, national coat of arms. Reverse: 8th-century Wassu stone circles (UNESCO World Heritage Site).",
+      "reason": "Mid-to-higher denomination in Central Bank of The Gambia's 2019-2023 series highlighting raptor biodiversity and archaeological heritage.",
+      "security": "Holographic green-to-red windowed security thread with demetalized bird and denomination 50; pearlescent stripe; crocodile head watermark with electrotype 50."
+    },
+    "sources": [
+      "https://www.banknoteworld.com/gambia-50-dalasis-banknote-2023-p-40c-unc.html",
+      "https://en.numista.com/catalogue/note220517.html"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e202",
     "year": 2023,
-    "date": "2019-2023",
+    "date": "2023",
     "country": "Gambia",
     "issuer": "Central Bank of The Gambia",
     "title": "100 Dalasis",
-    "description": "Crowned cranes, arms.",
+    "description": "Gambia 100 Dalasis teal polymer banknote (2023) featuring black-crowned cranes and traditional river fishing imagery.",
     "hue": 189,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/GAMW2019-100o.jpg",
     "slug": "gambia-100-dalasis-e202",
-    "body": "The 100 Dalasis note issued by Central Bank of The Gambia represents a 2023 emission in Gambia's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2023 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The Central Bank of The Gambia issued the 100 Dalasis banknote in 2023 as one of the highest denominations in its modernized 2019-2023 currency series. This teal polymer note measures 135 mm x 74 mm and was printed by De La Rue with signatures from Buah Saidy and Dr. Abodulie Sireh Jallow. The denomination represents significant purchasing power in Gambian currency circulation.\n\nThe obverse features a black-crowned crane (Balearica pavonina) standing and in flight, with two standing bush fowl birds as registration marks and the national coat of arms. The black-crowned crane is a striking and culturally significant bird in West Africa, known for its golden crown and elaborate courtship dances. The reverse depicts three men in a traditional dugout canoe casting a fishing net on the River Gambia, illustrating the traditional fishing practices that have sustained Gambian communities for centuries.\n\nThe River Gambia fishery is central to the nation's food security and economy, with both artisanal and commercial fishing operations employing a significant portion of the population. The black-crowned crane has historical significance in Gambian culture and is listed as vulnerable due to habitat loss across its West African range. Its prominent placement on the 100 Dalasis note reflects conservation awareness alongside cultural celebration.",
+    "highlights": {
+      "design": "Obverse: Black-crowned crane standing and in flight, standing bush fowls, national coat of arms. Reverse: Three men in canoe casting fishing net on the River Gambia.",
+      "reason": "High-value denomination in Central Bank of The Gambia's 2019-2023 series emphasizing wildlife conservation and traditional fishing heritage.",
+      "security": "Holographic green-to-red windowed security thread with demetalized bird and denomination 100; pearlescent stripe with denomination; two bush fowls as registration device."
+    },
+    "sources": [
+      "https://www.robertsworldmoney.com/products/gambia-100-dalasis-2023-b239c-unc",
+      "https://en.numista.com/catalogue/note204151.html"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e203",
     "year": 2023,
-    "date": "2019-2023",
+    "date": "2023",
     "country": "Gambia",
     "issuer": "Central Bank of The Gambia",
     "title": "200 Dalasis",
-    "description": "Birds, arms.",
+    "description": "Gambia 200 Dalasis orange polymer banknote (2023) — highest denomination — featuring bush fowl birds and rice harvesting.",
     "hue": 22,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/GAMW2019-200o.jpg",
     "slug": "gambia-200-dalasis-e203",
-    "body": "The 200 Dalasis note issued by Central Bank of The Gambia represents a 2023 emission in Gambia's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2023 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The Central Bank of The Gambia released the 200 Dalasis banknote in 2023 as the highest denomination in its modernized 2019-2023 currency series. This orange polymer note measures 139 mm x 77 mm and was printed by De La Rue, bearing the signatures of Jallow and Saidy (signature 19). The denomination represents the largest circulating value in current Gambian currency.\n\nThe obverse features two standing double-spurred spurfowl (bush fowl) birds, a gold-to-green SPARK Orbital optically variable ink patch shaped like a bush fowl, two standing bush fowls as registration devices, and the national coat of arms. The bush fowl serves as the visual anchor of the entire denomination series, appearing as registration marks on all notes and taking center stage on the highest value. The reverse depicts two workers harvesting rice by hand, representing Gambia's agricultural economy and rural traditions.\n\nRice farming is central to Gambian food culture, with rice being the country's staple food and a primary agricultural activity particularly among women farmers in the rural regions. The SPARK Orbital OVI on the 200 Dalasis note is one of the most advanced security features in the series, creating a shimmering gold-to-green orbital effect when the note is tilted, providing both visual appeal and anti-counterfeiting protection for this highest-value denomination.",
+    "highlights": {
+      "design": "Obverse: Double-spurred spurfowl (bush fowl) birds, gold-to-green SPARK Orbital OVI patch, national coat of arms. Reverse: Two workers harvesting rice by hand.",
+      "reason": "Highest denomination in Central Bank of The Gambia's 2019-2023 series celebrating agricultural traditions and Gambian avifauna.",
+      "security": "Holographic green-to-red windowed security thread with demetalized bird and denomination 200; gold-to-green SPARK Orbital OVI; pearlescent stripe with denomination."
+    },
+    "sources": [
+      "https://www.robertsworldmoney.com/products/gambia-200-dalasis-2023-b240c-unc",
+      "https://en.numista.com/catalogue/note204152.html"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e204",
@@ -4613,14 +4650,21 @@
     "country": "Great Britain",
     "issuer": "Bank of England",
     "title": "5 Pounds",
-    "description": "Charles III, Bank of England building.",
+    "description": "Great Britain 5 Pounds polymer banknote (2023) featuring King Charles III and Winston Churchill — first UK notes with King Charles III portrait.",
     "hue": 198,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/GBRW0398o.jpg",
     "slug": "great-britain-5-pounds-e204",
-    "body": "The 5 Pounds note issued by Bank of England represents a 2023 emission in Great Britain's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2023 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The Bank of England issued the 5 Pounds polymer banknote dated 2023, marking the introduction of King Charles III's portrait on UK circulation currency following the death of Queen Elizabeth II in September 2022. This blue-turquoise note measures 125 mm x 65 mm and bears the signature of Andrew Bailey, Governor of the Bank of England. Although the copyright date on the note reads 2023, banknotes bearing King Charles III's portrait were officially first issued into circulation on June 5, 2024, with notes remaining in co-circulation with Queen Elizabeth II designs.\n\nThe obverse features King Charles III's portrait (based on a photograph taken by Chris Levine) alongside the Bank of England's Threadneedle Street headquarters and the Elizabeth Tower (Big Ben) over a transparent window. The reverse continues to display Sir Winston Churchill, the former Prime Minister who led Britain through the Second World War, along with the Houses of Parliament and the Elizabeth Tower. Churchill has appeared on the 5 Pounds note since 2016.\n\nThe introduction of King Charles III on UK banknotes represents a significant historical transition, the first change of monarch on British currency since the 1950s. The Bank of England announced that existing Queen Elizabeth II notes would remain legal tender indefinitely, allowing for a gradual natural replacement without disrupting circulation. The polymer substrate, introduced for the 5 Pound note in 2016, provides durability approximately 2.5 times greater than paper notes.",
+    "highlights": {
+      "design": "Obverse: King Charles III portrait, Bank of England headquarters, Elizabeth Tower transparent window. Reverse: Winston Churchill, Houses of Parliament, Elizabeth Tower.",
+      "reason": "First UK banknote series featuring King Charles III following the death of Queen Elizabeth II; co-circulates with previous Queen Elizabeth II design.",
+      "security": "Holographic stripe with alternating Five/Pounds text when tilted; metallic window image (gold obverse, silver reverse); round green foil BLENHEIM feature; polymer substrate."
+    },
+    "sources": [
+      "https://www.bankofengland.co.uk/banknotes/king-charles-banknotes",
+      "https://en.numista.com/catalogue/note350090.html"
+    ],
+    "confidence": "official"
   },
   {
     "id": "e205",
@@ -4629,14 +4673,21 @@
     "country": "Great Britain",
     "issuer": "Bank of England",
     "title": "10 Pounds",
-    "description": "Charles III, Bank of England building.",
+    "description": "Great Britain 10 Pounds polymer banknote (2023) featuring King Charles III and Jane Austen — part of the new royal series.",
     "hue": 23,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/GBRW0399o.jpg",
     "slug": "great-britain-10-pounds-e205",
-    "body": "The 10 Pounds note issued by Bank of England represents a 2023 emission in Great Britain's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2023 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The Bank of England released the 10 Pounds polymer banknote dated 2023, introducing King Charles III's portrait in the continuation of the established Jane Austen design. This note measures 132 mm x 69 mm and features King Charles III on the obverse, with the 2023 design copyright date reflecting production updates. Like the 5 Pounds note, banknotes with King Charles III's portrait officially began circulation on June 5, 2024, operating in parallel with existing Queen Elizabeth II designs.\n\nThe reverse displays Jane Austen, the renowned English novelist celebrated for her wit and social commentary, alongside illustrations from her most famous work. The design includes a quotation from Pride and Prejudice and imagery evoking the Regency era depicted in her novels. Jane Austen has appeared on the 10 Pounds note since 2017, replacing Charles Darwin. Security features include a distinctive book-shaped copper foil patch containing the letters JA, color-shifting text that alternates between Ten and Pounds when tilted, and a coloured quill that changes from purple to orange when tilted.\n\nJane Austen (1775-1817) is one of England's most beloved literary figures, whose six major novels — including Pride and Prejudice, Sense and Sensibility, and Emma — continue to attract global readership and cultural adaptations. Her placement on the 10 Pounds note was chosen through public consultation and reflects her enduring significance to English language and culture. Two clusters of raised dots in the top left corner provide accessibility for blind and partially sighted users.",
+    "highlights": {
+      "design": "Obverse: King Charles III, Bank of England architecture. Reverse: Jane Austen, literary scenes from Pride and Prejudice, Regency-era imagery and quotations.",
+      "reason": "First 10 Pounds note featuring King Charles III; Jane Austen reverse design continues from 2017, emphasizing English literary heritage.",
+      "security": "Book-shaped JA copper foil patch; tilting Ten/Pounds color-shifting text; quill changing purple to orange; metallized micro-text; two accessibility dot clusters for visually impaired users."
+    },
+    "sources": [
+      "https://www.bankofengland.co.uk/banknotes/king-charles-banknotes",
+      "https://en.numista.com/catalogue/note414644.html"
+    ],
+    "confidence": "official"
   },
   {
     "id": "e206",
