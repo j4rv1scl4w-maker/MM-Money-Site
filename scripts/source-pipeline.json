@@ -1,9 +1,9 @@
 {
   "description": "Pipeline per arricchire le emissions con URL reali. Processa in batch da 10, ogni batch viene committato.",
   "total": 493,
-  "processed": 75,
+  "processed": 85,
   "batch_size": 10,
-  "last_committed_batch": 8,
+  "last_committed_batch": 9,
   "items": [
     {
       "id": "e47",
@@ -1251,8 +1251,12 @@
         "NumismaticOnline"
       ],
       "confidence": "high",
-      "status": "pending",
-      "found_urls": []
+      "status": "done",
+      "found_urls": [
+        "https://www.bnm.gov.my/current-banknote-series",
+        "https://www.leftovercurrency.com/exchange/malaysian-ringgit/current-malaysian-ringgit-banknotes/20-malaysian-ringgit-4th-series/"
+      ],
+      "new_confidence": "official"
     },
     {
       "id": "e123",
@@ -1264,8 +1268,12 @@
         "Banknote reference guides"
       ],
       "confidence": "high",
-      "status": "pending",
-      "found_urls": []
+      "status": "done",
+      "found_urls": [
+        "https://www.bnm.gov.my/current-banknote-series",
+        "https://www.bnm.gov.my/-/rm100-fourth-series-june-2012"
+      ],
+      "new_confidence": "official"
     },
     {
       "id": "e124",
@@ -1277,8 +1285,12 @@
         "Banknote databases"
       ],
       "confidence": "high",
-      "status": "pending",
-      "found_urls": []
+      "status": "done",
+      "found_urls": [
+        "https://www.foreigncurrencyandcoin.com/product/mauritius-25-rupees/",
+        "https://en.numista.com/catalogue/note208221.html"
+      ],
+      "new_confidence": "secondary"
     },
     {
       "id": "e125",
@@ -1290,8 +1302,12 @@
         "Banknote catalogs"
       ],
       "confidence": "fallback",
-      "status": "pending",
-      "found_urls": []
+      "status": "done",
+      "found_urls": [
+        "https://www.polymernotes.com/en/news/mauritius-issues-a-new-1000-rupee-polymer-banknote-100-and-200-to-follow-in-2025.html",
+        "https://en.numista.com/catalogue/note208221.html"
+      ],
+      "new_confidence": "secondary"
     },
     {
       "id": "e126",
@@ -1303,8 +1319,12 @@
         "Banknote reference catalogs"
       ],
       "confidence": "high",
-      "status": "pending",
-      "found_urls": []
+      "status": "done",
+      "found_urls": [
+        "https://www.foreigncurrencyandcoin.com/product/mauritius-200-rupees/",
+        "https://www.banknoteworld.com/blog/new-mauritius-1000-200-100-rupees-polymer-banknotes-announced/"
+      ],
+      "new_confidence": "secondary"
     },
     {
       "id": "e127",
@@ -1316,8 +1336,12 @@
         "Banknote databases"
       ],
       "confidence": "high",
-      "status": "pending",
-      "found_urls": []
+      "status": "done",
+      "found_urls": [
+        "https://www.foreigncurrencyandcoin.com/product/mauritius-1000-rupees/",
+        "https://www.polymernotes.com/en/news/mauritius-issues-a-new-1000-rupee-polymer-banknote-100-and-200-to-follow-in-2025.html"
+      ],
+      "new_confidence": "secondary"
     },
     {
       "id": "e128",
@@ -1329,8 +1353,12 @@
         "Currency reference guides"
       ],
       "confidence": "high",
-      "status": "pending",
-      "found_urls": []
+      "status": "done",
+      "found_urls": [
+        "https://www.foreigncurrencyandcoin.com/product/mauritius-2000-rupees/",
+        "https://en.numista.com/catalogue/note272092.html"
+      ],
+      "new_confidence": "secondary"
     },
     {
       "id": "e129",
@@ -1342,8 +1370,12 @@
         "Banknote catalogs"
       ],
       "confidence": "high",
-      "status": "pending",
-      "found_urls": []
+      "status": "done",
+      "found_urls": [
+        "https://www.robertsworldmoney.com/products/mongolia-50-togrog-2024-b441b-unc",
+        "https://www.cranecurrency.com/news-insights/mongolia-a-century-of-banking/"
+      ],
+      "new_confidence": "secondary"
     },
     {
       "id": "e130",
@@ -1355,8 +1387,12 @@
         "Banknote references"
       ],
       "confidence": "fallback",
-      "status": "pending",
-      "found_urls": []
+      "status": "done",
+      "found_urls": [
+        "https://www.mongolbank.mn/en/banknote",
+        "https://www.numizon.com/en/catalog/asia-banknotes/mongolia-banknotes/"
+      ],
+      "new_confidence": "secondary"
     },
     {
       "id": "e131",
@@ -1368,8 +1404,12 @@
         "Middle East banknote catalogs"
       ],
       "confidence": "high",
-      "status": "pending",
-      "found_urls": []
+      "status": "done",
+      "found_urls": [
+        "https://www.mongolbank.mn/en/p/1398",
+        "https://www.banknoteworld.com/blog/new-commemorative-mongolia-5000-tugrik-banknote-introduced/"
+      ],
+      "new_confidence": "official"
     },
     {
       "id": "e132",

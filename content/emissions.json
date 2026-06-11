@@ -2794,232 +2794,232 @@
   {
     "id": "e122",
     "year": 2024,
-    "date": "ND (2011-2024)",
+    "date": "July 2012",
     "country": "Malaysia",
     "issuer": "Bank Negara Malaysia",
     "title": "20 Ringgit",
-    "description": "King Tuanku Abdul Rahman, hibiscus.",
+    "description": "Hawksbill and Leatherback sea turtles in Malaysian waters, representing the marine conservation theme.",
     "hue": 31,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/MLY0054o.jpg",
     "slug": "malaysia-20-ringgit-e122",
-    "body": "India 200 Rupees, Gandhi series, 2017-2024 variants. Issued as a new denomination by the Reserve Bank of India to provide a mid-range note between 100 and 500 Rupees. Features Gandhi's portrait prominently on the obverse with the national emblem and Ashoka Chakra. The reverse showcases important national symbolism and security features. Includes UV-reactive elements visible only under ultraviolet light, security threads, and intaglio printing. Variants across the period reflect updated governor signatures and enhanced anti-counterfeiting measures. Bright yellow-orange color distinguishes it from other denominations.",
+    "body": "The 20 Ringgit note from the fourth series of Malaysian banknotes features two sea turtle species endemic to Malaysian waters: the Hawksbill Turtle (Eretmochelys imbricata) and the Leatherback Turtle (Dermochelys coriacea). The obverse displays the first Yang di-Pertuan Agong (King) of Malaysia, maintaining the royal theme across the series. Reintroduced in the fourth series after being absent from the third series, the note represents Malaysia's commitment to marine conservation and biodiversity. The fourth series was released in July 2012 under the theme 'Distinctively Malaysia,' featuring traditional expressions, natural wonders, flora, fauna, and cultural heritage.",
     "highlights": {
-      "reason": "New denomination introduced; signature and security feature updates 2017-2024",
-      "design": "Gandhi profile obverse; national symbols reverse; bright yellow-orange security features",
-      "security": "UV-reactive elements, intaglio printing, security threads, updated microprint, color variations"
+      "reason": "Reintroduction of denomination to fourth series (2012) representing Malaysia's marine biodiversity and conservation efforts",
+      "design": "Obverse: First Yang di-Pertuan Agong with Hawksbill and Leatherback sea turtles. Reverse: Marine life and Malaysian waters.",
+      "security": "Micro lens thread, iridescent patch, colour-shifting security thread, pixel watermark portrait with highlighted numerals, clear window, perfect see-through register"
     },
     "sources": [
-      "RBI currency series documentation",
-      "NumismaticOnline"
+      "https://www.bnm.gov.my/current-banknote-series",
+      "https://www.leftovercurrency.com/exchange/malaysian-ringgit/current-malaysian-ringgit-banknotes/20-malaysian-ringgit-4th-series/"
     ],
-    "confidence": "high"
+    "confidence": "official"
   },
   {
     "id": "e123",
     "year": 2024,
-    "date": "ND (2011-2024)",
+    "date": "July 2012",
     "country": "Malaysia",
     "issuer": "Bank Negara Malaysia",
     "title": "100 Ringgit",
-    "description": "King Tuanku Abdul Rahman, hibiscus.",
+    "description": "Two UNESCO World Heritage Sites: Mount Kinabalu in Sabah and the limestone formations of Mulu National Park in Sarawak.",
     "hue": 290,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/MLY0056o.jpg",
     "slug": "malaysia-100-ringgit-e123",
-    "body": "India 500 Rupees, Gandhi series, 2017-2024 variants. Part of the post-2016 demonetization redesign featuring the standard Gandhi profile. The obverse displays Gandhi's portrait with denomination numerals and the Ashoka Chakra. The reverse presents national monuments, flora, or important cultural symbols reflecting India's heritage. The note underwent several variant releases with new RBI governor signatures and periodic security improvements. Purple-colored with prominent security features designed to prevent counterfeiting. The 500 Rupee note is frequently used for larger everyday transactions and remains a critical component of India's currency circulation.",
+    "body": "The 100 Ringgit note showcases Malaysia's two most prominent natural wonders, both declared UNESCO World Heritage Sites. The obverse features the first Yang di-Pertuan Agong, while Mount Kinabalu in Kinabalu Park, Sabah (Southeast Asia's highest mountain) and the spectacular limestone pinnacle rock formations of Gunung Api Valley in Mulu National Park, Sarawak are prominently displayed. The fourth series was released in July 2012 as part of the 'Distinctively Malaysia' theme, celebrating the nation's biodiversity, cultural heritage, and natural beauty.",
     "highlights": {
-      "reason": "Post-demonetization Gandhi series; multiple signature and security variants",
-      "design": "Gandhi portrait; national heritage symbols; Ashoka Chakra, multilingual elements",
-      "security": "Advanced holograms, security threads, intaglio printing, color-shifting inks, UV features"
+      "reason": "Part of fourth series (2012) celebrating Malaysia's UNESCO World Heritage natural wonders",
+      "design": "Obverse: First Yang di-Pertuan Agong. Reverse: Mount Kinabalu and Mulu limestone pinnacles with landscape imagery.",
+      "security": "Colour-shifting security thread with Bunga Raya image, gold-coloured stripe with RM100 text, pixel watermark portrait with highlighted numerals, micro lens thread, clear window"
     },
     "sources": [
-      "RBI official currency standards",
-      "Banknote reference guides"
+      "https://www.bnm.gov.my/current-banknote-series",
+      "https://www.bnm.gov.my/-/rm100-fourth-series-june-2012"
     ],
-    "confidence": "high"
+    "confidence": "official"
   },
   {
     "id": "e124",
     "year": 2024,
-    "date": "2013-2024",
+    "date": "1999-2024",
     "country": "Mauritius",
     "issuer": "Bank of Mauritius",
     "title": "25 Rupees",
-    "description": "Sir Moilin Jean Ah-Chuen.",
+    "description": "Sir Moilin Jean Ah-Chuen, prominent Sino-Mauritian politician and businessman, with national coat of arms.",
     "hue": 25,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/MRS0064o.jpg",
     "slug": "mauritius-25-rupees-e124",
-    "body": "India 2000 Rupees, Gandhi series, 2017-2024 variants. Introduced following the 2016 demonetization drive as the highest denomination in the redesigned Gandhi series. The obverse features Gandhi's portrait with prominent Ashoka Chakra and denomination. The reverse depicts the Mangalyaan (Indian Mars Orbiter) mission, representing India's scientific achievements and space exploration progress. Variants reflect changes in RBI governor signatures and progressive security enhancements. Magenta-colored with sophisticated security features including advanced holograms and security threads. This note serves high-value transactions and represents India's modern technological aspirations.",
+    "body": "The 25 Rupee note features Sir Jean Etienne Moilin Ah-Chuen (1911-1991), a significant Sino-Mauritian politician and businessman who served as Minister from 1967 to 1976 and contributed greatly to Mauritius's economic and industrial development after independence. The obverse includes the national coat of arms, Justice with sword and scales, and the Bank of Mauritius building facade. The reverse displays a building facade, a man with a trap, and a map of Rodrigues Island, reflecting the nation's cultural heritage.",
     "highlights": {
-      "reason": "New denomination post-demonetization; signature and technology security updates",
-      "design": "Gandhi obverse; Mangalyaan spacecraft reverse; Ashoka Chakra, space theme",
-      "security": "Advanced security holograms, threads, intaglio, microprint, color-shifting elements"
+      "reason": "Part of the 1999 series honoring significant historical figures in Mauritian independence and economic development",
+      "design": "Obverse: Sir Moilin Jean Ah-Chuen with coat of arms and Justice symbol. Reverse: Building facade, cultural figure, and Rodrigues Island map.",
+      "security": "Spider conch shell registration device, windowed security thread with demetalized BANK OF MAURITIUS, watermark of dodo bird head"
     },
     "sources": [
-      "RBI currency press releases",
-      "Banknote databases"
+      "https://www.foreigncurrencyandcoin.com/product/mauritius-25-rupees/",
+      "https://en.numista.com/catalogue/note208221.html"
     ],
-    "confidence": "high"
+    "confidence": "secondary"
   },
   {
     "id": "e125",
     "year": 2024,
-    "date": "2024",
+    "date": "1999-2025",
     "country": "Mauritius",
     "issuer": "Bank of Mauritius",
     "title": "100 Rupees",
-    "description": "Renganaden Seeneevassen.",
+    "description": "Renganaden Seeneevassen, early Mauritian politician, with Court House architecture and dodo bird imagery.",
     "hue": 36,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/MRSW0065A2o.jpg",
     "slug": "mauritius-100-rupees-e125",
-    "body": "India banknote, Gandhi series, 2017-2024 variant. Based on the emission series, this likely represents either a commemorative variant, security update to one of the standard denominations (50/100/500/2000 Rupees), or a special release marking a significant date or RBI governor transition. The Gandhi series forms the foundation of modern Indian currency with consistent design elements: Gandhi's portrait, Ashoka Chakra, national symbols, and multilingual inscriptions. All variants include advanced anti-counterfeiting measures and periodic signature updates. Variants maintain color-coding for quick denomination recognition.",
+    "body": "The 100 Rupee note honors Renganaden Seeneevassen (1910-1958), a prominent Mauritian politician who served as president from 1956 to 1958. The obverse features his portrait alongside the coat of arms, Justice with sword and scales, and the Bank of Mauritius building facade. The note includes inscriptions in English, Hindi, and Tamil, reflecting Mauritius's linguistic diversity. The reverse displays the Court House building and trees. An upgraded polymer version was introduced in 2025 with enhanced security elements including a dodo in a transparent window.",
     "highlights": {
-      "reason": "Gandhi series variant or commemorative issue; security/signature update",
-      "design": "Gandhi series standard elements; Ashoka Chakra, national symbols, multilingual text",
-      "security": "Series-standard security: holograms, threads, intaglio, microprint, color features"
+      "reason": "Part of the 1999-2024 series recognizing Renganaden Seeneevassen's contribution to early Mauritian political development",
+      "design": "Obverse: Renganaden Seeneevassen with coat of arms and Justice. Reverse: Court House building and landscape elements.",
+      "security": "Spider conch shell registration device, windowed security thread with demetalized BANK OF MAURITIUS, watermark of dodo bird head, blue-to-gold Swing dodo egg"
     },
     "sources": [
-      "RBI documentation",
-      "Banknote catalogs"
+      "https://www.polymernotes.com/en/news/mauritius-issues-a-new-1000-rupee-polymer-banknote-100-and-200-to-follow-in-2025.html",
+      "https://en.numista.com/catalogue/note208221.html"
     ],
-    "confidence": "fallback"
+    "confidence": "secondary"
   },
   {
     "id": "e126",
     "year": 2024,
-    "date": "2024",
+    "date": "1999-2025",
     "country": "Mauritius",
     "issuer": "Bank of Mauritius",
     "title": "200 Rupees",
-    "description": "Sir Abdool Razack Mohamed.",
+    "description": "Sir Abdool Razack Mohamed, pre- and post-independence minister, with Port Louis Central Market imagery.",
     "hue": 80,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/MRSW0065B2o.jpg",
     "slug": "mauritius-200-rupees-e126",
-    "body": "Indonesia 100,000 Rupiah, 2016-2024 variants. Depicts national hero Ir. Soekarno, Indonesia's first president and founding father, on the obverse. The reverse showcases the Komodo dragon, endemic to Indonesia and featured on multiple high-denomination notes. The note reflects Indonesia's National Heroes series redesign launched around 2016. Features include security threads, holographic strips, and advanced intaglio printing. Variants represent periodic security enhancements and signature changes of Bank Indonesia governors. The teal-colored note is widely used for significant purchases and represents an important denomination in Indonesian circulation.",
+    "body": "The 200 Rupee note features Sir Abdool Razack Mohamed (1906-1978), an Indian-born senior minister who served in both pre- and post-independence cabinets of Mauritius, playing a crucial role in the nation's political development. The obverse displays his portrait alongside the Bank of Mauritius building facade, Justice with sword and scales, and a red-to-green Swing dodo egg security feature. Inscriptions appear in English, Hindi, and Tamil, celebrating Mauritian cultural diversity. The reverse depicts produce stalls at the Port Louis Central Market, reflecting the nation's economic heritage.",
     "highlights": {
-      "reason": "National heroes series; security and signature updates 2016-2024",
-      "design": "Soekarno portrait obverse; Komodo dragon reverse; national symbols",
-      "security": "Holographic strips, security threads, intaglio printing, enhanced microprint"
+      "reason": "Part of the 1999-2024 series honoring Sir Abdool Razack Mohamed's contribution to Mauritian governance and independence",
+      "design": "Obverse: Sir Abdool Razack Mohamed with coat of arms and Justice. Reverse: Port Louis Central Market produce stalls.",
+      "security": "Spider conch shell registration device, windowed security thread with demetalized BANK OF MAURITIUS, multi-image holographic patch with dodo, watermark of dodo head"
     },
     "sources": [
-      "Bank Indonesia official releases",
-      "Banknote reference catalogs"
+      "https://www.foreigncurrencyandcoin.com/product/mauritius-200-rupees/",
+      "https://www.banknoteworld.com/blog/new-mauritius-1000-200-100-rupees-polymer-banknotes-announced/"
     ],
-    "confidence": "high"
+    "confidence": "secondary"
   },
   {
     "id": "e127",
     "year": 2024,
-    "date": "2024",
+    "date": "1999-2024",
     "country": "Mauritius",
     "issuer": "Bank of Mauritius",
     "title": "1.000 Rupees",
-    "description": "Sir Charles Gaetan Duval.",
+    "description": "Sir Charles Gaetan Duval, barrister and political leader, with Chateau de Reduit presidential residence.",
     "hue": 299,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/MRSW0066A2o.jpg",
     "slug": "mauritius-1-000-rupees-e127",
-    "body": "Indonesia 50,000 Rupiah, 2016-2024 variants. Features national hero Ir. Djuanda Kartawidjaja, a significant historical figure in Indonesian independence movement and government. The reverse displays regional wildlife or national symbols relevant to Indonesian heritage. As part of the National Heroes series redesign, this note underwent several iterations with updated security features and new governor signatures from Bank Indonesia. The note includes sophisticated anti-counterfeiting elements including color-shifting inks and security threads. The denomination serves as a mid-range currency for everyday transactions.",
+    "body": "The 1,000 Rupee note honors Sir Charles Gaetan Duval QC (1930-1996), a distinguished Mauritian barrister, statesman, and politician who led the Parti Mauricien Social Democrate (PMSD). The obverse features his portrait with the coat of arms, Justice with sword and scales, and holographic security elements. The reverse depicts the Chateau de Reduit (the official residence of Mauritius's President), emphasizing the nation's political heritage. A polymer version released in 2024 includes the Dodo bird within a transparent window and SPARK Flow PRIME security featuring gold-to-green color-shifting.",
     "highlights": {
-      "reason": "National heroes series; signature and security feature updates",
-      "design": "Djuanda portrait obverse; Indonesian wildlife/heritage reverse",
-      "security": "Color-shifting inks, security threads, holographic elements, intaglio printing"
+      "reason": "Part of the 1999-2024 series recognizing Sir Charles Gaetan Duval's leadership and legal contributions to independent Mauritius",
+      "design": "Obverse: Sir Charles Gaetan Duval with coat of arms and Justice. Reverse: Chateau de Reduit presidential residence.",
+      "security": "Spider conch shell registration device, windowed security thread with demetalized BANK OF MAURITIUS, holographic patch with dodo, watermark of dodo bird head, SPARK Flow PRIME color-shifting (polymer version)"
     },
     "sources": [
-      "Bank Indonesia currency standards",
-      "Banknote databases"
+      "https://www.foreigncurrencyandcoin.com/product/mauritius-1000-rupees/",
+      "https://www.polymernotes.com/en/news/mauritius-issues-a-new-1000-rupee-polymer-banknote-100-and-200-to-follow-in-2025.html"
     ],
-    "confidence": "high"
+    "confidence": "secondary"
   },
   {
     "id": "e128",
     "year": 2024,
-    "date": "2018-2024",
+    "date": "1999-2024",
     "country": "Mauritius",
     "issuer": "Bank of Mauritius",
     "title": "2.000 Rupees",
-    "description": "Sir Seewoosagur Ramgoolam.",
+    "description": "Sir Seewoosagur Ramgoolam, first Prime Minister of Mauritius, with ox cart and sugarcane agricultural imagery.",
     "hue": 12,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/MRSW2018-2000o.jpg",
     "slug": "mauritius-2-000-rupees-e128",
-    "body": "Indonesia 20,000 Rupiah, 2016-2024 variants. Depicts Sudirman, a prominent military leader and national hero in the Indonesian independence war. The obverse features his portrait with national emblems and denomination. The reverse may display related historical or cultural imagery. Part of the National Heroes series, this note went through multiple variants reflecting security improvements and Bank Indonesia governor signature changes. Includes security threads and holographic features for counterfeiting prevention. The red-colored note is frequently used in everyday commerce and represents a commonly circulated denomination.",
+    "body": "The 2,000 Rupee note features Sir Seewoosagur Ramgoolam (1900-1985), a distinguished Mauritian politician, statesman, and philanthropist who served as the island's first Chief Minister, Prime Minister, and Governor-General, earning recognition as the father of Mauritian independence. The obverse displays his portrait at left with the Mauritius coat of arms and blindfolded Lady Justice holding balance scales and sword. The reverse depicts a man with an ox cart carrying sugarcane, reflecting Mauritius's agricultural heritage and sugar industry that formed the backbone of the colonial economy. A polymer version released in 2018 features a transparent window with a dodo and Swing security feature visible from both sides.",
     "highlights": {
-      "reason": "National heroes series; security and signature updates 2016-2024",
-      "design": "Sudirman military portrait obverse; national symbols reverse",
-      "security": "Holographic features, security threads, improved microprint, color variants"
+      "reason": "Honors Sir Seewoosagur Ramgoolam as first Prime Minister and architect of Mauritian independence",
+      "design": "Obverse: Sir Seewoosagur Ramgoolam with coat of arms and Justice. Reverse: Ox cart with sugarcane in agricultural landscape.",
+      "security": "Windowed security thread with demetalized BANK OF MAURITIUS, watermark of dodo bird head, transparent window with dodo and Swing feature (polymer version)"
     },
     "sources": [
-      "Bank Indonesia official documentation",
-      "Currency reference guides"
+      "https://www.foreigncurrencyandcoin.com/product/mauritius-2000-rupees/",
+      "https://en.numista.com/catalogue/note272092.html"
     ],
-    "confidence": "high"
+    "confidence": "secondary"
   },
   {
     "id": "e129",
     "year": 2024,
-    "date": "2019 & 2024",
+    "date": "2019-2024",
     "country": "Mongolia",
     "issuer": "Mongolbank",
     "title": "50 Tögrög",
-    "description": "Remark.",
+    "description": "Damdin Sukhbaatar with Soyombo national symbol; reverse features mountains, fir trees, and grazing horses.",
     "hue": 37,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/MONW0072o.jpg",
     "slug": "mongolia-50-t-gr-g-e129",
-    "body": "Indonesia 10,000 Rupiah, 2016-2024 variants. Features national hero Frans Iskandar, an important figure in Indonesian maritime history and regional governance. The note is part of the National Heroes series redesign emphasizing key historical figures. The obverse displays Frans Iskandar's portrait alongside national emblems, while the reverse showcases Indonesian cultural or maritime heritage. Variants across the period reflect signature updates from successive Bank Indonesia governors and enhanced anti-counterfeiting technology. The blue-green colored note is among the most frequently circulated denominations in Indonesia.",
+    "body": "The 50 Togrog note from Mongolia's 2019-2024 series features Damdin Sukhbaatar, a key figure in Mongolian independence, wearing a traditional peaked hat. The obverse includes the Soyombo national symbol and the denomination in gold SPARK Orbital security element. The reverse displays fir trees, mountains, and two horses grazing in a Mongolian landscape, celebrating the nation's natural heritage. Printed on brown paper and measuring 135 x 64 mm, the 2024 issue continues the 2019 series with enhanced security features including a 3D macro optic strip with motion surface, color-changing SPARK feature, and tactile lines for visually impaired people.",
     "highlights": {
-      "reason": "National heroes series; signature and security updates",
-      "design": "Frans Iskandar portrait; maritime/cultural heritage reverse",
-      "security": "Security threads, holographic elements, improved printing techniques, color security"
+      "reason": "Standard series banknote (2019-2024) honoring Damdin Sukhbaatar, hero of Mongolian independence",
+      "design": "Obverse: Damdin Sukhbaatar with Soyombo symbol and SPARK Orbital denomination. Reverse: Mountains, fir trees, and grazing horses.",
+      "security": "3D macro optic strip with motion surface, color-changing SPARK feature, tactile embossed lines for visually impaired, watermark with Sukhbaatar"
     },
     "sources": [
-      "Bank Indonesia currency series",
-      "Banknote catalogs"
+      "https://www.robertsworldmoney.com/products/mongolia-50-togrog-2024-b441b-unc",
+      "https://www.cranecurrency.com/news-insights/mongolia-a-century-of-banking/"
     ],
-    "confidence": "high"
+    "confidence": "secondary"
   },
   {
     "id": "e130",
     "year": 2024,
-    "date": "2024",
+    "date": "2019-2024",
     "country": "Mongolia",
     "issuer": "Mongolbank",
     "title": "5.000 Tögrög",
-    "description": "Remark.",
+    "description": "Chinggis Khaan (Genghis Khan) with Soyombo symbol; reverse shows the silver tree fountain of Karakorum palace.",
     "hue": 1,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/MONW0076o.jpg",
     "slug": "mongolia-5-000-t-gr-g-e130",
-    "body": "Indonesia banknote, National Heroes series, 2016-2024 variant. Represents a commemorative issue, security update, or variant of one of the standard denominations (100,000/50,000/20,000/10,000/5,000 Rupiah) in the National Heroes redesign. The series consistently features important Indonesian independence figures and cultural symbols. All notes include security threads, holographic elements, and modern printing security features. Variants reflect ongoing security enhancements and changes in Bank Indonesia governor signatures.",
+    "body": "The standard 5,000 Togrog note from Mongolia's 2019-2024 series features Chinggis Khaan (Genghis Khan), the founder and first Great Khan of the Mongol Empire. The obverse displays his portrait alongside the Soyombo national symbol, representing Mongolia's sovereignty and heritage. The reverse depicts the silver tree fountain and building courtyard of Karakorum, the historic Mongol capital. Printed on pink paper, this standard issue includes enhanced security features including color-changing SPARK technology and windowed security thread with demetalized MONGOLBANK text.",
     "highlights": {
-      "reason": "National heroes series variant; commemorative or security update",
-      "design": "Series standard hero portraits and Indonesian cultural/heritage imagery",
-      "security": "Standard series security: threads, holograms, intaglio, microprint"
+      "reason": "Standard series banknote (2019-2024) honoring Chinggis Khaan and Mongolian imperial heritage",
+      "design": "Obverse: Chinggis Khaan with Soyombo symbol and denomination. Reverse: Silver tree fountain and Karakorum palace courtyard.",
+      "security": "Windowed security thread with demetalized MONGOLBANK, color-changing SPARK feature, watermark with Chinggis Khaan, electrotype Mongol text"
     },
     "sources": [
-      "Bank Indonesia releases",
-      "Banknote references"
+      "https://www.mongolbank.mn/en/banknote",
+      "https://www.numizon.com/en/catalog/asia-banknotes/mongolia-banknotes/"
     ],
-    "confidence": "fallback"
+    "confidence": "secondary"
   },
   {
     "id": "e131",
     "year": 2024,
-    "date": "2024",
+    "date": "May 31, 2024",
     "country": "Mongolia",
     "issuer": "Mongolbank",
     "title": "5.000 Tögrög",
-    "description": "Chinggis Khaan. 100th Anniversary of the modern banking system in Mongolia (1924-2024).",
+    "description": "Commemorative: Chinggis Khaan with 100th Anniversary of Modern Banking System in Mongolia (1924-2024) and warrior on horseback.",
     "hue": 360,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/MONW0080o.jpg",
     "slug": "mongolia-5-000-t-gr-g-e131",
-    "body": "Iraq 50,000 Dinars, 2018-2024 variants. Features historical or national symbols reflecting Iraqi heritage. Following the post-2003 currency reforms, Iraqi banknotes emphasize the nation's ancient civilizations and cultural identity. The note design incorporates Mesopotamian motifs, national emblems, and Arabic calligraphy. Security features include security threads, holographic elements, and advanced printing techniques. Variants from 2018-2024 reflect updated security measures and signature changes from successive Central Bank of Iraq governors. This high-value denomination serves major financial transactions.",
+    "body": "The commemorative 5,000 Togrog banknote was issued by Mongolbank on May 31, 2024, celebrating the 100th anniversary of the establishment of the modern banking system in Mongolia (1924-2024). The obverse features Chinggis Khaan, the Soyombo national symbol, and a warrior on horseback displayed in SPARK Orbital technology, alongside the 100th anniversary Modern Banking logo in SPARK. The reverse shows a building courtyard with a tree-like water fountain, echoing the standard 5,000 Togrog note. This limited-issue pink note includes upgraded security features with visible UV three-color offset Soyombo symbol and tactile embossing for accessibility.",
     "highlights": {
-      "reason": "Iraqi currency redesign variants; security and signature updates 2018-2024",
-      "design": "Iraqi heritage/Mesopotamian motifs; national symbols; Arabic calligraphy",
-      "security": "Security threads, holographic elements, advanced intaglio printing, microprint"
+      "reason": "Commemorative issue (May 31, 2024) marking the 100th anniversary of modern banking establishment in Mongolia",
+      "design": "Obverse: Chinggis Khaan, Soyombo symbol, warrior on horseback in SPARK, 100th anniversary logo. Reverse: Building courtyard with water fountain.",
+      "security": "SPARK Live with Truspin effect, Crane BREEZE security thread, visible UV three-color offset Soyombo, color-changing features, tactile embossed lines for visually impaired, windowed security thread with demetalized MONGOLBANK"
     },
     "sources": [
-      "Central Bank of Iraq official documentation",
-      "Middle East banknote catalogs"
+      "https://www.mongolbank.mn/en/p/1398",
+      "https://www.banknoteworld.com/blog/new-commemorative-mongolia-5000-tugrik-banknote-introduced/"
     ],
-    "confidence": "high"
+    "confidence": "official"
   },
   {
     "id": "e132",
