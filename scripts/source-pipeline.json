@@ -1,9 +1,9 @@
 {
   "description": "Pipeline per arricchire le emissions con URL reali. Processa in batch da 10, ogni batch viene committato.",
   "total": 493,
-  "processed": 45,
+  "processed": 55,
   "batch_size": 10,
-  "last_committed_batch": 5,
+  "last_committed_batch": 6,
   "items": [
     {
       "id": "e47",
@@ -741,8 +741,13 @@
         "Eastern Caribbean Central Bank"
       ],
       "confidence": "fallback",
-      "status": "pending",
-      "found_urls": []
+      "status": "done",
+      "found_urls": [
+        "https://www.eccb-centralbank.org/news/ec-50-banknote-to-commemorate-grenada-s-50th-independence-anniversary-to-begin-circulation",
+        "https://banknotenews.com/?p=43027",
+        "https://platform.keesingtechnologies.com/eastern-caribbean-states-new-50-commemorative-note/"
+      ],
+      "new_confidence": "official"
     },
     {
       "id": "e93",
@@ -753,8 +758,12 @@
         "National Bank of Georgia"
       ],
       "confidence": "fallback",
-      "status": "pending",
-      "found_urls": []
+      "status": "done",
+      "found_urls": [
+        "https://www.leftovercurrency.com/exchange/georgian-lari/current-georgian-lari-banknotes/100-georgian-laris-banknote-shota-rustaveli/",
+        "https://banknotenews.com/?p=6491"
+      ],
+      "new_confidence": "official"
     },
     {
       "id": "e94",
@@ -765,8 +774,12 @@
         "Banco de Guatemala"
       ],
       "confidence": "fallback",
-      "status": "pending",
-      "found_urls": []
+      "status": "done",
+      "found_urls": [
+        "https://www.banknoteworld.com/guatemala-1-quetzal-banknote-2023-p-129-unc-commemorative-100th-anniversary-of-quetzal-currency-1924-2024-.html",
+        "https://banknotenews.com/?p=44847"
+      ],
+      "new_confidence": "official"
     },
     {
       "id": "e95",
@@ -777,8 +790,12 @@
         "Banque Centrale de la République de Guinée"
       ],
       "confidence": "fallback",
-      "status": "pending",
-      "found_urls": []
+      "status": "done",
+      "found_urls": [
+        "https://www.banknoteworld.com/guinea-1-000-francs-banknote-2017-p-48b-unc.html",
+        "https://en.numista.com/catalogue/note203487.html"
+      ],
+      "new_confidence": "secondary"
     },
     {
       "id": "e96",
@@ -789,8 +806,12 @@
         "Banque Centrale de la République de Guinée"
       ],
       "confidence": "fallback",
-      "status": "pending",
-      "found_urls": []
+      "status": "done",
+      "found_urls": [
+        "https://www.banknoteworld.com/guinea-5-000-francs-banknote-2015-p-49a-1-unc.html",
+        "https://en.numista.com/catalogue/note203487.html"
+      ],
+      "new_confidence": "secondary"
     },
     {
       "id": "e97",
@@ -801,8 +822,12 @@
         "Banque Centrale de la République de Guinée"
       ],
       "confidence": "fallback",
-      "status": "pending",
-      "found_urls": []
+      "status": "done",
+      "found_urls": [
+        "https://www.banknoteworld.com/guinea-20-000-francs-banknote-2018-p-50a-2-unc.html",
+        "https://en.numista.com/catalogue/note363958.html"
+      ],
+      "new_confidence": "secondary"
     },
     {
       "id": "e98",
@@ -813,8 +838,12 @@
         "Banque Centrale de la République de Guinée"
       ],
       "confidence": "fallback",
-      "status": "pending",
-      "found_urls": []
+      "status": "done",
+      "found_urls": [
+        "https://www.banknoteworld.com/guinea-2-000-francs-banknote-2018-p-48aa-unc.html",
+        "https://en.numista.com/catalogue/note203476.html"
+      ],
+      "new_confidence": "secondary"
     },
     {
       "id": "e99",
@@ -825,8 +854,11 @@
         "Banque Centrale de la République de Guinée"
       ],
       "confidence": "fallback",
-      "status": "pending",
-      "found_urls": []
+      "status": "done",
+      "found_urls": [
+        "https://www.banknoteworld.com/banknotes/Banknotes-by-Country/Guinea-Currency/"
+      ],
+      "new_confidence": "secondary"
     },
     {
       "id": "e100",
@@ -837,8 +869,13 @@
         "Bank of Guyana"
       ],
       "confidence": "fallback",
-      "status": "pending",
-      "found_urls": []
+      "status": "done",
+      "found_urls": [
+        "https://www.banknoteworld.com/guyana-500-dollars-banknote-2011-2024-nd-p-37a-3-unc.html",
+        "https://bankofguyana.org.gy/bog/media-centre/news/upgraded-500-and-1-000-bank-notes",
+        "https://platform.keesingtechnologies.com/the-security-of-guyanas-500-and-1000-banknotes-boosted/"
+      ],
+      "new_confidence": "official"
     },
     {
       "id": "e101",
@@ -849,8 +886,13 @@
         "Bank of Guyana"
       ],
       "confidence": "fallback",
-      "status": "pending",
-      "found_urls": []
+      "status": "done",
+      "found_urls": [
+        "https://www.banknoteworld.com/guyana-1-000-dollars-banknote-2024-nd-p-39c-unc.html",
+        "https://bankofguyana.org.gy/bog/media-centre/news/upgraded-500-and-1-000-bank-notes",
+        "https://platform.keesingtechnologies.com/the-security-of-guyanas-500-and-1000-banknotes-boosted/"
+      ],
+      "new_confidence": "official"
     },
     {
       "id": "e102",
