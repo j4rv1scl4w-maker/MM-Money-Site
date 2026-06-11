@@ -6114,18 +6114,18 @@
     "country": "South Sudan",
     "issuer": "Bank of South Sudan",
     "title": "1.000 South Sudanese Pounds",
-    "description": "Remark.",
+    "description": "The 1,000 South Sudan Pounds note features the portrait of independence leader Dr. John Garang de Mabior on the obverse and two ostriches on the reverse.",
     "hue": 355,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/SSDW2020-1000o.jpg",
     "slug": "south-sudan-1-000-south-sudanese-pounds-e268",
-    "body": "The 200 Rand banknote from the 2023 Eighth Series features Nelson Mandela on the obverse with constitutional rings behind his head. The orange note displays a leopard and her cub on the reverse as part of the Big Five animal series. Security features include a dynamic color-changing thread displaying 'SARB,' denomination, and the leopard. The note includes a latent image visible when tilted and tactile marks on long edges.",
+    "body": "The Bank of South Sudan first introduced the 1,000-pound denomination in February 2021 to address rampant inflation and reduce reliance on large volumes of lower-denomination notes. A 2023 reissue updated the currency name from 'South Sudanese pound' to 'South Sudan pound' in compliance with the Bank of South Sudan Act 2023, while retaining the same maroon design (158 x 82 mm) with Dr. John Garang de Mabior and a Dinka warrior spear on the obverse and two ostriches on the reverse. Both the original and the renamed version are concurrently valid legal tender.",
     "highlights": {
-      "reason": "Part of 2023 Eighth Series refresh updating security and adding Big Five wildlife theme.",
-      "design": "Leopard and cub representing South Africa's endangered wildlife alongside Nelson Mandela portrait.",
-      "security": "Dynamic color-changing security thread with SPARK®Live Truspin movement and latent image denomination viewing."
+      "design": "Maroon note with portrait of Dr. John Garang de Mabior and Dinka warrior spear on obverse; two ostriches on reverse.",
+      "reason": "Issued in response to severe inflation and updated in 2023 to reflect the revised official currency name under the Bank of South Sudan Act 2023.",
+      "security": "Watermark portrait of Dr. John Garang de Mabior, windowed security thread demetalized BSS 1000, segmented holographic strip with colour-shifting denomination, and latent numeral 1000."
     },
     "sources": [
-      "https://www.wcnumsoc.com/post/the-2023-eighth-series-banknotes-of-south-africa"
+      "https://platform.keesingtechnologies.com/name-change-for-1000-pound-south-sudanese-banknote/"
     ],
     "confidence": "secondary"
   },
@@ -6136,14 +6136,20 @@
     "country": "Sudan",
     "issuer": "Central Bank of Sudan",
     "title": "1.000 Sudanese Pounds",
-    "description": "Sorghum plant, grain silos.",
+    "description": "The 1,000 Sudanese Pounds note depicts sorghum plants and grain silos on the obverse and farmers ploughing fields alongside a waterfall on the reverse.",
     "hue": 193,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/SUDW0081o.jpg",
     "slug": "sudan-1-000-sudanese-pounds-e269",
-    "body": "The 1.000 Sudanese Pounds note issued by Central Bank of Sudan represents a 2023 emission in Sudan's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2023 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The Central Bank of Sudan introduced the 1,000-pound denomination on 7 June 2022 — then the highest denomination in circulation — to address acute inflationary pressures. A modified variant dated August 2023 was released with an updated signature, retaining the same agricultural design: sorghum plants, grain silos, a sunflower, and a flower registration device on the obverse, and sorghum with farmers, cattle, and a waterfall on the reverse. The note (160 x 74 mm) uses predominantly blue and yellow tones.",
+    "highlights": {
+      "design": "Sorghum plant, grain silos, and sunflower on obverse; farmers ploughing with cattle and a waterfall on reverse.",
+      "reason": "Introduced to combat rising inflation in Sudan and modernise the currency with improved security standards; 2023 variant adds updated signatures.",
+      "security": "RAPID windowed security thread with Islamic ornaments; Secretary bird watermark with electrotype CBOS / LS 1000."
+    },
+    "sources": [
+      "https://banknotenews.com/?p=37992"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e270",
@@ -6152,14 +6158,20 @@
     "country": "Tanzania",
     "issuer": "Bank of Tanzania",
     "title": "1.000 Shillings",
-    "description": "President Julius Kambarage Nyerere.",
+    "description": "The 1,000 Tanzanian Shillings note bears the portrait of founding president Julius Kambarage Nyerere on the obverse and the Ikulu State House in Dar es Salaam on the reverse.",
     "hue": 206,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/TAN0041o.jpg",
     "slug": "tanzania-1-000-shillings-e270",
-    "body": "The 1.000 Shillings note issued by Bank of Tanzania represents a 2023 emission in Tanzania's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2023 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "Tanzania's 1,000-shilling denomination has carried the image of Mwalimu Julius Nyerere — Tanzania's first president and pan-African icon — since the modern series was introduced in 2011. The 2023 variant is distinguished by new signatories and a 2023 date visible in the security thread, continuing an established practice of periodic signature updates. The note is printed in blue tones and incorporates the Bank of Tanzania emblem alongside the Ikulu presidential palace.",
+    "highlights": {
+      "design": "Portrait of Julius Kambarage Nyerere on obverse; Ikulu State House (The White House) in Dar es Salaam on reverse.",
+      "reason": "Routine signature update reflecting new Bank of Tanzania Governor and Deputy Governor appointments in 2023.",
+      "security": "Nyerere watermark, embedded metallic thread inscribed BOT, raised print, and a colour-shifting security strip."
+    },
+    "sources": [
+      "https://banknotenews.com/?p=46386"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e271",
@@ -6168,14 +6180,21 @@
     "country": "Tonga",
     "issuer": "National Reserve Bank of Tonga",
     "title": "2 Pa'anga",
-    "description": "King Tupou VI, arms.",
+    "description": "The 2 Pa'anga note from the 2023 series features King Tupou VI on the obverse and a humpback whale representing Tonga's whale-watching tourism on the reverse.",
     "hue": 13,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/TONW0050o.jpg",
     "slug": "tonga-2-pa-anga-e271",
-    "body": "The 2 Pa'anga note issued by National Reserve Bank of Tonga represents a 2023 emission in Tonga's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2023 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "Introduced on 4 December 2023 to commemorate the official birthday of Tonga's founder King Tupou I, the 2 Pa'anga is a red-orange paper note (150 x 70 mm) and the lowest denomination in the new six-note series. Its reverse celebrates the annual migration of humpback whales to Tonga's Vava'u waters, one of the country's premier ecotourism attractions. The note was launched by HRH Prince Ata at a ceremony held at the Fa'onelua Convention Centre in Nuku'alofa.",
+    "highlights": {
+      "design": "Portrait of King Tupou VI with national coat of arms on obverse; humpback whale representing whale-watching tourism on reverse.",
+      "reason": "Part of a complete new banknote family launched on 4 December 2023 to commemorate the official birthday of Tonga's founder King Tupou I.",
+      "security": "1.4 mm windowed security thread demetalized NRBT; watermark of King Tupou VI with electrotype NRBT and cornerstones; GEMINI and BLINK UV level-2 security features."
+    },
+    "sources": [
+      "https://www.reservebank.to/index.php/banknotes/currency/the-2023-banknote-series",
+      "https://matangitonga.to/2023/12/04/prince-ata-launches-new-polymer-and-paper-tonga-2023-banknote-series"
+    ],
+    "confidence": "official"
   },
   {
     "id": "e272",
@@ -6184,14 +6203,21 @@
     "country": "Tonga",
     "issuer": "National Reserve Bank of Tonga",
     "title": "5 Pa'anga",
-    "description": "King Tupou VI, arms.",
+    "description": "The 5 Pa'anga note from the 2023 series is Tonga's first polymer banknote, depicting King Tupou VI on the obverse and the Ha'amonga 'a Maui trilithon on the reverse.",
     "hue": 249,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/TONW0051o.jpg",
     "slug": "tonga-5-pa-anga-e272",
-    "body": "The 5 Pa'anga note issued by National Reserve Bank of Tonga represents a 2023 emission in Tonga's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2023 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "Launched on 4 December 2023, the purple 5 Pa'anga (150 x 70 mm) marks a historic milestone as one of Tonga's first two notes printed on polymer substrate. The reverse showcases the Ha'amonga 'a Maui, a 13th-century coral-limestone trilithon and one of Tonga's most significant ancient monuments, said to have served as a solar calendar for the Tu'i Tonga kings. Because of its polymer construction, the note incorporates a transparent window with a high-resolution gravure portrait of King Tupou VI featuring the ROTATE security effect.",
+    "highlights": {
+      "design": "King Tupou VI with coat of arms on obverse; Ha'amonga 'a Maui ancient trilithon — used as a solar calendar by the Tu'i Tonga kings — on reverse.",
+      "reason": "Part of the 2023 series honouring King Tupou I's birthday and representing Tonga's historic adoption of durable polymer banknote technology.",
+      "security": "Transparent polymer window with ROTATE gravure image and gold iridescence; simulated security thread; GEMINI and BLINK UV level-2 features."
+    },
+    "sources": [
+      "https://www.reservebank.to/index.php/banknotes/currency/5-paanga",
+      "https://www.reservebank.to/index.php/banknotes/currency/the-2023-banknote-series"
+    ],
+    "confidence": "official"
   },
   {
     "id": "e273",
@@ -6200,14 +6226,21 @@
     "country": "Tonga",
     "issuer": "National Reserve Bank of Tonga",
     "title": "10 Pa'anga",
-    "description": "King Tupou VI, arms.",
+    "description": "The 10 Pa'anga note from the 2023 series is a blue polymer note featuring King Tupou VI on the obverse and HRH Princess Angelika performing the Milolua kava ceremony on the reverse.",
     "hue": 223,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/TONW0052o.jpg",
     "slug": "tonga-10-pa-anga-e273",
-    "body": "The 10 Pa'anga note issued by National Reserve Bank of Tonga represents a 2023 emission in Tonga's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2023 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "Introduced on 4 December 2023 alongside the 5 Pa'anga as one of Tonga's inaugural polymer notes, the blue 10 Pa'anga (150 x 70 mm) highlights Tongan royal culture through its reverse design depicting HRH Princess Angelika Latufuipeka Tuku'aho performing the Milolua, a traditional kava ceremony central to Tongan ceremonial and social life. The polymer substrate provides enhanced durability for this mid-circulation denomination, and like the 5 Pa'anga it carries a transparent window security feature unique to polymer notes.",
+    "highlights": {
+      "design": "King Tupou VI with coat of arms on obverse; HRH Princess Angelika Latufuipeka Tuku'aho performing the Milolua kava ceremony on reverse.",
+      "reason": "Part of the 2023 series commemorating King Tupou I's birthday and advancing Tonga's adoption of polymer currency.",
+      "security": "Transparent polymer window with ROTATE gravure image of King Tupou VI and gold iridescence; simulated security thread; GEMINI and BLINK UV level-2 features."
+    },
+    "sources": [
+      "https://www.reservebank.to/index.php/banknotes/currency/the-2023-banknote-series",
+      "https://banknotenews.com/?p=42284"
+    ],
+    "confidence": "official"
   },
   {
     "id": "e274",
@@ -6216,14 +6249,21 @@
     "country": "Tonga",
     "issuer": "National Reserve Bank of Tonga",
     "title": "20 Pa'anga",
-    "description": "King Tupou VI, arms.",
+    "description": "The 20 Pa'anga note from the 2023 series is a brown paper note with King Tupou VI on the obverse and the National Reserve Bank of Tonga building on the reverse.",
     "hue": 36,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/TONW0053o.jpg",
     "slug": "tonga-20-pa-anga-e274",
-    "body": "The 20 Pa'anga note issued by National Reserve Bank of Tonga represents a 2023 emission in Tonga's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2023 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "Launched on 4 December 2023, the brown 20 Pa'anga (150 x 70 mm) is printed on paper and represents the institutional heart of Tonga's financial system through its reverse image of the National Reserve Bank of Tonga headquarters in Nuku'alofa. The obverse incorporates the Tokelau Feletoa kupesi pattern, the coat of arms, and the Royal Medal alongside the King's portrait. Its key distinguishing security feature is a PUREIMAGE holographic thread.",
+    "highlights": {
+      "design": "King Tupou VI with Tokelau Feletoa kupesi pattern, coat of arms, and Royal Medal on obverse; National Reserve Bank of Tonga headquarters on reverse.",
+      "reason": "Part of the December 2023 national banknote series commemorating King Tupou I's official birthday.",
+      "security": "PUREIMAGE holographic thread; 2.0 mm red-to-green windowed security thread demetalized NRBT; King Tupou VI watermark with electrotype NRBT; GEMINI and BLINK UV level-2 features."
+    },
+    "sources": [
+      "https://www.reservebank.to/index.php/banknotes/currency/the-2023-banknote-series",
+      "https://matangitonga.to/2023/12/04/prince-ata-launches-new-polymer-and-paper-tonga-2023-banknote-series"
+    ],
+    "confidence": "official"
   },
   {
     "id": "e275",
@@ -6232,14 +6272,22 @@
     "country": "Tonga",
     "issuer": "National Reserve Bank of Tonga",
     "title": "50 Pa'anga",
-    "description": "King Tupou VI, arms.",
+    "description": "The 50 Pa'anga note from the 2023 series features King Tupou VI on the obverse and the St. George Government Building — housing key ministries — on the reverse.",
     "hue": 88,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/TONW0054o.jpg",
     "slug": "tonga-50-pa-anga-e275",
-    "body": "The 50 Pa'anga note issued by National Reserve Bank of Tonga represents a 2023 emission in Tonga's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2023 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "Introduced on 4 December 2023, the 50 Pa'anga is printed on a paper/polymer hybrid substrate. The reverse depicts the St. George Government Building, completed in 2015 and opened in 2017, which serves as a symbol of stable governance in Tonga. Its key security feature is IGNITE, a dynamic micro-optic thread incorporating the 'Drive' effect with a clear denominational numeral.",
+    "highlights": {
+      "design": "King Tupou VI with coat of arms on obverse; St. George Government Building representing Tonga's governance on reverse.",
+      "reason": "Part of the 2023 series commemorating King Tupou I's official birthday and modernising Tonga's currency security.",
+      "security": "IGNITE dynamic micro-optic thread with Drive effect and clear denominational numeral; GEMINI and BLINK UV level-2 features."
+    },
+    "sources": [
+      "https://www.reservebank.to/index.php/banknotes/currency/50-paanga",
+      "https://www.reservebank.to/index.php/banknotes/currency/the-2023-banknote-series",
+      "https://banknotenews.com/?p=42276"
+    ],
+    "confidence": "official"
   },
   {
     "id": "e276",
@@ -6248,36 +6296,44 @@
     "country": "Tonga",
     "issuer": "National Reserve Bank of Tonga",
     "title": "100 Pa'anga",
-    "description": "King Tupou VI, arms.",
+    "description": "The 100 Pa'anga note from the 2023 series is a cherry-red paper note featuring King Tupou VI on the obverse and the Royal Palace — built in 1867 and the official royal residence — on the reverse.",
     "hue": 338,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/TONW0055o.jpg",
     "slug": "tonga-100-pa-anga-e276",
-    "body": "The 100 Pa'anga note issued by National Reserve Bank of Tonga represents a 2023 emission in Tonga's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2023 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The highest denomination in the 2023 series, the cherry-red 100 Pa'anga (150 x 70 mm) was introduced on 4 December 2023. Its reverse features Tonga's iconic Victorian-era Royal Palace in Nuku'alofa, built in 1867 and the enduring official residence of the King, underscoring the note's status as the flagship denomination. The 100 Pa'anga carries the most advanced security measure in the series: an 18 mm wide embedded micro-optic NEXUS stripe providing high-level protection against counterfeiting.",
+    "highlights": {
+      "design": "King Tupou VI with Tokelau Feletoa kupesi pattern and Royal Medal on obverse; Royal Palace of Tonga (built 1867) on reverse.",
+      "reason": "Flagship denomination of the 2023 series, launched on King Tupou I's official birthday to modernise and secure Tonga's highest-value circulating note.",
+      "security": "18 mm NEXUS embedded micro-optic stripe; GEMINI and BLINK UV level-2 features."
+    },
+    "sources": [
+      "https://www.reservebank.to/index.php/banknotes/currency/100-paanga",
+      "https://www.reservebank.to/index.php/banknotes/currency/the-2023-banknote-series",
+      "https://banknotenews.com/?p=42272"
+    ],
+    "confidence": "official"
   },
   {
     "id": "e277",
     "year": 2023,
     "date": "2023",
     "country": "Transnistria",
-    "issuer": "Pridnestrovskiy Respublikanskiy Bank",
+    "issuer": "Transnistrian Republican Bank",
     "title": "1 Rubl'",
-    "description": "Alexander Suvorov, Gold Chervonets coin. 100th Anniversary of Gold Chervonets.",
+    "description": "The 1 Rubl' commemorative note issued on 8 September 2023 marks the 100th anniversary of the Soviet Golden Chervonets, featuring General Alexander Suvorov on the obverse with a commemorative overprint.",
     "hue": 24,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/TDNW0069A2o.jpg",
     "slug": "transnistria-1-rubl-e277",
-    "body": "The 20 Kronor banknote features Swedish children's book author Astrid Lindgren and her character Pippi Longstocking. Purple-violet in color, measuring 120 × 66 mm, with thickness 125 micrometres. Introduced in 2015 by Sveriges Riksbank, it remains in current circulation. Intaglio printing creates a raised tactile surface on the portrait, denominations, and bank text to enhance authenticity and accessibility.",
+    "body": "The Transnistrian Republican Bank issued this limited-edition 1 Rubl' on 8 September 2023 to commemorate the centenary of the Golden Chervonets — the Soviet Union's first gold-backed currency, introduced in 1922, whose reverse famously depicted the Sower figure sculpted by Ivan Shadr. Only 2,500 notes were produced and packaged in presentation folders for the numismatic market. The note uses the standard Transnistrian 1-ruble design bearing General Alexander Suvorov, founder of Tiraspol, enhanced with a commemorative overprint reading '100 Years of the 1 Golden Chervonets'.",
     "highlights": {
-      "reason": "Continuing circulation of 2015 series celebrating Swedish literary heritage and cultural figures.",
-      "design": "Astrid Lindgren author portrait with Pippi Longstocking character emphasizing Swedish children's literature legacy.",
-      "security": "Intaglio printing for raised surface, watermark with denomination and portrait, security thread, UV elements."
+      "design": "Portrait of General Alexander Suvorov (1730-1800), founder of Tiraspol, with commemorative centenary overprint referencing the Soviet Golden Chervonets.",
+      "reason": "Commemorates the 100th anniversary of the Soviet Golden Chervonets (1923-2023), the USSR's first gold-backed banknote.",
+      "security": "Standard Transnistrian Republican Bank security features; limited edition of 2,500 pieces in presentation folders."
     },
     "sources": [
-      "https://www.riksbank.se/en-gb/payments--cash/notes--coins/notes/valid-banknotes/20-krona-banknote/"
+      "https://en.numista.com/catalogue/note380747.html"
     ],
-    "confidence": "official"
+    "confidence": "secondary"
   },
   {
     "id": "e278",

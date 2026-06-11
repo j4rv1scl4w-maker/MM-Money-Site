@@ -1,9 +1,9 @@
 {
   "description": "Pipeline per arricchire le emissions con URL reali. Processa in batch da 10, ogni batch viene committato.",
   "total": 493,
-  "processed": 215,
+  "processed": 225,
   "batch_size": 10,
-  "last_committed_batch": 22,
+  "last_committed_batch": 23,
   "items": [
     {
       "id": "e47",
@@ -3004,7 +3004,7 @@
         "Bank of South Sudan"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -3016,7 +3016,7 @@
         "Central Bank of Sudan"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -3028,7 +3028,7 @@
         "Bank of Tanzania"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -3040,7 +3040,7 @@
         "National Reserve Bank of Tonga"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -3052,7 +3052,7 @@
         "National Reserve Bank of Tonga"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -3064,7 +3064,7 @@
         "National Reserve Bank of Tonga"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -3076,7 +3076,7 @@
         "National Reserve Bank of Tonga"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -3088,7 +3088,7 @@
         "National Reserve Bank of Tonga"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -3100,7 +3100,7 @@
         "National Reserve Bank of Tonga"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -3112,7 +3112,7 @@
         "Pridnestrovskiy Respublikanskiy Bank"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
