@@ -19,6 +19,27 @@ export interface Emission {
   confidence?: 'official' | 'secondary' | 'fallback' | '';
 }
 
+// Slim projection for list views — keeps body/highlights/sources out of the client payload
+export type EmissionCard = Pick<Emission, 'id' | 'year' | 'date' | 'country' | 'issuer' | 'title' | 'description' | 'hue' | 'imageUrl' | 'slug'> & {
+  hasBody: boolean;
+};
+
+export function toEmissionCard(e: Emission): EmissionCard {
+  return {
+    id: e.id,
+    year: e.year,
+    date: e.date,
+    country: e.country,
+    issuer: e.issuer,
+    title: e.title,
+    description: e.description,
+    hue: e.hue,
+    imageUrl: e.imageUrl,
+    slug: e.slug,
+    hasBody: !!e.body,
+  };
+}
+
 export interface CatalogItem {
   idAuction: string;
   country: string;

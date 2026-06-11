@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import Image from 'next/image';
 import { notFound } from 'next/navigation';
 import Banknote from '@/components/Banknote';
 import { getArticles } from '@/lib/content';
@@ -19,12 +20,20 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   };
 }
 
+function escapeHtml(s: string): string {
+  return s
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;');
+}
+
 function renderBody(body: string) {
   return body.split('\n\n').map((para, i) => {
     if (para.startsWith('## ')) {
       return <h2 key={i} className="serif" style={{ fontWeight: 500, fontSize: 24, lineHeight: 1.3, margin: '32px 0 12px', color: 'var(--ink)' }}>{para.slice(3)}</h2>;
     }
-    const html = para
+    const html = escapeHtml(para)
       .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
       .replace(/\*(.+?)\*/g, '<em>$1</em>');
     return <p key={i} style={{ marginBottom: 20 }} dangerouslySetInnerHTML={{ __html: html }} />;
@@ -55,7 +64,10 @@ export default async function ArticlePage({ params }: { params: Promise<{ slug: 
         MM·Money · {article.read} · updated 2026
       </div>
 
-      <Banknote hue={article.hue} dark style={{ aspectRatio: '16/8', marginBottom: 36 }} />
+      {article.imageUrl
+        ? <img src={article.imageUrl} alt={article.title} style={{ width: '100%', aspectRatio: '16/8', objectFit: 'cover', borderRadius: 10, marginBottom: 36 }} />
+        : <Banknote hue={article.hue} dark style={{ aspectRatio: '16/8', marginBottom: 36 }} />
+      }
 
       <div className="serif" style={{ fontSize: 17, lineHeight: 1.75, color: 'var(--ink)' }}>
         {renderBody(article.body)}

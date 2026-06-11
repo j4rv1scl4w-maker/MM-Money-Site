@@ -1,6 +1,12 @@
+import type { Metadata } from 'next';
 import Link from 'next/link';
 import Banknote from '@/components/Banknote';
 import { getArticles } from '@/lib/content';
+
+export const metadata: Metadata = {
+  title: 'Articles & Guides — MM·Money',
+  description: 'Evergreen collector guides and in-depth stories about rare banknotes, overprints, and specimens from around the world.',
+};
 
 export default async function Articles() {
   const articles = await getArticles();
@@ -20,7 +26,10 @@ export default async function Articles() {
       {featured && (
         <div className="pad-x" style={{ padding: '0 56px 36px' }}>
           <Link href={`/articles/${featured.slug}`} className="grid-2" style={{ textDecoration: 'none', color: 'inherit', display: 'grid', gridTemplateColumns: '1.15fr 1fr', background: 'var(--bg2)', border: '1px solid var(--line)', borderRadius: 12, padding: 22, gap: 28, alignItems: 'center' }}>
-            <Banknote hue={featured.hue} dark style={{ aspectRatio: '16/9' }} />
+            {featured.imageUrl
+              ? <img src={featured.imageUrl} alt={featured.title} style={{ width: '100%', aspectRatio: '16/9', objectFit: 'cover', borderRadius: 8 }} />
+              : <Banknote hue={featured.hue} dark style={{ aspectRatio: '16/9' }} />
+            }
             <div>
               <span style={{ font: '700 10px/1 Hanken Grotesk,sans-serif', letterSpacing: '.14em', textTransform: 'uppercase', color: 'var(--gold)', border: '1px solid var(--line)', padding: '5px 9px', borderRadius: 999, display: 'inline-block', marginBottom: 14 }}>{featured.cat}</span>
               <h2 className="serif" style={{ fontWeight: 400, fontSize: 30, lineHeight: 1.2, margin: '0 0 14px' }}>{featured.title}</h2>
@@ -34,7 +43,10 @@ export default async function Articles() {
       <div className="pad-x grid-2" style={{ padding: '0 56px 56px', display: 'grid', gridTemplateColumns: 'repeat(2,1fr)', gap: 20 }}>
         {rest.map((a) => (
           <Link key={a.id} href={`/articles/${a.slug}`} style={{ textDecoration: 'none', color: 'inherit', display: 'grid', gridTemplateColumns: '170px 1fr', gap: 18, background: 'var(--card)', border: '1px solid var(--line)', borderRadius: 10, padding: 16, alignItems: 'start' }}>
-            <Banknote hue={a.hue} dark style={{ aspectRatio: '8/5' }} />
+            {a.imageUrl
+              ? <img src={a.imageUrl} alt={a.title} style={{ width: 170, aspectRatio: '8/5', objectFit: 'cover', borderRadius: 6 }} />
+              : <Banknote hue={a.hue} dark style={{ aspectRatio: '8/5' }} />
+            }
             <div>
               <span style={{ font: '700 10px/1 Hanken Grotesk,sans-serif', letterSpacing: '.14em', textTransform: 'uppercase', color: 'var(--gold)', display: 'block', marginBottom: 8 }}>{a.cat} · {a.read}</span>
               <h3 className="serif" style={{ fontWeight: 400, fontSize: 18, lineHeight: 1.3, margin: '0 0 10px' }}>{a.title}</h3>
