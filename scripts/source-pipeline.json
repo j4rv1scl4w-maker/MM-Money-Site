@@ -1,9 +1,9 @@
 {
   "description": "Pipeline per arricchire le emissions con URL reali. Processa in batch da 10, ogni batch viene committato.",
   "total": 493,
-  "processed": 115,
+  "processed": 125,
   "batch_size": 10,
-  "last_committed_batch": 12,
+  "last_committed_batch": 13,
   "items": [
     {
       "id": "e47",
@@ -1795,7 +1795,7 @@
         "Central Bank of Jordan"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -1807,7 +1807,7 @@
         "Central Bank of Jordan"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -1819,7 +1819,7 @@
         "Central Bank of Jordan"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -1831,7 +1831,7 @@
         "Central Bank of Jordan"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -1843,7 +1843,7 @@
         "Central Bank of Jordan"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -1856,7 +1856,7 @@
         "East African banknote references"
       ],
       "confidence": "high",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -1869,7 +1869,7 @@
         "Banknote databases"
       ],
       "confidence": "high",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -1882,7 +1882,7 @@
         "Banknote references"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -1894,7 +1894,7 @@
         "Central Bank of Kenya"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -1906,7 +1906,7 @@
         "Central Bank of Kenya"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
