@@ -1,9 +1,9 @@
 {
   "description": "Pipeline per arricchire le emissions con URL reali. Processa in batch da 10, ogni batch viene committato.",
   "total": 493,
-  "processed": 195,
+  "processed": 205,
   "batch_size": 10,
-  "last_committed_batch": 20,
+  "last_committed_batch": 21,
   "items": [
     {
       "id": "e47",
@@ -2764,7 +2764,7 @@
         "Banco Central del Paraguay"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -2776,7 +2776,7 @@
         "Bangko Sentral ng Pilipinas"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -2788,7 +2788,7 @@
         "Narodowy Bank Polski"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -2800,7 +2800,7 @@
         "Bank Rossii"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -2812,7 +2812,7 @@
         "Bank Rossii"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -2824,7 +2824,7 @@
         "Central Bank of Samoa"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -2836,7 +2836,7 @@
         "Central Bank of Samoa"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -2848,7 +2848,7 @@
         "Central Bank of Samoa"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -2860,7 +2860,7 @@
         "Central Bank of Samoa"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -2872,7 +2872,7 @@
         "Bank of Scotland"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {

@@ -5607,14 +5607,20 @@
     "country": "Paraguay",
     "issuer": "Banco Central del Paraguay",
     "title": "2.000 Guaraníes",
-    "description": "Adela and Celsa Speratti.",
+    "description": "The 2,000 Guaraníes polymer note honours Adela and Celsa Speratti, Paraguayan sisters who devoted their lives to building the country's modern educational system.",
     "hue": 347,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/PGY0228ao.jpg",
     "slug": "paraguay-2-000-guaran-es-e246",
-    "body": "The 2.000 Guaraníes note issued by Banco Central del Paraguay represents a 2023 emission in Paraguay's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2023 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "Issued by the Banco Central del Paraguay, this purple and green polymer banknote bears the date 2023. The obverse depicts portraits of the Speratti sisters alongside an open book, the national coat of arms, and a BCP registration device. The reverse shows a patriotic parade of young men waving Paraguayan flags, celebrating civic pride and national identity.",
+    "highlights": {
+      "design": "Portraits of educators Adela and Celsa Speratti on the obverse with a parade scene on the reverse.",
+      "reason": "Continuing circulation issue of the polymer Guaraníes series honouring distinguished Paraguayan educators.",
+      "security": "Polymer substrate with transparent window, tactile elements, and colour-shifting optical features."
+    },
+    "sources": [
+      "https://www.banknoteworld.com/paraguay-2-000-guaranies-banknote-2023-p-228e-unc-polymer.html"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e247",
@@ -5647,21 +5653,21 @@
     "country": "Philippines",
     "issuer": "Bangko Sentral ng Pilipinas",
     "title": "100 Piso",
-    "description": "Remark.",
+    "description": "The 100 Piso note features former President Manuel Roxas on the obverse and the iconic Mayon Volcano alongside a whale shark on the reverse.",
     "hue": 285,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/PIL0222-2022-2o.jpg",
     "slug": "philippines-100-piso-e248",
-    "body": "The 50 Piso polymer banknote features the Visayan leopard cat (Prionailurus javanensis sumatranus) on the obverse, symbolizing the Philippines' endangered wildlife. The front includes Vidal's lanutan, an endemic flower, while the reverse displays Taal Lake and the giant trevally. Introduced December 2024, this note represents the first Philippine polymer series emphasizing biodiversity conservation through currency design.",
+    "body": "This violet cotton-abacá paper note is part of the New Generation Currency series introduced by the Bangko Sentral ng Pilipinas. The obverse bears a portrait of Manuel Roxas, the first President of the independent Third Republic, together with the 1949 Central Bank building and a scene from the Proclamation of the Third Republic in 1946. The reverse highlights the Philippines' natural heritage with an image of Mayon Volcano in Albay, a whale shark, and a Bicol Region textile weave design.",
     "highlights": {
-      "reason": "Launch of first Philippine polymer banknote series to commemorate endemic and endangered species.",
-      "design": "Visayan leopard cat and endemic Vidal's lanutan flower replacing traditional presidential portraits.",
-      "security": "Polymer substrate with see-through windows, shadow thread, metallic seals, and tactile dots for durability and anti-counterfeiting."
+      "design": "Mayon Volcano and whale shark on the reverse representing Philippine natural heritage.",
+      "reason": "Regular circulation note of the New Generation Currency series representing Philippine history and natural wonders.",
+      "security": "4 mm RollingStar windowed security thread with demetalized BSP/100 text and a Manuel Roxas watermark with electrotype 100."
     },
     "sources": [
-      "https://www.bsp.gov.ph/SitePages/CoinsAndNotes/PolymerBanknote.aspx",
-      "https://currencyaffairs.org/document/the-first-philippine-polymer-banknote-series/"
+      "https://en.wikipedia.org/wiki/Philippine_one_hundred-peso_note",
+      "https://www.banknoteworld.com/philippines-100-piso-banknote-2023-p-232a-2-unc.html"
     ],
-    "confidence": "official"
+    "confidence": "secondary"
   },
   {
     "id": "e249",
@@ -5695,18 +5701,18 @@
     "country": "Poland",
     "issuer": "Narodowy Bank Polski",
     "title": "20 Złotych",
-    "description": "Printer. 550th Anniversary of birth of Nicolaus Copernicus (1473-2023).",
+    "description": "The circulating 20 Złotych note features King Bolesław I Chrobry, the first crowned King of Poland, surrounded by imagery evoking the early Piast dynasty.",
     "hue": 210,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/POLW0197o.jpg",
     "slug": "poland-20-z-otych-e250",
-    "body": "The 200 Piso banknote production was discontinued in 2024. The Bangko Sentral ng Pilipinas halted printing of this denomination in 2021 due to low circulation demand since its 2010 launch. While 200 Piso banknotes remain legal tender until they become unfit for circulation, no new polymer variant was manufactured. The denomination continues use in the paper NGC series only.",
+    "body": "Issued by the Narodowy Bank Polski, the 20 Złotych note portrays King Bolesław I Chrobry at the centre of the obverse, flanked by a Romanesque portal and an oak branch motif taken from the famous Gniezno Doors. The reverse depicts a silver denarius coin struck under Bolesław I bearing the inscription PRINCES POLONIE, together with the Church of St Nicholas in Cieszyn and a lion detail from the Gniezno Cathedral doors. The note's design celebrates the medieval foundations of Polish statehood and the Piast dynasty's cultural achievements.",
     "highlights": {
-      "reason": "Low usage patterns since 2010 launch prompted discontinuation of new production.",
-      "design": "Paper NGC series features historical design no longer reproduced in polymer.",
-      "security": "Retained legal tender status with original security features until naturally withdrawn."
+      "design": "Portrait of Bolesław I Chrobry with Romanesque architectural motifs and a medieval denarius coin on the reverse.",
+      "reason": "Regular circulation note honouring Poland's first crowned king and the origins of the Polish state.",
+      "security": "Solid security thread with demetalized 20 ZŁ, a watermark portrait of Bolesław I Chrobry with electrotype 20, and a latent image showing the numeral 20."
     },
     "sources": [
-      "https://www.bsp.gov.ph/SitePages/CoinsAndNotes/PolymerBanknote.aspx"
+      "https://nbp.pl/en/coins-and-banknotes/banknotes-issued/20-zl/"
     ],
     "confidence": "official"
   },
@@ -5715,21 +5721,21 @@
     "year": 2023,
     "date": "2023",
     "country": "Russia",
-    "issuer": "Bank Rossii",
+    "issuer": "Bank of Russia",
     "title": "1.000 Rubley",
-    "description": "Remark.",
+    "description": "The redesigned 1,000 Ruble note shifts the theme from Yaroslavl to Nizhny Novgorod and the Volga Federal District, showcasing the Nikolskaya Tower of the Nizhny Novgorod Kremlin.",
     "hue": 170,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/RUSW0278so.jpg",
     "slug": "russia-1-000-rubley-e251",
-    "body": "The 500 Piso polymer banknote features the Visayan spotted deer (Cervus alfredi) on the obverse, symbolizing clarity and sharpness, accompanied by Acanthephippium mantinianum, an endemic fragrant orchid with yellow flowers and red stripes. The reverse displays Puerto Princesa Subterranean River National Park, the blue-naped parrot, and southern Philippine weave design. Issued January 2025 from designs unveiled December 2024.",
+    "body": "Unveiled by the Bank of Russia on 16 October 2023, this modified 1,000 ruble banknote dedicates its imagery to Nizhny Novgorod and the broader Volga Federal District, replacing the former Yaroslavl theme. The obverse features the Nikolskaya Tower of the Nizhny Novgorod Kremlin and the confluence of the Oka and Volga rivers. The reverse depicts the Saratov road bridge, the Meteor high-speed hydrofoil, and the Palace of Farmers in Kazan, representing the diversity of the Volga region.",
     "highlights": {
-      "reason": "Launch of polymer denomination to enhance durability with five times longer lifespan than paper.",
-      "design": "Visayan spotted deer and endemic orchid emphasizing conservation of Philippine wildlife.",
-      "security": "Polymer material with see-through windows, shadow thread, metallic seals, tactile dots, and embossed prints."
+      "design": "Nikolskaya Tower of the Nizhny Novgorod Kremlin on the obverse and Volga Federal District landmarks on the reverse.",
+      "reason": "Modernisation of the ruble series replacing Yaroslavl imagery with Nizhny Novgorod and the Volga region.",
+      "security": "Windowed holographic security thread, updated colour-shifting ink, and improved anti-counterfeiting elements over the previous series."
     },
     "sources": [
-      "https://www.bsp.gov.ph/SitePages/CoinsAndNotes/PolymerBanknote.aspx",
-      "https://currencyaffairs.org/document/the-first-philippine-polymer-banknote-series/"
+      "https://cbr.ru/eng/press/pr/?file=638330729156660429ENG_COINS.htm",
+      "https://banknotenews.com/?p=41571"
     ],
     "confidence": "official"
   },
@@ -5738,20 +5744,21 @@
     "year": 2023,
     "date": "2023",
     "country": "Russia",
-    "issuer": "Bank Rossii",
+    "issuer": "Bank of Russia",
     "title": "5.000 Rubley",
-    "description": "Europe-Asia monument and Sevastyanov house, Ekaterinburg.",
+    "description": "The redesigned 5,000 Ruble note replaces Khabarovsk with Yekaterinburg and the Ural Federal District, centred on the iconic Europe-Asia stele on the obverse.",
     "hue": 15,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/RUSW0279A2o.jpg",
     "slug": "russia-5-000-rubley-e252",
-    "body": "The 100 Zlotych banknote features Władysław II Jagiełło, 15th-century Polish king. The obverse displays the crowned eagle emblem of the Polish Republic on Gothic ornamentation. The reverse depicts the White Eagle from Jagiełło's shield, a helmet, Teutonic coat, and crossed swords alluding to the 1410 Battle of Grunwald, with Malbork Castle in background. The 2024 signature update reflects administrative changes.",
+    "body": "Also introduced on 16 October 2023, this predominantly red modified 5,000 ruble banknote is dedicated to Yekaterinburg and the Ural Federal District. The obverse prominently features the Europe-Asia boundary stele in Yekaterinburg, symbolising Russia's geographical position spanning two continents. The reverse displays the Tale of the Urals monument in Chelyabinsk and the 66th Parallel Arctic Circle stele in Salekhard, reflecting the vast cultural and geographical reach of the Ural region.",
     "highlights": {
-      "reason": "Administrative authorization signature update on existing design series.",
-      "design": "Władysław II Jagiełło portrait with Polish heraldic symbols and Battle of Grunwald historical reference.",
-      "security": "Watermark with royal portrait, security thread, angle-effect color-changing coat of arms, optical variable ink, and tactile elements."
+      "design": "Europe-Asia boundary stele in Yekaterinburg on the obverse and Ural Federal District monuments on the reverse.",
+      "reason": "Modernisation of the ruble series replacing Khabarovsk imagery with Yekaterinburg and the Ural Federal District.",
+      "security": "5.5 mm winged windowed holographic security thread with demetalized 5000 CBRF, watermark of post office building with electrotype 5000, and dual-type coloured security fibres."
     },
     "sources": [
-      "https://nbp.pl/en/coins-and-banknotes/banknotes-issued/100-zl/"
+      "https://cbr.ru/eng/press/pr/?file=638330729156660429ENG_COINS.htm",
+      "https://banknotedb.com/5-000-rubles-2023"
     ],
     "confidence": "official"
   },
@@ -5762,18 +5769,19 @@
     "country": "Samoa",
     "issuer": "Central Bank of Samoa",
     "title": "60 Tala",
-    "description": "Prime Minister Fiame Naomi Mata'afa, flag. 60th Anniversary of Independence (1962-2022).",
+    "description": "The 60 Tala commemorative note celebrates Samoa's 60th anniversary of independence, featuring Prime Minister Fiame Naomi Mata'afa on the obverse and the historic flag-lowering ceremony on the reverse.",
     "hue": 346,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/SAMW0046o.jpg",
     "slug": "samoa-60-tala-e253",
-    "body": "The 200 Zlotych banknote features King Zygmunt I Stary (Sigismund I the Old), 16th-century Polish monarch. The reverse displays an eagle interlaced with the letter 'S' in hexagon from Wawel Cathedral's Sigismund Chapel, with Wawel Castle's arcaded courtyard in background. Dimensions: 150 × 75 mm. The modernized 2024 variant adds ten diagonal tactile lines on short edges for accessibility.",
+    "body": "Issued by the Central Bank of Samoa and printed by De La Rue, this limited-edition legal tender note was released into circulation on 31 May 2023. The obverse displays the 60th-anniversary logo, the Samoan flag, the national coat of arms, and a portrait of Prime Minister Fiame Naomi Mata'afa, the first female prime minister of Samoa. The reverse depicts former Prime Minister Fiame Mata'afa Faumuina Mulinuu II lowering the New Zealand flag at independence, a defining moment in Samoa's history.",
     "highlights": {
-      "reason": "Modernization in February 2024 with enhanced security features for blind and partially sighted recognition.",
-      "design": "Zygmunt I Stary portrait with Wawel Cathedral chapel eagle and castle architecture symbolizing Polish heritage.",
-      "security": "New diagonal tactile lines (previously only in euros), raised printing on edges for denomination identification."
+      "design": "Portrait of Samoa's first female prime minister on the obverse and the 1962 independence flag-lowering ceremony on the reverse.",
+      "reason": "Commemorating the 60th anniversary of Samoan independence (1962-2022).",
+      "security": "4.5 mm blue/green IGNITE security thread depicting a Samoan fue fly-whisk that pulses when tilted, windowed security thread with demetalized 60, and a ginger flower watermark with CBS electrotype."
     },
     "sources": [
-      "https://nbp.pl/banknoty-i-monety/banknoty-obiegowe/200-zl/"
+      "https://samoaglobalnews.com/central-bank-of-samoa-releases-images-of-limited-edition-60-tala-banknote/",
+      "https://banknotenews.com/?p=40149"
     ],
     "confidence": "official"
   },
@@ -5784,18 +5792,19 @@
     "country": "Samoa",
     "issuer": "Central Bank of Samoa",
     "title": "5 Tala",
-    "description": "Beach.",
+    "description": "The new polymer 5 Tala note depicts one of Samoa's pristine sandy beaches on the obverse and Villa Vailima, the former home of author Robert Louis Stevenson, on the reverse.",
     "hue": 344,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/SAMW0047o.jpg",
     "slug": "samoa-5-tala-e254",
-    "body": "The 100 Ruble banknote by the Bank of Russia features the quadriga above the Bolshoy Theatre portico on the front, with the complete Bolshoy Theatre building on the reverse. Predominant colors are brown and green. Printed on light pink cotton paper with embedded protective fibers in light-green, red, and violet. Microtext reads repeated '100' values. The note remains in standard circulation with no 2024 special edition.",
+    "body": "Released on 18 December 2023 by the Central Bank of Samoa, this red polymer banknote upgrades the earlier cotton-based paper version using De La Rue's SAFEGUARD substrate. The obverse showcases one of Samoa's iconic sandy beaches, highlighting the country's tourism resources, while the reverse features Villa Vailima — now the Robert Louis Stevenson Museum near Apia — reflecting the island's literary and colonial heritage. Six tactile embossed dots on the note assist visually impaired users in identifying the denomination.",
     "highlights": {
-      "reason": "Current circulation series maintaining established design for mid-range domestic transactions.",
-      "design": "Bolshoy Theatre Moscow quadriga and building facade representing Russian cultural heritage.",
-      "security": "Cotton paper with embedded fibers, vertical security thread, microtext patterns '100' and 'ЦБР100' for counterfeiting prevention."
+      "design": "Samoan beach scene on the obverse and Villa Vailima, the Robert Louis Stevenson Museum, on the reverse.",
+      "reason": "Upgrade of the circulating 5 Tala denomination from cotton paper to durable polymer substrate.",
+      "security": "Transparent SAFEGUARD polymer window displaying the teuila flower, GEMINI dual-colour UV feature, BLINK phosphorescent denomination block, and six tactile embossed dots."
     },
     "sources": [
-      "https://www.cbr.ru/eng/cash_circulation/banknotes/100rub/"
+      "https://cbs.gov.ws/samoan-polymer-bank-note",
+      "https://platform.keesingtechnologies.com/samoa-upgrades-its-5-10-and-20-tala-banknotes-to-polymer/"
     ],
     "confidence": "official"
   },
@@ -5806,14 +5815,21 @@
     "country": "Samoa",
     "issuer": "Central Bank of Samoa",
     "title": "10 Tala",
-    "description": "Rugby Champions of 'Hong Kong Sevens 2007'.",
+    "description": "The polymer 10 Tala note celebrates Samoan sporting achievement with an image of the national rugby team being crowned champions at the 2007 IRB Hong Kong Sevens on the obverse.",
     "hue": 198,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/SAMW0048o.jpg",
     "slug": "samoa-10-tala-e255",
-    "body": "The 10 Tala note issued by Central Bank of Samoa represents a 2023 emission in Samoa's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2023 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "Part of Samoa's 2023 polymer banknote upgrade printed on De La Rue's SAFEGUARD substrate, the 10 Tala note honours Samoan rugby on its obverse by depicting the national sevens team's historic victory at the 2007 International Rugby Board Hong Kong Sevens tournament. The reverse shows Samoan schoolchildren, reflecting the country's investment in education and its youth. Eight tactile embossed dots on the note allow visually impaired users to identify the denomination.",
+    "highlights": {
+      "design": "Samoan rugby sevens team's 2007 Hong Kong Sevens championship victory on the obverse and schoolchildren on the reverse.",
+      "reason": "Upgrade of the circulating 10 Tala denomination to polymer substrate as part of Samoa's phased banknote conversion.",
+      "security": "Transparent SAFEGUARD polymer window with teuila flower motif, GEMINI dual-colour UV feature, BLINK phosphorescent denomination block, and eight tactile embossed dots."
+    },
+    "sources": [
+      "https://cbs.gov.ws/samoan-polymer-bank-note",
+      "https://platform.keesingtechnologies.com/samoa-upgrades-its-5-10-and-20-tala-banknotes-to-polymer/"
+    ],
+    "confidence": "official"
   },
   {
     "id": "e256",
@@ -5822,14 +5838,21 @@
     "country": "Samoa",
     "issuer": "Central Bank of Samoa",
     "title": "20 Tala",
-    "description": "Papapapaitai waterfall.",
+    "description": "The polymer 20 Tala note features the Sinaloa waterfall on Savai'i on the obverse and the manumea bird alongside the teuila flower — Samoa's national symbols — on the reverse.",
     "hue": 42,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/SAMW0049o.jpg",
     "slug": "samoa-20-tala-e256",
-    "body": "The 20 Tala note issued by Central Bank of Samoa represents a 2023 emission in Samoa's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2023 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "Also part of the Central Bank of Samoa's 2023 polymer conversion series printed by De La Rue on SAFEGUARD substrate, the 20 Tala note highlights Samoa's natural heritage. The obverse depicts the cascading Sinaloa waterfall on Savai'i island, which drops 220 metres, making it one of the most dramatic natural features in the Pacific. The reverse showcases the manumea (tooth-billed pigeon), Samoa's national bird, alongside the teuila, the national flower. Ten tactile embossed dots assist visually impaired users.",
+    "highlights": {
+      "design": "Sinaloa waterfall on Savai'i on the obverse and the manumea national bird with teuila national flower on the reverse.",
+      "reason": "Upgrade of the circulating 20 Tala denomination to polymer substrate as part of Samoa's phased conversion of its banknote series.",
+      "security": "Transparent SAFEGUARD polymer window with teuila flower motif, GEMINI dual-colour UV feature, BLINK phosphorescent denomination block, and ten tactile embossed dots."
+    },
+    "sources": [
+      "https://cbs.gov.ws/samoan-polymer-bank-note",
+      "https://platform.keesingtechnologies.com/samoa-upgrades-its-5-10-and-20-tala-banknotes-to-polymer/"
+    ],
+    "confidence": "official"
   },
   {
     "id": "e257",
@@ -5838,14 +5861,21 @@
     "country": "Scotland",
     "issuer": "Bank of Scotland",
     "title": "100 Pounds Sterling",
-    "description": "Sir Walter Scott; Bank of Scotland building, Edinburgh. 100th Anniversary of Death of Flora Murray (1923-2023).",
+    "description": "The turquoise polymer £100 note features Sir Walter Scott on the obverse and Dr Flora Murray — a Scottish physician and suffragette — on the reverse.",
     "hue": 167,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/SCOW0135o.jpg",
     "slug": "scotland-100-pounds-sterling-e257",
-    "body": "Sir Walter Scott; Bank of Scotland building, Edinburgh. 100th Anniversary of Death of Flora Murray (1923-2023).",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "Dated 16 August 2021 and introduced into circulation on 9 May 2022, this turquoise SAFEGUARD polymer note completes Bank of Scotland's full conversion of its banknote series to polymer. The obverse bears the familiar portrait of Sir Walter Scott alongside the Bank of Scotland headquarters on The Mound in Edinburgh. The reverse honours Dr Flora Murray (1869-1923), the pioneering Scottish surgeon and suffragette who established one of the first military hospitals run by women during the First World War.",
+    "highlights": {
+      "design": "Sir Walter Scott and The Mound on the obverse; Dr Flora Murray depicted at work and with female stretcher bearers outside her Covent Garden hospital on the reverse.",
+      "reason": "Completing Bank of Scotland's upgrade of its full banknote family to durable polymer substrate.",
+      "security": "Clear polymer window with a bespoke holographic foil stripe combining direct-write lithography and Benton holography, PUREIMAGE animation, DEPTH effects, GEMINI UV dual-colour feature, and tactile emboss for visually impaired users."
+    },
+    "sources": [
+      "https://www.lloydsbankinggroup.com/media/press-releases/2022/bank-of-scotland/bank-of-scotland-unveils-first-p100-polymer-note.html",
+      "https://banknotenews.com/?p=36045"
+    ],
+    "confidence": "official"
   },
   {
     "id": "e258",
