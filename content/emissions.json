@@ -6342,18 +6342,19 @@
     "country": "Ukraine",
     "issuer": "National Bank of Ukraine",
     "title": "20 Hriven'",
-    "description": "Remark.",
+    "description": "The 2023 redesigned 20 hryvnia banknote features a centre portrait of Ukrainian writer Ivan Franko on the obverse and the Lviv Opera House on the reverse.",
     "hue": 101,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/UKR0126A2o.jpg",
     "slug": "ukraine-20-hriven-e278",
-    "body": "The 50 Kronor banknote features poet, composer, and artist Evert Taube with Bohuslän region on the reverse. Yellow-orange in color (126 × 66 mm), introduced in 2015. Intaglio printing creates raised surfaces for authentication. The banknote includes watermarks with denomination and portrait visible under light, a security thread, and UV-reactive elements. Part of the modernized Swedish banknote series celebrating 20th-century cultural figures.",
+    "body": "The National Bank of Ukraine (NBU) introduced an updated 20 hryvnia note in 2023, moving Ivan Franko's portrait from the right side to the centre and printing it on tinted green polymer-reinforced paper. The reverse displays the Lviv Opera House, built in 1900 to a design by architect Zygmunt Gorgolewski, accompanied by a fragment of Franko's own writings and the National Coat of Arms. The 2023 version also carries the patriotic slogan 'Glory to Ukraine! Glory to the Heroes!' adding a wartime significance to this standard circulation note.",
     "highlights": {
-      "reason": "2015 series continuing circulation celebrating Swedish artistic and musical heritage through cultural figures.",
-      "design": "Evert Taube portrait with Bohuslän landscape representing Swedish cultural heritage and regional identity.",
-      "security": "Intaglio printing, watermark with denomination and portrait, security thread, UV fibres fluorescing yellow and blue."
+      "design": "Centre portrait of Ivan Franko with a fragment of his writings; Lviv Opera House on the reverse.",
+      "reason": "Routine security upgrade and redesign of the standard 20 hryvnia denomination, with patriotic wartime slogan added.",
+      "security": "Solid security thread with demetalized trident text; OVI rosette shifting from crimson-violet to olive-green; Ivan Franko watermark with electrotype 20."
     },
     "sources": [
-      "https://www.riksbank.se/en-gb/payments--cash/notes--coins/notes/valid-banknotes/50-krona-banknote/"
+      "https://bank.gov.ua/en/uah/obig-banknote/20_2018_2023",
+      "https://www.banknoteworld.com/ukraine-20-hryven-banknote-2023-p-a126a-3-unc.html"
     ],
     "confidence": "official"
   },
@@ -6364,18 +6365,18 @@
     "country": "Ukraine",
     "issuer": "National Bank of Ukraine",
     "title": "1.000 Hriven'",
-    "description": "Remark.",
+    "description": "The 2023 variant of the 1,000 hryvnia banknote features scientist Volodymyr Vernadsky on the obverse and adds the patriotic slogan 'Glory to Ukraine! Glory to the Heroes!' on the reverse.",
     "hue": 194,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/UKRW2019-1000o.jpg",
     "slug": "ukraine-1-000-hriven-e279",
-    "body": "The 200 Kronor banknote features film director Ingmar Bergman with Gotland (Fårö), where Bergman had his home, on the reverse. Green colored (140 × 66 mm), introduced in 2015. The reverse includes imagery from Bergman's film 'The Seventh Seal,' showing Bergman in conversation with an actor portraying Death. Intaglio printing, watermarks, security threads, and UV elements provide authentication and accessibility.",
+    "body": "First introduced in 2019, the 1,000 hryvnia note was updated on 20 July 2023. Volodymyr Vernadsky (1863-1945), founder of the Ukrainian Academy of Sciences and a global pioneer of geochemistry, is portrayed on the obverse, while the reverse shows the Presidium of the National Academy of Sciences. The 2023 update added the wartime patriotic slogan in dark-brown ink and enhanced the SPARK optically variable element to reinforce the note's security profile during the period of the Russian invasion.",
     "highlights": {
-      "reason": "2015 series honoring Swedish cinema and Ingmar Bergman's international contribution to film art.",
-      "design": "Ingmar Bergman director portrait with The Seventh Seal film scene and Fårö island home location.",
-      "security": "Intaglio printing with raised surface, watermark with denomination and portrait, security thread, UV elements."
+      "design": "Portrait of Volodymyr Vernadsky; Presidium of the National Academy of Sciences on the reverse; wartime slogan in dark-brown ink.",
+      "reason": "Security enhancement and addition of the wartime patriotic slogan 'Glory to Ukraine! Glory to the Heroes!' during the ongoing conflict.",
+      "security": "SPARK element shifting from gold to jade green; fully embedded polymer security thread with 1000 and trident; multi-tone Vernadsky watermark."
     },
     "sources": [
-      "https://www.riksbank.se/en-gb/payments--cash/notes--coins/notes/valid-banknotes/200-krona-banknote/"
+      "https://bank.gov.ua/en/uah/obig-banknote/1000_2019_2023"
     ],
     "confidence": "official"
   },
@@ -6384,20 +6385,21 @@
     "year": 2023,
     "date": "2023",
     "country": "United Arab Emirates",
-    "issuer": "UAE Central Bank",
+    "issuer": "Central Bank of the UAE",
     "title": "500 Dirhams",
-    "description": "Sheikh Zayed Terra Sustainability Pavilion (Expo City, Dubai).",
+    "description": "The 2023 polymer 500 dirham note features the Terra Sustainability Pavilion of Expo City Dubai on the obverse and the Museum of the Future in Dubai on the reverse.",
     "hue": 204,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/UAEW0042o.jpg",
     "slug": "united-arab-emirates-500-dirhams-e280",
-    "body": "The 500 Kronor banknote features Birgit Nilsson, renowned opera singer, with a map of Skåne province on the reverse showing the Bjäre peninsula where Nilsson grew up on a farm. Red colored (147 × 66 mm), introduced in 2016. The 2024 reference indicates continued circulation. Intaglio printing creates raised tactile surfaces. The note is part of the celebrated Swedish banknote series honoring 20th-century cultural achievements and artistic excellence.",
+    "body": "Issued on 29 November 2023 to coincide with the UAE's 52nd National Day, the new AED 500 note is printed on polymer substrate — a first for this denomination — and forms part of the UAE's third banknote series. Its obverse imagery references the Terra Sustainability Pavilion, embodying the environmental legacy of the late Sheikh Zayed bin Sultan Al Nahyan, while the reverse presents the Museum of the Future as a symbol of forward-looking innovation. The note won the 'Best New Banknote' award at the High Security Printing conference for EMEA in 2024.",
     "highlights": {
-      "reason": "2016 series continuing circulation celebrating Swedish operatic achievement and international cultural prominence.",
-      "design": "Birgit Nilsson opera singer portrait with Skåne regional map and farming heritage location.",
-      "security": "Intaglio printing, watermark with denomination and portrait, security thread, UV-reactive elements fluorescing."
+      "design": "Terra Sustainability Pavilion (Expo City Dubai) on obverse; Museum of the Future in Dubai on reverse; blue colour scheme.",
+      "reason": "Issued to mark the UAE's 52nd National Day and to modernise the 500 dirham denomination with polymer substrate and enhanced security.",
+      "security": "Complex see-through window showing Sheikh Zayed bin Sultan Al Nahyan; see-through register visible when held to light; Braille dots on both sides for the visually impaired."
     },
     "sources": [
-      "https://www.riksbank.se/en-gb/payments--cash/notes--coins/notes/valid-banknotes/500-krona-banknote/"
+      "https://www.centralbank.ae/en/our-operations/currency-and-coins/circulated-currency/current-banknotes/aed-500-polymer/",
+      "https://platform.keesingtechnologies.com/the-uae-introduces-a-new-500-dirham-polymer-banknote/"
     ],
     "confidence": "official"
   },
@@ -6408,30 +6410,44 @@
     "country": "Zimbabwe",
     "issuer": "Reserve Bank of Zimbabwe",
     "title": "100 Dollars",
-    "description": "Chiremba balancing rock formation.",
+    "description": "The 2023 Zimbabwe $100 banknote displays the Chiremba Balancing Rocks on the obverse and the Great Zimbabwe Ruins on the reverse, in a yellow colour scheme.",
     "hue": 44,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/ZIMW0106o.jpg",
     "slug": "zimbabwe-100-dollars-e281",
-    "body": "The 100 Dollars note issued by Reserve Bank of Zimbabwe represents a 2023 emission in Zimbabwe's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2023 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The $100 note belongs to the Zimbabwe Dollar series reintroduced in 2019 after the collapse of the bond dollar peg, with successive print dates including 2023 reflecting ongoing issuance. The Chiremba Balancing Rocks near Harare serve as the emblematic logo of the Reserve Bank of Zimbabwe and symbolise balance and stability, while the Great Zimbabwe Ruins on the reverse celebrate the nation's pre-colonial heritage. The note measures 155 x 66 mm and retains the yellow colour scheme of its predecessors.",
+    "highlights": {
+      "design": "Chiremba Balancing Rocks (RBZ logo) on obverse; Great Zimbabwe Ruins on reverse; yellow note measuring 155 x 66 mm.",
+      "reason": "Continued issuance of the Zimbabwe Dollar series to meet domestic demand ahead of the 2024 introduction of the ZiG currency.",
+      "security": "Kinetic StarChrome red-to-green windowed security thread with demetalized 'RBZ 100'; Zimbabwe bird watermark with electrotype RBZ logo; tactile hash marks; latent denomination image."
+    },
+    "sources": [
+      "https://www.banknoteworld.com/zimbabwe-100-dollars-banknote-2023-p-106b-unc.html",
+      "https://platform.keesingtechnologies.com/zimbabwe-introduces-a-new-100-banknote/"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e282",
     "year": 2023,
     "date": "2023",
     "country": "Abkhazia",
-    "issuer": "Apsniy Abank (Abkhazian Bank)",
+    "issuer": "National Bank of the Republic of Abkhazia",
     "title": "25 Apsar",
-    "description": "Arms, sailing ship, hawk in flight and head of hawk. 30th anniversary of Victory in the Patriotic War of the People of Abkhazia (1993-2023).",
+    "description": "The 2023 commemorative 25 apsar banknote marks the 30th anniversary of the victory in the Patriotic War of the People of Abkhazia (1992-1993), with imagery of the national arms, a hawk, and a sailing ship.",
     "hue": 88.5,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/ABKW0002o.jpg",
     "slug": "abkhazia-25-apsar-e282",
-    "body": "Arms, sailing ship, hawk in flight and head of hawk. 30th anniversary of Victory in the Patriotic War of the People of Abkhazia (1993-2023).",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "Introduced on 22 May 2023 and printed by Goznak (Russia) in a limited run of 10,000 pieces, this note was sold as a commemorative investment banknote rather than released into general circulation. The obverse depicts the national coat of arms, a sailing ship, and a hawk, while the reverse shows a traditional Abkhazian ornament alongside soldiers bearing a rifle and a sword — directly referencing the 1992-1993 war that established de facto independence from Georgia. The multicoloured orange, yellow, and green note measures 150 x 65 mm.",
+    "highlights": {
+      "design": "National arms, sailing ship, and hawk on obverse; traditional ornament and armed soldiers on reverse; orange, yellow, and green colourway.",
+      "reason": "Commemorates the 30th anniversary of Abkhazia's victory in the Patriotic War (1992-1993).",
+      "security": "Basket-weave watermark pattern; QR code on reverse linking to the National Bank of Abkhazia's security-feature page; limited edition of 10,000 pieces."
+    },
+    "sources": [
+      "https://nb-ra.org/en/issuance-of-a-commemorative-banknote-of-25-apsars-2.html",
+      "https://banknotenews.com/?p=40034"
+    ],
+    "confidence": "official"
   },
   {
     "id": "e283",
@@ -6440,14 +6456,20 @@
     "country": "Angola",
     "issuer": "Banco Nacional de Angola",
     "title": "1.000 Kwanzas",
-    "description": "Dr. António Agostinho Neto.",
+    "description": "The 2023-dated 1,000 kwanza polymer note features a portrait of Angola's first president António Agostinho Neto on the obverse and the Kalandula Waterfalls on the reverse, printed in pink tones.",
     "hue": 330.5,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/ANGW2020-1000o.jpg",
     "slug": "angola-1-000-kwanzas-e283",
-    "body": "The 1.000 Kwanzas note issued by Banco Nacional de Angola represents a 2023 emission in Angola's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2023 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "Part of the 2020 series launched by the Banco Nacional de Angola, the 1,000 kwanza note was reprinted with a 2023 issue date incorporating enhanced security compared with the initial 2020 printing. The note is printed on polymer substrate for greater durability, with the portrait of Agostinho Neto — a poet, physician, and liberation leader — on the front, and the spectacular Kalandula Falls, one of Africa's largest waterfalls, on the back. Microtext of the national anthem 'Angola Avante' is applied across the note as an additional security and cultural element.",
+    "highlights": {
+      "design": "Portrait of President Agostinho Neto on obverse; Kalandula Waterfalls on reverse; pink colour scheme on polymer substrate.",
+      "reason": "Updated printing of the 2020 series with enhanced security features, issued to meet domestic circulation demand.",
+      "security": "Polymer substrate; windowed security thread; tactile raised print elements for the visually impaired; microtext of national anthem 'Angola Avante'."
+    },
+    "sources": [
+      "https://en.numista.com/catalogue/note207561.html"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e284",
@@ -6456,14 +6478,20 @@
     "country": "Angola",
     "issuer": "Banco Nacional de Angola",
     "title": "2.000 Kwanzas",
-    "description": "Dr. António Agostinho Neto.",
+    "description": "The 2023-dated 2,000 kwanza polymer note features Agostinho Neto on the obverse and the winding mountain road of Serra da Leba in Namibe province on the reverse, in shades of green.",
     "hue": 93,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/ANGW2020-2000o.jpg",
     "slug": "angola-2-000-kwanzas-e284",
-    "body": "The 2.000 Kwanzas note issued by Banco Nacional de Angola represents a 2023 emission in Angola's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2023 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "Also belonging to the BNA's 2020 series, the 2,000 kwanza note was reprinted in 2023 with strengthened security, including a security thread now interlaced through the substrate rather than superimposed. Printed on polymer, the green note bears two transparent windows: one containing a representation of the 'Thinker' figure visible from both sides, and a second shaped like the traditional Angolan musical instrument Omakola. The reverse celebrates the Serra da Leba, a dramatic mountain pass renowned as one of Angola's most iconic natural landmarks.",
+    "highlights": {
+      "design": "Agostinho Neto portrait on obverse; Serra da Leba mountain pass on reverse; two polymer transparent windows including a 'Thinker' motif and Omakola instrument shape.",
+      "reason": "Updated 2023 reprinting of the 2020 series with interlaced security thread replacing the earlier superimposed version.",
+      "security": "Polymer substrate with two cut-out transparent windows; interlaced security thread (upgraded from superimposed); watermark of 'Thinker' figure; tactile raised print."
+    },
+    "sources": [
+      "https://www.leftovercurrency.com/exchange/angolan-kwanzas/current-angolan-kwanza-banknotes/2000-angolan-kwanza-banknote-serra-da-leba/"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e285",
@@ -6472,20 +6500,20 @@
     "country": "Argentina",
     "issuer": "Banco Central de la República Argentina",
     "title": "1.000 Pesos",
-    "description": "Printer.",
+    "description": "The 2023 1,000 peso note honours the Crossing of the Andes, depicting General José de San Martín on the obverse and soldiers on horseback crossing the Andes on 17 January 1817 on the reverse.",
     "hue": 29,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/ARGW0367o.jpg",
     "slug": "argentina-1-000-pesos-e285",
-    "body": "The 200 Franc banknote emphasizes Switzerland's scientific expertise with matter as its key motif. Issued since October 1, 1997, it remains in circulation. In November 2024, the Swiss National Bank announced development of a new banknote series, with the 200-franc note dedicated to the Alps theme. New designs will not be issued until the early 2030s at earliest, following a design competition launching February 2025.",
+    "body": "Issued in 2023, this yellow paper note (155 x 65 mm) commemorates one of the most celebrated military achievements in South American independence history — San Martín's crossing of the Andes to liberate Chile. The obverse bears a portrait of San Martín alongside flames rendered in OVI, while the reverse scene shows the Andean crossing with the date 17.01.1817 and the Argentine coat of arms. It forms part of the new family of Argentine banknotes introduced to accommodate the country's high inflation environment.",
     "highlights": {
-      "reason": "Current series continuing circulation while SNB develops next-generation designs featuring Alpine themes.",
-      "design": "Matter and scientific motifs representing Swiss expertise and innovation in science and technology.",
-      "security": "Advanced security features standard to Swiss National Bank denomination protection standards."
+      "design": "Portrait of José de San Martín with OVI flames on obverse; soldiers crossing the Andes (17 January 1817) with coat of arms on reverse; yellow colourway.",
+      "reason": "Commemorates the Crossing of the Andes by the Army of the Andes in 1817, issued as part of Argentina's new denomination family for high-inflation conditions.",
+      "security": "Windowed security thread printed 'BCRA 1000' with gold-to-lime-green colour shift; San Martín watermark with electrotype; wavy triangle holographic patch."
     },
     "sources": [
-      "https://www.snb.ch/en/the-snb/mandates-goals/cash/new-banknotes/new-banknotes"
+      "https://banknotenews.com/?p=36534"
     ],
-    "confidence": "official"
+    "confidence": "secondary"
   },
   {
     "id": "e286",
@@ -6494,20 +6522,22 @@
     "country": "Argentina",
     "issuer": "Banco Central de la República Argentina",
     "title": "2.000 Pesos",
-    "description": "Printer. Development of Science and Medicine in Argentina.",
+    "description": "The 2023 2,000 peso note honours medical pioneers Dr. Cecilia Grierson and Dr. Ramón Carrillo on the obverse and the facade of the National Institute of Microbiology on the reverse.",
     "hue": 25.4,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/ARGW0368o.jpg",
     "slug": "argentina-2-000-pesos-e286",
-    "body": "The 1000 Franc banknote from the historical sixth series (1978-2000) featured Auguste Forel, Swiss psychiatrist, neurologist, and myrmecologist (1848-1931), with three ants and a cross-section of an anthill motif. Purple colored (192 × 86 mm). Though withdrawn from circulation in 2000, these notes remain exchangeable at face value at Swiss National Bank cash desks. The 2024 reference may indicate continued exchange availability or commemorative interest.",
+    "body": "Introduced on 22 May 2023 as part of the new 'Heroines and Heroes of the Nation' banknote family, the 2,000 peso note was created to address Argentina's severe inflationary pressures. Dr. Cecilia Grierson (1859-1934), the first woman to graduate in medicine in Argentina, shares the obverse with Dr. Ramón Carrillo (1906-1956), creator of Argentina's public health system. The dark-grey and pink note is printed on paper and features the caduceus in a SPARK Live OVI element shifting from green to azure blue.",
     "highlights": {
-      "reason": "Historical series honoring Forel's groundbreaking research on brain structure and ant societies.",
-      "design": "Auguste Forel portrait with ant and anthill motifs reflecting his pioneering myrmecological studies.",
-      "security": "Sixth series security features; still exchangeable without time restriction at SNB."
+      "design": "Portraits of Dr. Cecilia Grierson and Dr. Ramón Carrillo with caduceus OVI on obverse; National Institute of Microbiology facade on reverse; dark-grey and pink scheme.",
+      "reason": "Issued to honour Argentine medical pioneers and to provide a higher denomination note for practical use amid severe inflation.",
+      "security": "SPARK Live Truspin caduceus OVI (green to azure blue); tactile identification code with raised bars; see-through register; latent image; watermark of both doctors; microprinting."
     },
     "sources": [
-      "https://www.snb.ch/en/the-snb/mandates-goals/cash/series-9"
+      "https://www.bcra.gob.ar/en/billete-de-2000-de-circulacion/",
+      "https://platform.keesingtechnologies.com/argentinas-new-highest-denomination-2000-pesos-banknote/",
+      "https://banknotenews.com/?p=38992"
     ],
-    "confidence": "secondary"
+    "confidence": "official"
   },
   {
     "id": "e287",
@@ -6516,14 +6546,21 @@
     "country": "Australia",
     "issuer": "Reserve Bank of Australia",
     "title": "50 Dollars",
-    "description": "David Unaipon, artefacts.",
+    "description": "The 2023-printed Australian $50 Next Generation Banknote features Aboriginal inventor David Unaipon on the obverse and Edith Cowan, Australia's first female member of parliament, on the reverse, bearing governor Michele Bullock's signature.",
     "hue": 41.1,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/AUSW2018-050o.jpg",
     "slug": "australia-50-dollars-e287",
-    "body": "The 50 Dollars note issued by Reserve Bank of Australia represents a 2023 emission in Australia's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2023 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "Part of the Reserve Bank of Australia's Next Generation Banknote (NGB) program, the 2023 $50 note retains the portraits of David Unaipon (Ngarrindjeri nation) and Edith Cowan introduced in 2018, but was reprinted bearing the signature of Michele Bullock — the RBA's ninth and first female governor. Design elements include Unaipon's totem, the Black Swan, imagery from his published writings, Cowan's gumnut brooch, and the King Edward Memorial Hospital. The 2023 printing represents a milestone as the first Australian banknote signed by a woman serving as governor.",
+    "highlights": {
+      "design": "David Unaipon portrait with Black Swan totem on obverse; Edith Cowan portrait with gumnut brooch and King Edward Memorial Hospital on reverse; yellow-orange polymer note.",
+      "reason": "2023 reprinting of the NGB $50 to introduce Michele Bullock's signature as new RBA governor — the first female governor's signature on an Australian banknote.",
+      "security": "Top-to-bottom clear window with dynamic diffractive elements — bird appears to fly, book appears in 3D, numeral changes direction when tilted; SPARK patch over a black swan window; microprint excerpts from Unaipon's book and Cowan's parliamentary speech."
+    },
+    "sources": [
+      "https://banknotes.rba.gov.au/australias-banknotes/banknotes-in-circulation/fifty-dollar/",
+      "https://www.rba.gov.au/media-releases/2023/mr-23-02.html"
+    ],
+    "confidence": "official"
   },
   {
     "id": "e288",

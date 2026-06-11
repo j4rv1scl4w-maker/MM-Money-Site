@@ -1,9 +1,9 @@
 {
   "description": "Pipeline per arricchire le emissions con URL reali. Processa in batch da 10, ogni batch viene committato.",
   "total": 493,
-  "processed": 225,
+  "processed": 235,
   "batch_size": 10,
-  "last_committed_batch": 23,
+  "last_committed_batch": 24,
   "items": [
     {
       "id": "e47",
@@ -3124,7 +3124,7 @@
         "National Bank of Ukraine"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -3136,7 +3136,7 @@
         "National Bank of Ukraine"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -3148,7 +3148,7 @@
         "UAE Central Bank"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -3160,7 +3160,7 @@
         "Reserve Bank of Zimbabwe"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -3172,7 +3172,7 @@
         "Apsniy Abank (Abkhazian Bank)"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -3184,7 +3184,7 @@
         "Banco Nacional de Angola"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -3196,7 +3196,7 @@
         "Banco Nacional de Angola"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -3208,7 +3208,7 @@
         "Banco Central de la República Argentina"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -3220,7 +3220,7 @@
         "Banco Central de la República Argentina"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -3232,7 +3232,7 @@
         "Reserve Bank of Australia"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
