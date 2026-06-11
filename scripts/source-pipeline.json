@@ -1,9 +1,9 @@
 {
   "description": "Pipeline per arricchire le emissions con URL reali. Processa in batch da 10, ogni batch viene committato.",
   "total": 493,
-  "processed": 105,
+  "processed": 115,
   "batch_size": 10,
-  "last_committed_batch": 11,
+  "last_committed_batch": 12,
   "items": [
     {
       "id": "e47",
@@ -1670,7 +1670,7 @@
         "Bank of Japan"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -1682,7 +1682,7 @@
         "Bank of Japan"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -1694,7 +1694,7 @@
         "Bank of Japan"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -1706,7 +1706,7 @@
         "Bank of Japan"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -1718,7 +1718,7 @@
         "Bank of Japan"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -1731,7 +1731,7 @@
         "Middle East banknote references"
       ],
       "confidence": "high",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -1744,7 +1744,7 @@
         "Banknote databases"
       ],
       "confidence": "high",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -1757,7 +1757,7 @@
         "Middle East currency catalogs"
       ],
       "confidence": "high",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -1770,7 +1770,7 @@
         "Banknote references"
       ],
       "confidence": "high",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -1783,7 +1783,7 @@
         "Currency references"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
