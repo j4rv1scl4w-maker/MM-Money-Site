@@ -3024,227 +3024,233 @@
   {
     "id": "e132",
     "year": 2024,
-    "date": "2017-2024",
+    "date": "2024",
     "country": "Nepal",
     "issuer": "Nepal Rastra Bank",
     "title": "5 Rupees",
-    "description": "Mount Everest, Taleju temple.",
+    "description": "Nepal 5 Rupees banknote from the 2024 new series featuring Mount Everest imagery",
     "hue": 12,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/NEP0076o.jpg",
     "slug": "nepal-5-rupees-e132",
-    "body": "Iraq 25,000 Dinars, 2018-2024 variants. Part of Iraq's contemporary currency series emphasizing national identity and ancient heritage. The notes typically feature significant cultural sites or historical figures relevant to Iraqi civilization. The design reflects Iraq's commitment to modernizing its currency while maintaining cultural representation. Security features protect against counterfeiting through color-shifting inks, security threads, and sophisticated printing. Variants during this period reflect the Central Bank's periodic updates to signatures and enhanced anti-fraud measures. This mid-range denomination plays an important role in Iraqi commerce.",
+    "body": "The Nepal 5 Rupees note continues the longstanding tradition of celebrating Nepal's most iconic natural landmark on its currency. Mount Everest, the world's highest peak, has been a central design element of Nepal's lower denomination notes since 2007, symbolizing the nation's geographical significance and natural heritage. The banknote retains the distinctive pink coloration established in previous series, with enhanced security features to prevent counterfeiting. The note measures 120 mm x 70 mm and includes traditional Nepali symbols alongside the primary Mount Everest imagery. Security measures include a solid security thread and watermark featuring the rhododendron, Nepal's national flower, providing multiple layers of authentication for daily circulation use.",
     "highlights": {
-      "reason": "Iraqi heritage currency; security and signature feature updates",
-      "design": "Iraqi cultural/historical imagery; national symbols; Mesopotamian heritage",
-      "security": "Color-shifting inks, security threads, advanced printing, enhanced microprint"
+      "design": "Front: Mount Everest and Kasthamandap temple in Kathmandu; Reverse: Standing yak with Mount Everest in background",
+      "reason": "Continuation of the Nepal Rastra Bank's ongoing new series program with improved security and design consistency",
+      "security": "Solid security thread, rhododendron watermark, pink-colored polymer elements"
     },
     "sources": [
-      "Central Bank of Iraq currency standards",
-      "Banknote references"
+      "https://en.wikipedia.org/wiki/Banknotes_of_the_Nepalese_rupee",
+      "https://www.banknoteworld.com/banknotes/Banknotes-by-Country/Nepal-Currency/"
     ],
-    "confidence": "high"
+    "confidence": "secondary"
   },
   {
     "id": "e133",
     "year": 2024,
-    "date": "2017-2024",
+    "date": "2024",
     "country": "Nepal",
     "issuer": "Nepal Rastra Bank",
     "title": "10 Rupees",
-    "description": "Mount Everest, Changunarayan on Garuda.",
+    "description": "Nepal 10 Rupees banknote from the 2024 new series featuring blackbuck wildlife imagery",
     "hue": 22,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/NEP0077o.jpg",
     "slug": "nepal-10-rupees-e133",
-    "body": "Iraq 10,000 Dinars, 2018-2024 variants. Represents a standard circulation denomination in Iraq's modern currency series. The notes showcase Iraqi heritage and historical significance through design elements including national monuments or cultural imagery. The obverse typically features national emblems or architectural heritage. Security enhancements across the variants include improved holographic technology, security threads, and microprint refinements. Signature updates from Central Bank governors are reflected in variants throughout the 2018-2024 period. This denomination is commonly used for everyday transactions in Iraq.",
+    "body": "The Nepal 10 Rupees 2024 emission marks a continued modernization of Nepal's currency with wildlife-focused design elements. The banknote features the blackbuck (Krishnasar), a species endemic to the Indian subcontinent and symbolically important in South Asian culture. Introduced with serial numbers beginning at D/32 000001, this note maintained unchanged dimensions and color schemes from earlier versions to ensure public familiarity and ease of handling. The note includes bilingual inscriptions in both English and Nepali, dated to the Gregorian year 2024 A.D. and the Nepali year 2081 B.S. The Currency Management Department confirmed full circulation status, with production authorized to continue the incomplete distribution from the November 2020 series.",
     "highlights": {
-      "reason": "Iraqi modern currency series; security and governor signature variants",
-      "design": "Iraqi heritage/monuments; national emblems; cultural symbols",
-      "security": "Holographic technology, security threads, microprint, color-based security"
+      "design": "Front: Mount Everest; Reverse: Blackbuck (Krishnasar) animal with Nepal Rastra Bank branding",
+      "reason": "Continuation of new series with wildlife conservation theme and completion of previous distribution cycles",
+      "security": "Standardized security thread, watermark protection, bilingual dating elements"
     },
     "sources": [
-      "Central Bank of Iraq releases",
-      "Middle East currency databases"
+      "https://www.nrb.org.np/",
+      "https://www.fiscalnepal.com/2025/06/16/20727/nrb-to-introduce-new-rs-10-banknotes/"
     ],
-    "confidence": "high"
+    "confidence": "official"
   },
   {
     "id": "e134",
     "year": 2024,
-    "date": "2015-2024",
+    "date": "2024",
     "country": "Nepal",
     "issuer": "Nepal Rastra Bank",
     "title": "100 Rupees",
-    "description": "Mount Everest, Mayadevi, map of Nepal, text 'Lumbini - Birthplace of Lord Buddha', Ashoka pillar.",
+    "description": "Nepal 100 Rupees banknote from 2024 featuring revised political map with disputed territories",
     "hue": 71,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/NEP0080o.jpg",
     "slug": "nepal-100-rupees-e134",
-    "body": "Iraq banknote, heritage series, 2018-2024 variant. Likely represents a commemorative release, security variant, or signature update to one of Iraq's standard denominations (50,000/25,000/10,000 dinars). Iraq's modern banknote series emphasizes Mesopotamian civilization and national identity. All notes feature Arabic calligraphy, national symbols, and sophisticated security elements. Variants reflect the Central Bank of Iraq's ongoing security enhancements and periodic governor signature changes during currency circulation.",
+    "body": "The Nepal 100 Rupees 2024 denomination represents a significant geopolitical statement through its map design, featuring the revised political boundaries of Nepal that include the territories of Lipulekh, Limpiyadhura, and Kalapani. Nepal's cabinet approved this design in May 2024, emphasizing national territorial claims. The printing contract was awarded to the Chinese company China Banknote Printing and Minting Corporation in October 2024, with plans to produce 300 million banknotes. The production cost was estimated at approximately 8,996,592 US dollars, translating to roughly 4 rupees and 4 paisa per note. This emission reflects Nepal's assertion of sovereignty over the disputed territories and represents a broader national currency modernization initiative.",
     "highlights": {
-      "reason": "Iraqi heritage currency variant; security or commemorative update",
-      "design": "Iraqi heritage/Mesopotamian elements; Arabic calligraphy; national symbols",
-      "security": "Standard series elements: holograms, threads, microprint, color security"
+      "design": "Features revised political map of Nepal including Lipulekh, Limpiyadhura, and Kalapani territories",
+      "reason": "Political redesign emphasizing territorial sovereignty and modernization of Nepal's 100 Rupees denomination",
+      "security": "To be incorporated during manufacturing by China Banknote Printing and Minting Corporation"
     },
     "sources": [
-      "Central Bank of Iraq documentation",
-      "Currency references"
+      "https://www.latestly.com/agency-news/world-news-chinese-company-to-print-nepals-100-rupee-notes-featuring-disputed-territories-with-india-6374270.html",
+      "https://www.aninews.in/news/world/asia/chinese-company-to-print-nepals-100-rupee-notes-featuring-disputed-territories-with-india20241027222246/"
     ],
-    "confidence": "fallback"
+    "confidence": "secondary"
   },
   {
     "id": "e135",
     "year": 2024,
-    "date": "2014-2024",
+    "date": "2024",
     "country": "Nigeria",
     "issuer": "Central Bank of Nigeria",
     "title": "100 Naira",
-    "description": "Chief Obafemi Awolowo. Nigeria's 100 Years of Existence 1914-2014.",
+    "description": "Nigeria 100 Naira commemorative banknote celebrating Nigeria's centennial independence anniversary",
     "hue": 343,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/NIA0041o.jpg",
     "slug": "nigeria-100-naira-e135",
-    "body": "Iraq banknote variant, 2018-2024. Part of the Iraqi heritage currency series reflecting post-2003 economic development and national identity. The series underwent multiple updates with signature changes and enhanced security features. Features Mesopotamian motifs, national symbols, and advanced anti-counterfeiting measures.",
+    "body": "The Nigeria 100 Naira 2024 edition serves as a commemorative banknote marking the centennial of Nigerian independence (1914-2014). The note features Chief Obafemi Awolowo, a prominent historical figure who served as Premier of the Western Region, on the obverse. The design incorporates agricultural imagery including coconuts and cotton bolls, reflecting Nigeria's economic heritage and agricultural traditions. The reverse displays traditional cultural elements featuring five Nigerians in native dress engaging in musical performance and cultural activities, alongside primitive animal figures including alligators, snakes, fish, and turtles. The palette of purple, red, peach, brown, and green creates a visually distinctive and culturally representative design. Measuring 151 mm x 78 mm, this note carries dual signatures of Olayemi Cardoso and Mohammedjamiu Olayemi Solaja.",
     "highlights": {
-      "reason": "Iraqi currency variant; signature or security update",
-      "design": "Iraqi heritage/Mesopotamian imagery; national symbols",
-      "security": "Holograms, threads, intaglio printing, microprint"
+      "design": "Front: Chief Obafemi Awolowo with coconuts and cotton; Reverse: Five Nigerians in traditional dress with musical instruments, primitive animals, and cowrie shells",
+      "reason": "Commemorative issuance celebrating Nigeria's 100 years of independence and territorial unity",
+      "security": "Motion windowed security thread with Nigerian flag and denomination 100, coconut registration device, watermark of Chief Obafemi Awolowo with electrotype"
     },
     "sources": [
-      "Central Bank of Iraq",
-      "Banknote catalogs"
+      "https://www.banknoteworld.com/nigeria-100-naira-banknote-2024-p-41e-unc-commemorative-100-years-of-existence-1914-2014-tap-authenticated.html",
+      "https://www.cbn.gov.ng/currency/SecurityFeatures.html"
     ],
-    "confidence": "fallback"
+    "confidence": "secondary"
   },
   {
     "id": "e136",
     "year": 2024,
-    "date": "2016-2024",
+    "date": "2008",
     "country": "Papua New Guinea",
     "issuer": "Bank of Papua New Guinea",
     "title": "5 Kina",
-    "description": "Size.",
+    "description": "Papua New Guinea 5 Kina banknote from the modern polymer series with enhanced security features",
     "hue": 239,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/PNG0051o.jpg",
     "slug": "papua-new-guinea-5-kina-e136",
-    "body": "Iraq banknote variant, 2018-2024. Part of the modern Iraqi currency series with enhanced security features and design elements reflecting national heritage.",
+    "body": "The Papua New Guinea 5 Kina denomination represents part of the Bank of Papua New Guinea's transition to advanced polymer substrate technology, first introduced in 2008. This banknote showcases the National Parliament building of Port Moresby on its obverse side, symbolizing Papua New Guinea's political institutions. The reverse features cultural motifs and traditional forms of money used throughout different regions of Papua New Guinea, reflecting the nation's diverse indigenous heritage. Produced on Guardian polymer substrate, the note incorporates state-of-the-art security measures designed for durability in the tropical climate and challenging circulating environment of the South Pacific. The currency represents one of the world's most ambitious implementations of polymer technology for daily circulation currency.",
     "highlights": {
-      "reason": "Iraqi currency update; security or signature variant",
-      "design": "Iraqi national imagery; heritage elements",
-      "security": "Modern security features; holograms; threads"
+      "design": "Front: National Parliament building in Port Moresby; Reverse: Traditional forms of money and cultural artifacts from Papua New Guinea regions",
+      "reason": "Part of modernized polymer banknote series transition for enhanced durability and security",
+      "security": "Guardian polymer substrate, color-changing G-switch window feature, IRIswitch technology, OVI (Optically Variable Ink) security elements"
     },
     "sources": [
-      "Central Bank of Iraq"
+      "https://www.bankpng.gov.pg/currency/",
+      "https://www.banknoteworld.org/papua-new-guinea/"
     ],
-    "confidence": "fallback"
+    "confidence": "official"
   },
   {
     "id": "e137",
     "year": 2024,
-    "date": "2021 & 2024",
+    "date": "2008",
     "country": "Papua New Guinea",
     "issuer": "Bank of Papua New Guinea",
     "title": "20 Kina",
-    "description": "Size.",
+    "description": "Papua New Guinea 20 Kina banknote from the modern new series with advanced polymer security features",
     "hue": 10,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/PNGW0053o.jpg",
     "slug": "papua-new-guinea-20-kina-e137",
-    "body": "Iraq banknote variant, 2018-2024. Represents a security or signature update within Iraq's contemporary currency series.",
+    "body": "The Papua New Guinea 20 Kina new series represents a major advancement in Papua New Guinea's currency modernization program, featuring innovative polymer-based design. The National Parliament building in Port Moresby appears prominently on the obverse, serving as a unifying symbol across multiple denominations. The reverse side maintains traditional forms of money and cultural artifacts representative of Papua New Guinea's distinct regional cultures and indigenous heritage. Each region's unique traditional exchange items and cultural symbols are depicted to celebrate national diversity. The banknote's production on Guardian polymer substrate provides exceptional durability suited to the demanding tropical environment and high-circulation demands of Papua New Guinea's economy.",
     "highlights": {
-      "reason": "Iraqi currency variant update",
-      "design": "Iraqi heritage imagery",
-      "security": "Series security features"
+      "design": "Front: National Parliament building Port Moresby; Reverse: Traditional regional money forms and cultural heritage artifacts",
+      "reason": "Modernization of currency series with polymer technology for improved durability and security against counterfeiting",
+      "security": "Guardian polymer substrate with color-changing G-switch window, IRIswitch metallic feature, OVI technology, and advanced counterfeit-prevention measures"
     },
     "sources": [
-      "Central Bank of Iraq documentation"
+      "https://www.bankpng.gov.pg/currency/twenty-kina-new-series/",
+      "https://hsp-asia.com/award/new-kina-series/"
     ],
-    "confidence": "fallback"
+    "confidence": "official"
   },
   {
     "id": "e138",
     "year": 2024,
-    "date": "2015-2024",
+    "date": "2024",
     "country": "Paraguay",
     "issuer": "Banco Central del Paraguay",
     "title": "20.000 Guaraníes",
-    "description": "Remark.",
+    "description": "Paraguay 20,000 Guaranies banknote from 2024 featuring Paraguayan woman and national imagery",
     "hue": 213,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/PGY0238o.jpg",
     "slug": "paraguay-20-000-guaran-es-e138",
-    "body": "Iraq banknote variant, 2018-2024. Part of the Iraqi heritage currency series.",
+    "body": "The Paraguay 20,000 Guaranies 2024 emission features the image of a Paraguayan woman as the primary design element, symbolizing the importance of women in Paraguayan society and culture. The obverse includes the national emblems of the Republic of Paraguay alongside the Paz y justicia (Peace and Justice) symbol featuring a lion and cap of liberty. The reverse depicts the Central Bank building located in Asuncion, the nation's capital, accompanied by a stylized sun representing national identity and brightness. Manufactured by PWPW S.A. (Polska Wytworna Papierow Wartosciowych), the banknote measures 157.00 mm x 67.00 mm. The note incorporates enhanced security features including a color-changing security thread with demetalized text.",
     "highlights": {
-      "reason": "Iraqi currency variant",
-      "design": "Iraqi imagery",
-      "security": "Banknote security features"
+      "design": "Front: Paraguayan woman with Republic emblems and Paz y justicia symbol; Reverse: Central Bank building in Asuncion with stylized sun motif",
+      "reason": "Modernization of Paraguay's banknote series with updated design and improved security features",
+      "security": "Windowed color-changing security thread with demetalized 'REPUBLICA DEL PARAGUAY 20 MIL' text, watermark portrait of woman, electrotype security elements"
     },
     "sources": [
-      "Central Bank of Iraq"
+      "https://banknotedb.com/20-000-guaranies-2024-i",
+      "https://www.bcp.gov.py/en/home"
     ],
-    "confidence": "fallback"
+    "confidence": "secondary"
   },
   {
     "id": "e139",
     "year": 2024,
-    "date": "2015-2024",
+    "date": "2024",
     "country": "Paraguay",
     "issuer": "Banco Central del Paraguay",
     "title": "100.000 Guaraníes",
-    "description": "Remark.",
+    "description": "Paraguay 100,000 Guaranies banknote from 2024 featuring historical missionary and hydroelectric dam",
     "hue": 95,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/PGY0240o.jpg",
     "slug": "paraguay-100-000-guaran-es-e139",
-    "body": "The 100.000 Guaraníes note issued by Banco Central del Paraguay represents a 2024 emission in Paraguay's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2024 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
+    "body": "The Paraguay 100,000 Guaranies 2024 banknote features San Roque Gonzalez de Santa Cruz (1576-1628) on its obverse, the first missionary among the Guarani people and a significant figure in Paraguay's religious and colonial history. His image represents the deep connection between Paraguay's indigenous heritage and Christian missionary influence. The reverse side depicts the Itaipu hydroelectric dam, one of the world's largest hydroelectric facilities and a symbol of Paraguay's modern infrastructure and economic development. The 100,000 denomination was introduced during the hyperinflation period between 1990 and 1998, when higher denominations became necessary for everyday transactions. The banknote continues in circulation with updated security features reflecting modern currency standards.",
     "highlights": {
-      "reason": "Iraqi currency variant",
-      "design": "Iraqi heritage elements",
-      "security": "Security features"
+      "design": "Front: San Roque Gonzalez de Santa Cruz, first Guarani missionary; Reverse: Itaipu hydroelectric dam symbolizing national infrastructure",
+      "reason": "High denomination addressing inflation needs and celebrating Paraguay's religious and technological heritage",
+      "security": "Modern security features including color-shifting elements, watermarks, and enhanced anti-counterfeiting measures"
     },
     "sources": [
-      "Central Bank of Iraq"
+      "https://noteshobby.com/products/paraguay-100000-guaranies-2021-2024-p-240-new-sign-unc",
+      "https://www.greysheet.com/prices/sp/paraguay-banco-central-del-paraguay/9478"
     ],
-    "confidence": "fallback"
+    "confidence": "secondary"
   },
   {
     "id": "e140",
     "year": 2024,
-    "date": "2015-2024",
+    "date": "2024",
     "country": "Paraguay",
     "issuer": "Banco Central del Paraguay",
     "title": "10.000 Guaraníes",
-    "description": "Dr. José Gaspar Rodríguez de Francia.",
+    "description": "Paraguay 10,000 Guaranies banknote from 2024 featuring historical leader and national independence",
     "hue": 57,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/PGY0224-2015o.jpg",
     "slug": "paraguay-10-000-guaran-es-e140",
-    "body": "The 10.000 Guaraníes note issued by Banco Central del Paraguay represents a 2024 emission in Paraguay's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2024 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
+    "body": "The Paraguay 10,000 Guaranies 2024 note features Dr. Jose Gaspar Rodriguez de Francia (1766-1840) on its obverse, Paraguay's first leader who served as the nation's Perpetual Dictator and laid the foundation for Paraguayan independence and sovereignty. His portrait symbolizes Paraguay's struggle for self-determination and national identity. The reverse side displays the Declaration of Independence, the fundamental document establishing Paraguay as a sovereign nation separate from Spain. The denomination of 10,000 Guaranies was originally introduced in 1963 and continues to serve a crucial function in Paraguay's monetary system. The banknote measures 157.00 mm x 67.00 mm and incorporates contemporary security features including a wide windowed color-changing security thread.",
     "highlights": {
-      "reason": "Iraqi currency variant",
-      "design": "Iraqi design elements",
-      "security": "Security features"
+      "design": "Front: Dr. Jose Gaspar Rodriguez de Francia, perpetual dictator and founder; Reverse: Paraguay's Declaration of Independence document",
+      "reason": "Commemoration of Paraguay's founding leadership and independence heritage with modern currency standards",
+      "security": "Wide windowed color-changing security thread with demetalized 'REPUBLICA DEL PARAGUAY 10000' text, latent image print in vignette, advanced watermarking"
     },
     "sources": [
-      "Central Bank of Iraq"
+      "https://banknotedb.com/10-000-guaranies-2024",
+      "https://www.foreigncurrencyandcoin.com/product/paraguay-10000-guaranies/"
     ],
-    "confidence": "fallback"
+    "confidence": "secondary"
   },
   {
     "id": "e141",
     "year": 2024,
-    "date": "2022-2024",
+    "date": "2024",
     "country": "Philippines",
     "issuer": "Bangko Sentral ng Pilipinas",
     "title": "500 Piso",
-    "description": "Remark.",
+    "description": "Philippines 500 Piso polymer banknote from the 2024 First Philippine Polymer Banknote Series featuring endemic wildlife",
     "hue": 38,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/PILW0234-2022o.jpg",
     "slug": "philippines-500-piso-e141",
-    "body": "Jamaica 50 Dollars, 2017-2024 variants. Features Marcus Garvey, a prominent Jamaican and pan-African leader on the obverse. The reverse typically displays Jamaican national symbols, flag, or cultural imagery representing the nation's identity and pride. The note underwent redesigns with updated security features including holographic elements and enhanced printing. Variants during this period reflect signature changes from successive Bank of Jamaica governors. The green-tinted note is used for everyday commercial transactions and represents a standard denomination in Jamaican currency circulation.",
+    "body": "The Philippines 500 Piso 2024 polymer banknote represents a historic shift in Philippine currency, introducing the nation's first polymer banknote series announced on December 19, 2024. The note features the Visayan spotted deer on its obverse, symbolizing clarity and sharpness, alongside the Acanthephippium mantinianum, an endemic Philippine orchid representing beauty through its distinctive fragrant yellow flowers with red stripes. The reverse depicts the UNESCO World Heritage-listed Puerto Princesa Subterranean River National Park, the blue-naped parrot endemic to the Philippines, and traditional southern Philippine weave designs reflecting indigenous craftsmanship. Manufactured on advanced polymer substrate, the banknote lasts approximately seven and a half years compared to paper bills' eighteen-month lifespan. The introduction of polymer currency represents a significant upgrade in durability and security technology for the Philippines.",
     "highlights": {
-      "reason": "Marcus Garvey commemorative series; signature and security updates",
-      "design": "Marcus Garvey portrait obverse; Jamaican national symbols reverse",
-      "security": "Holographic elements, security threads, enhanced intaglio printing"
+      "design": "Front: Visayan spotted deer and Acanthephippium mantinianum orchid; Reverse: Puerto Princesa Subterranean River National Park, blue-naped parrot, traditional southern Philippine weaves",
+      "reason": "Historic introduction of Philippine first polymer banknote series with enhanced durability and modern security features",
+      "security": "Dynamic value panel with color-shifting ink, transparent windows with advanced security printing, latest anti-counterfeiting measures for polymer technology"
     },
     "sources": [
-      "Bank of Jamaica official documentation",
-      "Caribbean banknote references"
+      "https://www.banknoteworld.com/blog/new-philippines-500-100-50-piso-polymer-banknote-series-for-2025/",
+      "https://www.polymernotes.com/en/news/philippines-designs-revealed-for-the-new-polymer-50-100-and-500-piso-banknotes.html",
+      "https://www.philstar.com/headlines/2024/12/05/2405089/coming-soon-polymer-500-100-50-peso-banknotes"
     ],
-    "confidence": "high"
+    "confidence": "official"
   },
   {
     "id": "e142",
