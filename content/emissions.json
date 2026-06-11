@@ -5884,14 +5884,20 @@
     "country": "Singapore",
     "issuer": "Monetary Authority of Singapore",
     "title": "5 Dollars",
-    "description": "President Yusuf bin Ishak.",
+    "description": "The Singapore $5 Portrait Series polymer banknote features the portrait of Yusof bin Ishak, the first President of Singapore, on the obverse against a Garden City theme on the reverse.",
     "hue": 84,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/SIN0047ao.jpg",
     "slug": "singapore-5-dollars-e258",
-    "body": "The 5 Dollars note issued by Monetary Authority of Singapore represents a 2023 emission in Singapore's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2023 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The $5 note is part of the Portrait Series, Singapore's fourth series of currency notes issued by the Monetary Authority of Singapore (MAS), first released in polymer form on 18 May 2007. The obverse displays Yusof bin Ishak alongside the Singapore Coat of Arms and the gold-ringed cowrie motif, while the reverse showcases the Garden City theme with the iconic 200-year-old tembusu tree from the Singapore Botanic Gardens and Singapore's national flower, Vanda Miss Joaquim. The 2023 date edition continues the established Portrait Series design on Safeguard polymer substrate.",
+    "highlights": {
+      "design": "Reverse features the 200-year-old tembusu tree at the Singapore Botanic Gardens and the national flower Vanda Miss Joaquim, representing Singapore's Garden City identity.",
+      "reason": "Continuation of the Portrait Series on polymer substrate, maintaining the long-running design honouring Yusof bin Ishak and Singapore's natural heritage.",
+      "security": "Two clear see-through polymer windows, intaglio-printed portrait of Yusof bin Ishak, windowed security thread shaped like Singapore island, and a stylised gold Singapore Lion symbol."
+    },
+    "sources": [
+      "https://www.mas.gov.sg/currency/circulation-currency/circulation-currency-notes"
+    ],
+    "confidence": "official"
   },
   {
     "id": "e259",
@@ -5900,14 +5906,22 @@
     "country": "Solomon Islands",
     "issuer": "Central Bank of Solomon Islands",
     "title": "50 Dollars",
-    "description": "Flag, arms.",
+    "description": "The 2023 Solomon Islands $50 banknote features abstract basket-weave patterns on the obverse and a reverse celebrating the islands' unique biodiversity through images of local fauna and flora.",
     "hue": 94,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/SOL0035o.jpg",
     "slug": "solomon-islands-50-dollars-e259",
-    "body": "The 50 Dollars note issued by Central Bank of Solomon Islands represents a 2023 emission in Solomon Islands's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2023 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The upgraded $50 note was introduced into circulation on 28 December 2023 by the Central Bank of Solomon Islands, replacing the previous issue's Optiks security thread with a new Nexus 18mm wide micro-optic stripe. The obverse design conveys dynamic movement with sloping numerals, an eagle watermark, billowing abstract patterns inspired by shoaling fish, the Solomon Islands flag, and basket-weave designs evoking traditional craft. The reverse features montages of the islands' native biodiversity, including shells, lizards, snakes, iguanas, and fungi, celebrating the rich natural environment of the Solomon Islands.",
+    "highlights": {
+      "design": "Nexus 18mm micro-optic stripe on the obverse containing the denomination numeral, 'CBSI', and images of a shark and crocodile from the Solomon Islands Coat of Arms.",
+      "reason": "Security upgrade of the existing $50 denomination, replacing the previous Optiks thread with advanced Nexus micro-optic stripe technology.",
+      "security": "Nexus 18mm wide micro-optic stripe, watermark with falcon head, electrotype CBSI and cornerstones visible under light, and tactile raised print."
+    },
+    "sources": [
+      "https://www.cbsi.com.sb/currency/cbsi-banknotes/",
+      "https://platform.keesingtechnologies.com/solomon-islands-sophisticated-new-50-100-dollar-banknotes/",
+      "https://banknotenews.com/?p=42576"
+    ],
+    "confidence": "official"
   },
   {
     "id": "e260",
@@ -5916,14 +5930,22 @@
     "country": "Solomon Islands",
     "issuer": "Central Bank of Solomon Islands",
     "title": "100 Dollars",
-    "description": "Flag, arms.",
+    "description": "The 2023 Solomon Islands $100 banknote features dynamic abstract patterning on the obverse and scenes of coconut growing and plantation harvesting on the reverse.",
     "hue": 55,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/SOL0036o.jpg",
     "slug": "solomon-islands-100-dollars-e260",
-    "body": "The 100 Dollars note issued by Central Bank of Solomon Islands represents a 2023 emission in Solomon Islands's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2023 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The $100 note entered circulation on 29 December 2023 as part of the CBSI's upgrade of its highest-denomination paper notes, replacing the earlier Optiks security thread with a cutting-edge Nexus micro-optic stripe. The obverse features abstract patterns representing swirling shoals of fish, the Solomon Islands flag and coat of arms, conveying a prevailing sense of rightward movement. The reverse depicts scenes of traditional coconut cultivation and harvesting, including images of an open coconut, a coconut shell necklace, and palm trees, reflecting the central importance of coconut farming to the Solomon Islands economy and culture.",
+    "highlights": {
+      "design": "Reverse depicts traditional coconut plantation harvesting with open coconuts, coconut shell necklaces, and palm trees, reflecting cultural and economic heritage.",
+      "reason": "Security upgrade replacing the previous Optiks thread with the advanced Nexus 18mm micro-optic stripe technology on the highest-denomination paper note.",
+      "security": "Nexus 18mm wide micro-optic stripe containing denomination numerals, 'CBSI', and shark and crocodile images; falcon-head watermark; electrotype CBSI; cornerstones visible under light."
+    },
+    "sources": [
+      "https://www.cbsi.com.sb/currency/cbsi-banknotes/",
+      "https://platform.keesingtechnologies.com/solomon-islands-sophisticated-new-50-100-dollar-banknotes/",
+      "https://banknotenews.com/?p=42580"
+    ],
+    "confidence": "official"
   },
   {
     "id": "e261",
@@ -5932,18 +5954,19 @@
     "country": "Solomon Islands",
     "issuer": "Central Bank of Solomon Islands",
     "title": "10 Dollars",
-    "description": "Flag, arms. 17th Pacific Games in the Solomon Islands.",
+    "description": "The 2023 Solomon Islands $10 polymer commemorative banknote was issued to honour the 17th Pacific Games hosted in Honiara, featuring the national flag and Pacific Games branding on the obverse and athletes on the reverse.",
     "hue": 359,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/SOLW0039o.jpg",
     "slug": "solomon-islands-10-dollars-e261",
-    "body": "The 500 Riyal banknote features the late King Abdulaziz bin Abdulrahman Al Saud on the front with the Kaaba in Mecca, reflecting Saudi Arabia's Islamic heritage. Issued as part of the Sixth Series under King Salman bin Abdulaziz Al Saud (whose portrait appears on all other denominations), this highest-value note was released December 26, 2016, and continues circulation. The 2024 date reflects signature or administrative updates.",
+    "body": "The CBSI released this red polymer note on 27 October 2023, with one million notes printed by De La Rue on Safeguard polymer substrate, making it the first polymer note in the Solomon Islands' general currency history. The obverse displays a large Solomon Islands flag, the coat of arms, the inscription '2023 Pacific Games', and a see-through window showing an eagle head and the Pacific Games logo of three paddles. The reverse showcases athletes participating in weightlifting, football, bodybuilding, basketball, and rugby, celebrating the sporting spirit and the Solomon Islands' role as host nation.",
     "highlights": {
-      "reason": "Part of Sixth Series launched under King Salman's era (2016-present) maintaining historical portrait of founding king.",
-      "design": "Late King Abdulaziz and Kaaba imagery emphasizing Saudi Arabia's Islamic significance and foundational monarchy.",
-      "security": "Advanced security features consistent with SAMA's anti-counterfeiting standards for high-denomination notes."
+      "design": "Polymer see-through window on the obverse showing the eagle head and the 17th Pacific Games logo of three paddles.",
+      "reason": "Issued to commemorate the 17th Pacific Games, hosted in Honiara, Solomon Islands, from 19 November to 2 December 2023.",
+      "security": "Polymer substrate with see-through windows; special SI/23 prefix serial numbers unique to this commemorative issue."
     },
     "sources": [
-      "https://www.sama.gov.sa/en-US/Currency/pages/sixthissue.aspx"
+      "https://www.cbsi.com.sb/cbsi-launches-new-10-commemorative-banknote-honoring-the-17th-pacific-games/",
+      "https://banknotenews.com/?p=41700"
     ],
     "confidence": "official"
   },
@@ -5954,14 +5977,21 @@
     "country": "South Africa",
     "issuer": "South African Reserve Bank",
     "title": "20 Rand",
-    "description": "Nelson Rolihlahla Mandela.",
+    "description": "The 2023 South African 20 Rand is a brown-and-violet Eighth Series banknote featuring Nelson Mandela on the obverse and three African elephants on the reverse.",
     "hue": 20,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/SAFW0149o.jpg",
     "slug": "south-africa-20-rand-e262",
-    "body": "The 20 Rand note issued by South African Reserve Bank represents a 2023 emission in South Africa's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2023 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The 20 Rand note entered circulation on 4 May 2023 as part of the South African Reserve Bank's Eighth Series upgrade of the Mandela banknote family. The obverse features Nelson Mandela's portrait with rings composed of the South African flag and constitutional preamble text, alongside the national coat of arms and two elephants rendered in SPARK Live Truspin colour-changing ink. The reverse depicts three African elephants, representing the elephant as one of the iconic Big Five animals and symbolising strength and wisdom.",
+    "highlights": {
+      "design": "Two elephants in SPARK Live Truspin colour-shifting ink on the obverse, with three elephants on the reverse representing the Big Five.",
+      "reason": "Eighth Series security upgrade of the Mandela banknote series, introducing enhanced SPARK Live Truspin and RollingStar security thread technology.",
+      "security": "SPARK Live Truspin colour-shifting elephant, RollingStar holographic windowed security thread with coat of arms and denomination, watermark of elephant and electrotype 20."
+    },
+    "sources": [
+      "https://www.resbank.co.za/content/dam/sarb/what-we-do/banknotes-and-coin/2023/SARB%20Currency%20Booklet.pdf",
+      "https://banknotenews.com/?p=39854"
+    ],
+    "confidence": "official"
   },
   {
     "id": "e263",
@@ -5970,14 +6000,21 @@
     "country": "South Africa",
     "issuer": "South African Reserve Bank",
     "title": "50 Rand",
-    "description": "Nelson Rolihlahla Mandela.",
+    "description": "The 2023 South African 50 Rand is a purple-and-olive Eighth Series banknote featuring Nelson Mandela on the obverse and two African lions on the reverse.",
     "hue": 340,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/SAFW0150o.jpg",
     "slug": "south-africa-50-rand-e263",
-    "body": "The 50 Rand note issued by South African Reserve Bank represents a 2023 emission in South Africa's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2023 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The 50 Rand note was released into circulation on 4 May 2023 as part of the SARB's Eighth Series upgrade, introducing advanced SPARK Live Truspin colour-shifting animal features and a new RollingStar security thread across all five denominations. The obverse displays Nelson Mandela's portrait surrounded by constitutional text and the South African flag arranged in rings, with two lions depicted in SPARK Live Truspin ink. The reverse shows a family of two lions, reflecting a design philosophy of depicting family groups of each Big Five animal and symbolising excellence and courage.",
+    "highlights": {
+      "design": "SPARK Live Truspin colour-shifting lions on the obverse that change colour when tilted, with a lion family group on the reverse.",
+      "reason": "Eighth Series security upgrade of the Mandela banknote series with enhanced anti-counterfeiting features including the new SPARK Live Truspin and RollingStar thread.",
+      "security": "SPARK Live Truspin colour-shifting lions, RollingStar holographic windowed security thread, watermark of lion and electrotype 50, colour-shifting security ink."
+    },
+    "sources": [
+      "https://www.resbank.co.za/content/dam/sarb/what-we-do/banknotes-and-coin/2023/SARB%20Currency%20Booklet.pdf",
+      "https://www.banknoteworld.com/blog/new-south-african-rand-banknotes-for-2023/"
+    ],
+    "confidence": "official"
   },
   {
     "id": "e264",
@@ -5986,14 +6023,21 @@
     "country": "South Africa",
     "issuer": "South African Reserve Bank",
     "title": "100 Rand",
-    "description": "Nelson Rolihlahla Mandela.",
+    "description": "The 2023 South African 100 Rand is a blue Eighth Series banknote featuring Nelson Mandela on the obverse and two Cape buffalo on the reverse.",
     "hue": 216,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/SAFW0151o.jpg",
     "slug": "south-africa-100-rand-e264",
-    "body": "The 100 Rand note issued by South African Reserve Bank represents a 2023 emission in South Africa's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2023 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The blue 100 Rand note entered circulation on 4 May 2023 as part of the SARB's Eighth Series security upgrade, which modernised all five denominations simultaneously. The obverse features Nelson Mandela's portrait with constitutional text and flag imagery arranged in rings, two Cape buffalo depicted in SPARK Live Truspin colour-shifting ink, and the national coat of arms with a hexagonal registration device containing a buffalo. The reverse depicts two Cape buffalo with a buffalo-in-hexagon registration device, measuring 146 x 70 mm.",
+    "highlights": {
+      "design": "Two Cape buffalo in SPARK Live Truspin colour-shifting ink on the obverse and two buffalo on the reverse, with a hexagonal registration device echoing the denomination's animal theme.",
+      "reason": "Eighth Series security upgrade with enhanced SPARK Live Truspin and RollingStar windowed thread technology across all Mandela series denominations.",
+      "security": "SPARK Live Truspin colour-shifting Cape buffalo, RollingStar holographic windowed security thread with coat of arms, SARB, buffalo and 100, watermark of Cape buffalo and electrotype 100."
+    },
+    "sources": [
+      "https://www.resbank.co.za/content/dam/sarb/what-we-do/banknotes-and-coin/2023/SARB%20Currency%20Booklet.pdf",
+      "https://www.banknoteworld.com/south-africa-100-rand-banknote-2023-nd-p-151-unc.html"
+    ],
+    "confidence": "official"
   },
   {
     "id": "e265",
@@ -6002,14 +6046,21 @@
     "country": "South Africa",
     "issuer": "South African Reserve Bank",
     "title": "200 Rand",
-    "description": "Nelson Rolihlahla Mandela.",
+    "description": "The 2023 South African 200 Rand is an orange Eighth Series banknote featuring Nelson Mandela on the obverse and a leopard with her cub on the reverse.",
     "hue": 16,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/SAFW0152o.jpg",
     "slug": "south-africa-200-rand-e265",
-    "body": "The 200 Rand note issued by South African Reserve Bank represents a 2023 emission in South Africa's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2023 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The 200 Rand note entered circulation on 4 May 2023 as the highest denomination in the SARB's Eighth Series upgrade, completing South Africa's most recent banknote security enhancement programme. The obverse displays Mandela's portrait flanked by constitutional preamble text and flag rings, with two leopards rendered in SPARK Live Truspin colour-shifting ink. The reverse depicts a mother leopard and her cub, continuing the family-group design philosophy of the Eighth Series and symbolising the leopard as the most elusive of the Big Five, printed on cotton-substrate paper measuring 152 x 70 mm.",
+    "highlights": {
+      "design": "Reverse features a mother leopard and cub as a family group, a design philosophy introduced in the Eighth Series to depict Big Five animals with their young.",
+      "reason": "Eighth Series security upgrade, completing the overhaul of all five Mandela series denominations with advanced anti-counterfeiting technology.",
+      "security": "SPARK Live Truspin colour-shifting leopard, RollingStar holographic windowed security thread, watermark of leopard and electrotype 200, cotton-substrate paper."
+    },
+    "sources": [
+      "https://www.resbank.co.za/content/dam/sarb/what-we-do/banknotes-and-coin/2023/SARB%20Currency%20Booklet.pdf",
+      "https://www.banknoteworld.com/blog/new-south-african-rand-banknotes-for-2023/"
+    ],
+    "confidence": "official"
   },
   {
     "id": "e266",
@@ -6018,14 +6069,21 @@
     "country": "South Africa",
     "issuer": "South African Reserve Bank",
     "title": "10 Rand",
-    "description": "Nelson Rolihlahla Mandela.",
+    "description": "The 2023 South African 10 Rand is a green Eighth Series banknote featuring Nelson Mandela on the obverse and two black rhinoceroses on the reverse.",
     "hue": 122,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/SAFW0148o.jpg",
     "slug": "south-africa-10-rand-e266",
-    "body": "The 10 Rand note issued by South African Reserve Bank represents a 2023 emission in South Africa's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2023 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The green 10 Rand entered circulation on 4 May 2023 as the lowest denomination of the SARB's Eighth Series upgrade, distinguished by emerald-green colouring that shifts to turquoise depending on the viewing angle. The obverse features Nelson Mandela's portrait with rings composed of the South African flag and constitutional text, the national coat of arms, and a black rhinoceros in SPARK Live Truspin colour-shifting ink at lower right. The reverse depicts two black rhinoceroses with a rhino-in-circle registration device, celebrating one of South Africa's most endangered Big Five species, measuring 128 x 70 mm.",
+    "highlights": {
+      "design": "Black rhinoceros in SPARK Live Truspin colour-shifting ink on the obverse, shifting from emerald green to turquoise when tilted, with two rhinos on the reverse.",
+      "reason": "Eighth Series security upgrade introducing enhanced SPARK Live Truspin and RollingStar security thread technology to the lowest denomination of the Mandela series.",
+      "security": "SPARK Live Truspin emerald-to-turquoise colour-shifting rhinoceros, RollingStar holographic windowed security thread with SARB and denomination, watermark of rhinoceros head and electrotype 10."
+    },
+    "sources": [
+      "https://www.resbank.co.za/content/dam/sarb/what-we-do/banknotes-and-coin/2023/SARB%20Currency%20Booklet.pdf",
+      "https://banknotenews.com/?p=39850"
+    ],
+    "confidence": "official"
   },
   {
     "id": "e267",
@@ -6034,20 +6092,20 @@
     "country": "South Sudan",
     "issuer": "Bank of South Sudan",
     "title": "500 South Sudanese Pounds",
-    "description": "Remark.",
+    "description": "The 2023 South Sudan 500 South Sudanese Pounds banknote features the portrait of Dr. John Garang de Mabior and a Dinka warrior spear on the obverse, with the River Nile depicted on the reverse.",
     "hue": 57,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/SSD0016o.jpg",
     "slug": "south-sudan-500-south-sudanese-pounds-e267",
-    "body": "The 50 Rand banknote features Nelson Mandela on the obverse with the preamble to South Africa's Constitution and two lions as registration devices. The pink, maroon, olive green, and brown colored note (140 × 70 mm) displays a lion as a watermark. Issued starting 2012, the 2024 circulation continues this design unchanged. The reverse shows dual lions reflecting South Africa's wildlife heritage and national symbolism.",
+    "body": "The 500 South Sudanese Pounds note was first introduced in 2018 by the Bank of South Sudan to ease high-value daily transactions amid inflationary pressure, and the 2023 edition represents an updated signature variant bearing new Governor and Minister signatures. The obverse honours Dr. John Garang de Mabior, the legendary leader of the Sudan People's Liberation Army and founding father of South Sudan's independence movement, alongside a traditional Dinka warrior spear as a symbol of national identity. The reverse features the River Nile, one of Africa's greatest waterways running through South Sudan, and the note measures 150 x 75 mm.",
     "highlights": {
-      "reason": "Continued circulation of 2012-era design honoring Nelson Mandela and constitutional values.",
-      "design": "Nelson Mandela portrait with constitutional text preamble and dual lions representing national unity.",
-      "security": "Holographic windowed security thread displaying coat of arms, SARB, lion, and denomination; watermark and electrotype 50."
+      "design": "Portrait of Dr. John Garang de Mabior alongside a Dinka warrior spear on the obverse, with the River Nile on the reverse as a symbol of national geography and identity.",
+      "reason": "2023 signature update of the 500-pound denomination, first introduced in 2018 to provide a high-value denomination for daily commerce amid inflation.",
+      "security": "Windowed security thread, watermark portrait of Dr. John Garang de Mabior, and security features for the partially sighted."
     },
     "sources": [
-      "https://www.resbank.onlinereport.co.za/2024/"
+      "https://banknotenews.com/?p=43462"
     ],
-    "confidence": "official"
+    "confidence": "secondary"
   },
   {
     "id": "e268",

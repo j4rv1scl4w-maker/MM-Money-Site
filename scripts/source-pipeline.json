@@ -1,9 +1,9 @@
 {
   "description": "Pipeline per arricchire le emissions con URL reali. Processa in batch da 10, ogni batch viene committato.",
   "total": 493,
-  "processed": 205,
+  "processed": 215,
   "batch_size": 10,
-  "last_committed_batch": 21,
+  "last_committed_batch": 22,
   "items": [
     {
       "id": "e47",
@@ -2884,7 +2884,7 @@
         "Monetary Authority of Singapore"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -2896,7 +2896,7 @@
         "Central Bank of Solomon Islands"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -2908,7 +2908,7 @@
         "Central Bank of Solomon Islands"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -2920,7 +2920,7 @@
         "Central Bank of Solomon Islands"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -2932,7 +2932,7 @@
         "South African Reserve Bank"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -2944,7 +2944,7 @@
         "South African Reserve Bank"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -2956,7 +2956,7 @@
         "South African Reserve Bank"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -2968,7 +2968,7 @@
         "South African Reserve Bank"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -2980,7 +2980,7 @@
         "South African Reserve Bank"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -2992,7 +2992,7 @@
         "Bank of South Sudan"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
