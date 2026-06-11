@@ -8433,16 +8433,23 @@
     "year": 2023,
     "date": "2010-2023",
     "country": "Tanzania",
-    "issuer": "Benki Kuu ya Tanzania / Bank of Tanzania",
+    "issuer": "Bank of Tanzania",
     "title": "1.000 Shilingi / Shillings",
-    "description": "President Julius Kambarage Nyerere.",
+    "description": "A blue banknote bearing the portrait of founding father Julius Kambarage Nyerere on the obverse and the State House (Ikulu) in Dar es Salaam alongside a coffee plant on the reverse.",
     "hue": 206.4,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/TAN0041o.jpg",
     "slug": "tanzania-1-000-shilingi-shillings-e371",
-    "body": "The 1.000 Shilingi / Shillings note issued by Benki Kuu ya Tanzania / Bank of Tanzania represents a 2023 emission in Tanzania's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2023 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The 2023 date on this note represents a new signature variant of the established 1,000 shillings design first modernised in 2011, maintaining the bilingual Swahili/English denomination. The obverse carries a portrait of Mwalimu Julius Kambarage Nyerere, the first president of Tanzania and father of the nation, alongside the national coat of arms and a holographic patch. The reverse depicts the State House in Dar es Salaam and a coffee plant, with the denomination lettering rendered in English.",
+    "highlights": {
+      "design": "Portrait of Julius Kambarage Nyerere on obverse; State House (Ikulu) in Dar es Salaam and coffee plant on reverse",
+      "reason": "Represents a signature variant update of the long-running Nyerere series, cementing the first president's image as the enduring face of Tanzanian currency",
+      "security": "Windowed security thread with demetalized BOT date inscription; watermark portrait of Julius Nyerere with electrotype 1000; holographic patch on obverse"
+    },
+    "sources": [
+      "https://en.numista.com/catalogue/note202885.html",
+      "https://www.ebay.com/itm/296310615251"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e372",
@@ -8702,16 +8709,25 @@
     "year": 2022,
     "date": "2022",
     "country": "Algeria",
-    "issuer": "Bank al-Djazair / Bank of Algeria",
+    "issuer": "Banque d'Algerie (Bank of Algeria)",
     "title": "2.000 Dinars",
-    "description": "Sanctuaire des Martyrs, map of the Arab World. 31st Ordinary Session of the Council of the League of Arab States (2022).",
+    "description": "A commemorative banknote issued for the 31st Arab League Summit and Algeria's 60th independence anniversary, featuring the Monument aux Martyrs and revolutionary imagery on the obverse, with the Grand Mosque of Algiers and Saharan landscapes on the reverse.",
     "hue": 110.5,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2022-banknotes/fronts/ALGW0148o.jpg",
     "slug": "algeria-2-000-dinars-e383",
-    "body": "Sanctuaire des Martyrs, map of the Arab World. 31st Ordinary Session of the Council of the League of Arab States (2022).",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "Issued on 2 November 2022 to mark both Algeria's 60th anniversary of independence from France and the hosting of the 31st Ordinary Session of the Arab League in Algiers, this 2,000-dinar note is the highest denomination issued by the Banque d'Algerie. The obverse features the Monument aux Martyrs in Algiers, a map of the Arab world, the Algerian flag, and a portrait of Emir Abdelkader as a watermark figure, alongside imagery evoking the national liberation movement. The reverse showcases the minaret of Djamaa el Djazair (Great Mosque of Algiers), the natural stone arch of Tassili N'Ajjer National Park, the Hoggar mountains, a camel caravan, and Roman ruins at Tipaza.",
+    "highlights": {
+      "design": "Monument aux Martyrs, Emir Abdelkader, and Arab League map on obverse; Grand Mosque of Algiers and Saharan rock arch on reverse",
+      "reason": "First Algerian banknote to carry English text alongside Arabic, and the country's highest denomination, released for the dual occasion of 60 years of independence and the Arab League Summit in Algiers",
+      "security": "KURZ windowed holographic security thread with KINEGRAM COLORS technology and FLUX effect; demetalized microtext '1962' and '2022' in the thread; watermark of Emir Abdelkader with denomination 2000"
+    },
+    "sources": [
+      "https://currencyaffairs.org/document/algeria-2000-dinars/",
+      "https://numismag.com/en/2022/11/03/the-new-algerian-2-000-dinars-banknote-issued-in-november-2022/",
+      "https://www.kurz-banknotes.com/newsroom/press/news/2000-algerian-dinar-banknote-with-a-kurz-thread-and-kinegram-colorsr-issued-by-banque-dalgerie/",
+      "https://www.banknoteworld.com/algeria-2-000-dinars-banknote-2022-nd-p-148-unc-commemorative-31st-ordinary-session-of-the-council-of-the-league-of-arab-states.html"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e384",
@@ -8720,50 +8736,68 @@
     "country": "Armenia",
     "issuer": "Central Bank of the Republic of Armenia",
     "title": "1.000 Dram",
-    "description": "Paruyr Sevak, poems.",
+    "description": "A purple banknote from Armenia's third banknote series honouring the poet and thinker Paruyr Sevak on the obverse and depicting his statue and childhood home in Zangakatun on the reverse.",
     "hue": 250.3,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2022-banknotes/fronts/ARMW2018-01000o.jpg",
     "slug": "armenia-1-000-dram-e384",
-    "body": "The 1.000 Dram note issued by Central Bank of the Republic of Armenia represents a 2022 emission in Armenia's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2022 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "Dated 2022 and introduced into circulation on 23 January 2023, this 1,000-dram note is part of Armenia's third-series redesign produced on Hybrid substrate, a cotton-polyester sandwich paper designed for enhanced durability. The obverse features a portrait of lyric poet Paruyr Sevak surrounded by manuscript pages, church bells, a dancing group motif, and a SPARK Live pen-nib security element. The reverse shows the statue of Paruyr Sevak and his house in Zangakatun village, preserving the cultural heritage theme central to the Armenian dram series.",
+    "highlights": {
+      "design": "Portrait of poet Paruyr Sevak with manuscript and church bell motifs on obverse; statue of Sevak and his Zangakatun house on reverse",
+      "reason": "Part of Armenia's third series of dram banknotes, introducing durable Hybrid substrate and upgraded security while honouring one of Armenia's most celebrated 20th-century poets",
+      "security": "5-mm Galaxy windowed security thread with demetalized '1000'; watermark portrait of Paruyr Sevak with electrotype 1000; SPARK Live dynamic colour-shifting element"
+    },
+    "sources": [
+      "https://armenpress.am/en/article/955425",
+      "https://www.banknoteworld.com/armenia-1-000-dram-banknote-2022-p-61a-2-unc.html",
+      "https://currencyaffairs.org/document/new-series-of-armenian-banknotes/"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e385",
     "year": 2022,
     "date": "2020 & 2022",
     "country": "Azerbaijan",
-    "issuer": "Azärbaycan Mäkäzi Bankı",
+    "issuer": "Central Bank of the Republic of Azerbaijan (CBAR)",
     "title": "5 Manat",
-    "description": "Books, quill pen.",
+    "description": "A banknote dedicated to the theme of literature and writing, featuring the statues of the Nizami Museum of Azerbaijani Literature on the obverse and the rock petroglyphs of Gobustan alongside a stylised map of Azerbaijan's European connections on the reverse.",
     "hue": 40.8,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2022-banknotes/fronts/AZEW2020-005o.jpg",
     "slug": "azerbaijan-5-manat-e385",
-    "body": "The 5 Manat note issued by Azärbaycan Mäkäzi Bankı represents a 2022 emission in Azerbaijan's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2022 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The 5-manat note belongs to the upgraded 'Independent Azerbaijan' series introduced by the CBAR, retaining the 'Literature and Writings' design concept while incorporating the latest generation of security elements. The obverse shows a stack of historic books, a fragment of the Azerbaijani national anthem, modern alphabet characters, and the facade of the Nizami Museum of Azerbaijani Literature in Baku, whose statues represent six canonical literary figures including Muhammad Fuzuli and Khurshidbanu Natavan. The reverse presents a stylised map illustrating Azerbaijan's Euro-Atlantic integration, set against the ancient Gobustan rock petroglyphs and the Orkhon-Yenisei runic inscriptions.",
+    "highlights": {
+      "design": "Statues of the Nizami Museum of Azerbaijani Literature and alphabet motifs on obverse; Gobustan petroglyphs and stylised European-integration map on reverse",
+      "reason": "Upgraded edition of the 5-manat denomination within the 'Independent Azerbaijan' concept, introducing new-generation security technology while preserving the country's literary heritage theme",
+      "security": "SPARK Live inkstand element with gold-to-green colour shift and kinetic ring motion; iridescent ink showing '5' and 'AZN'; RollingStar security thread engraved with '5' and 'CBA'"
+    },
+    "sources": [
+      "https://www.cbar.az/moneymarks/banknotes/detail/101?language=en",
+      "https://en.numista.com/206796",
+      "https://currencyaffairs.org/document/new-upgraded-10-manat-and-20-manat-circulation-banknotes/"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e386",
     "year": 2022,
     "date": "2022",
     "country": "Bahamas",
-    "issuer": "Central Bank of the Bahamas",
+    "issuer": "Central Bank of The Bahamas",
     "title": "10 Dollars",
-    "description": "Printer.",
+    "description": "A redesigned grey-toned banknote featuring an enhanced portrait of Sir Stafford Sands and a yellow elder flower on the obverse, with the Hope Town Lighthouse and two flamingoes on the reverse.",
     "hue": 176.6,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2022-banknotes/fronts/BAHW0087o.jpg",
     "slug": "bahamas-10-dollars-e386",
-    "body": "The 10 dollar banknote was updated in December 2022 with a shift from yellow-green to grey coloring to distinguish it from other denominations. The redesigned note features Sir Stafford Sands with enhanced portrait details, the yellow elder flower, lighthouse, and flamingos. Printed by Crane Currency on Durasafe substrate with RAPID HD Detect security thread for both machine-readable and public authentication.",
+    "body": "Released into circulation on 15 December 2022, this updated $10 banknote is the latest addition to the Central Bank of the Bahamas' CRISP Evolution family, which has been progressively modernising Bahamian currency since 2016. The note adopts a predominantly grey colour to better distinguish it from the $1 CRISP Evolution note, and is printed on Landqart's Durasafe substrate for improved durability. A 4-mm Crane RAPID HD Detect security thread displays a sand dollar and the numeral '10' depending on viewing angle, adding a straightforward public authentication feature.",
     "highlights": {
-      "reason": "Modernizes currency design and improves machine readability through advanced security features",
-      "design": "Shifted to predominantly grey color scheme with enhanced portrait of Sir Stafford Sands and improved landscape elements",
-      "security": "Incorporates Crane's RAPID HD Detect security thread on Landqart Durasafe paper-polymer composite substrate"
+      "design": "Enhanced portrait of Sir Stafford Sands with yellow elder flower and Bahamian map on obverse; Hope Town Lighthouse and two flamingoes on reverse",
+      "reason": "Completes the CRISP Evolution upgrade of the Bahamian banknote family, distinguishing itself through a new grey colour palette and advanced machine-readable security thread",
+      "security": "Crane RAPID HD Detect 4-mm security thread showing sand dollar and '10' image-shifting; Landqart Durasafe polymer-composite substrate; colour-changing butterfly element on obverse"
     },
     "sources": [
-      "https://www.centralbankbahamas.com/news/press-releases/press-release-the-central-bank-of-the-bahamas-to-release-a-new-bahamas-10-banknote"
+      "https://www.centralbankbahamas.com/news/press-releases/press-release-the-central-bank-of-the-bahamas-to-release-a-new-bahamas-10-banknote",
+      "https://www.centralbankbahamas.com/news/press-releases/circulation-of-new-crisp-evolution-10-dollar-note",
+      "https://www.cranecurrency.com/news-insights/new-10-bahamas-banknote-combines-easy-public-authentication-and-machine-readability/"
     ],
     "confidence": "official"
   },
@@ -8774,20 +8808,21 @@
     "country": "Bangladesh",
     "issuer": "Bangladesh Bank",
     "title": "100 Taka",
-    "description": "Sheikh Mujibur Rahman, Padma Bridge. Padma Bridge - Symbol of National Pride.",
+    "description": "A blue circulation banknote bearing the portrait of Sheikh Mujibur Rahman and the National Martyrs' Monument in Savar on the obverse, and the Star Mosque (Tara Masjid) in Dhaka on the reverse.",
     "hue": 14.3,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2022-banknotes/fronts/BDEW0070o.jpg",
     "slug": "bangladesh-100-taka-e387",
-    "body": "A commemorative 100 taka note issued by Bangladesh Bank on 26 June 2022 to mark the opening of the Padma Multipurpose Bridge. The obverse depicts Bangabandhu Sheikh Mujibur Rahman and Prime Minister Sheikh Hasina Wazed with the bridge in the background; the reverse showcases the iconic Padma Bridge. Measuring 146 x 63 mm, signed by Governor Fazle Kabir, celebrating this major infrastructure achievement.",
+    "body": "The 100-taka note is the principal mid-range denomination of Bangladesh's regular circulation series, featuring the iconic National Martyrs' Monument at Savar, which commemorates those who gave their lives in the 1971 War of Independence. Sheikh Mujibur Rahman, the founding father of Bangladesh, appears in portrait on the obverse alongside the monument. The reverse carries the ornate Star Mosque in old Dhaka, a fine example of Mughal-influenced architecture, underscoring Bangladesh's cultural and historical identity.",
     "highlights": {
-      "reason": "Commemorates the historic opening of Bangladesh's longest bridge, the Padma Multipurpose Bridge",
-      "design": "Obverse features Sheikh Mujibur Rahman and PM Sheikh Hasina with bridge imagery; reverse depicts the Padma Bridge over the Padma River",
-      "security": "Windowed security thread with demetalized logo and watermark of Sheikh Mujibur Rahman"
+      "design": "Portrait of Sheikh Mujibur Rahman and National Martyrs' Monument, Savar, on obverse; Star Mosque (Tara Masjid) in Dhaka on reverse",
+      "reason": "Core circulation denomination that permanently enshrines both the founding father and the principal monument to the liberation martyrs on Bangladeshi currency",
+      "security": "4-mm Kinetic StarChrome windowed security thread; watermark of Sheikh Mujibur Rahman on pixelated background with electrotype bank logo and denomination 100"
     },
     "sources": [
-      "https://www.bb.org.bd/en/index.php/currency/commemnote"
+      "https://en.wikipedia.org/wiki/Banknotes_of_the_Bangladeshi_taka",
+      "https://en.numista.com/catalogue/note202757.html"
     ],
-    "confidence": "official"
+    "confidence": "secondary"
   },
   {
     "id": "e388",
@@ -8796,20 +8831,21 @@
     "country": "Bangladesh",
     "issuer": "Bangladesh Bank",
     "title": "50 Taka",
-    "description": "Sheikh Mujibur Rahman. Golden Jubilee of the Constitution and the Supreme Court (1972-2022).",
+    "description": "A commemorative 50-taka banknote marking the Golden Jubilee of the Constitution and the Supreme Court of Bangladesh, with a portrait of Sheikh Mujibur Rahman and the National Parliament Building on the obverse and the Supreme Court building on the reverse.",
     "hue": 358.5,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2022-banknotes/fronts/BDEW0071o.jpg",
     "slug": "bangladesh-50-taka-e388",
-    "body": "A commemorative 50 taka note released by Bangladesh Bank on 18 December 2022 honoring the Golden Jubilee of the Constitution and Supreme Court of Bangladesh (1972-2022). The maroon and brown note features Sheikh Mujibur Rahman and the National Parliament building on the obverse; the reverse depicts the Supreme Court. Measuring 130 x 60 mm, signed by Abdur Rouf Talukder.",
+    "body": "Issued on 28 December 2022, this commemorative note (P-71) celebrates the 50th anniversary of both the Constitution of the People's Republic of Bangladesh and the Supreme Court, established in 1972 following independence. The obverse displays a portrait of Bangabandhu Sheikh Mujibur Rahman on the left with the National Parliament building in the background and the Golden Jubilee commemorative logo near the watermark area. The reverse features the Supreme Court of Bangladesh, honouring the judicial pillar of the new nation.",
     "highlights": {
-      "reason": "Commemorates 50th anniversary of Bangladesh's Constitution and Supreme Court establishment",
-      "design": "Obverse shows Sheikh Mujibur Rahman and Parliament building; reverse features the Supreme Court of Bangladesh",
-      "security": "Windowed security thread with demetalized bank logo and watermark of Sheikh Mujibur Rahman with pixelated background"
+      "design": "Portrait of Sheikh Mujibur Rahman and National Parliament Building on obverse; Supreme Court of Bangladesh on reverse",
+      "reason": "Marks the simultaneous 50th anniversaries of Bangladesh's constitution and Supreme Court, commemorating the founding legal institutions of the republic",
+      "security": "Watermark of Sheikh Mujibur Rahman with Bangladesh Bank emblem and electrotype 50; windowed security thread with demetalized Bengali text"
     },
     "sources": [
-      "https://www.bb.org.bd/en/index.php/currency/commemnote"
+      "https://www.banknoteworld.com/bangladesh-50-taka-banknote-2022-p-71-unc-commemorative-golden-jubilee-of-the-constitution-and-the-supreme-court-of-the-people-s-republic-of-bangladesh-1972-2022-.html",
+      "https://en.numista.com/catalogue/note350020.html"
     ],
-    "confidence": "official"
+    "confidence": "secondary"
   },
   {
     "id": "e389",
@@ -8818,14 +8854,21 @@
     "country": "Bangladesh",
     "issuer": "Bangladesh Bank",
     "title": "50 Taka",
-    "description": "Prime Minister Hasina Wajed, Dhaka Metro Rail. Dhaka Metro Rail - Moving People, Saving Time and Environment.",
+    "description": "A commemorative 50-taka banknote celebrating the inauguration of the Dhaka Metro Rail, Bangladesh's first metro system, with a portrait of Prime Minister Sheikh Hasina Wazed and the metro rail on the obverse and the metro track infrastructure on the reverse.",
     "hue": 66.7,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2022-banknotes/fronts/BDEW0072o.jpg",
     "slug": "bangladesh-50-taka-e389",
-    "body": "Prime Minister Hasina Wajed, Dhaka Metro Rail. Dhaka Metro Rail - Moving People, Saving Time and Environment.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "Released on 29 December 2022, one day after the Constitution jubilee note, this commemorative 50-taka note (P-72) marks the inauguration of the Dhaka Metro Rail (MRT Line-6), Bangladesh's first urban rapid transit system and a landmark infrastructure achievement. The obverse features Prime Minister Sheikh Hasina Wazed alongside a depiction of the new red, white, and green metro rail cars. The reverse illustrates the metro line running on its elevated tracks, symbolising modernisation and sustainable urban transport.",
+    "highlights": {
+      "design": "Portrait of Prime Minister Sheikh Hasina Wazed with Dhaka Metro Rail cars on obverse; elevated metro track infrastructure on reverse",
+      "reason": "Commemorates the historic opening of Bangladesh's first metro rail system, the Dhaka MRT Line-6, marking a milestone in the country's urban infrastructure development",
+      "security": "2-mm windowed security thread with demetalized Bengali text; watermark of Sheikh Hasina on pixelated background with electrotype bank logo and numeral 50"
+    },
+    "sources": [
+      "https://www.banknoteworld.com/bangladesh-50-taka-banknote-2022-p-72-unc-commemorative.html",
+      "https://en.numista.com/catalogue/note351573.html"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e390",
@@ -8976,32 +9019,48 @@
     "year": 2022,
     "date": "2009 (2016) & 2022",
     "country": "Belarus",
-    "issuer": "Natsiyanal'ny Bank Respubliki Belarus'",
+    "issuer": "National Bank of the Republic of Belarus",
     "title": "100 Rubley",
-    "description": "Radzivil castle, Nyesvizh.",
+    "description": "An updated light-blue banknote retaining the design theme of Nesvizh (Radziwill) Castle on the obverse and a Vertep puppet theatre with traditional musical instruments on the reverse, introduced on 1 July 2022 with enhanced security features.",
     "hue": 71,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2022-banknotes/fronts/BLR0041o.jpg",
     "slug": "belarus-100-rubley-e396",
-    "body": "The 100 Rubley note issued by Natsiyanal'ny Bank Respubliki Belarus' represents a 2022 emission in Belarus's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2022 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The 2022 edition (B148a) is an updated version of the 100-ruble note originally introduced during the 2016 denomination, maintaining the core design while refreshing its security complex and updating the date from the 2009 sample year to 2022. The obverse image of the Radziwill Castle in Nesvizh (a UNESCO World Heritage Site) was refined and the castle's name was explicitly labelled on the note. The reverse continues to feature the Vertep portable puppet theatre and traditional instruments including bow, tambourine, and violin, celebrating Belarusian folk performing arts.",
+    "highlights": {
+      "design": "Radziwill (Nesvizh) Castle, a UNESCO World Heritage Site, on obverse; Vertep puppet theatre and folk instruments on reverse",
+      "reason": "Modernised update of the 100-ruble denomination, explicitly naming the castle on the note for the first time and refreshing the security complex to meet contemporary counterfeiting threats",
+      "security": "Holographic windowed security thread with demetalized 'Br100'; watermark of Radziwill Castle with electrotype 100; updated and enhanced multi-element security complex replacing some 2016-era features"
+    },
+    "sources": [
+      "https://banknotenews.com/?p=36911",
+      "https://charter97.org/en/news/2022/6/20/503153/",
+      "https://www.leftovercurrency.com/exchange/belarusian-rubles/current-belarusian-ruble-banknotes/100-belarusian-rubles-banknote-nesvizh-radziwill-castle/"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e397",
     "year": 2022,
     "date": "2002 & 2022",
     "country": "Bosnia & Herzegovina",
-    "issuer": "Centralna Banka Bosne i Hercegovine",
+    "issuer": "Central Bank of Bosnia and Herzegovina (CBBH)",
     "title": "200 Konvertibilnih Maraka",
-    "description": "Ivo Andrić.",
+    "description": "A blue banknote, the highest denomination of the convertible mark series, featuring Nobel laureate writer Ivo Andric on the obverse and the Mehmed Pasa Sokolovic Bridge over the Drina River in Visegrad on the reverse.",
     "hue": 215.6,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2022-banknotes/fronts/BIH0071o.jpg",
     "slug": "bosnia-herzegovina-200-konvertibilnih-maraka-e397",
-    "body": "The 200 Konvertibilnih Maraka note issued by Centralna Banka Bosne i Hercegovine represents a 2022 emission in Bosnia & Herzegovina's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2022 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The 200 KM note (P-71a.2) is a unified common-issue banknote for the entire territory of Bosnia and Herzegovina, carrying text in both Croatian/Bosnian Latin and Serbian Cyrillic scripts, making it unique among KM denominations. The obverse bears a portrait of Ivo Andric (1892-1975), the Yugoslav novelist and Nobel Prize for Literature laureate of 1961, whose most celebrated work is the novel 'The Bridge on the Drina'. The reverse depicts the Mehmed Pasa Sokolovic Bridge in Visegrad, the very Drina crossing that inspired Andric's novel and is itself a UNESCO World Heritage Site.",
+    "highlights": {
+      "design": "Portrait of Nobel laureate Ivo Andric on obverse; Mehmed Pasa Sokolovic Bridge spanning the Drina River in Visegrad on reverse",
+      "reason": "The highest denomination of the convertible mark series unites Bosnian, Croatian, and Serbian linguistic communities on one note, and pairs the country's most celebrated writer with the historic bridge that inspired his Nobel-winning novel",
+      "security": "Solid security thread with demetalized '200'; watermark of the Visegrad bridge with electrotype 200; optically variable ink (OVI) on reverse shifting from magenta to green"
+    },
+    "sources": [
+      "https://www.banknoteworld.com/bosnia-and-herzegovina-200-convertible-maraka-banknote-2022-p-71a-2-unc.html",
+      "https://banknotedb.com/200-konvertibilnih-maraka-2022",
+      "https://en.numista.com/catalogue/note216027.html"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e398",
