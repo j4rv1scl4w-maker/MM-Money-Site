@@ -1,9 +1,9 @@
 {
   "description": "Pipeline per arricchire le emissions con URL reali. Processa in batch da 10, ogni batch viene committato.",
   "total": 493,
-  "processed": 348,
+  "processed": 358,
   "batch_size": 10,
-  "last_committed_batch": 31,
+  "last_committed_batch": 32,
   "items": [
     {
       "id": "e47",
@@ -4216,7 +4216,7 @@
         "Benki Kuu ya Tanzania / Bank of Tanzania"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -4360,7 +4360,7 @@
         "Bank al-Djazair / Bank of Algeria"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -4372,7 +4372,7 @@
         "Central Bank of the Republic of Armenia"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -4384,7 +4384,7 @@
         "Azärbaycan Mäkäzi Bankı"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -4396,7 +4396,7 @@
         "Central Bank of the Bahamas"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -4408,7 +4408,7 @@
         "Bangladesh Bank"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -4420,7 +4420,7 @@
         "Bangladesh Bank"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -4432,7 +4432,7 @@
         "Bangladesh Bank"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -4516,7 +4516,7 @@
         "Natsiyanal'ny Bank Respubliki Belarus'"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -4528,7 +4528,7 @@
         "Centralna Banka Bosne i Hercegovine"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
