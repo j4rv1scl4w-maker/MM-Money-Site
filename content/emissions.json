@@ -3279,25 +3279,25 @@
   {
     "id": "e143",
     "year": 2024,
-    "date": "2022-2024",
+    "date": "2024",
     "country": "Philippines",
     "issuer": "Bangko Sentral ng Pilipinas",
     "title": "1.000 Piso",
-    "description": "Remark.",
+    "description": "Philippines 1,000 Piso polymer banknote featuring the Philippine eagle and sampaguita with advanced security features.",
     "hue": 212,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/PILW0235-2022o.jpg",
     "slug": "philippines-1-000-piso-e143",
-    "body": "Jamaica 500 Dollars, 2017-2024 variants. Features Christopher Columbus or another significant historical figure on the obverse. The reverse displays important Jamaican landmarks, flora, or cultural heritage. As the highest standard denomination in circulation, this note underwent modernization with updated security features including advanced holograms and color-shifting inks. Variants reflect signature changes from successive Bank of Jamaica governors and enhanced anti-counterfeiting measures. The red-brown colored note serves high-value transactions in Jamaica.",
+    "body": "The 1,000-piso polymer banknote represents the Philippines' commitment to modernizing its currency through environmentally sustainable materials. The obverse features the critically endangered Philippine eagle (Pithecophaga jefferyi), the national bird, and the sampaguita (Jasminum sambac), the national flower, symbolizing the nation's natural heritage and biodiversity. The reverse depicts Tubbataha Reefs National Park, representing marine conservation, and the South Sea Pearl (Pinctada maxima), reflecting the country's oceanic resources.\n\nThis polymer banknote incorporates 11 sophisticated security features including a rolling bar effect, tactile dots for visually impaired users, embossed prints, a transparent window with sampaguita flowers, an optically variable device (OVD) that changes color and displays motion when tilted, security threads, and dual serial numbers. The note measures 160 mm x 66 mm and is colored light blue with a clear window positioned vertically on the left side.\n\nThe design was recognized internationally, winning the Banknote of the Year award from the International Banknote Society (IBNS) in 2022. Environmental studies confirm that the polymer version has a 38.4% lower carbon footprint than paper banknotes, and evidence shows viruses and bacteria remain for shorter periods on polymer surfaces compared to paper, contributing to public health benefits.",
     "highlights": {
-      "reason": "National heritage series; security and signature updates 2017-2024",
-      "design": "Historical figure portrait obverse; Jamaican landmarks/heritage reverse",
-      "security": "Advanced holograms, color-shifting inks, security threads, microprint"
+      "design": "Obverse: Philippine eagle and sampaguita flower on light blue background with vertical clear window. Reverse: Tubbataha Reefs National Park, South Sea Pearl, and T'nalak fabric design from Mindanao.",
+      "reason": "First Philippine polymer banknote series to modernize currency, improve durability, enhance security against counterfeiting, and provide environmental and health benefits.",
+      "security": "Rolling bar effect, tactile dots, embossed prints, transparent sampaguita window, optically variable device (OVD), security threads, dual serial numbers, 11 total security features."
     },
     "sources": [
-      "Bank of Jamaica official releases",
-      "Caribbean currency catalogs"
+      "https://www.bsp.gov.ph/SitePages/CoinsAndNotes/PolymerBanknote.aspx",
+      "https://en.wikipedia.org/wiki/Philippine_one_thousand-peso_note"
     ],
-    "confidence": "high"
+    "confidence": "official"
   },
   {
     "id": "e144",
@@ -3374,204 +3374,215 @@
   {
     "id": "e147",
     "year": 2024,
-    "date": "2021 & 2024",
+    "date": "2024",
     "country": "Saudi Arabia",
-    "issuer": "Saudi Central Bank",
+    "issuer": "Saudi Central Bank (SAMA)",
     "title": "50 Riyals",
-    "description": "Dome of the Rock (Jerusalem), King Salman ibn Abdulaziz al-Saud.",
+    "description": "Saudi Arabia 50 Riyals banknote (2024) from the Sixth Issue series with updated bank name and security features.",
     "hue": 64,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/SARW0048o.jpg",
     "slug": "saudi-arabia-50-riyals-e147",
-    "body": "The 50 Riyals note issued by Saudi Central Bank represents a 2024 emission in Saudi Arabia's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2024 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
+    "body": "The Saudi Arabia 50 Riyals 2024 note represents the Sixth Issue series, reflecting the institutional restructuring of the Saudi Arabian Monetary Agency into the Saudi Central Bank through the Saudi Central Bank Law enacted in November 2020. The obverse features King Salman bin Abdulaziz Al Saud and the Al Sakhra Dome mosque (Dome of the Rock) in Jerusalem, symbolizing Islamic heritage and Saudi Arabia's spiritual significance. The reverse displays the Al Aqsa mosque in Al Quds (Jerusalem) and the national coat of arms featuring two crossed swords with a palm tree, representing Saudi sovereignty and Islamic values.\n\nThe note was printed by De La Rue and measures 155 mm x 70 mm. The design reflects the Saudi Central Bank's updated branding while maintaining continuity with previous artistic traditions. The 2024 denomination features signatures of Alsayari and Al-Jadaan, representing the current monetary authority leadership. The bank name change from Saudi Arabian Monetary Agency to Saudi Central Bank continues to use the acronym SAMA due to its historic significance and international recognition.\n\nThis denomination maintains the advanced security standards characteristic of modern Saudi riyal banknotes, ensuring confidence in the currency and protecting against counterfeiting. The note is part of a comprehensive currency modernization initiative by the Saudi Central Bank to strengthen the kingdom's monetary integrity.",
     "highlights": {
-      "reason": "Jamaican currency variant",
-      "design": "Jamaican design elements",
-      "security": "Banknote security"
+      "design": "Obverse: King Salman and Al Sakhra Dome mosque. Reverse: Al Aqsa mosque in Jerusalem and national coat of arms with crossed swords and palm tree.",
+      "reason": "Updated bank name from Saudi Arabian Monetary Agency to Saudi Central Bank; new signatures (Alsayari/Al-Jadaan) and 2024 date for continued currency circulation.",
+      "security": "Motion windowed security thread with denomination and coat of arms, solid security thread with demetallized SAMA 50, holographic stripe, watermark security features."
     },
     "sources": [
-      "Bank of Jamaica"
+      "https://www.sama.gov.sa/en-US/Currency/pages/sixthissue.aspx",
+      "https://en.numista.com/412890"
     ],
-    "confidence": "fallback"
+    "confidence": "official"
   },
   {
     "id": "e148",
     "year": 2024,
-    "date": "2021 & 2024",
+    "date": "2024",
     "country": "Saudi Arabia",
-    "issuer": "Saudi Central Bank",
+    "issuer": "Saudi Central Bank (SAMA)",
     "title": "100 Riyals",
-    "description": "Prophet's mosque (Medina), King Salman ibn Abdulaziz al-Saud.",
+    "description": "Saudi Arabia 100 Riyals banknote (2024) from the Sixth Issue series with updated bank designation and security enhancements.",
     "hue": 3,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/SARW0049o.jpg",
     "slug": "saudi-arabia-100-riyals-e148",
-    "body": "The 100 Riyals note issued by Saudi Central Bank represents a 2024 emission in Saudi Arabia's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2024 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
+    "body": "The Saudi Arabia 100 Riyals 2024 note is part of the Sixth Issue series following the institutional restructuring to the Saudi Central Bank. The obverse features the portrait of the reigning Saudi monarch and significant Islamic architectural imagery representing the kingdom's religious and cultural heritage. The reverse displays national symbols including the coat of arms with crossed swords and a palm tree, representing the nation's sovereignty and traditions.\n\nPrinted by De La Rue with advanced security features, the 100 Riyal note represents the highest security standards in Saudi currency production. The 2024 issue features new signatures (Alsayari/Al-Jadaan), distinguishing it from earlier versions and reflecting the current leadership of the Saudi Central Bank. The denomination continues to serve as a primary note for everyday transactions and significant financial activities within Saudi Arabia's economy.\n\nThe note's design reflects the Saudi Central Bank's commitment to maintaining public confidence in the national currency through continuous modernization and enhancement of security features. The 2024 issue demonstrates the bank's ongoing effort to prevent counterfeiting and ensure the integrity of the monetary system throughout the kingdom.",
     "highlights": {
-      "reason": "Jamaican currency variant",
-      "design": "Jamaican imagery",
-      "security": "Security elements"
+      "design": "Obverse: Saudi monarch portrait with Islamic architectural elements. Reverse: National coat of arms with crossed swords and palm tree.",
+      "reason": "Updated bank name to Saudi Central Bank; new signatures and 2024 date for continued circulation and enhanced security standards.",
+      "security": "Advanced security thread design, watermark features, optically variable elements, anti-counterfeiting measures consistent with international standards."
     },
     "sources": [
-      "Bank of Jamaica"
+      "https://www.sama.gov.sa/en-US/Currency/pages/sixthissuesecurityfeatures.aspx",
+      "https://noteshobby.com/products/saudi-arabia-100-riyals-2024-p-49-new-date-and-sign-saudi-central-bank-unc"
     ],
-    "confidence": "fallback"
+    "confidence": "official"
   },
   {
     "id": "e149",
     "year": 2024,
-    "date": "2006-2024",
+    "date": "2024",
     "country": "Singapore",
     "issuer": "Monetary Authority of Singapore",
     "title": "2 Dollars",
-    "description": "President Encik Yusof bin Ishak.",
+    "description": "Singapore 2 Dollars polymer banknote from the Portrait Series featuring education theme with Victoria School and institutional imagery.",
     "hue": 359,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/SIN0046ao.jpg",
     "slug": "singapore-2-dollars-e149",
-    "body": "The 2 Dollars note issued by Monetary Authority of Singapore represents a 2024 emission in Singapore's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2024 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
+    "body": "The Singapore 2 Dollars note is part of the Portrait Series, first introduced in 1999 by the Board of Commissioners of Currency, Singapore (BCCS), which merged with the Monetary Authority of Singapore (MAS) in 2002. The obverse features the portrait of Yusof bin Ishak, Singapore's first president, engraved with fine lines designed to deter counterfeiting. The reverse presents an education theme showcasing Victoria School, the Old Raffles Institution building, and the College of Medicine building where President Yusof bin Ishak studied, symbolizing Singapore's commitment to education and development.\n\nThe note is printed on polymer material, providing enhanced durability and environmental sustainability compared to traditional paper notes. The design incorporates a dark purple and dark blue print on a light purple underprint, creating a distinctive and easily recognizable appearance. Security features include the Kinegram, a printed security hologram providing three-dimensional visual effects, and the engraved portrait with fine details that are extremely difficult for counterfeiters to replicate.\n\nThe 2 Dollar denomination serves as a frequently circulated note for everyday transactions in Singapore's economy. The choice of education as a thematic element reflects Singapore's historical and ongoing emphasis on human capital development and educational excellence as cornerstones of national progress and prosperity.",
     "highlights": {
-      "reason": "Jamaican currency variant",
-      "design": "Jamaican national symbols",
-      "security": "Modern features"
+      "design": "Obverse: Yusof bin Ishak portrait on purple background. Reverse: Education theme with Victoria School, Raffles Institution, College of Medicine, and depictions of students and teachers.",
+      "reason": "Continued circulation of Portrait Series banknotes introduced in 1999; polymer version for improved durability and sustainability.",
+      "security": "Kinegram (printed security hologram), finely engraved portrait of Yusof bin Ishak with difficult-to-replicate fine lines, polymer substrate."
     },
     "sources": [
-      "Bank of Jamaica"
+      "https://en.numista.com/202244",
+      "https://en.wikipedia.org/wiki/Singapore_Portrait_Series_currency_notes",
+      "https://www.mas.gov.sg/currency/circulation-currency/circulation-currency-notes"
     ],
-    "confidence": "fallback"
+    "confidence": "secondary"
   },
   {
     "id": "e150",
     "year": 2024,
-    "date": "2004-2024",
+    "date": "2024",
     "country": "Singapore",
     "issuer": "Monetary Authority of Singapore",
     "title": "10 Dollars",
-    "description": "President Encik Yusof bin Ishak.",
+    "description": "Singapore 10 Dollars red polymer banknote featuring sports theme with jogging, tennis, football, sailing, and swimming.",
     "hue": 11,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/SIN0048ao.jpg",
     "slug": "singapore-10-dollars-e150",
-    "body": "The 10 Dollars note issued by Monetary Authority of Singapore represents a 2024 emission in Singapore's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2024 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
+    "body": "The Singapore 10 Dollars note from the Portrait Series features a sports theme celebrating physical recreation and athletic pursuits central to Singapore's national culture. The obverse displays the portrait of Yusof bin Ishak, Singapore's first president, with finely engraved details providing a high level of anti-counterfeiting protection. The reverse showcases five popular sports disciplines: jogging and tennis representing favored land sports, and sailing and swimming representing water sports, all illustrated with vibrant energy to convey the dynamic nature of sporting activities.\n\nThe note measures 141 mm x 69 mm and was first issued in polymer form on 4 May 2004, making it one of the first denominations in the series to transition to polymer materials. The polymer substrate provides greater durability and longevity compared to traditional paper banknotes, making it particularly suitable for the higher-circulation 10 Dollar denomination. The color is predominantly red, making it easily distinguishable in everyday transactions.\n\nSecurity features include the lion head registration device visible from both sides of the note, a security thread shaped like the Singapore island map, and a watermark of Yusof bin Ishak. The note was designed by Eng Siak Loy and incorporates the Kinegram security hologram. During the commemorative first issue in 2004, 10,000 sets of the $10 polymer were issued with the overprint 'Commemorative First Issue by MAS' with the prefix MAS, marking a significant milestone in Singapore's currency modernization.",
     "highlights": {
-      "reason": "Jamaican currency variant",
-      "design": "Jamaican elements",
-      "security": "Features"
+      "design": "Obverse: Yusof bin Ishak portrait on red background. Reverse: Sports theme featuring jogging, tennis, football, sailing, and swimming activities.",
+      "reason": "Continued circulation of polymer Portrait Series banknote issued since 2004; polymer substrate for enhanced durability and environmental benefits.",
+      "security": "Lion head registration device, security thread shaped like Singapore island, watermark of Yusof bin Ishak, Kinegram security hologram."
     },
     "sources": [
-      "Bank of Jamaica"
+      "https://en.numista.com/202498",
+      "https://en.wikipedia.org/wiki/Singapore_Portrait_Series_currency_notes",
+      "https://www.banknoteworld.com/singapore-10-dollars-banknote-2004-2024-nd-p-48o-unc-polymer.html"
     ],
-    "confidence": "fallback"
+    "confidence": "secondary"
   },
   {
     "id": "e151",
     "year": 2024,
-    "date": "2005-2024",
+    "date": "2024",
     "country": "Singapore",
     "issuer": "Monetary Authority of Singapore",
     "title": "50 Dollars",
-    "description": "President Encik Yusof bin Ishak.",
+    "description": "Singapore 50 Dollars banknote featuring arts theme with Chinese Pipa, Malay Kompang, Indian Veena, and classical violin.",
     "hue": 223,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/SIN0049o.jpg",
     "slug": "singapore-50-dollars-e151",
-    "body": "Japan 1,000 Yen, 2019-2024 variants. Features Dr. Hideyo Noguchi, a renowned Japanese microbiologist who made significant contributions to medical science. The obverse displays his portrait with the Japanese national emblem. The reverse showcases Japanese cultural or scientific imagery. As part of the Bank of Japan's ongoing currency management, the note underwent periodic security updates and signature changes. Modern variants include sophisticated anti-counterfeiting features such as holograms and color-shifting elements. The 1,000 Yen note is the most frequently used denomination in everyday Japanese commerce.",
+    "body": "The Singapore 50 Dollars note from the Portrait Series presents an arts theme celebrating Singapore's multicultural heritage and artistic traditions. The obverse features the portrait of Yusof bin Ishak, the first president of Singapore, rendered with fine engraved details. The reverse showcases four ethnic musical instruments representing the major cultural communities of Singapore: the Chinese Pipa, Malay Kompang, Indian Veena, and Classical Violin, exemplifying Singapore as a confluence of Chinese, Malay, Indian, and Western cultures.\n\nThe design incorporates artistic elements from the Singapore Art Museum, including portions of two local artworks: Gibbon and Drying Salted Fish. These artistic references underscore Singapore's commitment to cultural preservation and appreciation while demonstrating how diverse artistic traditions coexist within the nation. The denomination is primarily circulated for larger transactions and serves as a key component of Singapore's currency ecosystem.\n\nThe 50 Dollars note incorporates the same high-level security features as other Portrait Series denominations, including the Kinegram security hologram and the finely engraved portrait of Yusof bin Ishak. The note's design philosophy emphasizes Singapore's identity as a multicultural nation where various traditions and artistic expressions are equally valued and celebrated. This artistic focus distinguishes the 50 Dollar denomination within the Portrait Series and reflects the nation's appreciation for cultural diversity.",
     "highlights": {
-      "reason": "Scientific figure tribute; signature and security updates 2019-2024",
-      "design": "Hideyo Noguchi portrait obverse; Japanese cultural/scientific imagery reverse",
-      "security": "Holograms, color-shifting elements, security threads, advanced microprint"
+      "design": "Obverse: Yusof bin Ishak portrait. Reverse: Arts theme with Chinese Pipa, Malay Kompang, Indian Veena, Classical Violin, and artworks from Singapore Art Museum.",
+      "reason": "Continued circulation of Portrait Series banknote emphasizing arts and multiculturalism; part of regular currency circulation by MAS.",
+      "security": "Kinegram security hologram, finely engraved portrait of Yusof bin Ishak, standard anti-counterfeiting features of Portrait Series."
     },
     "sources": [
-      "Bank of Japan currency standards",
-      "East Asian banknote references"
+      "https://en.numista.com/205537",
+      "https://en.wikipedia.org/wiki/Singapore_Portrait_Series_currency_notes",
+      "https://www.mas.gov.sg/currency/circulation-currency/circulation-currency-notes"
     ],
-    "confidence": "high"
+    "confidence": "secondary"
   },
   {
     "id": "e152",
     "year": 2024,
-    "date": "2024",
+    "date": "2024-06",
     "country": "Sudan",
     "issuer": "Central Bank of Sudan",
     "title": "1.000 Sudanese Pounds",
-    "description": "Minaret, grain silos and ship at Port Sudan, gold bars.",
+    "description": "Sudan 1,000 Sudanese Pounds banknote (June 2024) featuring Port Sudan, grain silos, and Central Bank headquarters.",
     "hue": 67,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/SUDW0087o.jpg",
     "slug": "sudan-1-000-sudanese-pounds-e152",
-    "body": "Japan 5,000 Yen, 2019-2024 variants. Depicts Ichiyo Higuchi, a celebrated Meiji-era Japanese author and writer on the obverse. The reverse features cultural or literary imagery reflecting her contributions to Japanese literature. The banknote underwent redesigns with enhanced security measures including modern printing techniques and holographic elements. Variants across 2019-2024 reflect signature updates from Bank of Japan officials and progressive security improvements. The purple-colored note serves as an important mid-range denomination in Japanese currency.",
+    "body": "The Sudan 1,000 Sudanese Pounds banknote issued in June 2024 represents the Central Bank of Sudan's modernization efforts and response to the nation's economic challenges exacerbated by ongoing civil conflict. The obverse depicts Port Sudan, the country's primary seaport, grain silos representing agricultural resources, and gold bullion symbolizing the nation's mineral wealth. The denomination appears in both true Arabic numerals and standard Arabic numerals, with the date June 2024 prominently displayed, marking this as a contemporary emission.\n\nThe reverse features the Central Bank of Sudan headquarters building in Khartoum, the bank's official logo, and the denomination One Thousand Sudanese Pounds in English, emphasizing the note's official status. The color scheme incorporates green, orange, yellow, and black elements. This banknote was printed by Goznak, a Moscow-based security printing company, after the Central Bank in Khartoum and the Sudanese Currency Printing Plant were looted during the Sudanese civil war that erupted in April 2023.\n\nThe 1,000 Pound denomination serves as an essential higher-value note for major transactions within Sudan's economy. The issuance reflects the Central Bank's determination to maintain monetary stability and public confidence despite the severe disruptions caused by armed conflict. The note dimensions are 158 mm x 70 mm, and it incorporates modern security features reflecting international standards in banknote design.",
     "highlights": {
-      "reason": "Literary figure tribute; governor signature and security updates",
-      "design": "Ichiyo Higuchi portrait obverse; literary/cultural imagery reverse",
-      "security": "Holographic elements, modern printing, security threads, color security"
+      "design": "Obverse: Port Sudan, grain silos, gold bullion, denomination in Arabic numerals, June 2024 date. Reverse: Central Bank of Sudan headquarters in Khartoum, bank logo, English text.",
+      "reason": "Modernize currency and improve security standards; maintain monetary confidence during civil conflict; replace damaged currency printing infrastructure.",
+      "security": "Winged windowed holographic security thread with demetallized 1000, latent image, gold bar registration device, golden optically variable ink (OVI), tactile marks for the blind, dynamic security strip."
     },
     "sources": [
-      "Bank of Japan official releases",
-      "Banknote databases"
+      "https://www.dabangasudan.org/en/all-news/article/central-bank-of-sudan-issues-new-1000-pound-note",
+      "https://www.banknoteworld.com/blog/the-1000-sudanese-pounds-featuring-the-central-bank-of-sudan/",
+      "https://new.cranecurrency.com/news-insights/sudan-issues-new-1-000-pound-banknote-with-rapid-security-thread/"
     ],
-    "confidence": "high"
+    "confidence": "secondary"
   },
   {
     "id": "e153",
     "year": 2024,
-    "date": "2019-2024",
+    "date": "2019",
     "country": "Syria",
     "issuer": "Central Bank of Syria",
     "title": "5.000 Syrian Pounds",
-    "description": "Soldier, flag.",
+    "description": "Syria 5,000 Syrian Pounds banknote (dated 2019) featuring a soldier and the Baalshamin Temple fresco from Palmyra.",
     "hue": 27,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/SYRW2019-5000o.jpg",
     "slug": "syria-5-000-syrian-pounds-e153",
-    "body": "Japan 10,000 Yen, 2019-2024 variants. Features Yukichi Fukuzawa, an important Meiji-era Japanese intellectual and educator on the obverse. The reverse displays educational or cultural symbols representing his influence on modern Japan. The redesigned series incorporates advanced security features including sophisticated holograms and color-shifting inks. Variants during this period reflect signature changes from Bank of Japan governors and ongoing security enhancements. The brown-colored note is the highest standard denomination in Japanese circulation and is widely used for significant financial transactions.",
+    "body": "The Syria 5,000 Syrian Pounds banknote, dated 2019 and circulated by the Central Bank of Syria since January 24, 2021, reflects both the nation's historical heritage and its contemporary circumstances. The obverse features a centered image of a Syrian soldier saluting the flag of the Syrian Arab Republic, representing national patriotism and military service. The note is predominantly brown in color with subtle coordinating underprint, and measures 158 mm x 65 mm.\n\nThe reverse of the note displays a fresco from the Baalshamin Temple in the ancient city of Palmyra, dedicated to the Canaanite sky deity Baal dating from the late second century AD. This archaeological imagery emphasizes Syria's rich cultural and historical significance as a cradle of ancient civilizations. The banknote was printed by a Government Printing Press in Russia due to disruptions to Syria's domestic currency printing capabilities caused by the nation's prolonged civil conflict.\n\nThe 5,000 Pound denomination was introduced to address Syria's severe economic challenges, particularly soaring inflation resulting from more than a decade of civil unrest and international sanctions. The note represents the Central Bank's effort to provide higher-value currency denominations necessary for everyday transactions in an inflationary environment. Following regime changes in late 2024, Syria launched a new currency redenomination program with new notes removing previous political imagery.",
     "highlights": {
-      "reason": "Educational figure tribute; signature and security updates 2019-2024",
-      "design": "Yukichi Fukuzawa portrait obverse; educational/cultural imagery reverse",
-      "security": "Advanced holograms, color-shifting inks, security threads, microprint"
+      "design": "Obverse: Centered Syrian soldier saluting the Syrian Arab Republic flag on brown background. Reverse: Fresco from Baalshamin Temple in Palmyra, ancient architectural heritage.",
+      "reason": "Address severe inflation and provide higher-value denomination for transactions; commemorate Syria's ancient cultural and archaeological heritage.",
+      "security": "Standard Central Bank of Syria security features; printed by Russian Government Printing Press."
     },
     "sources": [
-      "Bank of Japan currency standards",
-      "Japanese banknote references"
+      "https://en.numista.com/268783",
+      "https://www.coinworld.com/news/us-coins/syria-s-inflation-woes-require-issuing-5-000-pound-note-for-circulation/"
     ],
-    "confidence": "high"
+    "confidence": "secondary"
   },
   {
     "id": "e154",
     "year": 2024,
-    "date": "2010-2024",
+    "date": "2024",
     "country": "Tajikistan",
     "issuer": "National Bank of Tajikistan",
     "title": "200 Somoni",
-    "description": "Nusratullo Makhsum, building of Central Executive Committee of the former Council of National Commissioners of Tajik ASSR.",
+    "description": "Tajikistan 200 Somoni banknote (2024) featuring Nusratullo Maksum and the National Library of Tajikistan in Dushanbe.",
     "hue": 25,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/TAJ0021o.jpg",
     "slug": "tajikistan-200-somoni-e154",
-    "body": "Japan banknote, cultural figures series, 2019-2024 variant. Represents either a commemorative release, security update, or variant of one of Japan's standard denominations (1,000/5,000/10,000 Yen). The Japanese currency series celebrates cultural and historical figures. All notes feature advanced security measures including holograms and sophisticated printing. Variants reflect ongoing Bank of Japan security enhancements and periodic governor signature changes.",
+    "body": "The Tajikistan 200 Somoni banknote, dated 2024, is part of the National Bank of Tajikistan's currency modernization initiative to improve money quality, enhance anti-counterfeiting protection, and meet the nation's cash circulation needs. The obverse features a portrait of Nusratullo Maksum (1881-1937), a prominent Tajik-Soviet politician honored as a Tajikistani National Hero and recipient of the Order of the Red Banner. Maksum served as a member of the Central Executive Committee of the USSR before becoming a victim of the Great Purge in the 1930s. The obverse also displays an ancient settlement, the National Emblem, and the denomination.\n\nThe reverse of the note illustrates the National Library of Tajikistan, an architectural landmark located in Dushanbe. This nine-story building, officially opened in 2012, spans 45,000 square meters and contains approximately 10 million books, making it the largest library in Central Asia. The reverse also displays the Tajikistan national flag and the denomination. The note measures 159 mm x 68 mm and features a brown and yellow color scheme on a multicolor underprint.\n\nThe issuance of new 200 and 500 Somoni notes demonstrates the National Bank of Tajikistan's commitment to providing modern banknotes that serve the population and businesses while protecting against counterfeiting. These denominations represent important mid-to-high range values within Tajikistan's currency system, facilitating both everyday and significant financial transactions.",
     "highlights": {
-      "reason": "Japanese currency variant; security or commemorative update",
-      "design": "Japanese cultural figures and imagery",
-      "security": "Series-standard security: holograms, threads, color elements"
+      "design": "Obverse: Portrait of Nusratullo Maksum (1881-1937), ancient settlement, National Emblem. Reverse: National Library of Tajikistan building in Dushanbe, national flag, denomination.",
+      "reason": "Modernize currency with improved quality and anti-counterfeiting measures; optimize cash circulation; meet population and business payment needs.",
+      "security": "Enhanced security features for anti-counterfeiting protection consistent with National Bank of Tajikistan standards."
     },
     "sources": [
-      "Bank of Japan documentation",
-      "Currency references"
+      "https://mriguide.com/tajikistan-national-bank-of-tajikistan-announces-the-issue-of-2024-and-2025-dated-banknotes/",
+      "https://en.avesta.tj/2025/07/03/the-national-bank-of-tajikistan-introduces-new-banknotes-in-denominations-from-20-to-500-somoni/",
+      "https://en.numista.com/catalogue/note203094.html"
     ],
-    "confidence": "fallback"
+    "confidence": "secondary"
   },
   {
     "id": "e155",
     "year": 2024,
-    "date": "2010-2024",
+    "date": "2024",
     "country": "Tajikistan",
     "issuer": "National Bank of Tajikistan",
     "title": "500 Somoni",
-    "description": "Abuabdullokhi Rudaki.",
+    "description": "Tajikistan 500 Somoni banknote (2024) featuring the poet Rudaki and the Palace of the Nation in Dushanbe.",
     "hue": 186,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/TAJ0022o.jpg",
     "slug": "tajikistan-500-somoni-e155",
-    "body": "Japan banknote variant, cultural figures series, 2019-2024.",
+    "body": "The Tajikistan 500 Somoni banknote, dated 2024, features the poet Abu Abd Allah Jafar ibn Muhammad al-Rudhaki (859-941), known as Rudaki or the Adam of the poets. Rudaki is celebrated as the first great literary genius of the modern Persian language and holds profound cultural significance for Tajikistan and the broader Persian-speaking world. His literary contributions and philosophical works represent the pinnacle of medieval Persian poetry and continue to influence Central Asian intellectual traditions. The obverse design includes Rudaki's portrait, the National Emblem, and the denomination in a brown color scheme with yellow accents on a multicolor underprint.\n\nThe reverse of the note displays the Palace of the Nation (Tajik: Qasri Millat), the official residence of the President of Tajikistan located in central Dushanbe. This architectural landmark features distinctive white marble walls, multiple four-story pillars, and a golden dome topped with the national flag. The reverse also includes the presidential banner of Tajikistan, artistic sketches of doves of peace in flight symbolizing peace and harmony, the national flag, and the denomination.\n\nThe 500 Somoni note represents the highest denomination in the 2024 banknote series issued by the National Bank of Tajikistan. The signatures on the 2024 version (Rahmon/Tolibzoda) distinguish it from previous issues. This denomination serves essential functions for major transactions within Tajikistan's economy while promoting the nation's cultural heritage and historical significance.",
     "highlights": {
-      "reason": "Japanese currency variant",
-      "design": "Japanese cultural imagery",
-      "security": "Modern security features"
+      "design": "Obverse: Portrait of Rudaki (859-941), Persian poet and literary genius, National Emblem, denomination. Reverse: Palace of the Nation in Dushanbe with white marble and golden dome, presidential banner, doves of peace in flight, national flag.",
+      "reason": "Modernize currency and enhance anti-counterfeiting protection; celebrate Tajikistan's cultural heritage through renowned Persian poet Rudaki; optimize cash circulation.",
+      "security": "Enhanced security features for anti-counterfeiting protection; new signatures (Rahmon/Tolibzoda) and 2024 date distinguish from previous issues."
     },
     "sources": [
-      "Bank of Japan"
+      "https://en.avesta.tj/2025/07/03/the-national-bank-of-tajikistan-introduces-new-banknotes-in-denominations-from-20-to-500-somoni/",
+      "https://en.numista.com/catalogue/note203095.html",
+      "https://en.wikipedia.org/wiki/Palace_of_the_Nation,_Dushanbe"
     ],
-    "confidence": "fallback"
+    "confidence": "secondary"
   },
   {
     "id": "e156",
