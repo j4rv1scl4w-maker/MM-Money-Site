@@ -1,9 +1,9 @@
 {
   "description": "Pipeline per arricchire le emissions con URL reali. Processa in batch da 10, ogni batch viene committato.",
   "total": 493,
-  "processed": 368,
+  "processed": 378,
   "batch_size": 10,
-  "last_committed_batch": 33,
+  "last_committed_batch": 34,
   "items": [
     {
       "id": "e47",
@@ -4660,7 +4660,7 @@
         "Qatar Central Bank (Hawkamah - The Central Bank of Qatar)"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -4672,7 +4672,7 @@
         "Qatar Central Bank (Hawkamah - The Central Bank of Qatar)"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -4684,7 +4684,7 @@
         "Qatar Central Bank (Hawkamah - The Central Bank of Qatar)"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -4696,7 +4696,7 @@
         "National Bank of Romania (Banca Nationala a Romaniei)"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -4708,7 +4708,7 @@
         "National Bank of Romania (Banca Nationala a Romaniei)"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -4720,7 +4720,7 @@
         "National Bank of Romania (Banca Nationala a Romaniei)"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -4732,7 +4732,7 @@
         "National Bank of Romania (Banca Nationala a Romaniei)"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -4744,7 +4744,7 @@
         "National Bank of Romania (Banca Nationala a Romaniei)"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -4756,7 +4756,7 @@
         "Central Bank of Russia (Banka Rossii)"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -4768,7 +4768,7 @@
         "Central Bank of Russia (Banka Rossii)"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {

@@ -9295,14 +9295,21 @@
     "country": "Cayman Islands",
     "issuer": "Cayman Islands Monetary Authority",
     "title": "50 Dollars",
-    "description": "25th Anniversary of Cayman Monetary Authority (1997-2022).",
+    "description": "Obverse features a portrait of Queen Elizabeth II flanked by stingrays with a 25th Anniversary holographic foil patch; reverse shows stingrays, the Cayman Islands coat of arms, and a holographic strip.",
     "hue": 329.8,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2022-banknotes/fronts/CAYW0046o.jpg",
     "slug": "cayman-islands-50-dollars-e408",
-    "body": "The 10 Riyal note features contemporary design elements combined with traditional Qatari symbolism. Includes advanced color-shifting security features and improved accessibility for visually impaired users. Part of Qatar's comprehensive currency modernization effort.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The Cayman Islands Monetary Authority (CIMA) was established on 1 January 1997, and to mark its 25th anniversary two commemorative banknotes — in denominations of $25 and $50 — were released in early 2023. The $50 note carries the same design as the current circulation series but adds a holographic foil patch bearing the CIMA 25th Anniversary logo to the left of the royal portrait. The notes were printed by De La Rue in London and entered circulation on 17 February 2023.",
+    "highlights": {
+      "design": "Obverse: portrait of Queen Elizabeth II with stingrays and 25th Anniversary holographic foil patch. Reverse: stingrays, coat of arms, and holographic strip.",
+      "reason": "Issued to commemorate 25 years of operation of the Cayman Islands Monetary Authority, founded 1 January 1997.",
+      "security": "Holographic foil patch with CIMA 25th Anniversary logo, windowed holographic strip, turtle watermark, and novel serial numbering."
+    },
+    "sources": [
+      "https://www.banknoteworld.com/blog/new-cayman-islands-banknotes-25th-anniversary-of-cima/",
+      "https://mriguide.com/cayman-islands-new-banknotes-commemorative-of-the-25th-anniversary-of-the-cayman-islands-monetary-authority/"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e409",
@@ -9311,14 +9318,20 @@
     "country": "Cayman Islands",
     "issuer": "Cayman Islands Monetary Authority",
     "title": "70 Dollars",
-    "description": "One-year Anniversary of the passing-away of Her Majesty Queen Elizabeth II and her Platinum Jubilee (1952-2022).",
+    "description": "Obverse displays three portraits of Queen Elizabeth II — including one from her 1983 visit to the Cayman Islands — alongside the Cayman Islands coat of arms and the Royal Cipher; reverse carries commemorative imagery relating to her Platinum Jubilee and 70-year reign.",
     "hue": 63,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2022-banknotes/fronts/CAYW0047o.jpg",
     "slug": "cayman-islands-70-dollars-e409",
-    "body": "The 50 Riyal note reflects Qatar's economic prominence and modern aspirations. Features enhanced watermarks and microprinting security elements. The denomination is widely used in domestic commerce and international transactions.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The $70 denomination was chosen specifically to reflect Queen Elizabeth II's 70-year reign, making it the world's first $70 banknote and an unusual legal-tender commemorative. CIMA issued the note in collaboration with De La Rue to honour the one-year anniversary of the Queen's passing (8 September 2022) and to celebrate her Platinum Jubilee. Only 10,000 notes were produced, making them exclusive collector's pieces that do not enter general circulation. The note was introduced on 12 October 2023.",
+    "highlights": {
+      "design": "Obverse: three portraits of Queen Elizabeth II (including her 1983 Cayman Islands visit), coat of arms, and Royal Cipher. Reverse: commemorative Platinum Jubilee imagery.",
+      "reason": "Issued to honour the first anniversary of Queen Elizabeth II's passing and to recognise her 70-year reign; the denomination $70 reflects those 70 years.",
+      "security": "Windowed holographic strip, security thread, watermark features; produced by De La Rue."
+    },
+    "sources": [
+      "https://www.caymancompass.com/2023/10/13/commemorative-70-note-unveiled-in-honour-of-queen-elizabeth/"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e410",
@@ -9327,14 +9340,20 @@
     "country": "Colombia",
     "issuer": "Banco de la República",
     "title": "50.000 Pesos",
-    "description": "Printer.",
+    "description": "Obverse features Nobel Prize-winning author Gabriel García Márquez releasing a cloud of butterflies alongside a hummingbird feeding from a flower and the burgao snail; reverse depicts the stone terraces of the Lost City (Ciudad Perdida) and indigenous Tayrona figures.",
     "hue": 234.7,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2022-banknotes/fronts/COL0462o.jpg",
     "slug": "colombia-50-000-pesos-e410",
-    "body": "The 100 Riyal note serves as the highest denomination in Qatar's active circulation currency. Features comprehensive security measures including security threads, holograms, and advanced optical elements. Represents Qatar's stability and international financial standing.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "Colombia's 50,000-peso note was introduced by Banco de la República on 19 August 2016 and has continued in circulation through 2022 with updated signatures. It honours Gabriel García Márquez (1927–2014), the Nobel laureate whose novel One Hundred Years of Solitude brought global fame to Colombian literature and culture. The obverse imagery alludes to Mauricio Babilonia, a character from that novel associated with yellow butterflies, while the reverse celebrates the pre-Columbian heritage of the Sierra Nevada de Santa Marta. The note was a 2016 nominee for the International Bank Note Society Banknote of the Year award.",
+    "highlights": {
+      "design": "Obverse: Gabriel García Márquez with butterflies, hummingbird, and burgao snail. Reverse: terraces of Ciudad Perdida and Tayrona indigenous figures.",
+      "reason": "Issued to honour Gabriel García Márquez, Colombia's Nobel Laureate in Literature (1982), and to celebrate Colombian cultural and pre-Columbian heritage.",
+      "security": "Color-shifting hummingbird ink (tilts from gold to green), watermark portrait of García Márquez with electrotype 50, 3-D security ribbon with BRC and burgao snail, braille number 50, microtext."
+    },
+    "sources": [
+      "https://www.banrep.gov.co/en/banknotes-coins/banknotes-in-circulation/50000-peso-banknote-five-identifying-features"
+    ],
+    "confidence": "official"
   },
   {
     "id": "e411",
@@ -9343,14 +9362,20 @@
     "country": "Costa Rica",
     "issuer": "Banco Central de Costa Rica",
     "title": "2.000 Colones",
-    "description": "Mauro Fernández Acuña, Colegio Superior de Señoritas, San José.",
+    "description": "Obverse features a portrait of educator and politician Mauro Fernández Acuña and the Colegio Superior de Señoritas in San José; reverse depicts a bull shark, sea star, and sea pens representing Costa Rica's marine biodiversity.",
     "hue": 198.2,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2022-banknotes/fronts/CRIW2018-02000o.jpg",
     "slug": "costa-rica-2-000-colones-e411",
-    "body": "The 1 Leu note represents the entry-level denomination in Romania's currency modernization program. Features enhanced security features and improved print quality. The note celebrates Romanian cultural heritage and historical figures.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The 2,000-colón polymer note was introduced by Banco Central de Costa Rica in 2018 as part of the country's full transition to Guardian polymer substrate, a move completed across all denominations to improve durability and security. The 2022-dated version carries the same design with updated signatures. Mauro Fernández Acuña (1843–1905) is commemorated as the architect of Costa Rica's modern public education system and founder of the Colegio Superior de Señoritas, the first public secondary school for women in Central America. The reverse highlights a bull shark (Carcharhinus leucas), a species found in Costa Rica's coastal waters.",
+    "highlights": {
+      "design": "Obverse: portrait of Mauro Fernández Acuña and the Colegio Superior de Señoritas. Reverse: bull shark, sea star, and sea pens.",
+      "reason": "Part of the Banco Central de Costa Rica's full conversion of all circulating denominations to polymer substrate; design honours Mauro Fernández Acuña and Costa Rican biodiversity.",
+      "security": "Guardian polymer substrate, clear window watermark with portrait of Mauro Fernández Acuña, simulated security thread, intaglio printing."
+    },
+    "sources": [
+      "https://currencyaffairs.org/document/costa-rica-2000-5000-and-20000-colones-banknotes/"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e412",
@@ -9359,30 +9384,43 @@
     "country": "Costa Rica",
     "issuer": "Banco Central de Costa Rica",
     "title": "10.000 Colones",
-    "description": "José Figueres Ferrer, Abolition of the Army.",
+    "description": "Obverse features a portrait of former president José Figueres Ferrer against the scene of the abolition of Costa Rica's army; reverse displays a three-toed sloth in a rainforest setting with orchid flowers and tropical birds.",
     "hue": 115.5,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2022-banknotes/fronts/CRIW2019-10000o.jpg",
     "slug": "costa-rica-10-000-colones-e412",
-    "body": "The 5 Leu note incorporates modern printing techniques while honoring Romanian national symbols. Features improved durability and advanced anti-counterfeiting measures. Part of Romania's comprehensive currency renewal initiative.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The 10,000-colón polymer note was introduced in 2019 and continues in circulation with a 2022 date and updated signatures. It honours José Figueres Ferrer (1906–1990), three-time president of Costa Rica, who famously abolished the country's military on 1 December 1948 and redirected defence spending to education and healthcare. The reverse celebrates Costa Rica's extraordinary biodiversity, featuring the three-toed sloth as a symbol of the country's tropical rainforests. The note employs the non-holographic KINEGRAM REVIEW foil stripe, making it highly resistant to counterfeiting.",
+    "highlights": {
+      "design": "Obverse: portrait of José Figueres Ferrer with scene of army abolition. Reverse: three-toed sloth, rainforest, tropical birds, and orchid.",
+      "reason": "Part of Banco Central de Costa Rica's polymer note series; honours José Figueres Ferrer and the 1948 abolition of the Costa Rican military, and celebrates national biodiversity.",
+      "security": "Guardian polymer substrate, KINEGRAM REVIEW foil stripe with colour-shifting holographic coat of arms in transparent window, watermark with portrait, intaglio printing."
+    },
+    "sources": [
+      "https://www.kurz-banknotes.com/newsroom/press/news/the-new-costa-rica-10000-banknote-with-kinegram-review-from-kurz/"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e413",
     "year": 2022,
     "date": "2022",
     "country": "Czechia",
-    "issuer": "Česká Národní Banka",
+    "issuer": "Česká národní banka (Czech National Bank)",
     "title": "100 Korun Českých",
-    "description": "Printer. 60th Anniversary of Death of Economist Karel Engliš.",
+    "description": "Obverse features a portrait of economist Karel Engliš, the Czech National Bank building in Prague, conjoined initials KE, a holographic medal with Tomáš Garrigue Masaryk, and an eagle; reverse depicts the façade of the Clam-Gallas Palace in Prague with a statue of two standing men and the national coat of arms.",
     "hue": 50.8,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2022-banknotes/fronts/CZRW0030o.jpg",
     "slug": "czechia-100-korun-esk-ch-e413",
-    "body": "The 10 Leu note reflects contemporary Romanian design aesthetic combined with historical recognition. Features enhanced color saturation and improved security printing elements. Widely used in domestic retail transactions.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "On 30 March 2022, the Czech National Bank placed into circulation its second commemorative 100-koruna banknote, part of a trilogy under the unifying theme 'Building the Czechoslovak Currency'. The note honours Karel Engliš (1880–1961), the pre-eminent economist of the First Czechoslovak Republic, who as Finance Minister and later National Bank governor stabilised the koruna, managed exchange rates for two decades, and carried out comprehensive tax reform. The note was designed by academic painter Eva Hašková and printed by Státní tiskárna cenin in Prague; only 20,000 notes were produced.",
+    "highlights": {
+      "design": "Obverse: Karel Engliš, Czech National Bank, conjoined KE initials, holographic medal with T. G. Masaryk, eagle. Reverse: façade of Clam-Gallas Palace, coat of arms, statues of two men.",
+      "reason": "Issued as the second in a series of three commemorative banknotes marking the 100th anniversary of the establishment of the Czechoslovak koruna.",
+      "security": "Solid security thread with demetalized dates 1880–1961 and flowers, watermark of Karel Engliš with electrotype flower and numeral 100, intaglio printing."
+    },
+    "sources": [
+      "https://www.cnb.cz/en/banknotes-and-coins/numismatics/commemorative-banknotes/commemorative-banknote-featuring-a-motif-on-the-establishment-of-the-czechoslovak-currency/",
+      "https://ceskamincovna.cz/en/commemorative-banknote-100-kc-2022-karel-englis-456-12821-d/"
+    ],
+    "confidence": "official"
   },
   {
     "id": "e414",
@@ -9391,20 +9429,20 @@
     "country": "Fiji",
     "issuer": "Reserve Bank of Fiji",
     "title": "100 Dollars",
-    "description": "Printer.",
+    "description": "Obverse features the Buli Kula (golden cowrie necklace), a domodomo (canoe masthead) registration device, a nanai (cicada), and the Fijian coat of arms; reverse shows two women singers and a man with guitar, the 180th meridian map, two snorkelers, a sailing ship, fish, and a holographic stripe.",
     "hue": 45.9,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2022-banknotes/fronts/FIJ0119o.jpg",
     "slug": "fiji-100-dollars-e414",
-    "body": "The 100 dollar banknote was updated in 2022 as part of Fiji's new polymer note series. The yellow banknote features the Buli Kula (golden cowrie necklace), nanai insect, and coat of arms on the obverse; the reverse depicts cultural performers and the 180° meridian map. Measuring 156 x 67 mm, signed by Faizul Ariff Ali, this note represents the transition toward polymer currency.",
+    "body": "The Fiji $100 banknote is the highest-denomination note in general circulation issued by the Reserve Bank of Fiji. The 2022 edition is a continuation of the current banknote series with a new governor signature (Faizul Ariff Ali), preserving the existing design that highlights traditional Fijian cultural artefacts on the obverse and the country's marine and tourism identity on the reverse. The yellow-coloured note measures 156 x 67 mm and is printed on paper substrate.",
     "highlights": {
-      "reason": "Updates banknote design and introduces enhanced security features for modern currency circulation",
-      "design": "Obverse displays Buli Kula necklace and cultural symbols; reverse features musicians, dancers, and maritime imagery",
-      "security": "Includes holographic security stripe and polymer substrate technology for durability"
+      "design": "Obverse: Buli Kula necklace, domodomo registration device, nanai cicada, coat of arms. Reverse: two women singers, male guitarist, 180th meridian map, snorkelers, sailing ship, fish.",
+      "reason": "Standard highest-denomination circulation issue updated with a new governor's signature in 2022.",
+      "security": "3 mm windowed security thread with demetalized RBF and domodomo motif, watermark of a Fijian head with electrotype 100 and cornerstones."
     },
     "sources": [
-      "https://www.rbf.gov.fj/press-release-02-president-unveils-new-100-banknote/"
+      "https://www.banknoteworld.com/fiji-100-dollars-banknote-2022-nd-p-119a-2-unc.html"
     ],
-    "confidence": "official"
+    "confidence": "secondary"
   },
   {
     "id": "e415",
@@ -9413,14 +9451,21 @@
     "country": "Fiji",
     "issuer": "Reserve Bank of Fiji",
     "title": "7 Dollars",
-    "description": "Fijiana and Fiji Rugby 7s Bronze and Gold Medal Win 2021 Summer Olympics in Tokyo.",
+    "description": "Obverse features the Fijian Rugby 7s Bronze Olympians in a team huddle; reverse depicts captain Jerry Tuwai in prayer, the Rugby 7s Gold Olympians at the medal ceremony, coach Gareth Baber, a gold medal, and a rugby ball.",
     "hue": 36.9,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2022-banknotes/fronts/FIJW0122o.jpg",
     "slug": "fiji-7-dollars-e415",
-    "body": "The 100 Leu note serves as the primary high-denomination note in circulation. Features comprehensive security measures including security strips, microprinting, and holographic elements. Represents Romania's commitment to modern banking standards.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The Reserve Bank of Fiji issued this $7 polymer commemorative note to celebrate Fiji's remarkable double medal performance at the Tokyo 2020 Olympic Games (held 2021): the men's Rugby Sevens team won gold for the second consecutive Olympics, while the Fijiana women's Rugby Sevens team won bronze. The unusual denomination of $7 directly references Rugby Sevens (7 players per side). A total of 2,000,000 notes were printed and released at face value. The note was produced on polymer by Oberthur Fiduciaire.",
+    "highlights": {
+      "design": "Obverse: Fijian Rugby 7s Bronze Olympians team huddle. Reverse: captain Jerry Tuwai giving thanks, Gold Olympians at medal ceremony, coach Gareth Baber, gold medal, and rugby ball.",
+      "reason": "Issued to commemorate Fiji's gold and bronze Rugby Sevens medals at the 2020 Tokyo Olympics; denomination $7 references the seven-a-side rugby format.",
+      "security": "Watermark of athlete Reapi Ulunisau carrying a rugby ball, 2 mm simulated windowed security thread, Bioguard antibacterial/antiviral polymer surface coating."
+    },
+    "sources": [
+      "https://www.banknoteworld.com/fiji-7-dollars-banknote-2022-p-122-unc-commemorative-polymer.html",
+      "https://banknotenews.com/?p=35915"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e416",
@@ -9429,14 +9474,21 @@
     "country": "Fiji",
     "issuer": "Reserve Bank of Fiji",
     "title": "88 Cents",
-    "description": "Hibiscus flower, arms. 8 is the most lucky number in Chinese astrology.",
+    "description": "Obverse features the Fijian coat of arms, a hibiscus flower, and the governor's signature against an ornamental background; reverse depicts the Chinese god of wealth (Caishen) surrounded by coins and a money tree.",
     "hue": 31.6,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2022-banknotes/fronts/FIJW0123o.jpg",
     "slug": "fiji-88-cents-e416",
-    "body": "The 100 Ruble note features commemorative designs celebrating Russian heritage and technological achievements. Includes advanced security features specific to Russian currency standards. The note maintains the signature red coloring of the denomination.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "Authorised on 12 June 2022 and released for purchase on 8 August 2022 — a date chosen for its association with the lucky number 8 in Chinese culture — the 88-cent note is a non-circulating numismatic collector's piece and the world's first banknote denominated at 88 cents. The denomination 88 references the Taoist belief that the number 8 (pronounced 'fa' in Chinese, meaning 'fortune') is doubly auspicious. A maximum of 3.6 million notes were produced; the note remains legal tender in Fiji and can be exchanged at the Reserve Bank.",
+    "highlights": {
+      "design": "Obverse: Fijian coat of arms, hibiscus flower, governor's signature. Reverse: Chinese god of wealth (Caishen) with coins and money tree.",
+      "reason": "Issued as the world's first 88-cent commemorative numismatic note, celebrating themes of fortune and prosperity drawn from Chinese-Fijian cultural traditions; released on 8/8/2022 for symbolic luck.",
+      "security": "PUREIMAGE holographic windowed security thread with demetalized 88 and diamonds, watermark hibiscus flower with electrotype 88, intaglio printing, optically variable ink (OVI)."
+    },
+    "sources": [
+      "https://www.rbf.gov.fj/core-functions/currency-management/currency-collectables/fiji-88-cent-numismatic-banknote/",
+      "https://numismag.com/en/2022/08/23/2022-fiji-commemorative-banknote-of-88-cents/"
+    ],
+    "confidence": "official"
   },
   {
     "id": "e417",
@@ -9445,14 +9497,20 @@
     "country": "Guinea",
     "issuer": "Banque Centrale de la République de Guinée",
     "title": "10.000 Francs Guinéens",
-    "description": "Girl.",
+    "description": "Obverse features a portrait of a young girl, the national emblem, cowrie shells, pineapples, and SPARK flying pigeons; reverse depicts a cultivated field with trees and the 'Lady of Mali' rock formation on Mount Loura.",
     "hue": 9.1,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2022-banknotes/fronts/GUIW2018-10000o.jpg",
     "slug": "guinea-10-000-francs-guin-ens-e417",
-    "body": "The 200 Ruble note celebrates regional Russian culture and accomplishments. Features enhanced security printing with kinematic security elements. Part of Russia's ongoing currency modernization program.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The 10,000-franc note is the highest denomination in Guinea's current banknote family issued by the Banque Centrale de la République de Guinée. The 2022-dated version is an updated signature edition of the series first introduced in 2018, which itself modernised the earlier 2012 design. The striking rock formation on the reverse — known as the 'Dame de Mali' or Lady of Mali — is a celebrated natural monument in the Fouta Djallon highlands of Guinea. The cowrie shells and pineapples on the obverse reflect Guinea's cultural heritage and agricultural wealth.",
+    "highlights": {
+      "design": "Obverse: portrait of young girl, national emblem, cowrie shells, pineapples, SPARK pigeon feature. Reverse: 'Lady of Mali' (Dame de Mali) rock formation on Mount Loura with cultivated fields.",
+      "reason": "Standard high-denomination circulation note updated with new signatures; continues a design series highlighting Guinea's natural heritage and cultural symbols.",
+      "security": "Windowed security thread with multicolor shifting (copper brown, gold, lime green) and demetalized GNF and cowrie shells, watermark of young girl with electrotype 10000 and cornerstones."
+    },
+    "sources": [
+      "https://en.numista.com/catalogue/note216271.html"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e418",
