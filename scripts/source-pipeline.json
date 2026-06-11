@@ -1,9 +1,9 @@
 {
   "description": "Pipeline per arricchire le emissions con URL reali. Processa in batch da 10, ogni batch viene committato.",
   "total": 493,
-  "processed": 55,
+  "processed": 65,
   "batch_size": 10,
-  "last_committed_batch": 6,
+  "last_committed_batch": 7,
   "items": [
     {
       "id": "e47",
@@ -903,8 +903,12 @@
         "Bank Indonesia"
       ],
       "confidence": "fallback",
-      "status": "pending",
-      "found_urls": []
+      "status": "done",
+      "found_urls": [
+        "https://banknotenews.com/?p=37428",
+        "https://www.banknoteworld.com/indonesia-50-000-rupiah-banknote-2024-p-167a-3-unc-solid-serial-555555-tap-authenticated.html"
+      ],
+      "new_confidence": "secondary"
     },
     {
       "id": "e103",
@@ -915,8 +919,13 @@
         "Bank of Japan"
       ],
       "confidence": "fallback",
-      "status": "pending",
-      "found_urls": []
+      "status": "done",
+      "found_urls": [
+        "https://www.boj.or.jp/en/note_tfjgs/note/n_note/security.htm",
+        "https://voyapon.com/new-faces-on-japanese-banknotes/",
+        "https://matcha-jp.com/en/10516"
+      ],
+      "new_confidence": "official"
     },
     {
       "id": "e104",
@@ -927,8 +936,13 @@
         "Bank of Japan"
       ],
       "confidence": "fallback",
-      "status": "pending",
-      "found_urls": []
+      "status": "done",
+      "found_urls": [
+        "https://www.boj.or.jp/en/note_tfjgs/note/n_note/security.htm",
+        "https://voyapon.com/new-faces-on-japanese-banknotes/",
+        "https://matcha-jp.com/en/10516"
+      ],
+      "new_confidence": "official"
     },
     {
       "id": "e105",
@@ -939,8 +953,13 @@
         "Bank of Japan"
       ],
       "confidence": "fallback",
-      "status": "pending",
-      "found_urls": []
+      "status": "done",
+      "found_urls": [
+        "https://www.boj.or.jp/en/note_tfjgs/note/n_note/security.htm",
+        "https://voyapon.com/new-faces-on-japanese-banknotes/",
+        "https://matcha-jp.com/en/10516"
+      ],
+      "new_confidence": "official"
     },
     {
       "id": "e106",
@@ -951,8 +970,13 @@
         "Qazaqstan Ulttyk Banki"
       ],
       "confidence": "fallback",
-      "status": "pending",
-      "found_urls": []
+      "status": "done",
+      "found_urls": [
+        "https://nationalbank.kz/en/news/banknoty/6783",
+        "https://banknotenews.com/?p=41863",
+        "https://currency-news.com/news/2024/feb/29/ancient-and-modern-using-kazakhstans-unique-cultural-heritage-to-create-pioneering-new-banknote-series/"
+      ],
+      "new_confidence": "official"
     },
     {
       "id": "e107",
@@ -963,8 +987,13 @@
         "Qazaqstan Ulttyk Banki"
       ],
       "confidence": "fallback",
-      "status": "pending",
-      "found_urls": []
+      "status": "done",
+      "found_urls": [
+        "https://nationalbank.kz/en/news/banknoty/6784",
+        "https://papermoneybook.com/kazakhstan-new-family-of-banknotes/",
+        "https://currency-news.com/news/2024/feb/29/ancient-and-modern-using-kazakhstans-unique-cultural-heritage-to-create-pioneering-new-banknote-series/"
+      ],
+      "new_confidence": "official"
     },
     {
       "id": "e108",
@@ -975,8 +1004,13 @@
         "Qazaqstan Ulttyk Banki"
       ],
       "confidence": "fallback",
-      "status": "pending",
-      "found_urls": []
+      "status": "done",
+      "found_urls": [
+        "https://nationalbank.kz/en/news/informacionnye-soobshcheniya/16764",
+        "https://nationalbank.kz/en/news/banknoty/6781",
+        "https://astanatimes.com/2024/06/kazakh-national-bank-unveils-new-10000-tenge-banknote-design/"
+      ],
+      "new_confidence": "official"
     },
     {
       "id": "e109",
@@ -987,8 +1021,12 @@
         "Central Bank of Kenya"
       ],
       "confidence": "fallback",
-      "status": "pending",
-      "found_urls": []
+      "status": "done",
+      "found_urls": [
+        "https://www.centralbank.go.ke/wp-content/uploads/2019/06/New-Generation-Banknotes-Pamphlet.pdf",
+        "https://currencyaffairs.org/document/2024-kenya-new-currency-banknotes-series/"
+      ],
+      "new_confidence": "official"
     },
     {
       "id": "e110",
@@ -999,8 +1037,12 @@
         "Central Bank of Kenya"
       ],
       "confidence": "fallback",
-      "status": "pending",
-      "found_urls": []
+      "status": "done",
+      "found_urls": [
+        "https://www.centralbank.go.ke/wp-content/uploads/2019/06/New-Generation-Banknotes-Pamphlet.pdf",
+        "https://currencyaffairs.org/document/2024-kenya-new-currency-banknotes-series/"
+      ],
+      "new_confidence": "official"
     },
     {
       "id": "e111",
@@ -1011,8 +1053,12 @@
         "Central Bank of Kenya"
       ],
       "confidence": "fallback",
-      "status": "pending",
-      "found_urls": []
+      "status": "done",
+      "found_urls": [
+        "https://www.centralbank.go.ke/wp-content/uploads/2019/06/New-Generation-Banknotes-Pamphlet.pdf",
+        "https://currencyaffairs.org/document/2024-kenya-new-currency-banknotes-series/"
+      ],
+      "new_confidence": "official"
     },
     {
       "id": "e112",
