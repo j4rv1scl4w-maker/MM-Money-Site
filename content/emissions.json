@@ -2308,182 +2308,238 @@
   {
     "id": "e102",
     "year": 2024,
-    "date": "2022-2024",
+    "date": "Sep 2024",
     "country": "Indonesia",
     "issuer": "Bank Indonesia",
     "title": "50.000 Rupiah",
-    "description": "Dr. H. Djuanda Kartawidjaja, arms, outline of Indonesia.",
+    "description": "Dr. H. Djuanda Kartawidjaja, Indonesia's 10th Prime Minister (1911–1963), featured on the obverse alongside the national coat of arms. Reverse depicts the Tari Legong traditional dance and Komodo National Park.",
     "hue": 20,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/INOW0167o.jpg",
     "slug": "indonesia-50-000-rupiah-e102",
-    "body": "Dr. H. Djuanda Kartawidjaja, arms, outline of Indonesia.",
-    "highlights": {},
+    "body": "Issued as part of Bank Indonesia's continued circulation of modern rupiah denominations honoring national figures. Djuanda Kartawidjaja is recognized for the historic Djuanda Declaration of 1957, establishing Indonesia's maritime boundaries. The 50,000 rupiah note measures 146 mm × 65 mm with a predominantly blue color scheme. The reverse features Komodo National Park, reflecting Indonesia's rich biodiversity, alongside the Legong dance representing cultural heritage. The note incorporates a windowed security thread with printed BI denomination marking.",
+    "highlights": {
+      "reason": "To honor Djuanda Kartawidjaja, a key historical figure in Indonesian political independence and maritime sovereignty",
+      "design": "Obverse: Dr. H. Djuanda Kartawidjaja with national coat of arms and Indonesia outline. Reverse: Tari Legong dancer and Komodo National Park landscape.",
+      "security": "Windowed security thread with BI 50000 imprint, watermark of Djuanda Kartawidjaja, electrotype denomination marking"
+    },
     "sources": [
-      "Bank Indonesia"
+      "https://banknotenews.com/?p=37428",
+      "https://www.banknoteworld.com/indonesia-50-000-rupiah-banknote-2024-p-167a-3-unc-solid-serial-555555-tap-authenticated.html"
     ],
-    "confidence": "fallback"
+    "confidence": "secondary"
   },
   {
     "id": "e103",
     "year": 2024,
-    "date": "ND (2024)",
+    "date": "Jul 2024",
     "country": "Japan",
     "issuer": "Bank of Japan",
     "title": "1.000 Yen",
-    "description": "Shibasaburo Kitasato.",
+    "description": "Shibasaburo Kitasato (1852–1931), pioneering bacteriologist who co-discovered the tetanus and plague bacilli, featured on the obverse. Reverse depicts The Great Wave off Kanagawa, the iconic ukiyo-e print by Katsushika Hokusai.",
     "hue": 58,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/JAPW0107o.jpg",
     "slug": "japan-1-000-yen-e103",
-    "body": "The 1.000 Yen note issued by Bank of Japan represents a 2024 emission in Japan's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2024 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
-    "highlights": {},
+    "body": "Issued July 3, 2024, marking the Bank of Japan's first comprehensive banknote redesign in 20 years. Shibasaburo Kitasato revolutionized modern medicine through his pioneering work in bacteriology, co-discovering the tetanus bacillus and plague bacillus. The reverse features Hokusai's masterpiece, celebrating both scientific achievement and artistic heritage. The 1,000 yen note incorporates revolutionary 3D holographic portraiture—the world's first banknote application of this technology—where the hologram rotates when tilted. Additional security includes high-definition watermarks, latent images, intaglio printing for accessibility, and microprinting.",
+    "highlights": {
+      "reason": "First major redesign of Japanese banknotes in 20 years; honors Shibasaburo Kitasato with world's first 3D holographic portrait on a circulating banknote",
+      "design": "Obverse: Shibasaburo Kitasato portrait. Reverse: The Great Wave off Kanagawa by Hokusai, symbolizing Japanese artistic tradition.",
+      "security": "3D holographic portrait (world first for banknotes, rotates when tilted), watermarks, latent images, intaglio printing, microprinting"
+    },
     "sources": [
-      "Bank of Japan"
+      "https://www.boj.or.jp/en/note_tfjgs/note/n_note/security.htm",
+      "https://voyapon.com/new-faces-on-japanese-banknotes/",
+      "https://matcha-jp.com/en/10516"
     ],
-    "confidence": "fallback"
+    "confidence": "official"
   },
   {
     "id": "e104",
     "year": 2024,
-    "date": "ND (2024)",
+    "date": "Jul 2024",
     "country": "Japan",
     "issuer": "Bank of Japan",
     "title": "5.000 Yen",
-    "description": "Umeko Tsuda.",
+    "description": "Umeko Tsuda (1864–1929), pioneering educator and founder of Tsuda University, featured on the obverse. Reverse depicts wisteria flowers, reflecting traditional Japanese botanical aesthetics.",
     "hue": 30,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/JAPW0108o.jpg",
     "slug": "japan-5-000-yen-e104",
-    "body": "The 5.000 Yen note issued by Bank of Japan represents a 2024 emission in Japan's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2024 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
-    "highlights": {},
+    "body": "Issued July 3, 2024, as part of the Bank of Japan's first redesign in 20 years. Umeko Tsuda was a pioneering advocate for women's education in Japan, establishing Tsuda University as a center of women's higher learning. The reverse wisteria flowers represent both natural beauty and cultural significance in Japanese art and literature. The note features the same revolutionary 3D holographic portraiture as the other new denominations, with dynamic tilting effects creating patterns and numerals that shift when viewed from different angles. Additional security includes watermarks, latent images, and intaglio textures.",
+    "highlights": {
+      "reason": "Honors Umeko Tsuda and her legacy in pioneering women's higher education in Japan; part of first redesign in 20 years",
+      "design": "Obverse: Umeko Tsuda portrait. Reverse: Wisteria flowers representing traditional Japanese botanical and artistic heritage.",
+      "security": "3D holographic portrait with dynamic effects, watermarks, latent images, intaglio printing, microprinting"
+    },
     "sources": [
-      "Bank of Japan"
+      "https://www.boj.or.jp/en/note_tfjgs/note/n_note/security.htm",
+      "https://voyapon.com/new-faces-on-japanese-banknotes/",
+      "https://matcha-jp.com/en/10516"
     ],
-    "confidence": "fallback"
+    "confidence": "official"
   },
   {
     "id": "e105",
     "year": 2024,
-    "date": "ND (2024)",
+    "date": "Jul 2024",
     "country": "Japan",
     "issuer": "Bank of Japan",
     "title": "10.000 Yen",
-    "description": "Eiichi Shibusawa.",
+    "description": "Eiichi Shibusawa (1840–1931), the 'Father of Japanese Capitalism' and pioneering industrialist, featured on the obverse. Reverse depicts Tokyo Station's Marunouchi Building, an iconic symbol of modern Japanese architecture and economic development.",
     "hue": 38,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/JAPW0109o.jpg",
     "slug": "japan-10-000-yen-e105",
-    "body": "The 10.000 Yen note issued by Bank of Japan represents a 2024 emission in Japan's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2024 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
-    "highlights": {},
+    "body": "Issued July 3, 2024, honoring Eiichi Shibusawa's transformative role in Japan's economic modernization. Shibusawa founded numerous enterprises and financial institutions, fundamentally shaping modern Japanese capitalism. The reverse features Tokyo Station's Marunouchi Building, completed in 1914, symbolizing Japan's architectural and economic progress. The 10,000 yen note includes innovative 3D holographic portraits that rotate with tilting motion. Additional security measures include watermarks, latent images, intaglio printing patterns for tactile accessibility, and microprinting.",
+    "highlights": {
+      "reason": "Honors Eiichi Shibusawa's foundational role in establishing modern Japanese capitalism; part of first redesign in 20 years",
+      "design": "Obverse: Eiichi Shibusawa portrait. Reverse: Tokyo Station Marunouchi Building, representing modern economic architecture.",
+      "security": "3D holographic portrait with tilting animation, watermarks, latent images, intaglio printing patterns, microprinting"
+    },
     "sources": [
-      "Bank of Japan"
+      "https://www.boj.or.jp/en/note_tfjgs/note/n_note/security.htm",
+      "https://voyapon.com/new-faces-on-japanese-banknotes/",
+      "https://matcha-jp.com/en/10516"
     ],
-    "confidence": "fallback"
+    "confidence": "official"
   },
   {
     "id": "e106",
     "year": 2024,
-    "date": "2024",
+    "date": "Mar 2024",
     "country": "Kazakhstan",
     "issuer": "Qazaqstan Ulttyk Banki",
     "title": "1.000 Tenge",
-    "description": "'Tree of Life' with bird (Issyk Kurgan burial mound). Dog's head, DNA spiral, arms.",
+    "description": "Features the 'Tree of Life' with bird motif from the Issyk Kurgan burial mound (5th–4th centuries BCE). Reverse depicts Kazakh dog breeds—the Tazy sighthound and Tobet (Central Asian Shepherd Dog).",
     "hue": 28,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/KAZW0052o.jpg",
     "slug": "kazakhstan-1-000-tenge-e106",
-    "body": "'Tree of Life' with bird (Issyk Kurgan burial mound). Dog's head, DNA spiral, arms.",
-    "highlights": {},
+    "body": "Issued March 28, 2024, as part of the National Bank of Kazakhstan's new 'Saka Style' series celebrating ancient Eurasian heritage. The obverse features the 'Tree of Life' with soaring bird and DNA spiral with infinity symbol, bridging ancient Saka civilization with contemporary science. The reverse showcases the Tobet and Tazy dog breeds against a stylized shield ornament—these dogs were essential companions of nomadic peoples for hunting and livestock protection. The series represents a pioneering blend of ancient cultural symbols with modern design elements and was awarded Best New Banknote Series at the international High Security Printing Conference.",
+    "highlights": {
+      "reason": "To celebrate Kazakhstan's heritage from the ancient Saka civilization and honor the 'Saka Style' as the ancestor of traditional Kazakh ornament",
+      "design": "Obverse: Tree of Life from Issyk Kurgan with soaring bird, DNA spiral and infinity symbol. Reverse: Tobet and Tazy dog breeds with stylized shield ornament.",
+      "security": "Advanced security printing techniques; award-winning design from High Security Printing Conference 2024"
+    },
     "sources": [
-      "Qazaqstan Ulttyk Banki"
+      "https://nationalbank.kz/en/news/banknoty/6783",
+      "https://banknotenews.com/?p=41863",
+      "https://currency-news.com/news/2024/feb/29/ancient-and-modern-using-kazakhstans-unique-cultural-heritage-to-create-pioneering-new-banknote-series/"
     ],
-    "confidence": "fallback"
+    "confidence": "official"
   },
   {
     "id": "e107",
     "year": 2024,
-    "date": "2024",
+    "date": "Dec 2024",
     "country": "Kazakhstan",
     "issuer": "Qazaqstan Ulttyk Banki",
     "title": "2.000 Tenge",
-    "description": "'Tree of Life' with bird (Issyk Kurgan burial mound). Head of antelope, DNA spiral, arms.",
+    "description": "Features the 'Tree of Life' with bird motif from the Issyk Kurgan burial mound. Reverse depicts a herd of Saiga antelope (Saiga tatarica) against a landscape of stylized hills and a lake forming an infinity ornament.",
     "hue": 134,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/KAZW0053o.jpg",
     "slug": "kazakhstan-2-000-tenge-e107",
-    "body": "'Tree of Life' with bird (Issyk Kurgan burial mound). Head of antelope, DNA spiral, arms.",
-    "highlights": {},
+    "body": "Issued December 25, 2024, continuing the National Bank of Kazakhstan's 'Saka Style' series. The 2,000 tenge note features harmonious green and blue tones, reflecting the steppe landscape. The obverse displays the Tree of Life symbol with DNA spiral, emphasizing the connection between ancient heritage and modern scientific understanding. The reverse showcases four standing Saiga antelope—an endangered Central Asian steppe species—against a landscape forming an infinity ornament, representing the boundless steppe ecosystem and the continuity of nature.",
+    "highlights": {
+      "reason": "To honor the Saiga antelope and celebrate the biodiversity of Kazakhstan's steppe ecosystems within the Saka cultural heritage framework",
+      "design": "Obverse: Tree of Life with bird, DNA spiral, and infinity symbol from Issyk Kurgan. Reverse: Four standing Saiga antelope with landscape forming infinity ornament.",
+      "security": "Advanced printing techniques consistent with the Saka Style series"
+    },
     "sources": [
-      "Qazaqstan Ulttyk Banki"
+      "https://nationalbank.kz/en/news/banknoty/6784",
+      "https://papermoneybook.com/kazakhstan-new-family-of-banknotes/",
+      "https://currency-news.com/news/2024/feb/29/ancient-and-modern-using-kazakhstans-unique-cultural-heritage-to-create-pioneering-new-banknote-series/"
     ],
-    "confidence": "fallback"
+    "confidence": "official"
   },
   {
     "id": "e108",
     "year": 2024,
-    "date": "2024",
+    "date": "Jun 2024",
     "country": "Kazakhstan",
     "issuer": "Qazaqstan Ulttyk Banki",
     "title": "10.000 Tenge",
-    "description": "'Tree of Life' with bird (Issyk Kurgan burial mound). Snow leopard ornament, DNA spiral, arms.",
+    "description": "Features the 'Tree of Life' with bird motif from the Issyk Kurgan burial mound (5th–4th centuries BCE). Reverse depicts a snow leopard (Panthera uncia) set against snow-covered mountain peaks of Kazakhstan's Tian Shan range.",
     "hue": 254,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/KAZW0055o.jpg",
     "slug": "kazakhstan-10-000-tenge-e108",
-    "body": "'Tree of Life' with bird (Issyk Kurgan burial mound). Snow leopard ornament, DNA spiral, arms.",
-    "highlights": {},
+    "body": "Issued June 28, 2024, as the inaugural denomination of the National Bank of Kazakhstan's 'Saka Style' series. The 10,000 tenge note is colored in shades of violet, blue, and white, reflecting the alpine environment. The obverse displays the ancient Tree of Life symbol alongside DNA spiral and infinity ornament, bridging ancient Saka civilization with contemporary science. The reverse features the snow leopard ornament—an endangered species symbolic of Kazakhstan's commitment to wildlife conservation—with snow-covered Tian Shan mountains in the background.",
+    "highlights": {
+      "reason": "To inaugurate the 'Saka Style' series and honor the snow leopard as an endangered species symbolic of Central Asian conservation efforts",
+      "design": "Obverse: Tree of Life with soaring bird, DNA spiral, and infinity symbol. Reverse: Snow leopard ornament against snow-covered mountain peaks.",
+      "security": "Advanced security printing techniques specific to high-denomination banknotes in the Saka Style series"
+    },
     "sources": [
-      "Qazaqstan Ulttyk Banki"
+      "https://nationalbank.kz/en/news/informacionnye-soobshcheniya/16764",
+      "https://nationalbank.kz/en/news/banknoty/6781",
+      "https://astanatimes.com/2024/06/kazakh-national-bank-unveils-new-10000-tenge-banknote-design/"
     ],
-    "confidence": "fallback"
+    "confidence": "official"
   },
   {
     "id": "e109",
     "year": 2024,
-    "date": "2019 & 2024",
+    "date": "2019",
     "country": "Kenya",
     "issuer": "Central Bank of Kenya",
     "title": "50 Shillings",
-    "description": "Kenyatta statue and Kenyatta International Convention Centre, Nairobi.",
+    "description": "Features the Kenyatta International Convention Centre (KICC) on the obverse, Kenya's iconic architectural symbol in Nairobi. Reverse depicts renewable energy installations, emphasizing Kenya's commitment to green energy and sustainable development.",
     "hue": 2,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/KENW2019-0050o.jpg",
     "slug": "kenya-50-shillings-e109",
-    "body": "Kenyatta statue and Kenyatta International Convention Centre, Nairobi.",
-    "highlights": {},
+    "body": "Originally issued May 31, 2019, and reissued in 2024 with updated security features and new signatures from Central Bank Governor Kamau Thugge. Mandated by Kenya's 2010 Constitution, the 2019 series removed portraits of known individuals in favor of national monuments and thematic designs. The reverse depicts green energy installations including wind turbines, geothermal, and solar power, reflecting Kenya's renewable energy initiatives. The 2024 updated version includes an enhanced security thread and the Crystal effect security feature for added anti-counterfeiting protection.",
+    "highlights": {
+      "reason": "To represent Kenya's commitment to renewable energy and sustainable development while celebrating the KICC as a national symbol",
+      "design": "Obverse: Kenyatta International Convention Centre monument with dove symbolizing peace. Reverse: Green energy installations featuring wind turbines, geothermal, and solar power.",
+      "security": "Crystal effect security feature, enhanced security thread, updated governor signature"
+    },
     "sources": [
-      "Central Bank of Kenya"
+      "https://www.centralbank.go.ke/wp-content/uploads/2019/06/New-Generation-Banknotes-Pamphlet.pdf",
+      "https://currencyaffairs.org/document/2024-kenya-new-currency-banknotes-series/"
     ],
-    "confidence": "fallback"
+    "confidence": "official"
   },
   {
     "id": "e110",
     "year": 2024,
-    "date": "2019 & 2024",
+    "date": "2019",
     "country": "Kenya",
     "issuer": "Central Bank of Kenya",
     "title": "100 Shillings",
-    "description": "Kenyatta statue and Kenyatta International Convention Centre, Nairobi.",
+    "description": "Features the Kenyatta International Convention Centre (KICC) on the obverse. Reverse depicts agriculture, highlighting Kenya's agricultural sector including maize cultivation, tea production, and livestock farming.",
     "hue": 347,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/KENW2019-0100o.jpg",
     "slug": "kenya-100-shillings-e110",
-    "body": "Kenyatta statue and Kenyatta International Convention Centre, Nairobi.",
-    "highlights": {},
+    "body": "Originally issued May 31, 2019, and updated in 2024 with enhanced security and new signatures. The 100 shillings note features the Kenyatta International Convention Centre, commemorating Kenya's architectural heritage and economic achievements. Following the 2010 Constitutional requirement, the design features national monuments rather than individual portraits. The reverse depicts Kenya's agricultural sector through images of maize fields, tea plantations, and livestock herds. The 2024 version incorporates the Crystal effect security feature alongside updated signatures.",
+    "highlights": {
+      "reason": "To celebrate Kenya's agricultural heritage and the KICC as a symbol of national development",
+      "design": "Obverse: Kenyatta International Convention Centre with dove. Reverse: Agricultural themes featuring maize, tea crops, and livestock.",
+      "security": "Crystal effect visual security feature, enhanced security thread, updated governor and board member signatures"
+    },
     "sources": [
-      "Central Bank of Kenya"
+      "https://www.centralbank.go.ke/wp-content/uploads/2019/06/New-Generation-Banknotes-Pamphlet.pdf",
+      "https://currencyaffairs.org/document/2024-kenya-new-currency-banknotes-series/"
     ],
-    "confidence": "fallback"
+    "confidence": "official"
   },
   {
     "id": "e111",
     "year": 2024,
-    "date": "2019 & 2024",
+    "date": "2019",
     "country": "Kenya",
     "issuer": "Central Bank of Kenya",
     "title": "200 Shillings",
-    "description": "Kenyatta statue and Kenyatta International Convention Centre, Nairobi.",
+    "description": "Features the Kenyatta International Convention Centre (KICC) on the obverse. Reverse depicts social services, recognizing Kenya's healthcare, education systems, and athletic achievements.",
     "hue": 200,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/KENW2019-0200o.jpg",
     "slug": "kenya-200-shillings-e111",
-    "body": "Kenyatta statue and Kenyatta International Convention Centre, Nairobi.",
-    "highlights": {},
+    "body": "Originally issued May 31, 2019, and refreshed in 2024 with enhanced security features and current signatures. In compliance with Kenya's 2010 Constitution, the note excludes portraits of individuals and instead celebrates the nation's social institutions. The reverse depicts social services, specifically recognizing Kenya's contributions in healthcare, education, and athletics. The 2024 updated version incorporates the ZigZag dynamic movement security effect, which creates movement when tilted, alongside updated signatures from Central Bank Governor Kamau Thugge.",
+    "highlights": {
+      "reason": "To honor Kenya's achievements in healthcare, education, and athletics while celebrating KICC as a national symbol",
+      "design": "Obverse: Kenyatta International Convention Centre monument with dove of peace. Reverse: Social services including medical care, education institutions, and athletic facilities.",
+      "security": "ZigZag dynamic movement effect, enhanced security thread, updated governor and board member signatures"
+    },
     "sources": [
-      "Central Bank of Kenya"
+      "https://www.centralbank.go.ke/wp-content/uploads/2019/06/New-Generation-Banknotes-Pamphlet.pdf",
+      "https://currencyaffairs.org/document/2024-kenya-new-currency-banknotes-series/"
     ],
-    "confidence": "fallback"
+    "confidence": "official"
   },
   {
     "id": "e112",
