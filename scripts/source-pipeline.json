@@ -1,9 +1,9 @@
 {
   "description": "Pipeline per arricchire le emissions con URL reali. Processa in batch da 10, ogni batch viene committato.",
   "total": 493,
-  "processed": 245,
+  "processed": 255,
   "batch_size": 10,
-  "last_committed_batch": 25,
+  "last_committed_batch": 26,
   "items": [
     {
       "id": "e47",
@@ -3364,7 +3364,7 @@
         "Reserve Bank of Fiji"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -3376,7 +3376,7 @@
         "Central Bank of The Gambia"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -3388,7 +3388,7 @@
         "Central Bank of The Gambia"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -3400,7 +3400,7 @@
         "Central Bank of The Gambia"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -3412,7 +3412,7 @@
         "Central Bank of The Gambia"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -3424,7 +3424,7 @@
         "Central Bank of The Gambia"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -3436,7 +3436,7 @@
         "Central Bank of The Gambia"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -3448,7 +3448,7 @@
         "Bank of England"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -3460,7 +3460,7 @@
         "Bank of England"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -3472,7 +3472,7 @@
         "Bank of England"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
