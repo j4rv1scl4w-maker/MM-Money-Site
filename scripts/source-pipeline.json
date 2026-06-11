@@ -1,9 +1,9 @@
 {
   "description": "Pipeline per arricchire le emissions con URL reali. Processa in batch da 10, ogni batch viene committato.",
   "total": 493,
-  "processed": 285,
+  "processed": 348,
   "batch_size": 10,
-  "last_committed_batch": 29,
+  "last_committed_batch": 31,
   "items": [
     {
       "id": "e47",
@@ -3844,7 +3844,7 @@
         "Bank Al-Maghrib"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -3856,7 +3856,7 @@
         "Central Bank of Myanmar"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -3868,7 +3868,7 @@
         "Bank of Namibia"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -3880,7 +3880,7 @@
         "Nepal Rastra Bank"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -3892,7 +3892,7 @@
         "Ulster Bank Limited"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -3904,7 +3904,7 @@
         "State Bank of Pakistan"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -3916,7 +3916,7 @@
         "Bank of Papua New Guinea"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -3928,7 +3928,7 @@
         "Bank of Papua New Guinea"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -3940,7 +3940,7 @@
         "Bank of Papua New Guinea"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -3952,7 +3952,7 @@
         "Banco Central del Paraguay"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -3964,7 +3964,7 @@
         "Bangko Sentral ng Pilipinas"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -3976,7 +3976,7 @@
         "Narodowy Bank Polski"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -3988,7 +3988,7 @@
         "Bank Rossii"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -4000,7 +4000,7 @@
         "Bank Rossii"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -4012,7 +4012,7 @@
         "Faletupe Tutotonu o Samoa / Central Bank of Samoa"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -4024,7 +4024,7 @@
         "Faletupe Tutotonu o Samoa / Central Bank of Samoa"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -4036,7 +4036,7 @@
         "Faletupe Tutotonu o Samoa / Central Bank of Samoa"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -4048,7 +4048,7 @@
         "Faletupe Tutotonu o Samoa / Central Bank of Samoa"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -4060,7 +4060,7 @@
         "Bank of Scotland"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -4072,7 +4072,7 @@
         "Monetary Authority of Singapore"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -4084,7 +4084,7 @@
         "Central Bank of Solomon Islands"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -4096,7 +4096,7 @@
         "Central Bank of Solomon Islands"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -4108,7 +4108,7 @@
         "Central Bank of Solomon Islands"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -4120,7 +4120,7 @@
         "South African Reserve Bank"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -4132,7 +4132,7 @@
         "South African Reserve Bank"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -4144,7 +4144,7 @@
         "South African Reserve Bank"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -4156,7 +4156,7 @@
         "South African Reserve Bank"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -4168,7 +4168,7 @@
         "South African Reserve Bank"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -4180,7 +4180,7 @@
         "Bank of South Sudan"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -4192,7 +4192,7 @@
         "Bank of South Sudan"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -4204,7 +4204,7 @@
         "Central Bank of Sudan"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -4228,7 +4228,7 @@
         "National Reserve Bank of Tonga"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -4240,7 +4240,7 @@
         "National Reserve Bank of Tonga"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -4252,7 +4252,7 @@
         "National Reserve Bank of Tonga"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -4264,7 +4264,7 @@
         "National Reserve Bank of Tonga"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -4276,7 +4276,7 @@
         "National Reserve Bank of Tonga"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -4288,7 +4288,7 @@
         "National Reserve Bank of Tonga"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -4300,7 +4300,7 @@
         "Pridnestrovskiy Respublikanskiy Bank"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -4312,7 +4312,7 @@
         "Natsional'niy Bank Ukraïni"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -4324,7 +4324,7 @@
         "Natsional'niy Bank Ukraïni"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -4336,7 +4336,7 @@
         "United Arab Emirates Central Bank"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -4348,7 +4348,7 @@
         "Reserve Bank of Zimbabwe"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -4444,7 +4444,7 @@
         "Central Bank of Barbados"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -4456,7 +4456,7 @@
         "Central Bank of Barbados"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -4468,7 +4468,7 @@
         "Central Bank of Barbados"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -4480,7 +4480,7 @@
         "Central Bank of Barbados"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -4492,7 +4492,7 @@
         "Central Bank of Barbados"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -4504,7 +4504,7 @@
         "Central Bank of Barbados"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -4804,7 +4804,7 @@
         "National Bank of Rwanda (Banque Nationale du Rwanda)"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -4924,7 +4924,7 @@
         "Eastern Caribbean Central Bank (ECCB)"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -4936,7 +4936,7 @@
         "Eastern Caribbean Central Bank (ECCB)"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -4960,7 +4960,7 @@
         "Eastern Caribbean Central Bank (ECCB)"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -5140,7 +5140,7 @@
         "Central Bank of Sao Tome & Principe (Banco Central de Sao Tome e Principe)"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -5152,7 +5152,7 @@
         "Saudi Central Bank (SAMA - Saudi Arabian Monetary Authority)"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -5332,7 +5332,7 @@
         "Central Bank of Seychelles (Banque Zentral Sesel)"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -5344,7 +5344,7 @@
         "Central Bank of Seychelles (Banque Zentral Sesel)"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -5356,7 +5356,7 @@
         "Central Bank of Seychelles (Banque Zentral Sesel)"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -5800,7 +5800,7 @@
         "Central Bank of South Sudan"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -5812,7 +5812,7 @@
         "Central Bank of South Sudan"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -5824,7 +5824,7 @@
         "Central Bank of South Sudan"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -5836,7 +5836,7 @@
         "Central Bank of South Sudan"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -5848,7 +5848,7 @@
         "Central Bank of South Sudan"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -5896,7 +5896,7 @@
         "Bank of Spain"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
