@@ -6569,20 +6569,20 @@
     "country": "Bangladesh",
     "issuer": "Bangladesh Bank",
     "title": "20 Taka",
-    "description": "Remark.",
+    "description": "The 20 Taka note features a portrait of Sheikh Mujibur Rahman on the obverse and the National Martyrs' Memorial (Jatiyo Smriti Soudho) in Savar.",
     "hue": 84.2,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/BDE0055A2o.jpg",
     "slug": "bangladesh-20-taka-e288",
-    "body": "The 500 Baht banknote features King Rama X (Maha Vajiralongkorn) on the obverse. Violet and purple in color, with a holographic security thread. The reverse displays portraits of Rama VII Prajadhipok (1893-1941) and Rama VIII Ananda Mahidol (1925-1946), honoring previous monarchs. Issued 2018 and continuing in circulation. The 2024 date may reflect signature updates or administrative changes.",
+    "body": "The 20 Taka is part of Bangladesh Bank's regular circulation series bearing the portrait of Sheikh Mujibur Rahman, the founding father of Bangladesh, alongside the iconic seven-spired National Martyrs' Memorial in Savar, built to honour those who died in the 1971 Liberation War. The reverse side depicts additional national imagery reinforcing Bangladesh's heritage and independence. The 2023 date represents a signature variant within the long-running series.",
     "highlights": {
-      "reason": "Continued circulation honoring current and historical Thai royal succession.",
-      "design": "King Rama X portrait with holographic elements and historical Rama VII and VIII portrayed on reverse.",
-      "security": "Holographic security thread with advanced anti-counterfeiting features for high-value denomination."
+      "design": "Seven-spired National Martyrs' Memorial (Jatiyo Smriti Soudho) at Savar on the obverse.",
+      "reason": "Regular circulation issue representing national identity and commemorating the 1971 Liberation War martyrs.",
+      "security": "Windowed security thread with demetalized Bengali text and denomination, Royal Bengal Tiger watermark, and electrotype bank logo."
     },
     "sources": [
-      "https://www.polymernotes.com/en/news/thailand-his-majesty-king-rama-xs-6th-cycle-birthday-anniversary.html"
+      "https://www.bb.org.bd/en/index.php/currency/twentytaka"
     ],
-    "confidence": "secondary"
+    "confidence": "official"
   },
   {
     "id": "e289",
@@ -6591,20 +6591,20 @@
     "country": "Bangladesh",
     "issuer": "Bangladesh Bank",
     "title": "500 Taka",
-    "description": "Sheikh Mujibur Rahman, National Martyrs' monument (Savar).",
+    "description": "The 500 Taka note features the Central Shaheed Minar on the obverse and the Supreme Court of Bangladesh on the reverse.",
     "hue": 167.1,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/BDE0058ao.jpg",
     "slug": "bangladesh-500-taka-e289",
-    "body": "The 1000 Baht banknote features King Rama X on the obverse in formal regalia. No dedicated 2024 circulation issue was found; however, a 100 Baht polymer commemorative banknote was issued July 23, 2024, for the King's 6th Cycle Birthday (72nd birthday) with portraits in full regalia and ceremonial dress. The 1000 Baht remains in standard circulation with existing design portraying Rama X and historical royal themes.",
+    "body": "The 500 Taka note is a standard circulation issue from Bangladesh Bank dominated by green and measuring 152 x 65 mm. The obverse prominently displays the Central Shaheed Minar — the national monument to those who died in the 1952 Bengali Language Movement — flanked by the blooming Shapla (water lily), Bangladesh's national flower. The reverse features the Supreme Court of Bangladesh, and the note carries colour-shifting ink on the denomination numeral that shifts from green to blue when tilted.",
     "highlights": {
-      "reason": "Standard circulation note for King Rama X era with potential 2024 commemorative recognition.",
-      "design": "King Rama X portrait in formal regalia; related 2024 commemorative issue showed ceremonial dress variants.",
-      "security": "Advanced security features standard to Thai National Banking system for high-value denominations."
+      "design": "Central Shaheed Minar with blooming Shapla water lily on obverse; Supreme Court of Bangladesh on reverse.",
+      "reason": "Regular circulation issue; the Shaheed Minar honours martyrs of the 1952 Bengali Language Movement.",
+      "security": "Colour-shifting ink (green to blue) on denomination numeral, segmented windowed security thread with holographic bank logo, and Sheikh Mujibur Rahman watermark."
     },
     "sources": [
-      "https://www.polymernotes.com/en/news/thailand-his-majesty-king-rama-xs-6th-cycle-birthday-anniversary.html"
+      "https://www.thedailystar.net/business/news/new-tk-500-banknote-hit-market-thursday-4049061"
     ],
-    "confidence": "fallback"
+    "confidence": "secondary"
   },
   {
     "id": "e290",
@@ -6613,14 +6613,20 @@
     "country": "Bangladesh",
     "issuer": "Bangladesh Bank",
     "title": "50 Taka",
-    "description": "Sheikh Mujibar Rahman, Prime Minister Hasina Wajed. Bangabandhu Sheikh Mujibar Rajman Tunnel, Chittagong.",
+    "description": "The 50 Taka 2023 commemorative note features the National Parliament Building on the obverse and the Supreme Court of Bangladesh on the reverse, issued to mark the Golden Jubilee of the Constitution.",
     "hue": 25.2,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/BDEW0073o.jpg",
     "slug": "bangladesh-50-taka-e290",
-    "body": "Sheikh Mujibar Rahman, Prime Minister Hasina Wajed. Bangabandhu Sheikh Mujibar Rajman Tunnel, Chittagong.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "Bangladesh Bank issued this 50 Taka commemorative note on 29 October 2023 to celebrate the Golden Jubilee of the Constitution of the People's Republic of Bangladesh and the Supreme Court (1972-2022). The obverse bears a portrait of Sheikh Mujibur Rahman alongside the National Parliament Building, with the Golden Jubilee logo near the watermark area. The reverse depicts the Supreme Court of Bangladesh, and the note measures 130 x 60 mm, signed by Governor Abdur Rouf Talukder.",
+    "highlights": {
+      "design": "National Parliament Building on obverse with Golden Jubilee logo; Supreme Court of Bangladesh on reverse.",
+      "reason": "Commemorates the 50th anniversary (Golden Jubilee) of Bangladesh's Constitution and Supreme Court (1972-2022).",
+      "security": "Watermark of Sheikh Mujibur Rahman, bank emblem, and electrotype 50; windowed security thread."
+    },
+    "sources": [
+      "https://banknotenews.com/?p=38408"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e291",
@@ -6629,34 +6635,41 @@
     "country": "Cuba",
     "issuer": "Banco Central de Cuba",
     "title": "100 Pesos",
-    "description": "Carlos Manuel de Céspedes.",
+    "description": "The 100 Pesos note features a portrait of Carlos Manuel de Céspedes on the obverse and the Anti-Imperialist Tribune in Havana on the reverse.",
     "hue": 10,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/CUB0124o.jpg",
     "slug": "cuba-100-pesos-e291",
-    "body": "The 100 Pesos note issued by Banco Central de Cuba represents a 2023 emission in Cuba's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2023 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The Cuban 100 Pesos is a standard circulation note of the Banco Central de Cuba, measuring 149 x 70 mm. The obverse depicts Carlos Manuel de Céspedes (1819-1874), the Cuban lawyer and landowner who freed his enslaved workers and launched the Ten Years' War against Spanish colonial rule in 1868. The 2023 issue maintained the established design but was produced using flat printing without high-relief intaglio, representing a production adaptation compared to earlier printings.",
+    "highlights": {
+      "design": "Portrait of Carlos Manuel de Céspedes on obverse; the Tribuna Antimperialista 'José Martí' in Havana on reverse.",
+      "reason": "Regular circulation issue; Céspedes is honoured as the initiator of Cuba's first independence war against Spain.",
+      "security": "Watermark of Carlos Manuel de Céspedes portrait and electrotype 100; security thread."
+    },
+    "sources": [
+      "https://www.leftovercurrency.com/exchange/cuban-pesos/current-cuban-pesos-banknotes/100-cuban-pesos-banknote-carlos-manuel-de-cespedes/"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e292",
     "year": 2023,
     "date": "2009 & 2023",
     "country": "Czechia",
-    "issuer": "Česká Národní Banka",
+    "issuer": "Czech National Bank",
     "title": "5.000 Korun Českých",
-    "description": "Printer.",
+    "description": "The 5,000 Kc note features a portrait of Tomás Garrigue Masaryk, the first President of Czechoslovakia, on the obverse and an allegorical female figure representing Czechoslovakia on the reverse.",
     "hue": 202.6,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/CZR0027o.jpg",
     "slug": "czechia-5-000-korun-esk-ch-e292",
-    "body": "The 5,000 korun note features Tomáš Garrigue Masaryk and measures 170 x 74 mm in dark blue. The 2023 version incorporates new printing technology from the State Printing House. A special holographic variant with nanoeffect film in silver metallic finish was released simultaneously, marking the first holographic application on a Czech circulation banknote, celebrating 100 years of the Czech National Bank.",
+    "body": "The 2023 edition of the CZK 5,000 banknote is the highest denomination in Czech circulation, issued because changes to banknote printing technology at the State Printing Office necessitated a new production run. The design is identical to the 2009 version — featuring T.G. Masaryk on the obverse — but the 2023 printing incorporates covert security elements not visible to the naked eye, made possible by updated equipment. The only visible differences from the 2009 note are the year of issue (2023) and the governor's signature.",
     "highlights": {
-      "reason": "Upgrade to new printing technology and commemoration of 100 years of the Czech National Bank",
-      "design": "Dark blue note featuring Tomáš Garrigue Masaryk with optional holographic film imprint containing the '100 Years NBČ' logo",
-      "security": "Advanced printing technology security features, with special holographic variant using hot-pressed nanoeffect film"
+      "design": "Portrait of Tomás Garrigue Masaryk (first President of Czechoslovakia) on obverse; allegorical Czechoslovakia figure on reverse.",
+      "reason": "Reprint necessitated by new printing technology at the State Printing Office, with covert security upgrades.",
+      "security": "3-mm windowed security thread with demetalized 5000 Kc text, Masaryk portrait watermark with electrotype sitting eagle, colour-shifting ink on denomination, and covert machine-readable features."
     },
     "sources": [
-      "https://www.cnb.cz/cs/cnb-news/tiskove-zpravy/CNB-vydava-novy-vzor-bankovky-5-000-Kc/"
+      "https://www.cnb.cz/en/cnb-news/press-releases/New-version-of-the-CZK-5000-banknote/",
+      "https://www.cnb.cz/en/banknotes-and-coins/banknotes/protective-elements-czk-5000/"
     ],
     "confidence": "official"
   },
@@ -6665,20 +6678,21 @@
     "year": 2023,
     "date": "2008 / 2023",
     "country": "Czechia",
-    "issuer": "Česká Národní Banka",
+    "issuer": "Czech National Bank",
     "title": "1.000 Korun Českých",
-    "description": "Printer. 30th Anniversary of Czech National Bank (1993-2023).",
+    "description": "The 1,000 Kc commemorative note features a portrait of historian František Palacký on the obverse and Kromeriz Castle with an imperial eagle on the reverse, overprinted to mark the 30th anniversary of the Czech National Bank.",
     "hue": 304.8,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/CZRW0031o.jpg",
     "slug": "czechia-1-000-korun-esk-ch-e293",
-    "body": "Commemorative 1,000 korun note issued February 8, 2023, in purple, blue and white, featuring historian František Palacký. The obverse displays an anniversary overprint with a facsimile of the 1993 stamp and a gray anniversary logo by painter Jan Solpery. Limited to 200,000 copies celebrating 30 years of independent Czech and Slovak currencies following the successful 1993 currency split.",
+    "body": "Issued on 8 February 2023, this commemorative 1,000 Kc note celebrates the 30th anniversary of the Czech National Bank (1993-2023). It is based on the standard 2008-dated 1,000 Kc banknote but carries overprints on the obverse consisting of the CNB logo and a facsimile of the original 1993 CZK 1,000 stamp, with the anniversary year text '1993 / 30 / 2023' printed in blue-green colour-shifting ink. Only 200,000 notes were issued with a limit of five per person, making it a collector's item. František Palacký (1798-1876), known as the 'Father of the Nation,' was a renowned Czech historian and politician.",
     "highlights": {
-      "reason": "Celebration of 30th anniversary of the Czech and Slovak currency separation (1993-2023)",
-      "design": "Purple, blue and white note with overprinted 1993 stamp facsimile and optically variable green-blue anniversary logo",
-      "security": "Color-shifting ink in anniversary logo showing gray and blue-green elements"
+      "design": "Portrait of František Palacký on obverse; Kromeriz Castle (UNESCO site) with imperial eagle on reverse; 30th anniversary overprint.",
+      "reason": "Commemorates the 30th anniversary of the Czech National Bank (1993-2023).",
+      "security": "3-mm puce-to-green windowed security thread with demetalized 'CNB1000 Kc', linden leaf in green-to-gold optically variable ink, Palacký portrait watermark."
     },
     "sources": [
-      "https://www.cnb.cz/cs/cnb-news/tiskove-zpravy/CNB-vyda-vyrocni-bankovku-1nbsp000nbspKc-snbsppritiskem-kolku/"
+      "https://banknotenews.com/?p=38819",
+      "https://www.cnb.cz/en/banknotes-and-coins/banknotes/"
     ],
     "confidence": "official"
   },
@@ -6689,14 +6703,21 @@
     "country": "East Caribbean States",
     "issuer": "Eastern Caribbean Central Bank",
     "title": "2 Dollars",
-    "description": "Conch shell, Eastern Caribbean Central Bank building. Sir Isaac Vivian Richards wielding cricket bat. 40th Anniversary of Eastern Caribbean Central Bank (1983-2023).",
+    "description": "The 2 Dollar commemorative polymer note features cricket legend Sir Vivian Richards on the obverse and a Caribbean underwater seascape with the map of the Lesser Antilles on the reverse.",
     "hue": 11.8,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/XCDW0061o.jpg",
     "slug": "east-caribbean-states-2-dollars-e294",
-    "body": "Conch shell, Eastern Caribbean Central Bank building. Sir Isaac Vivian Richards wielding cricket bat. 40th Anniversary of Eastern Caribbean Central Bank (1983-2023).",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "Issued on 6 December 2023 to mark the 40th anniversary of the Eastern Caribbean Central Bank (1983-2023), this EC$2 polymer note was printed by De La Rue and measures 132 x 65 mm. The obverse features West Indian cricket legend Sir Isaac Vivian Alexander Richards wielding a cricket bat, alongside the ECCB headquarters building and a conch shell, while the reverse depicts coral, fish, sea turtles, and the map of the Lesser Antilles. The note represents a global first in currency design — combining reflective silver ink, gold iridescent ink, and holographic blue foil on the same banknote.",
+    "highlights": {
+      "design": "Sir Vivian Richards with cricket bat on obverse; Caribbean coral reef and Lesser Antilles map on reverse.",
+      "reason": "Commemorates the 40th anniversary of the Eastern Caribbean Central Bank (1983-2023).",
+      "security": "Polymer substrate with transparent window, reflective silver ink, gold iridescent ink, and holographic blue foil — a combination used for the first time on any banknote globally."
+    },
+    "sources": [
+      "https://banknotenews.com/?p=42258",
+      "https://dominicanewsonline.com/news/homepage/news/new-ec2-commemorative-polymer-banknote-enters-circulation-tomorrow/"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e295",
@@ -6705,14 +6726,21 @@
     "country": "Egypt",
     "issuer": "Central Bank of Egypt",
     "title": "10 Pounds",
-    "description": "Al-Fatah al-Aleem mosque, Cairo.",
+    "description": "The 10 Pounds polymer note features the Al-Fattah Al-Aleem Mosque of Egypt's New Administrative Capital on the obverse and a statue of Pharaoh Hatshepsut on the reverse.",
     "hue": 21.7,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/EGYW0081o.jpg",
     "slug": "egypt-10-pounds-e295",
-    "body": "The 10 Pounds note issued by Central Bank of Egypt represents a 2023 emission in Egypt's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2023 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "Egypt's first polymer banknote, the 10 Pounds, was introduced by the Central Bank of Egypt in July 2022 and continued into 2023 circulation, marking the country's migration away from paper currency. The obverse showcases the Al-Fattah Al-Aleem Mosque — a centrepiece of Egypt's New Administrative Capital — while the reverse displays the statue of female Pharaoh Hatshepsut, blending Islamic and ancient Egyptian heritage. The note incorporates a KINEGRAM COLORS patch from KURZ applied over a clear polymer window, exhibiting a Surface Relief 3D effect and a dynamic FLUX movement effect.",
+    "highlights": {
+      "design": "Al-Fattah Al-Aleem Mosque (New Administrative Capital) on obverse; statue of Pharaoh Hatshepsut on reverse.",
+      "reason": "Marks Egypt's historic transition to polymer currency, reflecting both the new capital's modern Islamic architecture and Pharaonic heritage.",
+      "security": "KINEGRAM COLORS holographic patch over polymer window with 3D Surface Relief and FLUX movement effects; colour-shifting copper 10 numeral; UV-reactive foliage and Islamic motifs."
+    },
+    "sources": [
+      "https://www.kurz-banknotes.com/newsroom/press/news/10-egyptian-pounds-banknote-with-kinegram-colorsr-patch-issued-by-the-central-bank-of-egypt-cbe/",
+      "https://www.cbe.org.eg/en/news-publications/news/"
+    ],
+    "confidence": "official"
   },
   {
     "id": "e296",
@@ -6721,14 +6749,21 @@
     "country": "Egypt",
     "issuer": "Central Bank of Egypt",
     "title": "20 Pounds",
-    "description": "Mohammed Ali mosque, Cairo.",
+    "description": "The 20 Pounds polymer note features the Mohamed Ali (Alabaster) Mosque on the obverse and Queen Cleopatra's statue with the Great Pyramids on the reverse.",
     "hue": 173.8,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/EGYW0082o.jpg",
     "slug": "egypt-20-pounds-e296",
-    "body": "The 20 Pounds note issued by Central Bank of Egypt represents a 2023 emission in Egypt's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2023 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The Central Bank of Egypt issued its 20 Pounds polymer note in June 2023, extending the country's polymer migration that began with the 10 Pounds note. The green polymer note (137 x 69 mm) bears the signature of Governor Hassan Abdullah and features the Mohamed Ali Mosque — also known as the Alabaster Mosque — atop Cairo's Citadel on the obverse, while the reverse depicts Queen Cleopatra's statue, the Great Pyramids, and a Pharaonic military chariot. The design intentionally juxtaposes Egypt's Islamic heritage with its ancient civilisation.",
+    "highlights": {
+      "design": "Mohamed Ali (Alabaster) Mosque on obverse; Cleopatra's statue, Great Pyramids, and Pharaonic chariot on reverse.",
+      "reason": "Part of Egypt's strategic migration to longer-lasting polymer banknotes, issued in June 2023.",
+      "security": "Transparent polymer window with image of mosque and denomination in Arabic script; tactile emboss feature; polymer substrate providing water and dust resistance."
+    },
+    "sources": [
+      "https://www.cbe.org.eg/en/news-publications/news/2023/06/20/07/54/the-central-bank-of-egypt-issues-the-new-20-pound-polymer-banknote",
+      "https://platform.keesingtechnologies.com/egypt-issues-its-first-20-pound-polymer-banknote/"
+    ],
+    "confidence": "official"
   },
   {
     "id": "e297",
@@ -6737,14 +6772,20 @@
     "country": "Ethiopia",
     "issuer": "National Bank of Ethiopia",
     "title": "100 Birr",
-    "description": "Enqulal Gemb fortress (Gondar).",
+    "description": "The 100 Birr note features the Enqulab Gemb fortress in Gondar and a lion's head on the obverse, with the Sof Omar Caves and Harar city gates on the reverse.",
     "hue": 211.6,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/ETHW2020-100o.jpg",
     "slug": "ethiopia-100-birr-e297",
-    "body": "The 100 Birr note issued by National Bank of Ethiopia represents a 2023 emission in Ethiopia's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2023 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The 100 Birr is the highest regular denomination issued by the National Bank of Ethiopia, dated Ethiopian Year 2015 (equivalent to AD 2023), and represents a signature variant of the series introduced in 2020. The blue note measuring 147 x 72 mm showcases the Enqulab Gemb fortress in Gondar — a UNESCO World Heritage Site — alongside a lion's head on the obverse, while the reverse depicts the Sof Omar Caves (the largest cave system in Africa) and the gates of the historic walled city of Harar. The security thread is a 4-mm Rolling Star windowed thread.",
+    "highlights": {
+      "design": "Enqulab Gemb (Fasil Ghebbi) fortress in Gondar and lion's head on obverse; Sof Omar Caves and Harar gates on reverse.",
+      "reason": "Regular circulation issue; signature variant of the 2020 series, dated Ethiopian Year 2015 (AD 2023).",
+      "security": "4-mm Rolling Star windowed security thread with demetalized 'NBE 100'; watermark depicting a castle and the Axum obelisk."
+    },
+    "sources": [
+      "https://www.banknoteworld.com/ethiopia-100-birr-banknote-2023-p-57a-2-unc.html"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e298",
