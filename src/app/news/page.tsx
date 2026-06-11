@@ -1,5 +1,5 @@
 import type { Metadata } from 'next';
-import { getEmissions } from '@/lib/content';
+import { getEmissions, toEmissionCard } from '@/lib/content';
 import EmissionsGrid from '@/components/EmissionsGrid';
 
 export const metadata: Metadata = {
@@ -9,5 +9,5 @@ export const metadata: Metadata = {
 
 export default async function BanknotesNews() {
   const emissions = await getEmissions();
-  return <EmissionsGrid emissions={emissions} />;
+  return <EmissionsGrid emissions={emissions.map(toEmissionCard)} />;
 }

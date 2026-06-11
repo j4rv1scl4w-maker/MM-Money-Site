@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /studio
+Disallow: /studio-login
+
+Sitemap: https://mmmoneybanknotes.com/sitemap.xml
