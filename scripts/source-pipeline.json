@@ -1,9 +1,9 @@
 {
   "description": "Pipeline per arricchire le emissions con URL reali. Processa in batch da 10, ogni batch viene committato.",
   "total": 493,
-  "processed": 185,
+  "processed": 195,
   "batch_size": 10,
-  "last_committed_batch": 19,
+  "last_committed_batch": 20,
   "items": [
     {
       "id": "e47",
@@ -2644,7 +2644,7 @@
         "Bank Al-Maghrib"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -2656,7 +2656,7 @@
         "Bank Al-Maghrib"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -2668,7 +2668,7 @@
         "Central Bank of Myanmar"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -2680,7 +2680,7 @@
         "Bank of Namibia"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -2692,7 +2692,7 @@
         "Nepal Rastra Bank"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -2704,7 +2704,7 @@
         "Ulster Bank Limited"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -2716,7 +2716,7 @@
         "State Bank of Pakistan"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -2728,7 +2728,7 @@
         "Bank of Papua New Guinea"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -2740,7 +2740,7 @@
         "Bank of Papua New Guinea"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -2752,7 +2752,7 @@
         "Bank of Papua New Guinea"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
