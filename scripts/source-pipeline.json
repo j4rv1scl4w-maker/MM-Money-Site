@@ -1,9 +1,9 @@
 {
   "description": "Pipeline per arricchire le emissions con URL reali. Processa in batch da 10, ogni batch viene committato.",
   "total": 493,
-  "processed": 235,
+  "processed": 245,
   "batch_size": 10,
-  "last_committed_batch": 24,
+  "last_committed_batch": 25,
   "items": [
     {
       "id": "e47",
@@ -3244,7 +3244,7 @@
         "Bangladesh Bank"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -3256,7 +3256,7 @@
         "Bangladesh Bank"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -3268,7 +3268,7 @@
         "Bangladesh Bank"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -3280,7 +3280,7 @@
         "Banco Central de Cuba"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -3292,7 +3292,7 @@
         "Česká Národní Banka"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -3304,7 +3304,7 @@
         "Česká Národní Banka"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -3316,7 +3316,7 @@
         "Eastern Caribbean Central Bank"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -3328,7 +3328,7 @@
         "Central Bank of Egypt"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -3340,7 +3340,7 @@
         "Central Bank of Egypt"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -3352,7 +3352,7 @@
         "National Bank of Ethiopia"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
