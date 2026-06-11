@@ -1,9 +1,9 @@
 {
   "description": "Pipeline per arricchire le emissions con URL reali. Processa in batch da 10, ogni batch viene committato.",
   "total": 493,
-  "processed": 175,
+  "processed": 185,
   "batch_size": 10,
-  "last_committed_batch": 18,
+  "last_committed_batch": 19,
   "items": [
     {
       "id": "e47",
@@ -2524,7 +2524,7 @@
         "Kyrgyz Banky"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -2536,7 +2536,7 @@
         "Banco da China"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -2548,7 +2548,7 @@
         "Bank of Mauritius"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -2560,7 +2560,7 @@
         "Bank of Mauritius"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -2572,7 +2572,7 @@
         "Bank of Mauritius"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -2584,7 +2584,7 @@
         "Banco de México"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -2596,7 +2596,7 @@
         "Banco de México"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -2608,7 +2608,7 @@
         "Mongolbank"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -2620,7 +2620,7 @@
         "Bank Al-Maghrib"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -2632,7 +2632,7 @@
         "Bank Al-Maghrib"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {

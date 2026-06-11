@@ -5159,32 +5159,46 @@
     "year": 2023,
     "date": "2023",
     "country": "Kyrgyzstan",
-    "issuer": "Kyrgyz Banky",
+    "issuer": "National Bank of the Kyrgyz Republic",
     "title": "5.000 Som",
-    "description": "Syimonkyl Tchokmorov, mountain.",
+    "description": "Green banknote featuring portrait of renowned actor Suymenkul Chokmorov and the historic Ala-Too Theater on the reverse.",
     "hue": 123,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/KYRW40o.jpg",
     "slug": "kyrgyzstan-5-000-som-e226",
-    "body": "The 5.000 Som note issued by Kyrgyz Banky represents a 2023 emission in Kyrgyzstan's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2023 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The 5,000 Som banknote was introduced as part of Kyrgyzstan's fifth currency series modernization and entered circulation on May 10, 2024. The obverse features Suymenkul Chokmorov (1939-1992), a celebrated Kyrgyz actor and artist, with the inscription on the obverse. The reverse depicts the iconic Ala-Too Theater, a symbol of Kyrgyz cultural heritage. Measuring 156 x 73 mm on white paper, this denomination represents the highest value note in the new series.",
+    "highlights": {
+      "design": "Color-shifting ink ornament on left side of portrait shifts from gold to jade when tilted, combined with the Theater imagery on reverse.",
+      "reason": "Part of the fifth series modernization to enhance currency security and replace older denominations in circulation.",
+      "security": "Windowed Rapid HD Detect security thread with 5000, SPARK Live colour-changing vignette (gold to green), iridescent ink stripe on reverse, and latent image of Som symbol."
+    },
+    "sources": [
+      "https://banknotedb.com/5-000-som-2023-2024",
+      "https://www.nbkr.kg/index1.jsp?item=1571&lang=ENG"
+    ],
+    "confidence": "official"
   },
   {
     "id": "e227",
     "year": 2023,
     "date": "01.01.2023",
     "country": "Macau",
-    "issuer": "Banco da China",
+    "issuer": "Banco da China and Banco Nacional Ultramarino",
     "title": "10 Patacas",
-    "description": "Rabbit, zodiac. Year of the Rabbit 2023.",
+    "description": "Red, orange, and green commemorative banknote celebrating the Year of the Rabbit with stylized rabbit imagery and traditional Macanese architecture.",
     "hue": 4,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/MAC0126o.jpg",
     "slug": "macau-10-patacas-e227",
-    "body": "The 10 Patacas note issued by Banco da China represents a 2023 emission in Macau's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2023 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The 10 Patacas 2023 Year of the Rabbit commemorative is a special-issue banknote issued by Banco da China to celebrate the Chinese zodiac animal for 2023. The obverse features a stylized red rabbit, Chinese lantern, and SPARK 10 design elements. The reverse displays the iconic Banco da China building in Macau, the historic A-Ma Temple, and additional rabbit imagery representing lunar prosperity. Measuring 138 x 69 mm, this note is part of a comprehensive zodiac series issued from 2012-2023 celebrating each lunar year.",
+    "highlights": {
+      "design": "Stylized rabbit imagery integrated with Chinese zodiac symbols and Macanese cultural landmarks including A-Ma Temple and Banco da China headquarters.",
+      "reason": "Commemorative issuance celebrating the Year of the Rabbit in the Chinese lunar calendar as part of Macau's annual zodiac banknote series.",
+      "security": "4-mm wide windowed security thread with demetalized 10 and lotus flower watermark with electrotype 10."
+    },
+    "sources": [
+      "https://www.banknoteworld.com/macau-10-patacas-banknote-2023-p-126-unc-commemorative-year-of-the-rabbit-2023-tap-authenticated.html",
+      "https://www.numiscollection.com/macao-10-patacas-rabbits-year-bnu-2023-unc-a54169-en.html"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e228",
@@ -5193,18 +5207,19 @@
     "country": "Mauritius",
     "issuer": "Bank of Mauritius",
     "title": "100 Rupees",
-    "description": "Remark.",
+    "description": "Orange and brown banknote honoring the nation's founding father, featuring Sir Seewoosagur Ramgoolam and the historic Bank of Mauritius building.",
     "hue": 14,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/MRS0056ao.jpg",
     "slug": "mauritius-100-rupees-e228",
-    "body": "The 50 Euro banknote is part of the common European currency issued by De Nederlandsche Bank and other eurozone central banks. In 2024, DNB printed 85 million 50-euro notes. The note is a favored target for counterfeiters; improved security features were added since 2017. DNB removed 24,100 counterfeit €50 notes from circulation in 2024, despite representing well below the past decade's average.",
+    "body": "The 100 Rupees banknote features Sir Seewoosagur Ramgoolam KCMG (1900-1985), known as the 'Father of the Nation' and Mauritius' first Prime Minister, prominently displayed at the left. The design incorporates the Mauritius Coat of Arms at lower left, classical facades of the old Bank of Mauritius building in the underprint, and a figure of Blindfolded Lady Justice holding balance scales and a sword. The banknote includes tri-lingual text in English, Hindi, and Tamil, and incorporates imagery of a dodo bird head.",
     "highlights": {
-      "reason": "Common European currency with enhanced security to combat counterfeiting.",
-      "design": "Features advanced security elements introduced in 2017 redesign.",
-      "security": "Enhanced anti-counterfeiting features; most frequently counterfeited euro denomination."
+      "design": "Portrait of national hero Ramgoolam combined with symbolic representations of justice and the extinct dodo bird, an emblem of Mauritius.",
+      "reason": "2023 issuance honors Seewoosagur Ramgoolam's pivotal role in Mauritius' path to independence and establishing the nation's democratic institutions.",
+      "security": "Windowed security thread with demetalized BANK OF MAURITIUS and watermark of dodo bird with cornerstones; printed by De La Rue."
     },
     "sources": [
-      "https://www.dnb.nl/en/general-news/press-release-2024/number-of-counterfeit-banknotes-down-sharply-in-the-netherlands/"
+      "https://www.bom.mu/bank-notes-coins/bank-notes/virtual-museum",
+      "https://en.numista.com/catalogue/pieces2582.html"
     ],
     "confidence": "secondary"
   },
@@ -5215,18 +5230,19 @@
     "country": "Mauritius",
     "issuer": "Bank of Mauritius",
     "title": "200 Rupees",
-    "description": "Remark.",
+    "description": "Brown and cream banknote depicting Sir Charles Gaetan Duval, a prominent lawyer and political leader of the Parti Mauricien Social Democrate.",
     "hue": 81,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/MRS0061ao.jpg",
     "slug": "mauritius-200-rupees-e229",
-    "body": "The 10 New Zealand Dollar polymer banknote, part of Series 7 (Brighter Money series), features Kate Sheppard on the obverse and the blue duck (whio) on the reverse. Released in October 2015 with security features including a large transparent window with intricate details and fern/koru patterns. Polymer composition ensures durability: lasts 4.8 times longer than prior cotton-paper notes.",
+    "body": "The 200 Rupees banknote honors Sir Charles Gaetan Duval, Q.C. (1930-1996), a lawyer, statesman, and influential politician who led the Parti Mauricien Social Democrate (PMSD) during Mauritius' critical development period. His portrait appears at the left of the obverse, alongside the Mauritius Coat of Arms at lower left. The design includes facades of the historic Bank of Mauritius building in the underprint and features Blindfolded Lady Justice holding balance scales and a sword, symbolizing the rule of law and justice in the nation. The note measures 150 x 72 mm and includes tri-lingual inscriptions in English, Hindi, and Tamil.",
     "highlights": {
-      "reason": "Series 7 modernization of New Zealand's polymer banknote family since 1999.",
-      "design": "Features Kate Sheppard and native blue duck (whio) with transparent security window.",
-      "security": "Large transparent window with intricate details, fern and koru border patterns."
+      "design": "Portrait of political leader Duval integrated with classical Bank of Mauritius architecture and allegorical Justice imagery.",
+      "reason": "2023 issuance commemorates Charles Gaetan Duval's contributions as a jurist and statesman during Mauritius' path toward independence and democratic governance.",
+      "security": "Windowed security thread with demetalized BANK OF MAURITIUS, watermark of dodo bird with cornerstones; printed by De La Rue on paper measuring 150 x 72 mm."
     },
     "sources": [
-      "https://www.rbnz.govt.nz/money-and-cash/banknotes-and-coins/banknotes-in-circulation/10-banknote"
+      "https://www.banknoteworld.org/mauritius-200-rupees-2023-p-61e.html",
+      "https://www.banknoteworld.com/blog/new-mauritius-1000-200-100-rupees-polymer-banknotes-announced/"
     ],
     "confidence": "secondary"
   },
@@ -5237,80 +5253,88 @@
     "country": "Mauritius",
     "issuer": "Bank of Mauritius",
     "title": "500 Rupees",
-    "description": "Sookdeo Bissoondoyal.",
+    "description": "Orange-hued banknote featuring independence activist Sookdeo Bissoondoyal and the University of Mauritius on the reverse.",
     "hue": 3,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/MRS0066o.jpg",
     "slug": "mauritius-500-rupees-e230",
-    "body": "The 500 Rupees note issued by Bank of Mauritius represents a 2023 emission in Mauritius's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2023 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The 500 Rupees banknote honors Sookdeo Bissoondoyal (1908-1977), a Mauritian politician and influential figure in the independence movement who shaped the nation's early political development. His portrait is prominently featured on the obverse. The reverse displays the University of Mauritius building and palm trees in Reduit, symbolizing the nation's commitment to education and development. The note includes the Mauritius Coat of Arms, bank building facade, and Standing Justice with sword and scales. The banknote features a silver foil oval security element and tri-lingual text in English, Hindi, and Tamil.",
+    "highlights": {
+      "design": "Bissoondoyal's portrait combined with the University of Mauritius symbol, representing the link between political leadership and educational advancement.",
+      "reason": "2023 issuance recognizes Sookdeo Bissoondoyal's pivotal role in Mauritius' struggle for independence and nation-building efforts.",
+      "security": "Silver foil oval security element, demetalized security features, and watermark elements; printed by De La Rue on paper measuring 155 x 74 mm."
+    },
+    "sources": [
+      "https://en.numista.com/catalogue/note211029.html",
+      "https://www.banknoteworld.com/blog/the-500-rupees-polymer-banknote-dedicated-to-mauritian-politician-opposition-leader-sookdeo-bissoondoyal/"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e231",
     "year": 2023,
     "date": "2020-2023",
     "country": "Mexico",
-    "issuer": "Banco de México",
+    "issuer": "Banco de Mexico",
     "title": "100 Pesos",
-    "description": "Printer.",
+    "description": "Red polymer banknote honoring Sor Juana Ines de la Cruz with monarch butterfly imagery representing Mexico's natural heritage.",
     "hue": 358,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/MEXW2020-0100-AEo.jpg",
     "slug": "mexico-100-pesos-e231",
-    "body": "The 500 Nicaraguan Córdoba note, issued on polymer substrate since 2017, features landmarks and historical sites from Nicaragua's provinces. A 2023 improvement added a tactile element with 24 dots in four columns on the lower corners to assist visually impaired users. The banknote continues in circulation alongside newer versions as the older notes gradually deteriorate from use.",
+    "body": "The 100 Pesos 2023 banknote celebrates Sor Juana Ines de la Cruz, regarded as the most important poet and writer of nuevo Hispanic literature, on the obverse. The design features the colonial-era patio of San Ildefonso College, symbolizing Mexico's intellectual heritage during the colonial period. The reverse depicts monarch butterflies (Danaus plexippus) and the Monarch Butterfly Biosphere Reserve, highlighting Mexico's biodiversity and commitment to environmental conservation. Measuring 132 x 65 mm on red polymer substrate with vertical orientation.",
     "highlights": {
-      "reason": "2023 accessibility improvement for visually impaired users.",
-      "design": "Features Nicaraguan historical figures and provincial landmarks.",
-      "security": "Polymer substrate with tactile identification elements for the visually impaired."
+      "design": "Integration of Sor Juana's intellectual legacy with the iconic monarch butterfly migration, symbolizing Mexico's cultural and natural treasures.",
+      "reason": "2023 issuance honors Sor Juana Ines de la Cruz's pioneering contributions to Mexican letters and celebrates the monarch butterfly's significance to Mexico's ecosystem.",
+      "security": "Simulated security thread with printed 100 PESOS and butterflies; transparent window on Bank of Mexico Gate with butterfly imagery and raised number 100."
     },
     "sources": [
-      "https://www.bcn.gob.ni/billete-de-500-c%C3%B3rdobas"
+      "https://www.banxico.org.mx/banknotes-and-coins/100-peso-banknote-circulation.html"
     ],
-    "confidence": "secondary"
+    "confidence": "official"
   },
   {
     "id": "e232",
     "year": 2023,
     "date": "2019-2023",
     "country": "Mexico",
-    "issuer": "Banco de México",
+    "issuer": "Banco de Mexico",
     "title": "1.000 Pesos",
-    "description": "Printer.",
+    "description": "Gray and blue banknote featuring three independence-era figures — Carmen Serdan, Hermila Galindo, and Francisco I. Madero — with jaguar and Mayan temple imagery.",
     "hue": 199,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/MEXW2019-1000-20190610-ABo.jpg",
     "slug": "mexico-1-000-pesos-e232",
-    "body": "The 1,000 Nicaraguan Córdoba note, introduced January 2, 2017, on polymer substrate, measures 156 x 67 mm in green. The obverse depicts Casa Hacienda San Jacinto in Managua (site of the 1856 National War battle), while other design elements celebrate Nicaraguan heritage. The 1,000-córdoba denomination was created in 2016 to facilitate high-value transactions and ease handling for citizens.",
+    "body": "The 1,000 Pesos 2023 banknote features three pivotal figures from Mexico's independence and revolution: Carmen Serdan, Hermila Galindo, and Francisco I. Madero. This historic note is notable as the first Mexican banknote to feature three characters — two women and a man — in equal prominence. The obverse displays a steam locomotive alongside the three portraits, symbolizing Mexico's modernization. The reverse depicts a jaguar and the Mayan temple of Calakmul, connecting Mexico's pre-Hispanic heritage with its post-revolutionary identity. Dated 07 February 2023, and measuring 153 x 65 mm.",
     "highlights": {
-      "reason": "Introduced to facilitate high-value transactions and ease daily currency handling.",
-      "design": "Features Casa Hacienda San Jacinto, a significant Nicaraguan heritage site.",
-      "security": "Polymer substrate with modern security features since 2017."
+      "design": "Unprecedented representation of three historical figures on a Mexican banknote, with jaguar and archaeological heritage symbolizing Mexico's indigenous roots.",
+      "reason": "2023 issuance commemorates Mexico's independence movement and celebrates the contributions of women (Serdan, Galindo) and Francisco I. Madero to Mexican history.",
+      "security": "Windowed security thread with demetalized 1000, watermark of Francisco I. Madero with electrotype 1000; printed on cotton substrate."
     },
     "sources": [
-      "https://www.bcn.gob.ni/billete-sin-circular-de-1000-c%C3%B3rdobas"
+      "https://www.banxico.org.mx/banknotes-and-coins/pagina-banknotes-and-coins00001.html"
     ],
-    "confidence": "secondary"
+    "confidence": "official"
   },
   {
     "id": "e233",
     "year": 2023,
     "date": "2019 & 2023",
     "country": "Mongolia",
-    "issuer": "Mongolbank",
+    "issuer": "Bank of Mongolia",
     "title": "20.000 Tögrög",
-    "description": "Remark.",
+    "description": "Yellow, purple, and green banknote featuring Chinggis Khan and enhanced security features upgraded from 2018 counterfeiting concerns.",
     "hue": 50,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/MONW0078o.jpg",
     "slug": "mongolia-20-000-t-gr-g-e233",
-    "body": "The 200 Nigerian Naira note, dated 2024 with signature updates, is a red banknote measuring 151 x 78 mm. The obverse features Alhaji Sir Ahmadu Bello, while the reverse depicts cattle and crops symbolizing Nigerian agriculture. Security features include a windowed metallic security thread inscribed 'CBN' and a watermark of Alhaji Bello. Part of the 2022 Central Bank redesign series.",
+    "body": "The 20,000 Tugrik 2023 banknote features Chinggis Khan, the legendary founder of the Mongol Empire, on the obverse alongside a paiza (royal tablet) and the national coat of arms of Mongolia. The reverse displays the Flags of the Golden Horde, commemorating Mongol historical legacy. Measuring 152 x 72 mm and dated 2023, this denomination represents part of the Bank of Mongolia's comprehensive security upgrade targeting the three highest denominations (5,000, 10,000, and 20,000 Togrog) which were most vulnerable to counterfeiting.",
     "highlights": {
-      "reason": "Part of Central Bank of Nigeria's 2022 currency modernization initiative.",
-      "design": "Features Alhaji Sir Ahmadu Bello with cattle and crops representing agriculture.",
-      "security": "Windowed metallic security thread with CBN inscription and watermark."
+      "design": "Chinggis Khan portrait combined with paiza and Golden Horde flags, emphasizing Mongolia's historical dominance and empire-building legacy.",
+      "reason": "2023 issuance includes advanced security features to prevent counterfeiting of high-denomination notes critical to Mongolia's currency circulation.",
+      "security": "Solid security thread with modified design, watermark of Chinggis Khan with electrotype, representing upgraded security standards implemented across the highest denominations."
     },
     "sources": [
-      "https://platform.keesingtechnologies.com/new-nigerian-banknotes-with-modified-colours-security-ink/"
+      "https://www.mongolbank.mn/en/banknote",
+      "https://www.banknoteworld.com/mongolia-20-000-tugrik-banknote-2023-p-78b-unc.html"
     ],
-    "confidence": "secondary"
+    "confidence": "official"
   },
   {
     "id": "e234",
@@ -5319,14 +5343,21 @@
     "country": "Morocco",
     "issuer": "Bank Al-Maghrib",
     "title": "20 Dirhams",
-    "description": "University Al Quaraouiyine (Fez); King Mohamed VI.",
+    "description": "Purple banknote celebrating Morocco's architectural heritage, featuring King Mohammed VI and the Al Quaraouiyine University in Fez.",
     "hue": 273,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/MRQW0079o.jpg",
     "slug": "morocco-20-dirhams-e234",
-    "body": "University Al Quaraouiyine (Fez); King Mohamed VI. Issued by Bank Al-Maghrib, the 20 Dirhams from 2023 represents Morocco's contemporary currency circulation. This denomination supports both retail and commercial transactions throughout the economy. The note incorporates modern security printing technology including enhanced color registration, microprinting elements, and updated security thread specifications. As a 2023 variant, this issue maintains visual consistency with the established series design while incorporating refined production techniques. The banknote serves as both a functional medium of exchange and a representation of national identity and monetary authority.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The 20 Dirhams 2023 banknote celebrates Morocco's rich architectural and cultural heritage. The obverse features a portrait of King Mohammed VI, the Moroccan coat of arms, and architectural details inspired by traditional Moroccan portals alongside Al Quaraouiyine University in Fez — the world's oldest continuously functioning university. The reverse showcases symbols of Moroccan modernity including the Grand Theatre of Rabat, the Mohammed VI Museum of Modern and Contemporary Art, and a stylized view of the Kasbah of Ait-Ben-Haddou. Measuring 130 x 70 mm, the note was introduced on August 21, 2024.",
+    "highlights": {
+      "design": "Al Quaraouiyine University imagery linked with contemporary cultural institutions (Grand Theatre, Modern Art Museum), bridging historical and modern Morocco.",
+      "reason": "2023 issuance highlights Morocco's architectural heritage and socio-cultural development while emphasizing the nation's commitment to preserving historical monuments.",
+      "security": "Dynamic color-shifting security thread, iridescent stripe on reverse, tactile relief features for visually impaired individuals, and progressive numbering; designed and produced by Dar As-Sikkah."
+    },
+    "sources": [
+      "https://www.banknoteworld.com/morocco-20-dirhams-banknote-2023-p-79-unc.html",
+      "https://www.moroccoworldnews.com/2024/08/15681/new-20-dirham-banknote-issued-on-youth-day-celebrating-moroccos-architectural-heritage/"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e235",
@@ -5335,14 +5366,21 @@
     "country": "Morocco",
     "issuer": "Bank Al-Maghrib",
     "title": "50 Dirhams",
-    "description": "King Mohammed VI, Ouzoud Falls.",
+    "description": "Green banknote highlighting King Mohammed VI's sustainability vision, featuring Ouzoud Falls and renewable energy projects across Morocco.",
     "hue": 100,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/MRQW0080o.jpg",
     "slug": "morocco-50-dirhams-e235",
-    "body": "The 50 Dirhams note issued by Bank Al-Maghrib represents a 2023 emission in Morocco's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2023 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The 50 Dirhams 2023 banknote emphasizes Morocco's commitment to renewable energy and environmental sustainability under King Mohammed VI's leadership. The obverse features the portrait of King Mohammed VI, the Moroccan coat of arms, and the stunning Ouzoud Falls — Morocco's most spectacular waterfall. The reverse showcases Morocco's pioneering renewable energy initiatives, including the Noor Ouarzazate solar station (one of the world's largest concentrated solar power complexes), the Ouirgane Dam, and the desalination station in Agadir. Saffron flowers and wind turbines complete the environmental narrative. Measuring 137 x 70 mm, dated 2023, introduced on July 30, 2024.",
+    "highlights": {
+      "design": "Ouzoud Falls paired with renewable energy infrastructure (solar station, wind turbines, desalination facility) symbolizing Morocco's green energy transition.",
+      "reason": "2023 issuance celebrates King Mohammed VI's environmental vision and Morocco's position as a leader in renewable energy and sustainable development in Africa.",
+      "security": "Blue-to-green windowed security thread with demetalized five-pointed star; watermark of King Mohammed VI with electrotype 50; dynamic color-shifting effect, iridescent band on reverse, front-to-back registration, and raised patterns for visually impaired."
+    },
+    "sources": [
+      "https://www.bkam.ma/en/Banknotes-and-coins/Cash-lifecycle/Banknotes-in-circulation/2023-series/50-dh-banknote",
+      "https://www.moroccoworldnews.com/2024/08/16443/new-50-dirham-banknote-highlights-king-mohammed-vis-sustainability-commitment/"
+    ],
+    "confidence": "official"
   },
   {
     "id": "e236",
