@@ -1,9 +1,9 @@
 {
   "description": "Pipeline per arricchire le emissions con URL reali. Processa in batch da 10, ogni batch viene committato.",
   "total": 493,
-  "processed": 125,
+  "processed": 135,
   "batch_size": 10,
-  "last_committed_batch": 13,
+  "last_committed_batch": 14,
   "items": [
     {
       "id": "e47",
@@ -1918,7 +1918,7 @@
         "Central Bank of Kenya"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -1930,7 +1930,7 @@
         "Central Bank of Kenya"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -1942,7 +1942,7 @@
         "Central Bank of Kenya"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -1954,7 +1954,7 @@
         "Central Bank of Kenya"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -1966,7 +1966,7 @@
         "Central Bank of Kenya"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -1979,7 +1979,7 @@
         "Limited numismatic catalogs"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -1992,7 +1992,7 @@
         "Specialist banknote references"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -2004,7 +2004,7 @@
         "North Korean central bank"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -2016,7 +2016,7 @@
         "North Korean central bank"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -2028,7 +2028,7 @@
         "North Korean central bank"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
