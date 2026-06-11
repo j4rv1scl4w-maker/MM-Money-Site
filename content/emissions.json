@@ -4053,46 +4053,50 @@
   {
     "id": "e176",
     "year": 2024,
-    "date": "2024",
+    "date": "2024-04-05",
     "country": "Zimbabwe",
     "issuer": "Reserve Bank of Zimbabwe",
     "title": "10 ZiG (Zimbabwe Gold)",
-    "description": "Chiremba balancing rock formation.",
+    "description": "Zimbabwe 10 ZiG gold-backed banknote issued April 2024 featuring Chiremba balancing rocks and QR code authentication.",
     "hue": 346,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/ZIMW0110o.jpg",
     "slug": "zimbabwe-10-zig-zimbabwe-gold-e176",
-    "body": "The 10 ZiG (Zimbabwe Gold) note issued by Reserve Bank of Zimbabwe represents a 2024 emission in Zimbabwe's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2024 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
+    "body": "The Reserve Bank of Zimbabwe introduced the 10 ZiG note on April 5, 2024, as part of the initial launch of the gold-backed ZiG currency system replacing the hyperinflated Zimbabwean dollar. This dark blue and red banknote measures 155 x 65 mm and bears the signature of Dr. John Mushayavanhu. The obverse displays the iconic Chiremba balancing rocks located in Epworth, representing Zimbabwe's natural heritage and geological significance. A QR code on the obverse provides instant verification of authenticity when scanned.\n\nThe reverse side depicts molten gold pouring into an ingot mold atop stacked gold bars, symbolizing Zimbabwe's mineral wealth and the currency's gold-backing mechanism. Both sides feature the Zimbabwe Bird as a registration device. Security features include a green-to-blue windowed security thread with demetalized RBZZIG inscription and a Zimbabwe Bird watermark.\n\nThe ZiG (Zimbabwe Gold) was backed by Reserve Bank reserves consisting of USD 100 million in cash and 2,522 kilograms of gold valued at approximately USD 185 million. The 10 ZiG was one of only two denominations that actually entered circulation initially; higher denominations (50, 100, 200 ZiG) were postponed to prevent inflationary pressures during the currency's critical adoption phase.",
     "highlights": {
-      "reason": "Kenyan currency variant",
-      "design": "Kenyan design elements",
-      "security": "Banknote security"
+      "design": "Obverse: Chiremba balancing rocks in Epworth, Zimbabwe Bird registration device, QR code for authentication. Reverse: Molten gold poured into ingot mold, stacked gold bars, Zimbabwe Bird registration device.",
+      "reason": "Initial denomination of the Reserve Bank of Zimbabwe's new gold-backed currency system launched April 5, 2024 to replace the Zimbabwean dollar.",
+      "security": "Green-to-blue windowed security thread with RBZZIG demetalization, Zimbabwe Bird watermark, QR code with plaintext verification string."
     },
     "sources": [
-      "Central Bank of Kenya"
+      "https://www.banknoteworld.com/zimbabwe-10-zig-banknote-2024-p-110-unc.html",
+      "https://en.wikipedia.org/wiki/Zimbabwean_ZiG",
+      "https://banknotenews.com/?p=43618"
     ],
-    "confidence": "fallback"
+    "confidence": "official"
   },
   {
     "id": "e177",
     "year": 2024,
-    "date": "2024",
+    "date": "2024-04-05",
     "country": "Zimbabwe",
     "issuer": "Reserve Bank of Zimbabwe",
     "title": "20 ZiG (Zimbabwe Gold)",
-    "description": "Chiremba balancing rock formation.",
+    "description": "Zimbabwe 20 ZiG gold-backed banknote issued April 2024 featuring Great Zimbabwe ruins and Victoria Falls.",
     "hue": 96,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/ZIMW0111o.jpg",
     "slug": "zimbabwe-20-zig-zimbabwe-gold-e177",
-    "body": "The 20 ZiG (Zimbabwe Gold) note issued by Reserve Bank of Zimbabwe represents a 2024 emission in Zimbabwe's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2024 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
+    "body": "The Reserve Bank of Zimbabwe released the 20 ZiG note on April 5, 2024, as the second active denomination of the newly launched gold-backed currency. The obverse prominently displays the Great Zimbabwe ruins, a UNESCO World Heritage Site representing the nation's pre-colonial architectural achievement and the seat of the Medieval Kingdom of Zimbabwe. The reverse showcases the majestic Victoria Falls, one of the world's most spectacular natural wonders located on the Zambezi River between Zimbabwe and Zambia.\n\nThe banknote's enhanced security features include a dynamic holographic security strip running alongside the central motif, providing sophisticated anti-counterfeiting protection. The serial number appears in striking red font, contributing both to visual appeal and security. The design is further secured by a detailed Zimbabwe Bird watermark that is aligned precisely across both obverse and reverse surfaces.\n\nVictoria Falls, known locally as Mosi-oa-Tunya (The Smoke that Thunders), is one of the Seven Natural Wonders of the World and forms the world's largest curtain of falling water. Its placement on the 20 ZiG banknote alongside the Great Zimbabwe ruins reflects Zimbabwe's pride in both its ancient civilizational heritage and its extraordinary natural landscape. The 20 ZiG and 10 ZiG were the only ZiG denominations in active circulation during 2024.",
     "highlights": {
-      "reason": "Kenyan currency variant",
-      "design": "Kenyan imagery",
-      "security": "Security elements"
+      "design": "Obverse: Great Zimbabwe archaeological ruins (UNESCO World Heritage Site). Reverse: Victoria Falls landscape with Zambezi River.",
+      "reason": "Second denomination of the Reserve Bank of Zimbabwe's gold-backed ZiG currency system, launched April 5, 2024.",
+      "security": "Dynamic holographic security strip, red serial number, Zimbabwe Bird watermark with precise front-to-back alignment."
     },
     "sources": [
-      "Central Bank of Kenya"
+      "https://en.wikipedia.org/wiki/Zimbabwean_ZiG",
+      "https://platform.keesingtechnologies.com/zimbabwe-unveils-a-new-family-of-banknotes-the-zig/",
+      "https://banknotenews.com/?p=43618"
     ],
-    "confidence": "fallback"
+    "confidence": "official"
   },
   {
     "id": "e178",
@@ -4101,20 +4105,21 @@
     "country": "Zimbabwe",
     "issuer": "Reserve Bank of Zimbabwe",
     "title": "50 ZiG (Zimbabwe Gold)",
-    "description": "Remark.",
+    "description": "Zimbabwe 50 ZiG banknote planned for 2024 but postponed due to inflation concerns; eventually released in 2026 as part of the upgraded BiG5 series.",
     "hue": 36,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/ZIMW0112o.jpg",
     "slug": "zimbabwe-50-zig-zimbabwe-gold-e178",
-    "body": "The 50 ZiG (Zimbabwe Gold) note issued by Reserve Bank of Zimbabwe represents a 2024 emission in Zimbabwe's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2024 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
+    "body": "The Reserve Bank of Zimbabwe announced the 50 ZiG denomination as part of the original eight-denomination ZiG banknote series unveiled on April 5, 2024. However, the Reserve Bank postponed its release on May 30, 2024, citing inflationary concerns that higher denomination circulation could destabilize the economy during the currency's critical early adoption phase. The 50 ZiG was held in reserve, along with the 100 and 200 ZiG denominations, while only the 10 and 20 ZiG notes entered initial circulation.\n\nBy early 2026, economic conditions had improved significantly, with official inflation declining substantially, enabling the Reserve Bank to reconsider its conservative approach. The 50 ZiG was released as part of the new BiG5 second-generation series in 2026, featuring enhanced security features and updated designs compared to the original 2024 specifications. This delayed emission reflected monetary policy priorities aimed at establishing currency credibility before introducing higher-value notes.\n\nThe ZiG currency was backed by a combination of USD 100 million in foreign currency and 2,522 kilograms of gold, representing a significant departure from Zimbabwe's previous unsupported currency regimes. The phased introduction strategy demonstrated the Reserve Bank's commitment to sustainable monetary policy following Zimbabwe's turbulent currency history.",
     "highlights": {
-      "reason": "Kenyan currency variant",
-      "design": "Kenyan wildlife/heritage",
-      "security": "Modern features"
+      "design": "Part of ZiG series design family; specific design details per 2026 BiG5 release specifications.",
+      "reason": "Postponed from 2024 launch due to inflation control measures; eventually issued in 2026 as part of upgraded BiG5 series once economic conditions stabilized.",
+      "security": "Enhanced security features as part of 2026 BiG5 series standards."
     },
     "sources": [
-      "Central Bank of Kenya"
+      "https://en.wikipedia.org/wiki/Zimbabwean_ZiG",
+      "https://banknotenews.com/?p=43610"
     ],
-    "confidence": "fallback"
+    "confidence": "secondary"
   },
   {
     "id": "e179",
@@ -4123,20 +4128,21 @@
     "country": "Zimbabwe",
     "issuer": "Reserve Bank of Zimbabwe",
     "title": "100 ZiG (Zimbabwe Gold)",
-    "description": "Remark.",
+    "description": "Zimbabwe 100 ZiG banknote planned for 2024 but not issued; scheduled for later release as part of the BiG5 series.",
     "hue": 102,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/ZIMW0113o.jpg",
     "slug": "zimbabwe-100-zig-zimbabwe-gold-e179",
-    "body": "The 100 ZiG (Zimbabwe Gold) note issued by Reserve Bank of Zimbabwe represents a 2024 emission in Zimbabwe's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2024 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
+    "body": "The 100 ZiG denomination was included in the original comprehensive ZiG banknote series unveiled by the Reserve Bank of Zimbabwe on April 5, 2024. Like the 50 and 200 ZiG notes, its release was postponed indefinitely on May 30, 2024, as monetary authorities determined that introducing higher denominations could exacerbate inflationary pressures during the critical early phase of the new currency's adoption. The Reserve Bank's cautious approach prioritized currency stabilization by limiting circulation to the 10 and 20 ZiG denominations.\n\nThe ZiG was Zimbabwe's sixth attempt at currency stabilization since the country's abandonment of the Zimbabwean dollar in 2009 in favor of a multi-currency system. The gold backing mechanism — supported by 2,522 kilograms of gold reserves and USD 100 million in foreign currency — was intended to provide credibility that previous currency iterations lacked. Restricting higher denominations from circulation was seen as prudent monetary management to preserve this credibility.\n\nAs of early 2026, the 100 ZiG remained in planned status, with the Reserve Bank indicating its eventual inclusion in subsequent phases of the BiG5 series rollout. The specific timeline depends on ongoing assessments of Zimbabwe's monetary stability and inflation metrics.",
     "highlights": {
-      "reason": "Kenyan currency variant",
-      "design": "Kenyan elements",
-      "security": "Features"
+      "design": "High-denomination note within ZiG series portfolio; specific design to be confirmed upon release.",
+      "reason": "Postponed from 2024 launch due to inflation control measures; future release date subject to Reserve Bank monetary policy assessment.",
+      "security": "To be confirmed upon eventual BiG5 series release."
     },
     "sources": [
-      "Central Bank of Kenya"
+      "https://en.wikipedia.org/wiki/Zimbabwean_ZiG",
+      "https://platform.keesingtechnologies.com/coming-soon-zimbabwes-upgraded-big-5-zig-banknote-series/"
     ],
-    "confidence": "fallback"
+    "confidence": "secondary"
   },
   {
     "id": "e180",
@@ -4145,132 +4151,138 @@
     "country": "Zimbabwe",
     "issuer": "Reserve Bank of Zimbabwe",
     "title": "200 ZiG (Zimbabwe Gold)",
-    "description": "Remark.",
+    "description": "Zimbabwe 200 ZiG banknote — highest planned denomination — announced April 2024 but not yet issued; future release contingent on monetary stability.",
     "hue": 340,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/ZIMW0114o.jpg",
     "slug": "zimbabwe-200-zig-zimbabwe-gold-e180",
-    "body": "The 200 ZiG (Zimbabwe Gold) note issued by Reserve Bank of Zimbabwe represents a 2024 emission in Zimbabwe's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2024 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
+    "body": "The Reserve Bank of Zimbabwe included the 200 ZiG as the highest denomination in the original eight-denomination ZiG banknote series announced on April 5, 2024. Its release was postponed on May 30, 2024, alongside the 50 and 100 ZiG notes, as the Reserve Bank determined that introducing large-value denominations during the currency's initial phase could fuel inflationary expectations and undermine the ZiG's market acceptance. This reflected monetary policy conservatism aimed at ensuring the gold-backed currency achieved credibility before high-value notes entered circulation.\n\nThe Reserve Bank's strategy for the ZiG involved a deliberate two-phase approach: first establishing the currency's credibility and public acceptance through limited denomination circulation, then expanding to higher values as economic indicators improved. The 200 ZiG represented the pinnacle of this expansion plan, requiring the highest level of monetary confidence before release.\n\nAs of 2026, the 200 ZiG has not been released and remains in planned status. The Reserve Bank has indicated that higher denominations including the 200 ZiG may eventually be introduced in the BiG5 or subsequent series, but only when macroeconomic conditions and currency stability metrics fully support such action. Zimbabwe's history of hyperinflation means any decision to release higher denominations is made with extraordinary caution.",
     "highlights": {
-      "reason": "Kenyan currency variant",
-      "design": "Kenyan national symbols",
-      "security": "Security measures"
+      "design": "Highest-denomination note within original ZiG series design family; specific design details to be confirmed upon release.",
+      "reason": "Postponed from 2024 launch to prevent inflation; conditional future release pending demonstration of long-term monetary stability.",
+      "security": "To be confirmed upon potential future release."
     },
     "sources": [
-      "Central Bank of Kenya"
+      "https://en.wikipedia.org/wiki/Zimbabwean_ZiG",
+      "https://platform.keesingtechnologies.com/coming-soon-zimbabwes-upgraded-big-5-zig-banknote-series/"
     ],
-    "confidence": "fallback"
+    "confidence": "secondary"
   },
   {
     "id": "e181",
     "year": 2023,
-    "date": "2023",
+    "date": "2023-05-22",
     "country": "Abkhazia",
-    "issuer": "Apsniy Abank (Abkhazian Bank)",
+    "issuer": "National Bank of the Republic of Abkhazia",
     "title": "25 Apsar",
-    "description": "Arms, sailing ship, hawk in flight and head of hawk. 30th anniversary of Victory in the Patriotic War of the People of Abkhazia (1993-2023).",
+    "description": "Abkhazia 25 Apsar commemorative banknote issued May 22, 2023, celebrating the 30th anniversary of the Patriotic War victory.",
     "hue": 88,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/ABKW0002o.jpg",
     "slug": "abkhazia-25-apsar-e181",
-    "body": "North Korea 100 Won, various issues. The obverse typically features the national emblem or portraits of state leaders, reflecting the Democratic People's Republic of Korea's ideological commitment. The reverse displays national symbols, monuments, or imagery celebrating the state. North Korean banknotes emphasize state authority and national pride. Security features are relatively basic by international standards. These notes are rarely circulated outside North Korea and remain difficult to document due to limited international information access. State symbols and leaders vary across issues reflecting political changes.",
+    "body": "The National Bank of the Republic of Abkhazia issued the 25 Apsar commemorative banknote on May 22, 2023, in commemoration of the 30th anniversary of the Patriotic War of the People of Abkhazia (1992-1993). This historic conflict resulted in de facto Abkhazian independence from Georgia and remains central to national identity. The banknote measures 150 mm x 65 mm and was executed on white cotton paper with a limited mintage of 15,000 pieces not distributed for general circulation, maintaining its collector status.\n\nThe obverse side displays the Abkhazian coat of arms, a traditional sailing ship representing maritime heritage, ornamental border designs, a hawk in flight symbolizing national pride and freedom, stars representing the night sky, and a detailed hawk head in profile. The reverse depicts two standing soldiers in military uniform holding swords and a rifle, commemorating the combatants of the 1992-1993 conflict, alongside matching stars and traditional ornamental patterns. A QR code in the lower right of the reverse provides a link to the National Bank website with detailed security feature descriptions.\n\nAbkhazia is a disputed territory on the eastern coast of the Black Sea with a population of approximately 240,000. The Patriotic War, which resulted in the expulsion of Georgian forces, is the defining event of modern Abkhazian statehood. This commemorative banknote employs distinctive orange, yellow, and green coloration and represents the banking institution's use of currency as a vehicle for national commemoration.",
     "highlights": {
-      "reason": "North Korean state currency; state symbols and leadership representation",
-      "design": "National emblem/leadership portraits; state monuments and symbols",
-      "security": "Basic security features; state-controlled printing"
+      "design": "Obverse: Abkhazian coat of arms, sailing ship, hawk in flight, stars, hawk profile. Reverse: Two soldiers with swords and rifle, stars, ornamental patterns, QR code.",
+      "reason": "Commemorative issuance for 30th anniversary of 1992-1993 Patriotic War victory; limited edition of 15,000 pieces not for general circulation.",
+      "security": "Watermark with basket weave pattern, two types of protective fibers, color-shifting HMC hidden multi-colour security element, Orlov effect in offset and metallographic printing, graphic guilloche elements, QR code for verification."
     },
     "sources": [
-      "North Korean central bank documentation",
-      "Limited numismatic catalogs"
+      "https://nb-ra.org/en/issuance-of-a-commemorative-banknote-of-25-apsars-2.html",
+      "https://www.banknoteworld.com/abkhazia-25-apsar-banknote-2023-p-2-unc-commemorative.html",
+      "https://banknotenews.com/?p=40034"
     ],
-    "confidence": "fallback"
+    "confidence": "official"
   },
   {
     "id": "e182",
     "year": 2023,
-    "date": "2020 & 2023",
+    "date": "2023-11",
     "country": "Angola",
     "issuer": "Banco Nacional de Angola",
     "title": "1.000 Kwanzas",
-    "description": "Dr. António Agostinho Neto.",
+    "description": "Angola 1,000 Kwanzas pink polymer banknote issued November 2023 featuring Kalandula waterfalls.",
     "hue": 330,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/ANGW2020-1000o.jpg",
     "slug": "angola-1-000-kwanzas-e182",
-    "body": "North Korea 500 Won, various issues. The obverse features North Korean state symbols, potentially including the national emblem or portraits of political leaders like Kim Il-sung, Kim Jong-il, or Kim Jong-un. The reverse displays national monuments, industrial facilities, or ideological imagery representing the state's achievements. The design emphasizes the Democratic People's Republic's political system and state control. Documentation of these notes is limited due to North Korea's isolation. Security features reflect state printing standards. Variants relate to leadership changes and periodic currency updates.",
+    "body": "The Banco Nacional de Angola issued the 1,000 Kwanzas banknote in November 2023 as part of the ongoing modernization of Angola's currency with polymer substrate materials. The pink-colored note features Kalandula waterfalls, one of Africa's highest waterfalls located on the Lucala River in Malanje Province, with a fall height of approximately 105 meters and a width of 400 meters. These waterfalls represent Angola's natural landmarks and tourism assets.\n\nThe polymer construction ensures superior durability compared to traditional paper notes, extending the banknote's circulation lifespan to approximately four times longer than conventional fiber-based currency. The banknote incorporates two transparent windows cut into the polymer substrate: the first contains a semitransparent representation of O Pensador (The Thinker), a national cultural symbol representing Angolan intellectual heritage, with the denomination printed in translucent ink. The second window features a geometric figure representing the traditional musical instrument Omakola, reflecting Angolan cultural heritage and musical traditions.\n\nKalandula waterfalls, set within a national park of the same name, are the second largest waterfalls in Africa by volume of water and among the largest by width. Their inclusion on Angolan currency reflects the nation's pride in its spectacular natural geography. The polymer substrate and clear windows represent contemporary anti-counterfeiting advances adopted throughout Angola's modern banknote series.",
     "highlights": {
-      "reason": "North Korean state currency; leadership and state symbol representation",
-      "design": "State symbols/leadership; national monuments; ideological imagery",
-      "security": "State-controlled printing; limited documented security features"
+      "design": "Pink-colored polymer note. Obverse: Kalandula waterfalls (Malanje Province), transparent window with Pensador (Thinker) cultural figure. Reverse: Traditional Omakola musical instrument in geometric window.",
+      "reason": "Part of Banco Nacional de Angola's currency modernization program, upgrading to durable polymer substrate with enhanced security features and natural landmark imagery.",
+      "security": "Two transparent polymer windows (Pensador/Thinker figure, Omakola musical instrument), polymer substrate for enhanced durability and counterfeit resistance, translucent ink printing."
     },
     "sources": [
-      "North Korean currency documentation",
-      "Specialist banknote references"
+      "https://www.banknotecoinstamp.com/products/angola-1-000-kwanzas-fine-polymer-banknote",
+      "https://news.coinupdate.com/angola-new-series-of-polymer-banknotes-to-be-introduced-with-designs-highlighting-natural-landmarks/"
     ],
-    "confidence": "fallback"
+    "confidence": "secondary"
   },
   {
     "id": "e183",
     "year": 2023,
-    "date": "2020 & 2023",
+    "date": "2020-11-11",
     "country": "Angola",
     "issuer": "Banco Nacional de Angola",
     "title": "2.000 Kwanzas",
-    "description": "Dr. António Agostinho Neto.",
+    "description": "Angola 2,000 Kwanzas green polymer banknote issued November 2020 featuring Serra da Leba mountain pass.",
     "hue": 93,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/ANGW2020-2000o.jpg",
     "slug": "angola-2-000-kwanzas-e183",
-    "body": "North Korea banknote variant, state symbol series. Represents one of the Democratic People's Republic's currency denominations. North Korean notes emphasize state authority and national pride through portraits of state leaders and national symbols. Documentation on these notes is sparse due to limited international access and North Korea's financial isolation.",
+    "body": "The Banco Nacional de Angola issued the 2,000 Kwanzas banknote on November 11, 2020, as part of the comprehensive redesign of Angola's banknote series using polymer substrates. The green-colored note features Serra da Leba, a dramatic mountain pass in Huila Province renowned for its spectacular hairpin turns and scenic vista over the Namibe Desert below. The Serra da Leba road, engineered in 1971, is considered one of the most beautiful mountain roads in Africa and is a major tourist attraction.\n\nThe polymer material provides enhanced durability, environmental resistance, and counterfeit prevention compared to traditional paper notes. The banknote design incorporates two distinct transparent windows cut into the polymer substrate. The primary window features a semitransparent representation of O Pensador (The Thinker), a significant cultural emblem within Angolan artistic and intellectual traditions, with the denomination printed in translucent ink. A second geometric window represents the Omakola, a traditional Angolan musical instrument, celebrating the nation's rich musical heritage.\n\nSerra da Leba's inclusion on Angola's highest-value polymer banknote reflects the significance of the Huila Province landscape in Angolan national identity. The Angolan 2,000 Kwanzas represents the highest denomination in the polymer series launched in 2020, and the choice of a mountain landscape symbolizes both natural grandeur and the heights of national aspiration.",
     "highlights": {
-      "reason": "North Korean state currency variant; leadership representation",
-      "design": "State symbols and leadership imagery",
-      "security": "State printing standards"
+      "design": "Green-colored polymer note. Obverse: Serra da Leba mountain pass in Huila Province. Transparent windows: Pensador (Thinker) cultural figure and Omakola traditional musical instrument.",
+      "reason": "Issued November 11, 2020 as the highest denomination in Banco Nacional de Angola's polymer banknote series redesign, celebrating natural heritage and cultural identity.",
+      "security": "Transparent polymer windows with cultural imagery (Pensador/Thinker figure, Omakola instrument), polymer substrate for durability and counterfeit resistance, translucent ink effects."
     },
     "sources": [
-      "North Korean central bank"
+      "https://www.banknoteworld.com/banknotes/Banknotes-by-Country/Angola-Currency/",
+      "https://news.coinupdate.com/angola-new-series-of-polymer-banknotes-to-be-introduced-with-designs-highlighting-natural-landmarks/"
     ],
-    "confidence": "fallback"
+    "confidence": "secondary"
   },
   {
     "id": "e184",
     "year": 2023,
-    "date": "ND (2023)",
+    "date": "2023",
     "country": "Argentina",
     "issuer": "Banco Central de la República Argentina",
     "title": "1.000 Pesos",
-    "description": "Printer.",
+    "description": "Argentina 1,000 Pesos banknote (2023) featuring the Rufous Hornero, Argentina's national bird, from the Fourth Series.",
     "hue": 29,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/ARGW0367o.jpg",
     "slug": "argentina-1-000-pesos-e184",
-    "body": "North Korea banknote variant, state symbol series. Issued by Banco Central de la República Argentina, the 1.000 Pesos from 2023 represents Argentina's contemporary currency circulation. This denomination supports both retail and commercial transactions throughout the economy. The note incorporates modern security printing technology including enhanced color registration, microprinting elements, and updated security thread specifications. As a 2023 variant, this issue maintains visual consistency with the established series design while incorporating refined production techniques. The banknote serves as both a functional medium of exchange and a representation of national identity and monetary authority.",
+    "body": "The Banco Central de la República Argentina continues to circulate the 1,000 Pesos banknote in its Fourth Series design featuring the Rufous Hornero (Furnarius rufus), Argentina's national bird. The vibrant red-orange-yellow colored note prominently features the hornero in its natural Pampas habitat alongside native plants, bird paw prints, bird's nests, branches, and flowers that create a naturalistic representation of Pampean ecology. The reverse side showcases the geographic landscape of the Pampas region with a cartographic representation of Argentina's national territory.\n\nThe denomination was first introduced in 2017 and continued through 2023 as the highest standard circulation denomination before new higher-value notes were introduced. The 1,000 Pesos note reflects Argentina's established tradition of featuring indigenous wildlife as national symbols on its currency, celebrating biodiversity and natural heritage. The hornero is particularly beloved in Argentine culture for building elaborate mud nests and is considered a symbol of hard work and industriousness.\n\nThe banknote incorporates multiple security features including a hologram security thread, advanced printing techniques, and tamper-evident design elements. The red-orange-yellow color scheme creates distinctive visual identification, making it easily recognizable for everyday transactions. Argentina's ongoing currency challenges — including significant inflation — led to the rapid introduction of higher denominations alongside continued circulation of the 1,000 Pesos note.",
     "highlights": {
-      "reason": "North Korean currency variant",
-      "design": "State symbols and leadership",
-      "security": "State printing"
+      "design": "Red-orange-yellow colored note. Obverse: Rufous Hornero national bird, nest, paw prints, flora of Pampas. Reverse: Pampas landscape and map of Argentina.",
+      "reason": "Continuing circulation of Argentina's Fourth Series featuring native wildlife; 2023 variant maintains design consistency while meeting circulation demand.",
+      "security": "Hologram security thread, advanced printing techniques, tamper-evident design elements, precise registration features."
     },
     "sources": [
-      "North Korean central bank"
+      "https://www.banknoteworld.com/argentina-1-000-pesos-banknote-2017-nd-p-366a-4-unc.html",
+      "https://www.leftovercurrency.com/exchange/argentine-pesos/current-argentine-peso-banknotes/1000-argentine-pesos-banknote-4th-series-hornero/"
     ],
-    "confidence": "fallback"
+    "confidence": "secondary"
   },
   {
     "id": "e185",
     "year": 2023,
-    "date": "ND (2023)",
+    "date": "2023-05-22",
     "country": "Argentina",
     "issuer": "Banco Central de la República Argentina",
     "title": "2.000 Pesos",
-    "description": "Printer. Development of Science and Medicine in Argentina.",
+    "description": "Argentina 2,000 Pesos commemorative banknote issued May 22, 2023, celebrating the development of science and medicine in Argentina, featuring Dr. Cecilia Grierson and Dr. Ramon Carrillo.",
     "hue": 25,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/ARGW0368o.jpg",
     "slug": "argentina-2-000-pesos-e185",
-    "body": "North Korea banknote variant, state symbol series. Issued by Banco Central de la República Argentina, the 2.000 Pesos from 2023 represents Argentina's contemporary currency circulation. This denomination supports both retail and commercial transactions throughout the economy. The note incorporates modern security printing technology including enhanced color registration, microprinting elements, and updated security thread specifications. As a 2023 variant, this issue maintains visual consistency with the established series design while incorporating refined production techniques. The banknote serves as both a functional medium of exchange and a representation of national identity and monetary authority.",
+    "body": "The Banco Central de la República Argentina issued the 2,000 Pesos banknote on May 22, 2023, as a commemorative note honoring the development of science and medicine in Argentina. This represented the highest denomination banknote ever circulated in Argentine currency history at the time of issue. The note measures 155 mm x 65 mm and features a dark gray and pink color scheme with signatures of C. Moreau and Pesce.\n\nThe obverse prominently displays portraits of two pioneering figures in Argentine medicine: Dr. Cecilia Grierson (1859-1934), the first woman to graduate as a physician in Argentina (1889) and founder of Latin America's first formally structured nursing school; and Dr. Ramon Carrillo (1906-1956), Argentina's first Minister of Health (1946-1954). Additional obverse imagery includes molecular representations, a caduceus symbol in green-to-blue optically variable ink, and modern hospital buildings. The reverse depicts the National Institute of Microbiology in Buenos Aires, a leading research institution.\n\nDr. Grierson's pioneering work in obstetrics and nursing education established foundational standards for healthcare professionalism in Latin America, while Dr. Carrillo's tenure as Health Minister eliminated malaria, eradicated endemic diseases, and dramatically reduced infant mortality through public health innovation. The commemorative nature of this banknote distinguished it within Argentina's currency family and reflected the nation's commitment to honoring scientific achievement.",
     "highlights": {
-      "reason": "North Korean currency variant",
-      "design": "State imagery",
-      "security": "Printing standards"
+      "design": "Dark gray and pink colored note. Obverse: Dr. Cecilia Grierson and Dr. Ramon Carrillo portraits, molecule, caduceus in OVI, hospital buildings. Reverse: National Institute of Microbiology building in Buenos Aires.",
+      "reason": "Commemorative issuance celebrating development of science and medicine in Argentina; highest-denomination Argentine banknote at issue date; honors two pioneering medical figures.",
+      "security": "Watermark of Dr. Grierson and Dr. Carrillo, green-to-blue caduceus optically variable ink (OVI), identification code with tactile relief, microprinting, latent images."
     },
     "sources": [
-      "North Korean central bank"
+      "https://www.bcra.gob.ar/en/billete-de-2000-de-circulacion/",
+      "https://platform.keesingtechnologies.com/argentinas-new-highest-denomination-2000-pesos-banknote/",
+      "https://www.banknoteworld.com/argentina-2-000-pesos-banknote-2023-nd-p-367-unc-commemorative.html"
     ],
-    "confidence": "fallback"
+    "confidence": "official"
   },
   {
     "id": "e186",
