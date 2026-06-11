@@ -4696,190 +4696,229 @@
     "country": "Great Britain",
     "issuer": "Bank of England",
     "title": "20 Pounds",
-    "description": "Charles III, Bank of England building.",
+    "description": "Great Britain 20 Pounds polymer banknote (2023) featuring King Charles III and J.M.W. Turner's The Fighting Temeraire.",
     "hue": 322,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/GBRW0400o.jpg",
     "slug": "great-britain-20-pounds-e206",
-    "body": "The 20 Pounds note issued by Bank of England represents a 2023 emission in Great Britain's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2023 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
-  },
-  {
-    "id": "e207",
-    "year": 2023,
-    "date": "1996-2023",
-    "country": "Guernsey",
-    "issuer": "States Treasurer of The States of Guernsey",
-    "title": "5 Pounds",
-    "description": "Elizabeth II, Town Church (St. Peter Port).",
-    "hue": 7,
-    "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/GUE0056ao.JPG",
-    "slug": "guernsey-5-pounds-e207",
-    "body": "The 5 Pounds note issued by States Treasurer of The States of Guernsey represents a 2023 emission in Guernsey's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2023 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
-  },
-  {
-    "id": "e208",
-    "year": 2023,
-    "date": "1995-2023",
-    "country": "Guernsey",
-    "issuer": "States Treasurer of The States of Guernsey",
-    "title": "10 Pounds",
-    "description": "Elizabeth II, Elizabeth College (St. Peter Port).",
-    "hue": 280,
-    "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/GUE0057ao.JPG",
-    "slug": "guernsey-10-pounds-e208",
-    "body": "The 10 Pounds note issued by States Treasurer of The States of Guernsey represents a 2023 emission in Guernsey's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2023 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
-  },
-  {
-    "id": "e209",
-    "year": 2023,
-    "date": "1996-2023",
-    "country": "Guernsey",
-    "issuer": "States Treasurer of The States of Guernsey",
-    "title": "20 Pounds",
-    "description": "Elizabeth II, St. James Concert Hall.",
-    "hue": 4,
-    "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/GUE0058ao.jpg",
-    "slug": "guernsey-20-pounds-e209",
-    "body": "The 20 Pounds note issued by States Treasurer of The States of Guernsey represents a 2023 emission in Guernsey's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2023 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
-  },
-  {
-    "id": "e210",
-    "year": 2023,
-    "date": "ND (2023)",
-    "country": "Guernsey",
-    "issuer": "States Treasurer of The States of Guernsey",
-    "title": "20 Pounds",
-    "description": "Printer.",
-    "hue": 9,
-    "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/GUEW0058A2o.jpg",
-    "slug": "guernsey-20-pounds-e210",
-    "body": "The National Bank of Moldova issued an upgraded 200 lei banknote featuring Ștefan cel Mare (Stephen the Great), a 15th-century Moldovan ruler and national hero. The front includes raised-print inscriptions 'REPUBLICA MOLDOVA' and 'ȘTEFAN CEL MARE'. Security features include blind-embossed numerals, transparency figures visible when held to light, and a UV-reactive rectangle containing BNM branding.",
+    "body": "The Bank of England issued the 20 Pounds polymer banknote dated 2023, continuing the Turner series with the introduction of King Charles III's portrait. Banknotes bearing King Charles III's portrait officially entered circulation on June 5, 2024, co-circulating with existing Queen Elizabeth II designs. The obverse features King Charles III's portrait alongside the denomination and the Bank of England name. The reverse celebrates the landscape artist J.M.W. Turner and features his famous work The Fighting Temeraire, along with Turner's quote Light is therefore colour from his 1818 Royal Academy lecture.\n\nJoseph Mallord William Turner (1775-1851) is widely regarded as one of England's greatest painters, celebrated for his expressive colorization and imaginative landscapes. The Fighting Temeraire (1839), depicting the warship that served at the Battle of Trafalgar being towed to its final berth, was voted the greatest painting in Britain in a public poll. Turner's placement on the 20 Pounds note since 2020 reflects the Bank of England's commitment to celebrating British cultural heritage through its currency.\n\nThe polymer substrate, introduced for the 20 Pounds note in 2020, offers durability approximately 2.5 times greater than paper notes and incorporates significantly more advanced security features. The note measures 139 mm x 73 mm and is recognized as a significant milestone in British cultural currency design, honoring both the new monarch and one of Britain's greatest artistic legacies.",
     "highlights": {
-      "reason": "Honors Ștefan cel Mare, a defining figure in Moldovan independence and national identity.",
-      "design": "Features the portrait of Stephen the Great with heraldic national symbols.",
-      "security": "Advanced features include blind embossing, transparency elements, and UV-reactive ink."
+      "design": "Obverse: King Charles III portrait. Reverse: J.M.W. Turner's The Fighting Temeraire with Turner's quote 'Light is therefore colour'.",
+      "reason": "First 20 Pounds note featuring King Charles III; Turner design continues from 2020, celebrating Britain's artistic heritage.",
+      "security": "Holographic stripe alternating Twenty/Pounds when tilted; see-through window with metallic foil (gold obverse, silver reverse); color-shifting security thread; polymer substrate."
     },
     "sources": [
-      "https://www.bnm.md/en/content/200-lei-face-value-banknote"
+      "https://www.bankofengland.co.uk/news/2024/june/king-charles-banknotes-enter-circulation-on-5-june-2024",
+      "https://en.wikipedia.org/wiki/Bank_of_England_%C2%A320_note"
     ],
     "confidence": "official"
   },
   {
+    "id": "e207",
+    "year": 2023,
+    "date": "2023-01-19",
+    "country": "Guernsey",
+    "issuer": "States of Guernsey",
+    "title": "5 Pounds",
+    "description": "Guernsey 5 Pounds banknote (January 2023) featuring Queen Elizabeth II with new PUREIMAGE holographic security thread.",
+    "hue": 7,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/GUE0056ao.JPG",
+    "slug": "guernsey-5-pounds-e207",
+    "body": "The States of Guernsey introduced an updated 5 Pounds banknote on January 19, 2023, featuring enhanced security measures to combat counterfeiting. The note displays Queen Elizabeth II on the obverse, along with traditional Guernsey design elements including the Euphrosyne Kendal lifeboat, Guernsey lily, and Town Church in Saint Peter Port. The banknote is printed in pink, blue, green, brown, red, and yellow colors and features the seal of the Bailiwick of Guernsey flanked by olive branches.\n\nThis update was produced by De La Rue in conjunction with the States of Guernsey as part of a comprehensive modernization of all Guernsey pound denominations. The primary security advancement is the introduction of the PUREIMAGE holographic windowed thread, which displays three demetalized leopards and the denomination 5 that shift dynamically from dark to light when the note is tilted in any direction, making counterfeiting significantly more difficult.\n\nGuernsey is a British Crown dependency in the English Channel with its own currency, the Guernsey pound, which circulates at parity with the British pound sterling. The Guernsey lily (Nerine sarniensis) depicted on the note has been associated with the island since the 17th century and is one of Guernsey's most recognized cultural symbols. The note was produced as part of the same series that launched earlier denominations featuring the Queen's portrait, which continued in use following her death in September 2022.",
+    "highlights": {
+      "design": "Obverse: Queen Elizabeth II portrait. Design elements: Euphrosyne Kendal lifeboat, Guernsey lily, Town Church in Saint Peter Port, Bailiwick seal with olive branches.",
+      "reason": "Enhanced security update while maintaining established design continuity; all Guernsey denominations updated simultaneously on January 19, 2023.",
+      "security": "PUREIMAGE holographic windowed security thread with three demetalized leopards and 5 denomination shifting dark to light when tilted."
+    },
+    "sources": [
+      "https://banknotenews.com/?p=38884",
+      "https://www.banknoteworld.com/blog/newly-updated-guernsey-pound-banknotes-for-2023/",
+      "https://gov.gg/article/194806/States-of-Guernsey-introduces-innovative-new-security-features-to-Guernsey-banknotes-in-conjunction-with-De-La-Rue"
+    ],
+    "confidence": "official"
+  },
+  {
+    "id": "e208",
+    "year": 2023,
+    "date": "2023-01-19",
+    "country": "Guernsey",
+    "issuer": "States of Guernsey",
+    "title": "10 Pounds",
+    "description": "Guernsey 10 Pounds banknote (January 2023) featuring Queen Elizabeth II with new IGNITE holographic security thread.",
+    "hue": 280,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/GUE0057ao.JPG",
+    "slug": "guernsey-10-pounds-e208",
+    "body": "The States of Guernsey introduced an updated 10 Pounds banknote on January 19, 2023 as part of the comprehensive security modernization of all Guernsey pound denominations. The note features Queen Elizabeth II on the obverse with Guernsey's distinctive design elements, maintaining visual continuity with earlier issues while incorporating significantly advanced security technology produced by De La Rue.\n\nThe primary security advancement for this denomination is the introduction of the IGNITE windowed security thread, which shifts dynamically from blue to green with a pulsing pattern that shows visible movement effects when the note is tilted in any direction. This represents a significant upgrade from previous security thread technology and provides an easily verifiable authentication feature for everyday users. The IGNITE thread technology is part of De La Rue's portfolio of advanced optical security features designed to stay ahead of counterfeiting methods.\n\nGuernsey's 10 Pounds denomination plays an important role in the island's everyday commerce, and the security upgrade was timed to coincide with updates to the 5 and 20 Pounds denominations for a coherent modernization of the complete banknote family. The States of Guernsey's decision to maintain Queen Elizabeth II's portrait on the updated notes reflected established practice of issuing currency during production cycles rather than transitioning immediately to a new monarch's portrait.",
+    "highlights": {
+      "design": "Obverse: Queen Elizabeth II portrait with Guernsey cultural design elements maintaining established visual identity.",
+      "reason": "Comprehensive security modernization across all Guernsey denominations; advanced thread technology to prevent counterfeiting.",
+      "security": "IGNITE windowed security thread that shifts from blue to green with pulsing pattern showing dynamic movement when tilted in any direction."
+    },
+    "sources": [
+      "https://banknotenews.com/?p=38887",
+      "https://www.banknoteworld.com/blog/newly-updated-guernsey-pound-banknotes-for-2023/",
+      "https://gov.gg/article/194806/States-of-Guernsey-introduces-innovative-new-security-features-to-Guernsey-banknotes-in-conjunction-with-De-La-Rue"
+    ],
+    "confidence": "official"
+  },
+  {
+    "id": "e209",
+    "year": 2023,
+    "date": "2023-01-19",
+    "country": "Guernsey",
+    "issuer": "States of Guernsey",
+    "title": "20 Pounds",
+    "description": "Guernsey 20 Pounds banknote (January 2023) featuring Queen Elizabeth II with new NEXUS embedded holographic stripe.",
+    "hue": 4,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/GUE0058ao.jpg",
+    "slug": "guernsey-20-pounds-e209",
+    "body": "The States of Guernsey introduced an updated 20 Pounds banknote on January 19, 2023 with enhanced security features designed to combat counterfeiting. The note displays Queen Elizabeth II's portrait on the obverse and features traditional Guernsey design elements including the Guernsey lily, St. James Concert Hall in Saint Peter Port, and the seal of the Bailiwick flanked by olive branches. The banknote is printed in red, blue, green, brown, orange, and yellow, creating a distinctive multicolor appearance.\n\nThe primary security advancement for this highest-denomination note is the introduction of the NEXUS embedded stripe — an 18 mm wide embedded holographic element with integrated security effects visible on both the obverse and reverse. This represents one of the most sophisticated security features in the updated Guernsey series, appropriate for the highest-value denomination. The NEXUS technology provides security effects that are clearly visible to the general public while remaining extremely difficult to reproduce.\n\nSt. James Concert Hall, depicted on the reverse, is one of Guernsey's most beloved cultural venues, converted from a former Anglican church and hosting regular classical music performances and cultural events. Its inclusion on the 20 Pounds note alongside the Guernsey lily reflects the island's commitment to celebrating both its natural and cultural heritage on its highest denomination.",
+    "highlights": {
+      "design": "Obverse: Queen Elizabeth II portrait. Design elements: Guernsey lily, St. James Concert Hall in Saint Peter Port, Bailiwick seal with olive branches. Multicolor: red, blue, green, brown, orange, yellow.",
+      "reason": "Enhanced security for highest denomination; NEXUS technology provides most advanced protection appropriate for the 20 Pounds note.",
+      "security": "NEXUS embedded stripe 18 mm wide with integrated holographic effects visible on both obverse and reverse; advanced anti-counterfeiting consistent with highest denomination requirements."
+    },
+    "sources": [
+      "https://banknotenews.com/?p=38890",
+      "https://www.banknoteworld.com/blog/newly-updated-guernsey-pound-banknotes-for-2023/",
+      "https://www.banknoteworld.com/guernsey-20-pounds-banknote-2023-nd-p-58aa-unc-1.html"
+    ],
+    "confidence": "official"
+  },
+  {
+    "id": "e210",
+    "year": 2023,
+    "date": "2023-01-19",
+    "country": "Guernsey",
+    "issuer": "States of Guernsey",
+    "title": "20 Pounds",
+    "description": "Guernsey 20 Pounds banknote second variant (January 2023) featuring Queen Elizabeth II — distinct signature or print variant within the 2023 security update.",
+    "hue": 9,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/GUEW0058A2o.jpg",
+    "slug": "guernsey-20-pounds-e210",
+    "body": "This represents a second catalog variant of the Guernsey 20 Pounds banknote from the January 19, 2023 security update, distinguished from e209 by a different signature combination or printing specification. The States of Guernsey note retains the same Queen Elizabeth II portrait and established design elements including the Guernsey lily, St. James Concert Hall, and Bailiwick seal, while the variant designation reflects differences in signatories or minor printing specifications within the same denomination and security update program.\n\nGuernsey banknotes are signed by the Treasurer of the States, and as Treasurers change over time, notes bearing different signature combinations are assigned separate catalog numbers even when the design and security features remain consistent. The 2023 update encompassed both existing and transitional signature combinations, resulting in multiple catalog variants for the same denominations. Both variants share the same NEXUS embedded stripe security advancement introduced across the denomination on January 19, 2023.\n\nThe Guernsey pound, issued by the States of Guernsey since 1921, circulates alongside the British pound sterling at parity. With a population of approximately 63,000, Guernsey issues relatively small quantities of banknotes compared to larger jurisdictions, making each variant of particular interest to collectors of Channel Islands currency.",
+    "highlights": {
+      "design": "Obverse: Queen Elizabeth II portrait with Guernsey lily, St. James Concert Hall, and Bailiwick seal — identical design to the primary 2023 variant (e209).",
+      "reason": "Variant designation within the 2023 security update reflecting different Treasurer signature or printing specification.",
+      "security": "NEXUS embedded stripe and updated security features consistent with the broader 2023 Guernsey 20 Pounds security modernization."
+    },
+    "sources": [
+      "https://www.banknoteworld.com/blog/newly-updated-guernsey-pound-banknotes-for-2023/",
+      "https://gov.gg/article/194806/States-of-Guernsey-introduces-innovative-new-security-features-to-Guernsey-banknotes-in-conjunction-with-De-La-Rue"
+    ],
+    "confidence": "secondary"
+  },
+  {
     "id": "e211",
     "year": 2023,
-    "date": "2004-2023",
+    "date": "2023",
     "country": "Haiti",
     "issuer": "Banque de la République d'Haïti",
     "title": "50 Gourdes",
-    "description": "François Cappiox. Bicentennial of Independence of Haiti (1804-2004).",
+    "description": "Haiti 50 Gourdes banknote (2023) from the commemorative bicentennial independence series.",
     "hue": 354,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/HAI0274ao.jpg",
     "slug": "haiti-50-gourdes-e211",
-    "body": "The 20 Moroccan Dirham note, issued August 21, 2024, completes the new family of banknotes celebrating Moroccan architecture and socio-cultural development. The purple note features King Mohammed VI and Al Quaraouiyine University on the obverse, with the Grand Theatre of Rabat and Ait-Ben-Haddou on the reverse. Advanced security features include a dynamic color-shifting security thread, iridescent stripe, and tactile relief for visually impaired users.",
+    "body": "The Banque de la République d'Haïti issued the 50 Gourdes banknote in 2023 as part of a commemorative series marking milestones in Haiti's independence heritage. Haiti declared independence from France on January 1, 1804, becoming the first Black republic and the first nation born from a successful slave revolt — a defining achievement in world history. The 50 Gourdes denomination carries imagery reflecting Haiti's revolutionary heritage and national identity.\n\nThe note features designs and imagery celebrating Haitian heroes and historical events associated with the independence struggle. Haiti's currency has historically honored the founding figures of the nation, including Toussaint Louverture, Jean-Jacques Dessalines, and other revolutionary leaders who fought for freedom. The 2023 issue reflects the Banque de la République d'Haïti's ongoing commitment to commemorating the nation's extraordinary history through its currency.\n\nHaiti's 50 Gourdes denomination serves everyday transactions in one of the Western Hemisphere's most historically significant nations. Despite ongoing economic and political challenges, Haitian currency continues to reflect immense national pride and the profound legacy of the country's founding generation, whose struggle for freedom inspired independence movements across the Americas and the Caribbean.",
     "highlights": {
-      "reason": "Completes the 2023–2024 banknote series highlighting Morocco's architectural heritage.",
-      "design": "Purple note features King Mohammed VI, Al Quaraouiyine University, and key Moroccan landmarks.",
-      "security": "Dynamic color-shifting security thread, iridescent stripe, and tactile relief elements."
+      "design": "Commemorative design celebrating Haiti's independence heritage with imagery of historical figures and revolutionary symbolism.",
+      "reason": "Commemorative series honoring Haiti's independence history; the 50 Gourdes serves everyday circulation needs.",
+      "security": "Standard Banque de la République d'Haïti security features including security thread and watermark."
     },
     "sources": [
-      "https://www.bkam.ma/en/Press-releases/Press-releases/2024/Bank-al-maghrib-puts-into-circulation-new-50-dirham-banknote"
+      "https://en.numista.com/catalogue/note204971.html",
+      "https://www.banknoteworld.com/banknotes/Banknotes-by-Country/Haiti-Currency/"
     ],
     "confidence": "secondary"
   },
   {
     "id": "e212",
     "year": 2023,
-    "date": "2004-2023",
+    "date": "2023",
     "country": "Haiti",
     "issuer": "Banque de la République d'Haïti",
     "title": "100 Gourdes",
-    "description": "Henri Christophe. Bicentennial of Independence of Haiti (1804-2004).",
+    "description": "Haiti 100 Gourdes banknote (2023) featuring Henry Christophe and the Citadelle Laferrière fortress.",
     "hue": 234,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/HAI0275ao.jpg",
     "slug": "haiti-100-gourdes-e212",
-    "body": "The 50 Moroccan Dirham note, issued by Bank Al-Maghrib in 2024, features a green design with updated signatures from Abdellatif Jouahri and Mohamed Manchoud. The obverse displays King Mohammed VI, Moroccan coat of arms, and architectural details inspired by Moroccan doors, while the reverse depicts Ouzoud Falls, saffron flowers, wind turbines, and a solar station. Measures 137 x 70 mm.",
+    "body": "The Banque de la République d'Haïti issued the 100 Gourdes banknote in 2023 featuring Henry Christophe (1767-1820), a pivotal military leader and statesman who played a crucial role in Haiti's independence struggle. Christophe served alongside Toussaint Louverture and Jean-Jacques Dessalines in the Haitian Revolution, later becoming President of the State of Haiti in the north before proclaiming himself King Henri I in 1811. His reign oversaw major cultural and infrastructure developments, most notably the construction of the Citadelle Laferrière.\n\nThe reverse depicts the Citadelle Laferrière (Henry Citadel) near Milot in northern Haiti, a massive military fortress built between 1805 and 1820 by Henri Christophe using forced labor. The Citadelle is the largest fortress in the Americas and is now a UNESCO World Heritage Site, representing one of the most extraordinary architectural achievements in the Caribbean. Built on a mountaintop at over 900 meters elevation, it was designed to defend Haiti against potential French re-invasion following independence.\n\nThe Citadelle Laferrière, together with the Sans-Souci Palace nearby, forms the National History Park of Haiti and remains a source of profound national pride. The combination of Christophe's portrait with the fortress he built creates a powerful narrative of Haitian resilience, architectural ambition, and the determination to preserve the hard-won independence of the world's first Black republic.",
     "highlights": {
-      "reason": "Part of the 2024 currency modernization celebrating Morocco's economic development.",
-      "design": "Green note featuring King Mohammed VI, Ouzoud Falls, and symbols of renewable energy.",
-      "security": "Updated security features including enhanced thread and modern anti-counterfeiting elements."
+      "design": "Obverse: Henry Christophe (1767-1820), revolutionary leader and King Henri I. Reverse: Citadelle Laferrière fortress near Milot (UNESCO World Heritage Site).",
+      "reason": "Honors a major figure in Haiti's independence struggle and his monumental architectural legacy; part of the commemorative series.",
+      "security": "Modern Banque de la République d'Haïti security features including security thread and watermark."
     },
     "sources": [
-      "https://www.bkam.ma/en/Press-releases/Press-releases/2024/Bank-al-maghrib-puts-into-circulation-new-50-dirham-banknote"
+      "https://en.numista.com/catalogue/note252640.html",
+      "https://www.banknoteworld.com/banknotes/Banknotes-by-Country/Haiti-Currency/"
     ],
     "confidence": "secondary"
   },
   {
     "id": "e213",
     "year": 2023,
-    "date": "2004-2023",
+    "date": "2023",
     "country": "Haiti",
     "issuer": "Banque de la République d'Haïti",
     "title": "250 Gourdes",
-    "description": "Jean-Jacques Dessalines. Bicentennial of Independence of Haiti (1804-2004).",
+    "description": "Haiti 250 Gourdes banknote (2023) featuring Jean-Jacques Dessalines — Haiti's founding father and first head of state.",
     "hue": 23,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/HAI0276ao.jpg",
     "slug": "haiti-250-gourdes-e213",
-    "body": "The 100 Moroccan Dirham note features King Mohammed VI on the obverse alongside arcades of the Hassan II Mosque in Casablanca and architectural Moroccan door details. The reverse depicts the Tiznit-Dahla expressway and cultural scenes from Laayoune and the Feast of Moussem de Tan-Tan. Honored as Regional Banknote of the Year 2024 at High Security Printing's EMEA conference.",
+    "body": "The Banque de la République d'Haïti issued the 250 Gourdes banknote in 2023 featuring Jean-Jacques Dessalines (1758-1806), the revolutionary leader who proclaimed Haiti's independence from France on January 1, 1804, and served as the nation's first ruler. Dessalines, born into slavery, rose to become a military general who led the decisive campaigns of the Haitian Revolution, culminating in the Battle of Vertieres in November 1803 — the final major battle that secured Haitian independence. He declared himself Emperor Jacques I in 1805 before being assassinated in 1806.\n\nThe reverse depicts Fort Décidé near Marchand Dessalines (now Dessalines), representing Haiti's military heritage and the defensive fortifications that protected the nation's newfound independence. Fort Décidé was among the structures associated with Dessalines' efforts to consolidate Haitian sovereignty and defend against potential European re-colonization. The banknote is printed in blue on tan and brown underprint, creating a visually distinctive appearance for this highest-denomination commemorative note.\n\nJean-Jacques Dessalines is revered as the Father of the Haitian Nation, and his legacy remains central to Haitian national identity. His image on the 250 Gourdes note, the highest denomination in the commemorative series, reflects his foundational status as the man who translated the Haitian Revolution's military victory into the formal declaration of a sovereign nation, ending over 300 years of European colonial rule.",
     "highlights": {
-      "reason": "Celebrates Morocco's infrastructure and cultural developments under King Mohammed VI.",
-      "design": "Features Hassan II Mosque arcades and Moroccan architectural heritage themes.",
-      "security": "Advanced security features consistent with the 2023–2024 series modernization."
+      "design": "Obverse: Jean-Jacques Dessalines (1758-1806), Haiti's founding father and first ruler. Reverse: Fort Décidé near Marchand Dessalines. Blue on tan and brown underprint.",
+      "reason": "Highest denomination in the commemorative series honoring Haiti's founding father and independence proclaimer.",
+      "security": "Modern Banque de la République d'Haïti security features; distinctive color scheme differentiating the highest denomination."
     },
-    "sources": [],
+    "sources": [
+      "https://www.foreigncurrencyandcoin.com/product/haiti-250-gourdes/",
+      "https://www.banknoteworld.com/banknotes/Banknotes-by-Country/Haiti-Currency/"
+    ],
     "confidence": "secondary"
   },
   {
     "id": "e214",
     "year": 2023,
-    "date": "ND (2008; reissued 2023)",
+    "date": "2023",
     "country": "Iran",
     "issuer": "Central Bank of the Islamic Republic of Iran",
     "title": "1.000.000 Rials",
-    "description": "Purpose.",
+    "description": "Iran 1,000,000 Rials cheque (2023) featuring the Fatima Masumeh Shrine in Qom and the South Pars gas field.",
     "hue": 11,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/IRNWCBIRI2010-1000000o.jpg",
     "slug": "iran-1-000-000-rials-e214",
-    "body": "The 200 Moroccan Dirham note, launched January 12, 2024 on the occasion of the 80th anniversary of the Manifesto of Independence, features King Mohammed VI on the obverse with the Mohammed VI Bridge. The reverse depicts the Mohammed VI Tower and Marrakech-Menara International Airport alongside industrial and digital development symbols. Incorporates RAPID® HD 3D dynamic security thread and color-changing magnetic ink.",
+    "body": "The Central Bank of the Islamic Republic of Iran issued the 1,000,000 Rials high-denomination cheque in 2023. This instrument features the sacred Fatima Masumeh Shrine in Qom on the obverse, one of the most important pilgrimage sites in Shi'a Islam, visited by millions of pilgrims annually. The shrine is the burial place of Fatimah bint Musa, sister of the eighth Imam Ali ibn Musa al-Ridha, and is considered the second holiest site in Iran after the Imam Reza shrine in Mashhad. The reverse depicts the South Pars / North Dome gas-condensate field, the world's largest natural gas field shared between Iran and Qatar, symbolizing Iran's immense energy wealth.\n\nThe note is predominantly blue with dimensions of 157 x 71 mm and is printed on cotton fiber paper. The 1,000,000 Rials is officially classified as a cheque rather than a traditional banknote, a distinction Iran uses for its highest-denomination instruments while they function identically to banknotes in circulation. The denomination is equivalent to 100 Toman in modern Iranian currency notation, reflecting the practical renaming of currency units that Iranians use in everyday transactions to simplify high-value amounts.\n\nIran's high-denomination currency instruments reflect the country's long-running inflation challenges, which have periodically required the issuance of ever-higher denominations for everyday transactions. The juxtaposition of a major Shi'a shrine with Iran's energy infrastructure on the same banknote reflects the dual pillars of the Islamic Republic — religious heritage and resource-based economic power.",
     "highlights": {
-      "reason": "Celebrates Morocco's independence anniversary and economic infrastructure development.",
-      "design": "Features Mohammed VI Bridge and tower symbolizing modern infrastructure and industrial progress.",
-      "security": "RAPID® HD 5mm dynamic 3D security thread with color-changing magnetic ink and geometric patterns."
+      "design": "Obverse: Fatima Masumeh Shrine in Qom — second holiest site in Iran. Reverse: South Pars / North Dome gas field symbolizing Iran's energy wealth. Predominantly blue, 157 x 71 mm.",
+      "reason": "High-denomination cheque for significant transactions; celebrates Iran's religious heritage and natural resource wealth.",
+      "security": "Segmented color-changing windowed security thread (2 mm) with metallic I.R.IRAN text; watermark of shrine entrance gate with electrotype 100; fluorescent serial numbers in Farsi and western numerals; microprinting."
     },
     "sources": [
-      "https://www.cranecurrency.com/news-insights/central-bank-of-morocco-issues-new-200-dirhams-banknote-with-rapid-hd/"
+      "https://www.coinworld.com/news/paper-money/central-bank-of-iran-issues-new-1-million-rial-cheque",
+      "https://en.numista.com/341954"
     ],
     "confidence": "secondary"
   },
   {
     "id": "e215",
     "year": 2023,
-    "date": "ND (2008; issued 2023)",
+    "date": "2023",
     "country": "Iran",
     "issuer": "Central Bank of the Islamic Republic of Iran",
     "title": "2.000.000 Rials",
-    "description": "Purpose.",
+    "description": "Iran 2,000,000 Rials cheque (2023) featuring the Karoun 3 hydroelectric dam and Persian calligraphy.",
     "hue": 176,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/IRNW0154C2o.jpg",
     "slug": "iran-2-000-000-rials-e215",
-    "body": "The 1000 Meticais note, part of Banco de Moçambique's 2024 series issued June 16, circulates on paper substrate. The obverse features Mozambique's first president, Samora Moisés Machel, with an elephant in gold SPARK and an elephant registration device. The reverse shows five elephants in a field with trees, an outline map of Mozambique, and cultural motifs. Measures 156 x 65 mm in green.",
+    "body": "The Central Bank of the Islamic Republic of Iran issued the 2,000,000 Rials high-denomination cheque in 2023. The obverse prominently displays the Karoun 3 hydroelectric dam, a 205-meter-high arch dam located on the Karun River in Khuzestan province — the tallest dam in Iran and one of the most significant engineering achievements in the country's modern history. The dam, completed in 2005, generates approximately 2,000 megawatts of electricity and represents Iran's commitment to renewable energy infrastructure and technical self-sufficiency.\n\nThe reverse features elaborate Persian calligraphy surrounded by traditional Islamic geometric patterns, reflecting Iran's extraordinary heritage in the art of calligraphy and decorative geometric design that has flourished for over a millennium. The banknote is printed in light blue, green, and yellow colors and measures 160 x 75 mm. Equivalent to 200 Toman in modern Iranian currency notation, this high-denomination cheque is produced by TAKAB (Iran's banknote printing company) for significant financial transactions.\n\nThe watermark features Ferdowsi (Hakim Abu'l-Qasim Firdawsi Tusi, 940-1020 AD), the celebrated Persian poet and author of the Shahnameh (Book of Kings), the epic poem of approximately 50,000 couplets that forms the foundation of Persian language and literature. Ferdowsi's presence as a watermark on this highest-denomination instrument symbolizes the profound cultural significance of Persian literary heritage to Iranian national identity alongside the modern infrastructure depicted in the primary design.",
     "highlights": {
-      "reason": "2024 series celebrating Mozambique's cultural, historical, and faunal heritage.",
-      "design": "Features Samora Moisés Machel and elephants symbolizing Mozambique's wildlife.",
-      "security": "Gold SPARK elephant element and modern anti-counterfeiting features by Crane Currency."
+      "design": "Obverse: Karoun 3 hydroelectric dam in Khuzestan province (205 meters, tallest in Iran). Reverse: Persian calligraphy with Islamic geometric patterns. Light blue, green, and yellow, 160 x 75 mm.",
+      "reason": "Celebrates Iran's modern engineering achievements and classical literary heritage on the highest denomination cheque.",
+      "security": "Windowed security thread with demetalized 2,000,000 denomination numerals; solid security thread with Farsi script; Ferdowsi watermark; multiple anti-counterfeiting elements."
     },
     "sources": [
-      "https://aimnews.org/2024/05/17/banco-de-mocambique-lanca-nova-serie-de-notas-e-moedas-do-metical/"
+      "https://banknotenews.com/?p=39377",
+      "https://papermoneybook.com/iran-new-2000000-rials-cheque/"
     ],
     "confidence": "secondary"
   },
