@@ -1,9 +1,9 @@
 {
   "description": "Pipeline per arricchire le emissions con URL reali. Processa in batch da 10, ogni batch viene committato.",
   "total": 493,
-  "processed": 145,
+  "processed": 155,
   "batch_size": 10,
-  "last_committed_batch": 15,
+  "last_committed_batch": 16,
   "items": [
     {
       "id": "e47",
@@ -2164,7 +2164,7 @@
         "Bank of Korea"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -2176,7 +2176,7 @@
         "Bank of Korea"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -2188,7 +2188,7 @@
         "Bank of Korea"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -2200,7 +2200,7 @@
         "Bank of Korea"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -2212,7 +2212,7 @@
         "Bank of Korea"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -2224,7 +2224,7 @@
         "Central Bank of The Gambia"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -2236,7 +2236,7 @@
         "Central Bank of The Gambia"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -2248,7 +2248,7 @@
         "Central Bank of The Gambia"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -2260,7 +2260,7 @@
         "Bank of England"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -2272,7 +2272,7 @@
         "Bank of England"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
