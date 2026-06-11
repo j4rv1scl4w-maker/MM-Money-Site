@@ -2544,187 +2544,252 @@
   {
     "id": "e112",
     "year": 2024,
-    "date": "2019 & 2024",
+    "date": "August 2024",
     "country": "Kenya",
     "issuer": "Central Bank of Kenya",
     "title": "500 Shillings",
-    "description": "Kenyatta statue and Kenyatta International Convention Centre, Nairobi.",
+    "description": "Kenyatta International Convention Centre with Nairobi skyline on the obverse. Reverse features Kenya's national parks, sandy beaches, and lion imagery representing tourism.",
     "hue": 65,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/KENW2019-0500o.jpg",
     "slug": "kenya-500-shillings-e112",
-    "body": "Kenyatta statue and Kenyatta International Convention Centre, Nairobi.",
-    "highlights": {},
+    "body": "The 500 Shillings note was issued in August 2024 by the Central Bank of Kenya as part of a series recognizing four major updates including new signatures and enhanced security features. The obverse features the iconic Kenyatta International Convention Centre monument alongside the Nairobi skyline, Kenya's national coat of arms, and a shield with dove symbolizing peace. The reverse showcases Kenya's tourism heritage with depictions of national parks, wildlife, and sandy beaches featuring the simba (lion). The note incorporates advanced RollingStar i+ security threads with brilliant color-shifting properties and the distinctive ZigZag dynamic movement effect on the embedded security thread, creating an illusion of fluid motion when tilted. Printed by Giesecke & Devrient (G&D), the 2024 series won the Best New Series of Banknotes award at the HSP-EMEA Conference in Basel, Switzerland in February 2025.",
+    "highlights": {
+      "reason": "Updated 2024 series with enhanced security features and new signatures from CBK Governor Dr. Kamau Thugge and Principal Secretary Dr. Chris Kiptoo",
+      "design": "Obverse: Kenyatta International Convention Centre, Nairobi skyline, coat of arms, peace dove. Reverse: Kenya's national parks, wildlife, sandy beaches, and lion imagery",
+      "security": "RollingStar i+ color-shifting security thread, ZigZag dynamic movement effect, latent image, tactile marks for visually impaired, enhanced iridescent band, dual color fluorescence, crystal effect"
+    },
     "sources": [
-      "Central Bank of Kenya"
+      "https://www.centralbank.go.ke/2024/08/07/kenya-banknotes/",
+      "https://banknotenews.com/?p=46996",
+      "https://nairobiwire.com/2025/02/kenyas-new-banknotes-earn-international-recognition-for-cutting-edge-security-features.html",
+      "https://www.louisenthal.com/highlights/case-studies/kenya"
     ],
-    "confidence": "fallback"
+    "confidence": "official"
   },
   {
     "id": "e113",
     "year": 2024,
-    "date": "2019 & 2024",
+    "date": "August 2024",
     "country": "Kenya",
     "issuer": "Central Bank of Kenya",
     "title": "1.000 Shillings",
-    "description": "Kenyatta statue and Kenyatta International Convention Centre, Nairobi.",
+    "description": "Kenyatta International Convention Centre with Nairobi skyline on the obverse. Reverse features an aerial view of Kenya's Parliament building representing governance and legislative authority.",
     "hue": 20,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/KENW2019-1000o.jpg",
     "slug": "kenya-1-000-shillings-e113",
-    "body": "Kenyatta statue and Kenyatta International Convention Centre, Nairobi.",
-    "highlights": {},
+    "body": "The 1,000 Shillings note was issued in August 2024 as the flagship denomination of the Central Bank of Kenya's upgraded banknote series. The obverse displays the Kenyatta International Convention Centre with Nairobi skyline, the national coat of arms, a peace dove, and one of Kenya's Big Five animals. The reverse features a sophisticated aerial perspective of Kenya's Parliament building, symbolizing national governance and the sovereignty of the people. The brown banknote with maroon and multicolored underprint incorporates cutting-edge security features including the RollingStar i+ thread with magenta-to-green color-shifting properties and the ZigZag dynamic movement effect that creates a mesmerizing visual security element when the note is tilted. Produced by Giesecke & Devrient (G&D), the 2024 series received international recognition for its innovative security features, winning the Best New Series of Banknotes award in February 2025.",
+    "highlights": {
+      "reason": "Updated 2024 series recognizing Kenya's governance and legislative institutions with enhanced security to combat counterfeiting",
+      "design": "Obverse: Kenyatta International Convention Centre, Nairobi skyline, coat of arms, peace dove, wildlife motif. Reverse: Aerial view of Kenya's Parliament building representing national governance",
+      "security": "RollingStar i+ magenta-to-green color-shifting thread, ZigZag dynamic movement effect, latent image, registration device, tactile marks for visually impaired, enhanced iridescent band, dual color fluorescence"
+    },
     "sources": [
-      "Central Bank of Kenya"
+      "https://www.centralbank.go.ke/2024/08/07/kenya-banknotes/",
+      "https://banknotenews.com/?p=45102",
+      "https://nairobiwire.com/2025/02/kenyas-new-banknotes-earn-international-recognition-for-cutting-edge-security-features.html",
+      "https://www.louisenthal.com/highlights/case-studies/kenya"
     ],
-    "confidence": "fallback"
+    "confidence": "official"
   },
   {
     "id": "e114",
     "year": 2024,
-    "date": "2021 & 2024",
+    "date": "December 2021",
     "country": "Lesotho",
     "issuer": "Central Bank of Lesotho",
     "title": "10 Maloti",
-    "description": "Remark.",
+    "description": "Portrait of King Moshoeshoe I on obverse. Reverse features cosmos flowers on an African landscape representing Lesotho's natural heritage.",
     "hue": 355,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/LES0021-2021o.jpg",
     "slug": "lesotho-10-maloti-e114",
-    "body": "The 10 Maloti note issued by Central Bank of Lesotho in 2024 is part of the ongoing currency circulation series. This denomination facilitates transactions in Lesotho's domestic economy and represents the central bank's commitment to maintaining a modern, secure currency system. The note incorporates contemporary security features including enhanced microprinting, color-shifting inks, and updated security threads to protect against counterfeiting. As a 2024 variant, this emission reflects administrative updates to printing specifications or official signatures while maintaining design consistency with previous issues in the series. The note supports both retail commerce and banking operations throughout the currency's circulation area.",
-    "highlights": {},
+    "body": "The 10 Maloti banknote was officially released by the Central Bank of Lesotho on December 23, 2021, as part of a comprehensive redesigned series featuring enhanced security and reduced dimensions to accommodate advanced protective features. The obverse displays a portrait of one of Lesotho's historic kings alongside the national coat of arms and the Mokorotlo (Basotho hat) symbol, with intaglio printing creating tactile surfaces. The reverse showcases cosmos flowers on an African landscape in red and light rose tones, celebrating Lesotho's natural beauty. The note incorporates multiple security features including an Anima security thread that appears broken but becomes continuous when held to light, a watermark of King Moshoeshoe I wearing a top hat, and tactile parallel lines for visually impaired identification. Produced by De La Rue using ADDvance hybrid substrate combining cotton and wood pulp with sustainable certification, the series represents an upgrade from the 2010 series while maintaining design continuity.",
+    "highlights": {
+      "reason": "2021 redesign released to modernize Lesotho's currency with enhanced security features and reduced size for improved durability and accessibility",
+      "design": "Obverse: Portrait of King Moshoeshoe I, national coat of arms, Mokorotlo hat symbol. Reverse: Cosmos flowers on African landscape in red and light rose tones",
+      "security": "Anima security thread (broken appearance, continuous under light), watermark of King Moshoeshoe I, tactile parallel lines for visually impaired, Mokorotlo registration device, anti-bacterial/anti-viral SICPA Protect varnish coating, intaglio printing"
+    },
     "sources": [
-      "Central Bank of Lesotho"
+      "https://maserumetro.com/news/business/cbl-introduces-new-banknotes/",
+      "https://en.numista.com/catalogue/note319551.html",
+      "https://www.banknoteworld.com/lesotho-20-maloti-banknote-2021-p-27-unc.html",
+      "https://www.louisenthal.com/highlights/case-studies/lesotho"
     ],
-    "confidence": "fallback"
+    "confidence": "official"
   },
   {
     "id": "e115",
     "year": 2024,
-    "date": "2021 & 2024",
+    "date": "December 2021",
     "country": "Lesotho",
     "issuer": "Central Bank of Lesotho",
     "title": "20 Maloti",
-    "description": "Remark.",
+    "description": "Portrait of King Letsie III on obverse. Reverse features traditional Basotho round houses (rondavels) with thatched roofs in a landscape setting.",
     "hue": 206,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/LES0022-2021o.jpg",
     "slug": "lesotho-20-maloti-e115",
-    "body": "The 20 Maloti note issued by Central Bank of Lesotho in 2024 is part of the ongoing currency circulation series. This denomination facilitates transactions in Lesotho's domestic economy and represents the central bank's commitment to maintaining a modern, secure currency system. The note incorporates contemporary security features including enhanced microprinting, color-shifting inks, and updated security threads to protect against counterfeiting. As a 2024 variant, this emission reflects administrative updates to printing specifications or official signatures while maintaining design consistency with previous issues in the series. The note supports both retail commerce and banking operations throughout the currency's circulation area.",
-    "highlights": {},
+    "body": "The 20 Maloti banknote entered circulation on December 23, 2021, as part of Lesotho's comprehensive redesigned currency series featuring King Letsie III on the obverse alongside the national coat of arms and the distinctive Basotho hat registration device. The reverse depicts traditional Lesotho architecture—rondavels with thatched roofs—set in a landscape that reflects the country's cultural heritage and pastoral traditions. Measuring 135 mm × 70 mm, the note incorporates an Anima security thread that appears broken during normal viewing but becomes continuous when held to light, demonstrating advanced security printing technology. Additional protective features include a watermark of King Moshoeshoe I, tactile parallel lines for accessibility to the visually impaired, and the Mokorotlo (Basotho hat) see-through registration device. The 2021 series was produced by De La Rue using sustainable ADDvance hybrid materials and represents the first banknote series using Cotton Made in Africa certification, combining 75% cotton with 25% FSC-certified wood pulp.",
+    "highlights": {
+      "reason": "2021 redesign to modernize Lesotho's currency with enhanced security, reduced size, and sustainable materials reflecting national identity",
+      "design": "Obverse: Portrait of King Letsie III, national coat of arms, Mokorotlo hat registration device. Reverse: Traditional Basotho rondavels with thatched roofs in landscape setting",
+      "security": "Anima security thread (broken appearance becoming continuous under light), watermark of King Moshoeshoe I, tactile parallel lines for visually impaired, see-through Mokorotlo registration device, anti-bacterial/anti-viral SICPA Protect varnish, intaglio printing"
+    },
     "sources": [
-      "Central Bank of Lesotho"
+      "https://maserumetro.com/news/business/cbl-introduces-new-banknotes/",
+      "https://www.banknoteworld.com/lesotho-20-maloti-banknote-2021-p-27-unc.html",
+      "https://lestimes.com/cbl-strengthens-maloti-banknotes-security-features/",
+      "https://www.louisenthal.com/highlights/case-studies/lesotho"
     ],
-    "confidence": "fallback"
+    "confidence": "official"
   },
   {
     "id": "e116",
     "year": 2024,
-    "date": "2021 & 2024",
+    "date": "December 2021",
     "country": "Lesotho",
     "issuer": "Central Bank of Lesotho",
     "title": "50 Maloti",
-    "description": "Remark.",
+    "description": "Portrait of King Moshoeshoe I on obverse. Reverse features men on horseback in traditional Basotho dress riding across a mountain background.",
     "hue": 304,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/LES0023-2021o.jpg",
     "slug": "lesotho-50-maloti-e116",
-    "body": "The 50 Maloti note issued by Central Bank of Lesotho in 2024 is part of the ongoing currency circulation series. This denomination facilitates transactions in Lesotho's domestic economy and represents the central bank's commitment to maintaining a modern, secure currency system. The note incorporates contemporary security features including enhanced microprinting, color-shifting inks, and updated security threads to protect against counterfeiting. As a 2024 variant, this emission reflects administrative updates to printing specifications or official signatures while maintaining design consistency with previous issues in the series. The note supports both retail commerce and banking operations throughout the currency's circulation area.",
-    "highlights": {},
+    "body": "The 50 Maloti banknote was released on December 23, 2021, featuring King Moshoeshoe I on the obverse along with the national coat of arms and Mokorotlo symbol. The reverse depicts traditional Basotho horse riders in indigenous dress riding across a mountainous landscape, celebrating the cultural significance of horsemanship in Lesotho's heritage. Measuring 138 mm x 70 mm, the note incorporates the RollingStar dynamic security thread that displays striking color-shifting and light effects, replacing the simpler Anima thread used in lower denominations. This advanced security feature shows brilliant visual dynamics between CBL letters and denomination markings when tilted or moved. Additional security elements include a watermark of King Moshoeshoe I wearing a top hat, tactile elements for the visually impaired, the Mokorotlo registration device, and anti-bacterial SICPA Protect varnish coating. Produced by De La Rue using sustainable ADDvance hybrid substrate, the 50 Maloti represents a significant step up in security within the 2021 series.",
+    "highlights": {
+      "reason": "2021 series redesign to incorporate advanced security technology and celebrate Lesotho's equestrian cultural traditions",
+      "design": "Obverse: Portrait of King Moshoeshoe I, national coat of arms, Mokorotlo hat symbol. Reverse: Traditional Basotho horse riders in indigenous dress on mountain background",
+      "security": "RollingStar dynamic security thread with color-shifting effects and brilliant light properties, watermark of King Moshoeshoe I, tactile parallel lines for visually impaired, see-through Mokorotlo registration device, anti-bacterial/anti-viral SICPA Protect varnish, intaglio printing"
+    },
     "sources": [
-      "Central Bank of Lesotho"
+      "https://maserumetro.com/news/business/cbl-introduces-new-banknotes/",
+      "https://www.banknoteworld.com/lesotho-50-maloti-banknote-2021-p-28-unc-1.html",
+      "https://en.numista.com/catalogue/note319551.html",
+      "https://www.louisenthal.com/highlights/case-studies/lesotho"
     ],
-    "confidence": "fallback"
+    "confidence": "official"
   },
   {
     "id": "e117",
     "year": 2024,
-    "date": "2021 & 2024",
+    "date": "December 2021",
     "country": "Lesotho",
     "issuer": "Central Bank of Lesotho",
     "title": "100 Maloti",
-    "description": "Remark.",
+    "description": "Portrait of King Letsie III on obverse. Reverse features a traditional Lesotho shepherd with his flock of sheep on a mountain background representing pastoral heritage.",
     "hue": 95,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/LES0024-2021o.jpg",
     "slug": "lesotho-100-maloti-e117",
-    "body": "The 100 Maloti note issued by Central Bank of Lesotho in 2024 is part of the ongoing currency circulation series. This denomination facilitates transactions in Lesotho's domestic economy and represents the central bank's commitment to maintaining a modern, secure currency system. The note incorporates contemporary security features including enhanced microprinting, color-shifting inks, and updated security threads to protect against counterfeiting. As a 2024 variant, this emission reflects administrative updates to printing specifications or official signatures while maintaining design consistency with previous issues in the series. The note supports both retail commerce and banking operations throughout the currency's circulation area.",
-    "highlights": {},
+    "body": "The 100 Maloti banknote entered circulation on December 23, 2021, displaying King Letsie III on the obverse with the national coat of arms and Mokorotlo symbol representing Basotho national identity. The reverse depicts a traditional Lesotho shepherd tending his flock of sheep on a mountain landscape with stylized palm tree design, celebrating shepherding as integral to Basotho cultural and economic traditions. The note incorporates the RollingStar dynamic security thread featuring advanced color-shifting properties and brilliant light effects responding to viewer angle and movement. Additional sophisticated security elements include a watermark of King Moshoeshoe I in formal attire, tactile parallel lines for accessibility to visually impaired users, the Mokorotlo registration device, and SICPA Protect anti-bacterial and anti-viral varnish coating. Produced by De La Rue using ADDvance hybrid sustainable substrate, the 100 Maloti represents a higher denomination with correspondingly enhanced security measures within Lesotho's 2021 redesigned series.",
+    "highlights": {
+      "reason": "2021 series redesign celebrating Lesotho's pastoral traditions and implementing advanced security to protect against counterfeiting",
+      "design": "Obverse: Portrait of King Letsie III, national coat of arms, Mokorotlo hat symbol. Reverse: Traditional shepherd with his flock on mountain background with stylized palm tree design",
+      "security": "RollingStar dynamic security thread with color-shifting and brilliant light effects, watermark of King Moshoeshoe I, tactile parallel lines for visually impaired, see-through Mokorotlo registration device, anti-bacterial/anti-viral SICPA Protect varnish, intaglio printing"
+    },
     "sources": [
-      "Central Bank of Lesotho"
+      "https://maserumetro.com/news/business/cbl-introduces-new-banknotes/",
+      "https://www.foreigncurrencyandcoin.com/product/lesotho-100-maloti/",
+      "https://lestimes.com/cbl-strengthens-maloti-banknotes-security-features/",
+      "https://www.louisenthal.com/highlights/case-studies/lesotho"
     ],
-    "confidence": "fallback"
+    "confidence": "official"
   },
   {
     "id": "e118",
     "year": 2024,
-    "date": "2021 & 2024",
+    "date": "December 2021",
     "country": "Lesotho",
     "issuer": "Central Bank of Lesotho",
     "title": "200 Maloti",
-    "description": "Remark.",
+    "description": "Portrait of King Moshoeshoe I on obverse. Reverse features a traditional Lesotho merchant of handicrafts mounted on horseback carrying merchandise.",
     "hue": 13,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/LES0025-2021o.jpg",
     "slug": "lesotho-200-maloti-e118",
-    "body": "The 200 Maloti note issued by Central Bank of Lesotho in 2024 is part of the ongoing currency circulation series. This denomination facilitates transactions in Lesotho's domestic economy and represents the central bank's commitment to maintaining a modern, secure currency system. The note incorporates contemporary security features including enhanced microprinting, color-shifting inks, and updated security threads to protect against counterfeiting. As a 2024 variant, this emission reflects administrative updates to printing specifications or official signatures while maintaining design consistency with previous issues in the series. The note supports both retail commerce and banking operations throughout the currency's circulation area.",
-    "highlights": {},
+    "body": "The 200 Maloti banknote was officially released on December 23, 2021, as the highest denomination in Lesotho's redesigned currency series, featuring King Moshoeshoe I on the obverse alongside the national coat of arms and Mokorotlo symbol. The reverse depicts a traditional Lesotho merchant of handicrafts mounted on horseback, carrying merchandise across the mountainous landscape. Measuring 160 mm x 69 mm, the highest dimension in the series, the note showcases the most advanced security features including the RollingStar dynamic security thread with color-shifting properties creating brilliant light effects when tilted. Additional security elements comprise a watermark of King Moshoeshoe I, tactile parallel lines for the visually impaired, the distinctive Mokorotlo registration device, and SICPA Protect anti-bacterial and anti-viral varnish coating. Uniquely, the 200 Maloti was manufactured using sustainable materials comprising 75% Cotton Made in Africa and 25% FSC-certified wood pulp through the ADDvance hybrid substrate, representing Lesotho's commitment to environmentally responsible currency production.",
+    "highlights": {
+      "reason": "2021 series redesign celebrating Lesotho's commercial and equestrian heritage with highest-level security for premium denomination",
+      "design": "Obverse: Portrait of King Moshoeshoe I, national coat of arms, Mokorotlo hat symbol. Reverse: Traditional merchant on horseback carrying handicraft merchandise on mountain background",
+      "security": "RollingStar dynamic security thread with advanced color-shifting and brilliant light effects, watermark of King Moshoeshoe I, tactile parallel lines for visually impaired, see-through Mokorotlo registration device, anti-bacterial/anti-viral SICPA Protect varnish coating, intaglio printing"
+    },
     "sources": [
-      "Central Bank of Lesotho"
+      "https://maserumetro.com/news/business/cbl-introduces-new-banknotes/",
+      "https://hsp-emea.com/award/lesotho-200-maloti/",
+      "https://en.numista.com/catalogue/note319564.html",
+      "https://www.louisenthal.com/highlights/case-studies/lesotho"
     ],
-    "confidence": "fallback"
+    "confidence": "official"
   },
   {
     "id": "e119",
     "year": 2024,
-    "date": "2022 & 2024",
+    "date": "October 2022",
     "country": "Liberia",
     "issuer": "Central Bank of Liberia",
     "title": "20 Dollars",
-    "description": "President William Vacanarat Shadrach Tubman.",
+    "description": "President William V.S. Tubman, longest-serving Liberian president, on obverse. Reverse features an outdoor market scene representing commerce and everyday life.",
     "hue": 358,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/LIBW0039o.jpg",
     "slug": "liberia-20-dollars-e119",
-    "body": "The 20 Dollars note issued by Central Bank of Liberia represents a 2024 emission in Liberia's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2024 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
-    "highlights": {},
+    "body": "The $20 Liberian banknote was officially issued on October 6, 2022, honoring President William V.S. Tubman, the 18th President of Liberia and the nation's longest-serving head of state. The obverse prominently features a portrait of President Tubman, symbolizing his significant contributions to Liberian history and governance. The reverse depicts a vibrant outdoor market scene with men and women engaged in commerce, the Central Bank of Liberia seal, and traditional economic imagery reflecting Liberia's mercantile heritage. The note measures 133 x 66 mm and features a sophisticated color scheme combining brown, tan, and purple tones. Manufactured with advanced security features including a gold-to-green windowed security thread with demetalized stars that display pulsing and dynamic color-changing effects when viewed at different angles, the $20 denomination provides strong counterfeit protection. The note also incorporates a see-through registration device with Liberian star fragments and clear visibility of CBL and denomination when held to light.",
+    "highlights": {
+      "reason": "Released 2022 to honor President William V.S. Tubman and modernize Liberian currency with contemporary security features",
+      "design": "Obverse: Portrait of President William V.S. Tubman. Reverse: Outdoor market scene with merchants, Central Bank of Liberia seal, economic imagery",
+      "security": "Gold-to-green windowed security thread with demetalized stars showing pulsing and dynamic color-changing effects, see-through registration device with Liberian star fragments, CBL and denomination visible under light"
+    },
     "sources": [
-      "Central Bank of Liberia"
+      "https://platform.keesingtechnologies.com/liberia-issues-new-banknotes-20-50-500-and-1000/",
+      "https://www.banknoteworld.com/blog/liberia-new-banknote-family-for-2022/",
+      "https://www.cbl.org.lr/general/currency",
+      "https://liberianewsagency.com/2022/09/05/central-bank-of-liberia-to-infuse-new-banknotes/"
     ],
-    "confidence": "fallback"
+    "confidence": "official"
   },
   {
     "id": "e120",
     "year": 2024,
-    "date": "2022 & 2024",
+    "date": "October 2022",
     "country": "Liberia",
     "issuer": "Central Bank of Liberia",
     "title": "50 Dollars",
-    "description": "President Samuel Kayon Doe.",
+    "description": "President Samuel K. Doe, the 20th President of Liberia, on obverse. Reverse features a man trimming an oil palm tree representing Liberia's agricultural heritage.",
     "hue": 337,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/LIBW0040o.jpg",
     "slug": "liberia-50-dollars-e120",
-    "body": "The 50 Dollars note issued by Central Bank of Liberia represents a 2024 emission in Liberia's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2024 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
-    "highlights": {},
+    "body": "The $50 Liberian banknote was officially released on October 6, 2022, honoring President Samuel K. Doe, the 20th President of Liberia. The obverse prominently features a portrait of President Doe alongside imagery of palm plantations. The reverse depicts a worker trimming an oil palm tree, the Central Bank of Liberia seal with crossed Kissi money symbols, and front and back imagery of a 1969 50-cent coin, creating a historical connection between Liberia's monetary past and present. The note measures 133 x 66 mm and features an elegant color scheme combining red, brown, and purple tones. The banknote incorporates a purple-to-gold windowed security thread with demetalized stars displaying pulsing and dynamic color-changing effects that shift brilliantly as the note is rotated. Additional security features include a see-through registration device with Liberian star fragments and clear visibility of CBL text and denomination markings when held to light.",
+    "highlights": {
+      "reason": "Released 2022 to honor President Samuel K. Doe and celebrate Liberia's agricultural traditions with contemporary security features",
+      "design": "Obverse: Portrait of President Samuel K. Doe with palm plantation imagery. Reverse: Worker trimming oil palm tree, CBL seal with crossed Kissi money, 1969 50-cent coin imagery",
+      "security": "Purple-to-gold windowed security thread with demetalized stars showing pulsing and dynamic color-changing effects, see-through registration device with Liberian star fragments, CBL and denomination visible under light"
+    },
     "sources": [
-      "Central Bank of Liberia"
+      "https://platform.keesingtechnologies.com/liberia-issues-new-banknotes-20-50-500-and-1000/",
+      "https://www.banknoteworld.com/blog/the-liberia-50-dollars-banknote-honoring-former-president-samuel-doe/",
+      "https://www.cbl.org.lr/general/currency",
+      "https://www.coinworld.com/news/paper-money/liberia-issues-four-new-bank-notes-to-complete-series"
     ],
-    "confidence": "fallback"
+    "confidence": "official"
   },
   {
     "id": "e121",
     "year": 2024,
-    "date": "2022 & 2024",
+    "date": "October 2022",
     "country": "Liberia",
     "issuer": "Central Bank of Liberia",
     "title": "500 Dollars",
-    "description": "Designers of Liberian flag.",
+    "description": "Seven women designers of the Liberian flag, led by Susanna Lewis, on obverse. Reverse features a hippopotamus family and the Capitol Building in Monrovia.",
     "hue": 245,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/LIBW0042o.jpg",
     "slug": "liberia-500-dollars-e121",
-    "body": "India 50 Rupees, Gandhi series, 2017-2024 variants. Features Mahatma Gandhi in profile on the obverse, a symbol of India's independence struggle and non-violent resistance. The reverse depicts the Indian Parliament building or national emblems. The note includes the Ashoka Chakra, Indian flag motifs, and regional language text on both sides. Modern security features include holographic images, security threads, and microprint. Variants reflect signature changes of successive Reserve Bank governors and periodic security enhancements. The denomination is widely used for daily transactions in India.",
+    "body": "The $500 Liberian banknote was officially issued on October 6, 2022, as a commemorative tribute to the seven women who designed the Liberian flag. The obverse features portraits of these pioneering women designers, led by Susanna Lewis who served as chairperson of the design committee, alongside Matilda Newport, Rachel Johnson, Mary Hunter, Mrs. J.B. Russwurm, Colonette Teage Ellis, and Sarah Draper. This historically significant design honors the often-overlooked female contributors to Liberia's national symbols and heritage. The reverse depicts an adult hippopotamus with her calf set against the backdrop of the Capitol Building in Monrovia, along with the Central Bank of Liberia seal. The note measures 133 x 66 mm and employs sophisticated purple, blue, and yellow color tones. The $500 denomination features a green-to-blue windowed security thread with demetalized stars displaying pulsing and dynamic color-changing effects when rotated at different angles, plus a see-through registration device with Liberian star fragments.",
     "highlights": {
-      "reason": "Regular Gandhi series currency update; signature and security feature variants",
-      "design": "Gandhi portrait obverse; Parliament/national symbols reverse; Ashoka Chakra, multilingual text",
-      "security": "Holographic patches, security threads, intaglio printing, microprint, color-shifting inks"
+      "reason": "Released 2022 to honor the seven women who designed the Liberian flag and celebrate Liberia's cultural heritage",
+      "design": "Obverse: Portraits of seven flag designers including Susanna Lewis, Matilda Newport, Rachel Johnson, Mary Hunter, J.B. Russwurm, Colonette Teage Ellis, Sarah Draper. Reverse: Adult hippopotamus with calf, Capitol Building in Monrovia, Central Bank seal",
+      "security": "Green-to-blue windowed security thread with demetalized stars showing pulsing and dynamic color-changing effects, see-through registration device with Liberian star fragments, CBL and denomination visible under light"
     },
     "sources": [
-      "RBI official currency documentation",
-      "Banknote catalogs"
+      "https://platform.keesingtechnologies.com/liberia-issues-new-banknotes-20-50-500-and-1000/",
+      "https://www.cbl.org.lr/general/currency",
+      "https://www.numiscollection.com/liberia-500-dollars-designers-of-liberian-flag-hippopotamids-2022-serial-aa-a43697-en.html",
+      "https://www.coinworld.com/news/paper-money/liberia-issues-four-new-bank-notes-to-complete-series"
     ],
-    "confidence": "high"
+    "confidence": "official"
   },
   {
     "id": "e122",

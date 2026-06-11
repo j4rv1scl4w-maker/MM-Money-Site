@@ -1,9 +1,9 @@
 {
   "description": "Pipeline per arricchire le emissions con URL reali. Processa in batch da 10, ogni batch viene committato.",
   "total": 493,
-  "processed": 65,
+  "processed": 75,
   "batch_size": 10,
-  "last_committed_batch": 7,
+  "last_committed_batch": 8,
   "items": [
     {
       "id": "e47",
@@ -1069,8 +1069,14 @@
         "Central Bank of Kenya"
       ],
       "confidence": "fallback",
-      "status": "pending",
-      "found_urls": []
+      "status": "done",
+      "found_urls": [
+        "https://www.centralbank.go.ke/2024/08/07/kenya-banknotes/",
+        "https://banknotenews.com/?p=46996",
+        "https://nairobiwire.com/2025/02/kenyas-new-banknotes-earn-international-recognition-for-cutting-edge-security-features.html",
+        "https://www.louisenthal.com/highlights/case-studies/kenya"
+      ],
+      "new_confidence": "official"
     },
     {
       "id": "e113",
@@ -1081,8 +1087,14 @@
         "Central Bank of Kenya"
       ],
       "confidence": "fallback",
-      "status": "pending",
-      "found_urls": []
+      "status": "done",
+      "found_urls": [
+        "https://www.centralbank.go.ke/2024/08/07/kenya-banknotes/",
+        "https://banknotenews.com/?p=45102",
+        "https://nairobiwire.com/2025/02/kenyas-new-banknotes-earn-international-recognition-for-cutting-edge-security-features.html",
+        "https://www.louisenthal.com/highlights/case-studies/kenya"
+      ],
+      "new_confidence": "official"
     },
     {
       "id": "e114",
@@ -1093,8 +1105,14 @@
         "Central Bank of Lesotho"
       ],
       "confidence": "fallback",
-      "status": "pending",
-      "found_urls": []
+      "status": "done",
+      "found_urls": [
+        "https://maserumetro.com/news/business/cbl-introduces-new-banknotes/",
+        "https://en.numista.com/catalogue/note319551.html",
+        "https://www.banknoteworld.com/lesotho-20-maloti-banknote-2021-p-27-unc.html",
+        "https://www.louisenthal.com/highlights/case-studies/lesotho"
+      ],
+      "new_confidence": "official"
     },
     {
       "id": "e115",
@@ -1105,8 +1123,14 @@
         "Central Bank of Lesotho"
       ],
       "confidence": "fallback",
-      "status": "pending",
-      "found_urls": []
+      "status": "done",
+      "found_urls": [
+        "https://maserumetro.com/news/business/cbl-introduces-new-banknotes/",
+        "https://www.banknoteworld.com/lesotho-20-maloti-banknote-2021-p-27-unc.html",
+        "https://lestimes.com/cbl-strengthens-maloti-banknotes-security-features/",
+        "https://www.louisenthal.com/highlights/case-studies/lesotho"
+      ],
+      "new_confidence": "official"
     },
     {
       "id": "e116",
@@ -1117,8 +1141,14 @@
         "Central Bank of Lesotho"
       ],
       "confidence": "fallback",
-      "status": "pending",
-      "found_urls": []
+      "status": "done",
+      "found_urls": [
+        "https://maserumetro.com/news/business/cbl-introduces-new-banknotes/",
+        "https://www.banknoteworld.com/lesotho-50-maloti-banknote-2021-p-28-unc-1.html",
+        "https://en.numista.com/catalogue/note319551.html",
+        "https://www.louisenthal.com/highlights/case-studies/lesotho"
+      ],
+      "new_confidence": "official"
     },
     {
       "id": "e117",
@@ -1129,8 +1159,14 @@
         "Central Bank of Lesotho"
       ],
       "confidence": "fallback",
-      "status": "pending",
-      "found_urls": []
+      "status": "done",
+      "found_urls": [
+        "https://maserumetro.com/news/business/cbl-introduces-new-banknotes/",
+        "https://www.foreigncurrencyandcoin.com/product/lesotho-100-maloti/",
+        "https://lestimes.com/cbl-strengthens-maloti-banknotes-security-features/",
+        "https://www.louisenthal.com/highlights/case-studies/lesotho"
+      ],
+      "new_confidence": "official"
     },
     {
       "id": "e118",
@@ -1141,8 +1177,14 @@
         "Central Bank of Lesotho"
       ],
       "confidence": "fallback",
-      "status": "pending",
-      "found_urls": []
+      "status": "done",
+      "found_urls": [
+        "https://maserumetro.com/news/business/cbl-introduces-new-banknotes/",
+        "https://hsp-emea.com/award/lesotho-200-maloti/",
+        "https://en.numista.com/catalogue/note319564.html",
+        "https://www.louisenthal.com/highlights/case-studies/lesotho"
+      ],
+      "new_confidence": "official"
     },
     {
       "id": "e119",
@@ -1153,8 +1195,14 @@
         "Central Bank of Liberia"
       ],
       "confidence": "fallback",
-      "status": "pending",
-      "found_urls": []
+      "status": "done",
+      "found_urls": [
+        "https://platform.keesingtechnologies.com/liberia-issues-new-banknotes-20-50-500-and-1000/",
+        "https://www.banknoteworld.com/blog/liberia-new-banknote-family-for-2022/",
+        "https://www.cbl.org.lr/general/currency",
+        "https://liberianewsagency.com/2022/09/05/central-bank-of-liberia-to-infuse-new-banknotes/"
+      ],
+      "new_confidence": "official"
     },
     {
       "id": "e120",
@@ -1165,8 +1213,14 @@
         "Central Bank of Liberia"
       ],
       "confidence": "fallback",
-      "status": "pending",
-      "found_urls": []
+      "status": "done",
+      "found_urls": [
+        "https://platform.keesingtechnologies.com/liberia-issues-new-banknotes-20-50-500-and-1000/",
+        "https://www.banknoteworld.com/blog/the-liberia-50-dollars-banknote-honoring-former-president-samuel-doe/",
+        "https://www.cbl.org.lr/general/currency",
+        "https://www.coinworld.com/news/paper-money/liberia-issues-four-new-bank-notes-to-complete-series"
+      ],
+      "new_confidence": "official"
     },
     {
       "id": "e121",
@@ -1178,8 +1232,14 @@
         "Banknote catalogs"
       ],
       "confidence": "high",
-      "status": "pending",
-      "found_urls": []
+      "status": "done",
+      "found_urls": [
+        "https://platform.keesingtechnologies.com/liberia-issues-new-banknotes-20-50-500-and-1000/",
+        "https://www.cbl.org.lr/general/currency",
+        "https://www.numiscollection.com/liberia-500-dollars-designers-of-liberian-flag-hippopotamids-2022-serial-aa-a43697-en.html",
+        "https://www.coinworld.com/news/paper-money/liberia-issues-four-new-bank-notes-to-complete-series"
+      ],
+      "new_confidence": "official"
     },
     {
       "id": "e122",
