@@ -1,9 +1,9 @@
 {
   "description": "Pipeline per arricchire le emissions con URL reali. Processa in batch da 10, ogni batch viene committato.",
   "total": 493,
-  "processed": 95,
+  "processed": 105,
   "batch_size": 10,
-  "last_committed_batch": 10,
+  "last_committed_batch": 11,
   "items": [
     {
       "id": "e47",
@@ -1546,7 +1546,7 @@
         "Caribbean currency catalogs"
       ],
       "confidence": "high",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -1558,7 +1558,7 @@
         "Bank of Jamaica"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -1570,7 +1570,7 @@
         "Bank of Jamaica"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -1582,7 +1582,7 @@
         "Bank of Jamaica"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -1594,7 +1594,7 @@
         "Bank of Jamaica"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -1607,7 +1607,7 @@
         "East Asian banknote references"
       ],
       "confidence": "high",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -1620,7 +1620,7 @@
         "Banknote databases"
       ],
       "confidence": "high",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -1633,7 +1633,7 @@
         "Japanese banknote references"
       ],
       "confidence": "high",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -1646,7 +1646,7 @@
         "Currency references"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -1658,7 +1658,7 @@
         "Bank of Japan"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
