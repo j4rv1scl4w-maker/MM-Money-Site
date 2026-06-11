@@ -7237,18 +7237,18 @@
     "country": "Iraq",
     "issuer": "Central Bank of Iraq",
     "title": "50.000 Dinars",
-    "description": "Water wheel on the Euphrates river, Gali Ali Beg waterfall (Kurdistan).",
+    "description": "Iraq's highest-denomination banknote features a water wheel on the Euphrates River and the Geli Ali Beg Waterfall on the obverse, with the Malwiya spiral minaret of the Great Mosque of Samarra on the reverse.",
     "hue": 60.5,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/IRQ0103o.jpg",
     "slug": "iraq-50-000-dinars-e318",
-    "body": "High-denomination 50,000 dinar note (156 x 65 mm) in brown, green, yellow and blue. Obverse features Assyrian jar and water wheel on Euphrates River with Gali Ali Beg waterfall; reverse depicts fisherman in marshes with map of Iraq and Euphrates-Tigris river systems. Features RollingStar Cube security thread with Samarra's Malwiya Tower varifeye element and horse head watermark.",
+    "body": "The 50,000 dinar note is Iraq's highest circulating denomination, printed on a cotton-polymer hybrid substrate. The obverse portrays a water wheel on the Euphrates, an Assyrian jar, a palm tree, and the Geli Ali Beg Waterfall in Iraqi Kurdistan, while the reverse shows fishermen in a reed house, bovines and ducks, and the iconic spiral minaret of the Great Mosque of Samarra. The 2023 date corresponds to AH 1445 in the Islamic calendar and the note bears the signature of Central Bank Governor Ali Mohsen Ismail Al-Alaq.",
     "highlights": {
-      "reason": "Issued 2023 to represent Iraq's natural heritage and water resources",
-      "design": "Brown, green, yellow and blue note showing Euphrates water wheel and Iraqi marshlands heritage",
-      "security": "RollingStar Cube windowed thread with spiral minaret and Malwiya Tower registration device"
+      "design": "Geli Ali Beg Waterfall (Kurdistan) on obverse; Malwiya spiral minaret of the Great Mosque of Samarra on reverse.",
+      "reason": "Routine annual reissue of Iraq's highest denomination with updated date (AH 1445 / 2023) and new governor signature.",
+      "security": "Varifeye windowed security thread with colour-shifting spiral minaret motif; Arabian horse watermark with electrotype 50000; four stacked intaglio bars for the visually impaired; cotton-polymer hybrid substrate."
     },
     "sources": [
-      "https://www.banknoteworld.com/iraq-50-000-dinars-banknote-2023-ah1445-p-103a-5-unc.html"
+      "https://www.banknoteworld.com/iraq-50-000-dinars-banknote-2023-ah1445-p-103a-4-unc.html"
     ],
     "confidence": "secondary"
   },
@@ -7257,42 +7257,42 @@
     "year": 2023,
     "date": "2023",
     "country": "Kazakhstan",
-    "issuer": "Kazakstan Ülttyk Banki",
+    "issuer": "National Bank of Kazakhstan",
     "title": "10.000 Tenge",
-    "description": "Tenge-coin, Möbius strip. 30th Anniversary of Tenge-Currency.",
+    "description": "A 2023 commemorative banknote issued to mark the 30th anniversary of the Kazakhstani tenge, featuring a Mobius strip and a stylised map of Kazakhstan on the obverse and a tenge coin on the reverse.",
     "hue": 242.8,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/KAZW0050o.jpg",
     "slug": "kazakhstan-10-000-tenge-e319",
-    "body": "Purple and blue commemorative note (149 x 79 mm) released November 15, 2023, celebrating 30 years of the tenge currency. Obverse features Kazakhstan's national emblem, Mobius strip, and map with traditional regional designs; reverse shows Eurasian continent outline, tenge coin, and Mobius strip. Limited edition of 3,000,000 copies legally required to be accepted at face value throughout Kazakhstan.",
+    "body": "The 10,000 tenge commemorative note was released on 15 November 2023 in a limited edition of 3,000,000 pieces to celebrate three decades of the tenge as Kazakhstan's national currency. The vertical-format obverse displays the national emblem, a Mobius strip representing the infinite nature of time, and a map of Kazakhstan with regional boundaries rendered in traditional ornamentation, while the horizontal reverse shows an outline of the Eurasian continent and a golden tenge coin surrounded by a Mobius strip. The note is purple and blue, measures 149 x 79 mm, and carries the signature of National Bank Chairman Timur Suleimenov.",
     "highlights": {
-      "reason": "Commemoration of 30th anniversary of tenge currency establishment (1993-2023)",
-      "design": "Purple and blue design with Mobius strip symbolizing currency continuity and traditional Kazakh regional patterns",
-      "security": "Windowed security thread with color-shifting purple-to-green technology and tenge symbol watermark"
+      "design": "Mobius strip and stylised map of Kazakhstan on obverse; golden tenge coin and Eurasian continent outline on reverse.",
+      "reason": "Commemorative issue marking the 30th anniversary of the Kazakhstani tenge (1993-2023).",
+      "security": "Varifeye ColourChange patch depicting the Kazakhstan coat of arms; purple-to-green windowed security thread with demetalized tenge symbol and numerals 30; tenge-symbol watermark."
     },
     "sources": [
-      "https://nationalbank.kz/en/news/banknoty/6781"
+      "https://banknotenews.com/?p=41849"
     ],
-    "confidence": "official"
+    "confidence": "secondary"
   },
   {
     "id": "e320",
     "year": 2023,
     "date": "2023",
     "country": "Kazakhstan",
-    "issuer": "Kazakstan Ülttyk Banki",
+    "issuer": "National Bank of Kazakhstan",
     "title": "5.000 Tenge",
-    "description": "Tree of Life with bird, Golden eagle detail, DNA spiral, arms.",
+    "description": "The inaugural note of Kazakhstan's new 'Saka Style' series, featuring ancient Saka-culture Golden Man motifs and Charin Canyon on a red and purple banknote.",
     "hue": 347.3,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/KAZW0054o.jpg",
     "slug": "kazakhstan-5-000-tenge-e320",
-    "body": "New 5,000 tenge note (140 x 70 mm) launched December 25, 2023, as the first denomination in the 'Saka Style' series. Obverse features Tree of Life branch with hovering bird from the Golden Man's headgear, DNA spiral, and golden eagle artifact from ancient Kazakh archaeology. Reverse displays golden eagle with outspread wings and Charyn Canyon landscape within ornamental infinity pattern.",
+    "body": "The 5,000 tenge is the first banknote released in the National Bank of Kazakhstan's 'Saka Style' series, unveiled in November 2023 to mark the 30th anniversary of the tenge and celebrate Kazakhstan's pre-Islamic Saka nomadic heritage. The vertical obverse displays the 'Tree of Life' branch with a hovering bird from the Golden Man's headdress (Issyk Kurgan, 5th-4th centuries BCE), a golden eagle-shaped ornament from the Taldy II burial mound, a DNA spiral, and the national emblem. The horizontal reverse presents Charin Canyon framed within an infinity ornament, a spread-winged golden eagle from the Berel Mounds 'Valley of the Kings' (8th-7th centuries BCE), and a circular Kazakh decorative symbol.",
     "highlights": {
-      "reason": "Introduction of new 'Saka Style' series celebrating ancient Kazakh cultural and historical heritage",
-      "design": "Archaeological motifs including golden eagle, Tree of Life, and DNA spiral representing connection between past and future",
-      "security": "Features reflect Kazakh historical artifacts and landscape elements from Berel Kurgans and Taldy Kurgan sites"
+      "design": "Golden Man headdress 'Tree of Life' motif and Taldy II golden eagle ornament on obverse; Charin Canyon within infinity symbol on reverse.",
+      "reason": "First release in the new 'Saka Style' series commemorating the 30th anniversary of the tenge and showcasing Kazakhstan's Saka cultural heritage.",
+      "security": "RollingStar Patch shifting from gold to jade; RAPID Vision micro-optic security thread with dynamic multicolour ripple; windowed security thread with demetalized text; Samruk bird watermark with electrotype 5000."
     },
     "sources": [
-      "https://nationalbank.kz/en/news/banknoty/6782"
+      "https://nationalbank.kz/en/news/informacionnye-soobshcheniya/16194"
     ],
     "confidence": "official"
   },
@@ -7301,112 +7301,158 @@
     "year": 2023,
     "date": "2023",
     "country": "Kyrgyzstan",
-    "issuer": "Kyrgyz Banky",
+    "issuer": "National Bank of the Kyrgyz Republic",
     "title": "20 Som",
-    "description": "Togolok Moldo.",
+    "description": "The smallest denomination of Kyrgyzstan's 2023 fifth banknote series, featuring the poet and educator Togolok Moldo on the obverse and the medieval caravanserai Tash-Rabat on the reverse.",
     "hue": 349.7,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/KYRW0034o.jpg",
     "slug": "kyrgyzstan-20-som-e321",
-    "body": "The 20 Som note issued by Kyrgyz Banky represents a 2023 emission in Kyrgyzstan's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2023 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The red 20 som note (dated 2023, circulated from 15 February 2024) is the lowest denomination in the Kyrgyz Republic's fifth series, which modernised all seven denominations with updated security features. Togolok Moldo (1860-1942), a beloved akyn, poet, and educator, appears on the obverse, while the reverse depicts the 15th-century Tash-Rabat stone caravanserai set against mountain peaks. The note is printed by Crane Currency, measures 120 x 58 mm, and bears the signature of National Bank Chairman Kubanychbek Bokontayev.",
+    "highlights": {
+      "design": "Portrait of poet Togolok Moldo on obverse; 15th-century Tash-Rabat caravanserai on reverse.",
+      "reason": "Part of the fifth series modernisation of the Kyrgyz som, marking the 30th anniversary of the currency (1993-2023).",
+      "security": "RAPID HD Detect windowed micro-optic security thread; Togolok Moldo watermark with electrotype 20."
+    },
+    "sources": [
+      "https://www.cranecurrency.com/news-insights/kyrgyz-som-sees-second-phase-of-banknote-series-modernization/"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e322",
     "year": 2023,
     "date": "2023",
     "country": "Kyrgyzstan",
-    "issuer": "Kyrgyz Banky",
+    "issuer": "National Bank of the Kyrgyz Republic",
     "title": "50 Som",
-    "description": "Czarina Kurmanzhan Datka.",
+    "description": "The 2023 fifth-series 50 som note features Kurmanjan Datka, the legendary 'Queen of Alai', on the obverse and the 11th-century Uzgen architectural complex on the reverse.",
     "hue": 19.3,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/KYRW0035o.jpg",
     "slug": "kyrgyzstan-50-som-e322",
-    "body": "The 50 Som note issued by Kyrgyz Banky represents a 2023 emission in Kyrgyzstan's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2023 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The orange 50 som note (dated 2023, circulated from 15 February 2024) honours Kurmanjan Datka (1811-1907), a revered Kyrgyz politician and leader known as the Tsaritsa Alai, whose portrait dominates the obverse. The reverse showcases the Uzgen architectural complex, comprising an 11th-century minaret and mausoleum, framed by mountain scenery. The note measures 126 x 61 mm, was printed by Crane Currency, and earned recognition at the High Security Printing Asia awards for 2023.",
+    "highlights": {
+      "design": "Portrait of Kurmanjan Datka on obverse; 11th-century Uzgen minaret and mausoleum complex on reverse.",
+      "reason": "Part of the fifth series modernisation of the Kyrgyz som; the denomination also previously won the IBNS Banknote of the Year award for its design.",
+      "security": "RAPID HD Detect windowed micro-optic security thread; Kurmanjan Datka watermark with electrotype 50; Bioguard varnish with anti-bacterial and anti-viral protection."
+    },
+    "sources": [
+      "https://www.cranecurrency.com/news-insights/kyrgyz-som-sees-second-phase-of-banknote-series-modernization/"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e323",
     "year": 2023,
     "date": "2023",
     "country": "Kyrgyzstan",
-    "issuer": "Kyrgyz Banky",
+    "issuer": "National Bank of the Kyrgyz Republic",
     "title": "100 Som",
-    "description": "Toktogul Satylganov.",
+    "description": "The blue 2023 fifth-series 100 som note portrays the celebrated akyn Toktogul Satylganov on the obverse and the Toktogul hydroelectric dam cascade against mountain peaks on the reverse.",
     "hue": 203,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/KYRW0036o.jpg",
     "slug": "kyrgyzstan-100-som-e323",
-    "body": "The 100 Som note issued by Kyrgyz Banky represents a 2023 emission in Kyrgyzstan's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2023 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The blue 100 som note (dated 2023, circulated from 15 February 2024) commemorates Toktogul Satylganov (1864-1933), the most famous of the Kyrgyz akyns — improvising poet-singers — whose portrait appears on the obverse alongside an ornament in colour-shifting gold-to-jade optically variable ink. The reverse depicts the cascade of Toktogul hydroelectric power stations, one of Central Asia's most important energy installations, set against Kyrgyzstan's mountain peaks. The note measures 132 x 63 mm and was printed by Crane Currency.",
+    "highlights": {
+      "design": "Portrait of akyn Toktogul Satylganov on obverse; Toktogul hydroelectric dam cascade on reverse.",
+      "reason": "Part of the fifth series modernisation of the Kyrgyz som with enhanced security features.",
+      "security": "RAPID HD Detect windowed micro-optic security thread; Toktogul Satylganov watermark with electrotype 100; gold-to-jade OVI ornament on obverse."
+    },
+    "sources": [
+      "https://www.cranecurrency.com/news-insights/kyrgyz-som-sees-second-phase-of-banknote-series-modernization/"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e324",
     "year": 2023,
     "date": "2023",
     "country": "Kyrgyzstan",
-    "issuer": "Kyrgyz Banky",
+    "issuer": "National Bank of the Kyrgyz Republic",
     "title": "200 Som",
-    "description": "Alykul Osmonov, mountain.",
+    "description": "The yellow 2023 fifth-series 200 som note features the poet Alykul Osmonov on the obverse, with a view of Lake Issyk-Kul and an excerpt from his verse on the reverse.",
     "hue": 35.5,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/KYRW0037o.jpg",
     "slug": "kyrgyzstan-200-som-e324",
-    "body": "The 200 Som note issued by Kyrgyz Banky represents a 2023 emission in Kyrgyzstan's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2023 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The yellow 200 som note (dated 2023, circulated from 10 May 2023) was the first phase of the fifth series, and it portrays Alykul Osmonov (1915-1950), a celebrated Kyrgyz journalist and lyric poet, on the obverse. The reverse presents a sweeping panorama of Lake Issyk-Kul, one of the world's largest and deepest mountain lakes and a UNESCO Biosphere Reserve, accompanied by lines from Osmonov's poetry. The note measures 138 x 66 mm and bears the signature of National Bank Chairman Tolkunbek Abdygulov.",
+    "highlights": {
+      "design": "Portrait of poet Alykul Osmonov on obverse; Lake Issyk-Kul panorama with poetic verse on reverse.",
+      "reason": "Lead denomination of the first phase of the fifth series modernisation, launched 10 May 2023.",
+      "security": "Windowed security thread; Alykul Osmonov watermark with electrotype 200; OVI denomination numeral."
+    },
+    "sources": [
+      "https://www.banknoteworld.com/kyrgyzstan-200-som-banknote-2023-p-37-unc.html",
+      "https://www.cranecurrency.com/news-insights/kyrgyz-som-sees-second-phase-of-banknote-series-modernization/"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e325",
     "year": 2023,
     "date": "2023",
     "country": "Kyrgyzstan",
-    "issuer": "Kyrgyz Banky",
+    "issuer": "National Bank of the Kyrgyz Republic",
     "title": "500 Som",
-    "description": "Sayakbai Karalayev, mountain.",
+    "description": "The purple 2023 fifth-series 500 som note portrays the legendary manaschi Sayakbay Karalaev on the obverse, with the Manas Ordo mausoleum and scenes from the epic 'Manas' on the reverse.",
     "hue": 255.8,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/KYRW0038o.jpg",
     "slug": "kyrgyzstan-500-som-e325",
-    "body": "The 500 Som note issued by Kyrgyz Banky represents a 2023 emission in Kyrgyzstan's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2023 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The purple 500 som note (dated 2023, circulated from 10 May 2023) honours Sayakbay Karalaev (1894-1971), the greatest manaschi — oral reciter of the Kyrgyz national epic 'Manas' — whose portrait graces the obverse. The reverse features the Manas Ordo mausoleum complex in Talas, the spiritual epicentre of the Manas tradition, alongside stylised illustrations drawn from Karalaev's celebrated narration of the epic. The note measures 144 x 68 mm and was part of the first phase of the fifth series released in May 2023.",
+    "highlights": {
+      "design": "Portrait of manaschi Sayakbay Karalaev on obverse; Manas Ordo mausoleum with Manas epic motifs on reverse.",
+      "reason": "Part of the first phase of the fifth series modernisation, celebrating Kyrgyzstan's greatest oral literary tradition.",
+      "security": "Windowed security thread; Sayakbay Karalaev watermark with electrotype 500; Bioguard anti-bacterial and anti-viral varnish treatment."
+    },
+    "sources": [
+      "https://www.banknoteworld.com/kyrgyzstan-500-som-banknote-2023-p-38-unc.html",
+      "https://www.cranecurrency.com/news-insights/kyrgyz-som-sees-second-phase-of-banknote-series-modernization/"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e326",
     "year": 2023,
     "date": "2023",
     "country": "Kyrgyzstan",
-    "issuer": "Kyrgyz Banky",
+    "issuer": "National Bank of the Kyrgyz Republic",
     "title": "1.000 Som",
-    "description": "Zhusup Balasagyn, mountain.",
+    "description": "The grey 2023 fifth-series 1,000 som note portrays 11th-century philosopher and poet Yusuf Balasaguni on the obverse and the Takhti Sulaiman monument on Sulaiman-Too Mountain on the reverse.",
     "hue": 20.7,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/KYRW0039o.jpg",
     "slug": "kyrgyzstan-1-000-som-e326",
-    "body": "The 1.000 Som note issued by Kyrgyz Banky represents a 2023 emission in Kyrgyzstan's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2023 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The grey 1,000 som note (dated 2023, circulated from 10 May 2023) commemorates Yusuf Balasaguni (c. 1021-1075), the 11th-century Karakhanid poet and philosopher whose masterwork 'Kutadgu Bilig' (Wisdom of Royal Glory) is a cornerstone of Turkic literature. The reverse displays Takhti Sulaiman, the ancient throne monument on Sulaiman-Too — a UNESCO World Heritage Site in Osh — set against the Sulaiman mountain range. The note measures 150 x 71 mm and features an intricate gold-to-jade OVI ornament on the obverse.",
+    "highlights": {
+      "design": "Portrait of poet-philosopher Yusuf Balasaguni on obverse; Takhti Sulaiman monument on Sulaiman-Too (UNESCO World Heritage Site) on reverse.",
+      "reason": "Part of the first phase of the fifth series modernisation; celebrates Kyrgyzstan's pre-Islamic literary heritage.",
+      "security": "Windowed security thread; Yusuf Balasaguni watermark with electrotype 1000; gold-to-jade OVI denomination ornament; Bioguard anti-bacterial and anti-viral varnish treatment."
+    },
+    "sources": [
+      "https://www.banknoteworld.com/kyrgyzstan-1-000-som-banknote-2023-p-39-unc.html",
+      "https://www.cranecurrency.com/news-insights/kyrgyz-som-sees-second-phase-of-banknote-series-modernization/"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e327",
     "year": 2023,
     "date": "2023",
     "country": "Kyrgyzstan",
-    "issuer": "Kyrgyz Banky",
+    "issuer": "National Bank of the Kyrgyz Republic",
     "title": "5.000 Som",
-    "description": "Syimonkyl Tchokmorov, mountain.",
+    "description": "The green 2023 fifth-series 5,000 som note, the highest Kyrgyz denomination, features acclaimed actor and painter Suymenkul Chokmorov on the obverse and the Ala-Too cinema in Bishkek on the reverse.",
     "hue": 123.4,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/KYRW40o.jpg",
     "slug": "kyrgyzstan-5-000-som-e327",
-    "body": "The 5.000 Som note issued by Kyrgyz Banky represents a 2023 emission in Kyrgyzstan's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2023 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The green 5,000 som note (dated 2023, circulated from 10 May 2024) is the capstone of the fifth series modernisation and portrays Suymenkul Chokmorov (1939-1992), one of Kyrgyzstan's most celebrated actors and visual artists, recognised across Soviet cinema for his powerful performances. The reverse features the Ala-Too cinema, an iconic Soviet-era cultural landmark in central Bishkek. The note measures 156 x 73 mm, includes a gold-to-jade colour-shifting OVI ornament, and was printed by Crane Currency to complete the full seven-denomination modernisation.",
+    "highlights": {
+      "design": "Portrait of actor and painter Suymenkul Chokmorov on obverse; Ala-Too cinema building in Bishkek on reverse.",
+      "reason": "Final denomination released to complete the fifth series modernisation of the Kyrgyz som.",
+      "security": "RAPID HD Detect windowed micro-optic security thread; multi-tone portrait watermark with electrotype 5000; gold-to-jade OVI colour-shifting ornament; discontinuous security thread visible as solid line under transmitted light."
+    },
+    "sources": [
+      "https://www.cranecurrency.com/news-insights/new-5000-som-with-rapid-hd-detect-completes-banknote-modernization-in-kyrgyz-republic/",
+      "https://timesca.com/kyrgyzstans-new-5000-som-banknotes-enter-circulation/"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e328",
