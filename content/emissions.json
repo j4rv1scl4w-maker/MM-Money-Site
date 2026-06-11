@@ -5389,20 +5389,20 @@
     "country": "Morocco",
     "issuer": "Bank Al-Maghrib",
     "title": "100 Dirhams",
-    "description": "King Mohammed VI, arcades of Hassan II mosque (Casablanca), arms.",
+    "description": "A blue banknote featuring King Mohammed VI and the Hassan II Mosque archways, highlighting Moroccan Saharan heritage and development.",
     "hue": 22,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/MRQW0081o.jpg",
     "slug": "morocco-100-dirhams-e236",
-    "body": "The 10 Pakistani Rupee circulation note features Muhammad Ali Jinnah (Quaid-e-Azam), Pakistan's founder, on the obverse in traditional sherwani attire. The reverse depicts Bab-e-Khyber, the entry to the Khyber Pass near Peshawar. Security features include a Jinnah head watermark, security thread reading 'STATE BANK OF PAKISTAN 10', and UV fluorescence. Issued since 2006.",
+    "body": "Issued on November 24, 2023, this redesigned 100-Dirham note showcases Morocco's cultural heritage and socio-economic development. The obverse displays a portrait of King Mohamed VI alongside arcades of the Hassan II Mosque in Casablanca, with architectural details of traditional Moroccan doors. The reverse depicts the Tiznit-Dakhla expressway, Place Mechourar in Laayoune, and the Feast of Moussem de Tan-Tan. Measuring 144 x 70 mm, the note was produced by Dar As-Sikkah and features advanced security including a segmented thread with shifting colors and optical variable ink.",
     "highlights": {
-      "reason": "Honors Pakistan's founding father Quaid-e-Azam Muhammad Ali Jinnah.",
-      "design": "Features Jinnah in traditional sherwani and Khyber Pass gateway.",
-      "security": "Watermark with Jinnah portrait, security thread with UV fluorescence."
+      "design": "Portrait of King Mohamed VI paired with Hassan II Mosque arcades and traditional Moroccan architectural elements.",
+      "reason": "Celebrating Morocco's cultural heritage and socio-economic progress, particularly in the Saharan regions.",
+      "security": "Wide segmented thread with shifting colors, optical variable ink with magnetic orientation on denomination, UV and IR printed details."
     },
     "sources": [
-      "https://www.sbp.org.pk/banknotes/banknotes.htm"
+      "https://www.bkam.ma/en/Press-releases/Press-releases/2023/Bank-al-maghrib-puts-into-circulation-new-100-dirham-banknote-and-coin-series"
     ],
-    "confidence": "secondary"
+    "confidence": "official"
   },
   {
     "id": "e237",
@@ -5411,20 +5411,20 @@
     "country": "Morocco",
     "issuer": "Bank Al-Maghrib",
     "title": "200 Dirhams",
-    "description": "King Mohammed VI, Mohammed VI bridge over river Bouregreg (Rabat), arms.",
+    "description": "A brown and orange banknote showcasing King Mohammed VI alongside the Mohammed VI cable-stayed bridge and modern Moroccan infrastructure.",
     "hue": 209,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/MRQW0082o.jpg",
     "slug": "morocco-200-dirhams-e237",
-    "body": "The 20 Pakistani Rupee note features Muhammad Ali Jinnah (the founder of Pakistan) on the obverse and Mohenjo-daro, the UNESCO-listed archaeological site in Sindh province, on the reverse. Signature updates reflect governance changes at the State Bank of Pakistan; the 2023 version bears signatures of Jameel Ahmed and others. Measures 123 x 65 mm on paper substrate.",
+    "body": "Launched on January 12, 2024, as part of the 2023 series, this 200-Dirham note was timed to commemorate the 80th anniversary of Morocco's Independence Manifesto. The obverse features a portrait of King Mohammed VI and the Kingdom's coat of arms with the iconic Mohammed VI cable-stayed bridge. The reverse displays a stylized view of the Mohammed VI Tower and Marrakech-Menara International Airport, symbolizing Morocco's industrial and digital development. The note incorporates three-dimensional dynamic security threads, color-changing magnetic ink, and geometric patterns on both sides for enhanced security.",
     "highlights": {
-      "reason": "Celebrates Mohenjo-daro, Pakistan's ancient Indus Valley Civilization heritage.",
-      "design": "Features Jinnah obverse and Mohenjo-daro archaeological site reverse.",
-      "security": "Security thread visible under backlight inscribed 'STATE BANK OF PAKISTAN 20'."
+      "design": "King Mohammed VI with the Mohammed VI bridge, tower, and Marrakech-Menara Airport symbolizing economic modernization.",
+      "reason": "Celebrating Morocco's economic and industrial development under King Mohammed VI, timed with the 80th anniversary of the Independence Manifesto.",
+      "security": "Three-dimensional dynamic security thread, color-changing magnetic ink, geometric patterns, and recognition system for visually impaired users."
     },
     "sources": [
-      "https://www.sbp.org.pk/banknotes/banknotes.htm"
+      "https://www.bkam.ma/en/Press-releases/Press-releases/2023/Bank-al-maghrib-puts-into-circulation-new-200-dirham-banknote"
     ],
-    "confidence": "secondary"
+    "confidence": "official"
   },
   {
     "id": "e238",
@@ -5433,18 +5433,18 @@
     "country": "Myanmar",
     "issuer": "Central Bank of Myanmar",
     "title": "20.000 Kyats",
-    "description": "Printer.",
+    "description": "A green banknote featuring a sacred white elephant, issued to commemorate the Maravijaya Buddha Image completion and the birthday of Rattha Nandaka.",
     "hue": 94,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/MYAW0087o.jpg",
     "slug": "myanmar-20-000-kyats-e238",
-    "body": "The 50 Pakistani Rupee banknote, issued by the State Bank of Pakistan since 2008, features a purple color scheme with Muhammad Ali Jinnah on the obverse. The reverse depicts K2 (Karakoram Peak), the world's second-highest mountain at 8,611 meters. The State Bank has announced plans to issue new notes of all denominations with enhanced international security features.",
+    "body": "Introduced on July 31, 2023, this 20,000 Kyat note was issued in commemoration of the completion of the Maravijaya Buddha Image and the one-year birthday celebration of Rattha Nandaka, a white elephant calf born on July 23, 2022. The obverse features a prominent elephant, while the reverse showcases the Sagaing Bridge and Irrawaddy Bridge. Measuring 150 x 70 mm, the note incorporates a windowed security thread and a watermark featuring the head of the Yadana white elephant with electrotype denomination. Distribution was limited through exchange with older banknotes at Central Bank branches.",
     "highlights": {
-      "reason": "Honors Pakistan's founding father and natural heritage with K2 imagery.",
-      "design": "Purple note featuring Jinnah and K2, symbol of Pakistani geography.",
-      "security": "Modern security features consistent with State Bank standards."
+      "design": "Sacred white elephant on obverse with dual bridge architecture (Sagaing and Irrawaddy Bridges) on reverse.",
+      "reason": "Commemorating the Maravijaya Buddha Image completion and celebrating the first birthday of sacred white elephant Rattha Nandaka.",
+      "security": "Windowed security thread and watermark of Yadana white elephant head with electrotype 20000."
     },
     "sources": [
-      "https://mashriqtv.pk/en/2024/01/29/state-bank-of-pakistan-to-issue-new-currency-notes-of-all-denominations/"
+      "https://www.gnlm.com.mm/central-bank-of-myanmar-issues-press-release/"
     ],
     "confidence": "secondary"
   },
@@ -5455,18 +5455,18 @@
     "country": "Namibia",
     "issuer": "Bank of Namibia",
     "title": "100 Namibia Dollars",
-    "description": "Captain Hendrik Witbooi, Parliament building (Windhoek).",
+    "description": "A pink, green, and yellow note featuring Kaptein Hendrik Witbooi and the Namibian Parliament building, with three standing oryx antelopes on the reverse.",
     "hue": 3,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/NAM0014o.jpg",
     "slug": "namibia-100-namibia-dollars-e239",
-    "body": "The 5,000 Pakistani Rupee note, first issued May 27, 2006, features Muhammad Ali Jinnah (Quaid) on the mustard-colored obverse alongside the Pakistani flag. The reverse depicts the Faisal Mosque in Islamabad. Security features include microlettering with the numeral 5000, geometric patterns, and hidden numerals in the Margala hills behind the mosque. Updated signatures reflect governance changes through 2024.",
+    "body": "This 2023 circulation banknote issued by the Bank of Namibia measures 147 x 70 mm. The obverse features Kaptein Hendrik Witbooi, the Parliament building, and the bank logo rendered in green-to-gold SPARK coloring. The reverse displays three standing oryx antelopes (Oryx gazella), symbolizing Namibia's iconic wildlife heritage. Security features include a BON diaphan registration device, a green-to-magenta/blue Janus windowed security thread with demetalized BON 100 denomination, and a watermark of Hendrik Witbooi with electrotype 100.",
     "highlights": {
-      "reason": "First issued in 2006 to facilitate high-value transactions as highest denomination.",
-      "design": "Mustard-colored note featuring Jinnah and Faisal Mosque in Islamabad.",
-      "security": "Microlettering with denomination and geometric patterns; hidden numerals in landscape."
+      "design": "Kaptein Hendrik Witbooi with Parliament building and three oryx antelopes representing national wildlife.",
+      "reason": "Standard circulation currency featuring an important Namibian historical figure and the iconic national antelope.",
+      "security": "Color-changing Janus security thread, demetalized denomination, watermark of Hendrik Witbooi with electrotype 100."
     },
     "sources": [
-      "https://www.sbp.org.pk/finance/Pak-Features-5000.asp"
+      "https://www.banknoteworld.com/namibia-100-namibia-dollars-banknote-2023-p-14a-3-unc.html"
     ],
     "confidence": "secondary"
   },
@@ -5477,36 +5477,42 @@
     "country": "Nepal",
     "issuer": "Nepal Rastra Bank",
     "title": "20 Rupees",
-    "description": "Mount Everest, Krishna temple.",
+    "description": "A banknote featuring Mount Everest on the obverse and two swamp deer on the reverse, celebrating Nepal's natural landmarks and wildlife heritage.",
     "hue": 13,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/NEP0078o.jpg",
     "slug": "nepal-20-rupees-e240",
-    "body": "The 20 Rupees note issued by Nepal Rastra Bank represents a 2023 emission in Nepal's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2023 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "Introduced by Nepal Rastra Bank in 2023, this 20 Rupee note features Mount Everest (Sagarmatha) prominently on the obverse, symbolizing Nepal's geographical identity. The reverse showcases two swamp deer, highlighting the country's diverse wildlife. The design includes 'NEPAL RASTRA BANK' printed in English at the top and a Laliguras (rhododendron) flower watermark for security. The 2023 series continues Nepal's tradition of celebrating its iconic natural landmarks and biodiversity.",
+    "highlights": {
+      "design": "Mount Everest on obverse paired with two swamp deer on reverse, representing Nepal's natural heritage.",
+      "reason": "Continuing Nepal's currency tradition of celebrating iconic geographical landmarks and native wildlife species.",
+      "security": "Laliguras flower watermark for enhanced security identification."
+    },
+    "sources": [
+      "https://www.sharesansar.com/newsdetail/nepal-rastra-bank-introduces-rs-20-currency-notes-with-distinctive-features-2023-10-06"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e241",
     "year": 2023,
     "date": "2019-2023",
     "country": "Northern Ireland",
-    "issuer": "Ulster Bank Limited",
+    "issuer": "Danske Bank",
     "title": "20 Pounds Sterling",
-    "description": "Hawthorne flower and a transparent outline of Lough Neagh, eels, butterfly.",
+    "description": "A predominantly blue polymer banknote featuring inventor Harry Ferguson on the obverse with Belfast City Hall's pediment on the reverse.",
     "hue": 276,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/NIRW2019-020-UBo.jpg",
     "slug": "northern-ireland-20-pounds-sterling-e241",
-    "body": "The 2 Kina polymer banknote from the Bank of Papua New Guinea features the National Parliament building in Port Moresby on the obverse alongside the national coat of arms. The green note measures 125 x 70 mm. The reverse displays cultural artifacts including a Mount Hagan ax, Kula armband from Milne Bay Province, engraved dogtooth necklace from Bougainville, Sepik clay pot, and tapa cloth patterns.",
+    "body": "Danske Bank's polymer 20 Pound note honors Harry Ferguson, born in County Down in 1884, renowned for developing the modern tractor and its hydraulic rear linkage system still used worldwide today. The obverse displays a portrait of Ferguson alongside a tractor motif and gold foil accents, while the reverse features the pediment of Belfast City Hall. The polymer version measures slightly smaller than earlier paper issues and includes a see-through security section, holographic foil, and a tactile feature assisting visually impaired users. A printed magnetic stripe runs vertically through the note.",
     "highlights": {
-      "reason": "Part of the polymer banknote series celebrating Papua New Guinea's cultural heritage.",
-      "design": "Features National Parliament building and diverse indigenous cultural artifacts.",
-      "security": "Polymer substrate with security elements resistant to wear and moisture."
+      "design": "Portrait of Harry Ferguson with tractor imagery and Belfast City Hall's iconic pediment.",
+      "reason": "Honoring an important Northern Irish inventor whose contributions revolutionized agricultural technology and tractor design.",
+      "security": "See-through window section, holographic foil, tactile feature for visually impaired identification, and vertical printed magnetic stripe."
     },
     "sources": [
-      "https://www.polymernotes.com/en/news/papua-new-guinea-banknotes.html"
+      "https://danskebank.co.uk/about-us/bank-notes/twenty-pound-note"
     ],
-    "confidence": "secondary"
+    "confidence": "official"
   },
   {
     "id": "e242",
@@ -5515,14 +5521,20 @@
     "country": "Pakistan",
     "issuer": "State Bank of Pakistan",
     "title": "75 Rupees",
-    "description": "State Bank of Pakistan building Karachi, Mohammed Ali Jinnah. 75th Anniversary of State Bank of Pakistan (1948-2023).",
+    "description": "A blue and green commemorative note honoring the 75th anniversary of the State Bank of Pakistan, featuring the SBP building and Muhammad Ali Jinnah.",
     "hue": 226,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/PAKW0057o.jpg",
     "slug": "pakistan-75-rupees-e242",
-    "body": "State Bank of Pakistan building Karachi, Mohammed Ali Jinnah. 75th Anniversary of State Bank of Pakistan (1948-2023).",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "Issued on July 4, 2023, by State Bank of Pakistan Governor Jameel Ahmed, this 75 Rupees commemorative banknote celebrates the central bank's 75th anniversary (1948-2023). The blue and green note measures 139 x 65 mm. The obverse features the State Bank of Pakistan building in Karachi and a portrait of Muhammad Ali Jinnah (Quaid-e-Azam), the founder of Pakistan. The reverse displays wind turbines symbolizing renewable energy development and a portrait of Mohtrama Fatima Jinnah. Security features include a Pureimage windowed holographic security thread with demetalized denomination and a watermark of Muhammad Ali Jinnah with electrotype 75.",
+    "highlights": {
+      "design": "Muhammad Ali Jinnah and SBP building paired with wind turbines and Fatima Jinnah, linking founding history with modern development.",
+      "reason": "Commemorating the 75th anniversary of the State Bank of Pakistan's founding and its role in guiding Pakistan's monetary policy.",
+      "security": "Pureimage windowed holographic security thread with demetalized 75, watermark of Muhammad Ali Jinnah with electrotype 75."
+    },
+    "sources": [
+      "https://www.sbp.org.pk/finance/Pak-75Rupees.asp"
+    ],
+    "confidence": "official"
   },
   {
     "id": "e243",
@@ -5531,19 +5543,17 @@
     "country": "Papua New Guinea",
     "issuer": "Bank of Papua New Guinea",
     "title": "2 Kina",
-    "description": "Size.",
+    "description": "A green polymer banknote featuring the Bird of Paradise on a ceremonial spear with a traditional Kundu drum, representing Papua New Guinea's national emblem and cultural artifacts.",
     "hue": 122,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/PNGW2017-002o.jpg",
     "slug": "papua-new-guinea-2-kina-e243",
-    "body": "The 10 Peruvian Soles note, part of the new series issued July 2021 by the Banco Central de Reserva del Perú, measures the standard size of 140 x 65 mm. This modern series was expanded with additional denominations in subsequent years as part of Peru's banknote modernization program. The 10 Soles denomination continues in circulation as a common-use banknote.",
+    "body": "This multicolored green, yellow, and teal polymer 2 Kina note measures 125 x 70 mm. The obverse prominently features a stylized Bird of Paradise sitting atop a ceremonial spear, accompanied by a traditional Kundu drum. The national coat of arms and the National Parliament building in Port Moresby are also displayed. A solid security thread runs vertically over the bird's left wing, visible only under backlight. The reverse depicts Mount Hagan axes, a Kula armband from Milne Bay Province, an engraved dogtooth necklace from Bougainville, Sepik clay pottery, and traditional tapa cloth patterns.",
     "highlights": {
-      "reason": "Part of Peru's 2021 banknote modernization program.",
-      "design": "Contemporary design reflecting Peru's cultural and natural heritage.",
-      "security": "Modern security features consistent with the current series standard."
+      "design": "Stylized Bird of Paradise on ceremonial spear with Kundu drum and regional cultural artifacts from across PNG's provinces.",
+      "reason": "Representing Papua New Guinea's rich cultural heritage and diverse national symbols of unity across the nation's many provinces.",
+      "security": "Solid security thread visible under backlight, embedded over the bird's left wing on the polymer substrate."
     },
-    "sources": [
-      "https://artgallery.yale.edu/collections/objects/282165"
-    ],
+    "sources": [],
     "confidence": "fallback"
   },
   {
@@ -5553,18 +5563,20 @@
     "country": "Papua New Guinea",
     "issuer": "Bank of Papua New Guinea",
     "title": "100 Kina",
-    "description": "Size.",
+    "description": "A high-denomination polymer banknote honoring Sir Julius Chan, Papua New Guinea's founding financial architect and former Prime Minister.",
     "hue": 50,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/PNGW2021-100o.jpg",
     "slug": "papua-new-guinea-100-kina-e244",
-    "body": "The 20 Peruvian Soles note, issued July 2022, features José María Arguedas Altamirano on the obverse with a green-to-blue SPARK Live security element. The 20 Soles completes the modernization of Peru's banknote family following the release of the 10 and 100 Soles in July 2021 and the 50 Soles in 2022. All notes measure 140 x 65 mm.",
+    "body": "This commemorative 100 Kina note honors Sir Julius Chan, the statesman whose vision shaped Papua New Guinea's financial destiny. Chan played a pivotal role in establishing the Bank of Papua New Guinea and introducing the kina and toea currency in 1975 as the nation asserted financial independence from the Australian dollar. The polymer substrate ensures durability and counterfeiting protection. The design recognizes Chan's foundational contributions to PNG's economic sovereignty and his leadership during the critical transition to national financial independence.",
     "highlights": {
-      "reason": "Issued to complete Peru's banknote modernization program.",
-      "design": "Features José María Arguedas Altamirano with green-to-blue SPARK Live element.",
-      "security": "Modern SPARK Live security feature with standardized dimensions."
+      "design": "Commemorative portrait of Sir Julius Chan honoring his role as founding financial architect of Papua New Guinea.",
+      "reason": "Recognizing Sir Julius Chan's instrumental role in establishing PNG's currency system and central bank at independence in 1975.",
+      "security": "Guardian polymer substrate providing enhanced durability and counterfeiting protection."
     },
-    "sources": [],
-    "confidence": "fallback"
+    "sources": [
+      "https://www.thenational.com.pg/sir-julius-honoured-on-new-k100-note/"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e245",
@@ -5573,18 +5585,20 @@
     "country": "Papua New Guinea",
     "issuer": "Bank of Papua New Guinea",
     "title": "50 Kina",
-    "description": "Parliament building, Port Moresby. 50 Years Bank of Papua New Guinea (1973-2023).",
+    "description": "An orange polymer commemorative note celebrating the 50th anniversary of the Bank of Papua New Guinea, honoring Grand Chief Sir Michael Somare.",
     "hue": 29,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/PNGW0057o.jpg",
     "slug": "papua-new-guinea-50-kina-e245",
-    "body": "The front features Túpac Yupanqui, 15th-century Inca emperor, as part of Peru's modern banknote series by Banco Central de Reserva del Perú. The 2024 signature update reflects updated authorization codes. Dimensions and color specifications align with the current circulation series. This denomination serves mid-range domestic transactions in Peru's economy.",
+    "body": "Launched in November 2023, this commemorative 50 Kina polymer banknote celebrates the 50th anniversary of the Bank of Papua New Guinea, which was established on November 1, 1973. The orange note honors Grand Chief Sir Michael Somare, Papua New Guinea's first Prime Minister, with his portrait prominently displayed. The obverse features the coat of arms with bird of paradise and the National Parliament building in Port Moresby alongside a golden '50 YEARS' logo. The reverse displays cultural treasures including spears from Sepik, shields and masks from New Ireland, Tubuan face masks from New Britain, headdress from the Highlands, and costumes from the Sepik River.",
     "highlights": {
-      "reason": "Signature and security feature update to enhance anti-counterfeiting measures.",
-      "design": "Portrait of Inca emperor Túpac Yupanqui with modern security elements.",
-      "security": "Updated printing standards and denomination verification features."
+      "design": "Grand Chief Sir Michael Somare's portrait with Parliament House and 50th anniversary emblem, reverse featuring diverse cultural artifacts from across PNG.",
+      "reason": "Commemorating 50 years of the Bank of Papua New Guinea's operation and honoring Grand Chief Sir Michael Somare's founding leadership.",
+      "security": "Guardian polymer substrate providing enhanced protection and durability against counterfeiting."
     },
-    "sources": [],
-    "confidence": "fallback"
+    "sources": [
+      "https://www.bankpng.gov.pg/publications/public-notices/launch-papua-new-guineas-50th-anniversary-commemorative-currency"
+    ],
+    "confidence": "official"
   },
   {
     "id": "e246",
