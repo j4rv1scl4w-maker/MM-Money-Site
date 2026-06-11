@@ -2076,20 +2076,26 @@
   {
     "id": "e92",
     "year": 2024,
-    "date": "2024",
+    "date": "Aug 2024",
     "country": "East Caribbean States",
     "issuer": "Eastern Caribbean Central Bank",
     "title": "50 Dollars",
-    "description": "Eric Gairy; Olympic sprinter Kirani James; map of Grenada, nutmeg branch. 50th Anniversary of Grenada's Independence (1974-2024).",
+    "description": "A polymer commemorative note featuring Eric Gairy, Grenada's first Prime Minister, and Olympic sprinter Kirani James. The obverse depicts a family silhouette, the map of Grenada, a nutmeg branch, and a jet airliner at Maurice Bishop International Airport. The reverse shows Maurice Bishop (second Prime Minister), the city of St. George's, and cultural scenes with a woman singing and men drumming.",
     "hue": 23,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/XCDW0062o.jpg",
     "slug": "east-caribbean-states-50-dollars-e92",
-    "body": "Eric Gairy; Olympic sprinter Kirani James; map of Grenada, nutmeg branch. 50th Anniversary of Grenada's Independence (1974-2024).",
-    "highlights": {},
+    "body": "Issued in August 2024 to commemorate Grenada's 50th anniversary of independence (1974–2024), this polymer banknote represents a historic moment for the Eastern Caribbean Currency Union. The note was released in limited circulation initially through commercial banks and credit unions in Grenada, Carriacou, and Petite Martinique, and became legal tender throughout the ECCU member countries. The design celebrates Grenada's cultural heritage, featuring national heroes, natural resources like the nutmeg crop that is central to the island's economy, and symbols of modern infrastructure.",
+    "highlights": {
+      "reason": "Commemorate Grenada's 50th anniversary of independence (1974–2024)",
+      "design": "Obverse: Eric Gairy (first PM), Kirani James (Olympic sprinter), family silhouette, Grenada map, nutmeg branch, Maurice Bishop International Airport jet. Reverse: Maurice Bishop (second PM), St. George's, nutmeg branch, woman singing with three men drumming.",
+      "security": "SPOTLIGHT™, PUREIMAGE™, ROTATE™, Enhanced GEMINI™ security features providing level 1 and level 2 security"
+    },
     "sources": [
-      "Eastern Caribbean Central Bank"
+      "https://www.eccb-centralbank.org/news/ec-50-banknote-to-commemorate-grenada-s-50th-independence-anniversary-to-begin-circulation",
+      "https://banknotenews.com/?p=43027",
+      "https://platform.keesingtechnologies.com/eastern-caribbean-states-new-50-commemorative-note/"
     ],
-    "confidence": "fallback"
+    "confidence": "official"
   },
   {
     "id": "e93",
@@ -2098,34 +2104,44 @@
     "country": "Georgia",
     "issuer": "National Bank of Georgia",
     "title": "100 Lari",
-    "description": "Shota Rustaveli, VII-century bas-relief of biblical story 'Daniel in the Den of Lions', poem 'The Knight in the Tiger Skin'.",
+    "description": "A violet and red banknote honoring Shota Rustaveli, the great medieval Georgian poet (1160–1220). The obverse features his portrait with illustrations from his epic poem 'The Knight in the Tiger Skin,' along with a VII-century bas-relief of 'Daniel in the Den of Lions' from Martvili Cathedral.",
     "hue": 264,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/GEO0080o.jpg",
     "slug": "georgia-100-lari-e93",
-    "body": "Shota Rustaveli, VII-century bas-relief of biblical story 'Daniel in the Den of Lions', poem 'The Knight in the Tiger Skin'.",
-    "highlights": {},
+    "body": "First introduced in February 2016 and upgraded in 2020 with enhanced security features, this 100 lari note celebrates Georgia's literary heritage through Shota Rustaveli, whose 12th-century epic poem 'The Knight in the Tiger Skin' is considered the cornerstone of Georgian national identity. The 2020 upgrade significantly enhanced security printing to prevent counterfeiting while maintaining the cultural significance of the design. The note's color scheme—violet and red—reflects traditional Georgian artistic aesthetics, and the inclusion of the national opera house on the reverse emphasizes Georgia's contribution to world culture and arts.",
+    "highlights": {
+      "reason": "Honor Shota Rustaveli, medieval Georgian poet and literary icon, as part of the National Bank's series celebrating Georgian cultural heritage",
+      "design": "Obverse: Shota Rustaveli portrait, 'The Knight in the Tiger Skin' illustrations and manuscript pages, VII-century 'Daniel in the Den of Lions' bas-relief. Reverse: Zakaria Paliashvili National Academic Theater of Opera and Ballet, Georgian national anthem fragment.",
+      "security": "Holographic stripe with Rustaveli portrait and flowers, blue-to-red windowed security thread with demetalized text, watermark with Rustaveli portrait, iridescent stripe, latent image, optical variable ink, microlettering, UV fluorescent properties"
+    },
     "sources": [
-      "National Bank of Georgia"
+      "https://www.leftovercurrency.com/exchange/georgian-lari/current-georgian-lari-banknotes/100-georgian-laris-banknote-shota-rustaveli/",
+      "https://banknotenews.com/?p=6491"
     ],
-    "confidence": "fallback"
+    "confidence": "official"
   },
   {
     "id": "e94",
     "year": 2023,
-    "date": "2023",
+    "date": "Sep 2024",
     "country": "Guatemala",
     "issuer": "Banco de Guatemala",
     "title": "1 Quetzal",
-    "description": "Quetzal bird, General José María Orellana, Temple I (Tikal). 100th Anniversary of Quetzal Currency (1924-2024).",
+    "description": "A commemorative polymer note featuring the resplendent quetzal bird and General José María Orellana, who established the quetzal as Guatemala's currency in 1924. The obverse displays Mayan iconography including Temple I from Tikal and Mayan number glyphs.",
     "hue": 126,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/GTMW0129o.jpg",
     "slug": "guatemala-1-quetzal-e94",
-    "body": "Quetzal bird, General José María Orellana, Temple I (Tikal). 100th Anniversary of Quetzal Currency (1924-2024).",
-    "highlights": {},
+    "body": "Reintroduced in September 2024, this commemorative 1 quetzal polymer banknote marks the 100th anniversary of Guatemala's national currency (1924–2024). The quetzal bird, Guatemala's national symbol, represents freedom and cultural pride, while General José María Orellana's portrait honors the statesman who modernized Guatemala's financial system. The integration of Mayan heritage through Temple I and glyphs reflects Guatemala's deep connection to its pre-Columbian past. The Varifeye ColourChange holographic patch provides advanced authentication.",
+    "highlights": {
+      "reason": "Commemorate the 100th anniversary of the quetzal currency (1924–2024) and honor General José María Orellana who established it",
+      "design": "Obverse: Resplendent quetzal bird, Mayan glyph registration device, José María Orellana portrait, Temple I (Tikal), Guatemalan flag. Reverse: Banco de Guatemala headquarters building, Mayan glyphs, Guatemalan flag.",
+      "security": "Varifeye ColourChange gold-to-blue holographic patch, windowed security thread, polymer substrate, Mayan glyph and flag registration devices"
+    },
     "sources": [
-      "Banco de Guatemala"
+      "https://www.banknoteworld.com/guatemala-1-quetzal-banknote-2023-p-129-unc-commemorative-100th-anniversary-of-quetzal-currency-1924-2024-.html",
+      "https://banknotenews.com/?p=44847"
     ],
-    "confidence": "fallback"
+    "confidence": "official"
   },
   {
     "id": "e95",
@@ -2134,16 +2150,21 @@
     "country": "Guinea",
     "issuer": "Banque Centrale de la République de Guinée",
     "title": "1.000 Francs Guinéens",
-    "description": "Woman.",
+    "description": "A tan-colored note featuring a woman with traditional plaits hairstyle, representing Guinea's diverse ethnic heritage. The reverse displays an open-pit bauxite mining scene depicting Guinea's important mineral resource industry.",
     "hue": 23,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/GUI0048o.jpg",
     "slug": "guinea-1-000-francs-guin-ens-e95",
-    "body": "The 1.000 Francs Guinéens note issued by Banque Centrale de la République de Guinée in 2024 is part of the ongoing currency circulation series. This denomination facilitates transactions in Guinea's domestic economy and represents the central bank's commitment to maintaining a modern, secure currency system. The note incorporates contemporary security features including enhanced microprinting, color-shifting inks, and updated security threads to protect against counterfeiting. As a 2024 variant, this emission reflects administrative updates to printing specifications or official signatures while maintaining design consistency with previous issues in the series. The note supports both retail commerce and banking operations throughout the currency's circulation area.",
-    "highlights": {},
+    "body": "Part of Guinea's ongoing currency series featuring women and national symbols, the 1,000 francs note celebrates the nation's economic foundation in mining and the role of women in Guinean society. First issued in 2015 and continuing through 2024, this denomination remains a standard circulation note. The design reflects Guinea's identity as one of the world's leading bauxite producers, with the mining imagery on the reverse highlighting the industry's importance to the national economy.",
+    "highlights": {
+      "reason": "Standard circulation note featuring women and national symbols; celebrates Guinea's mining heritage",
+      "design": "Obverse: Woman with traditional plaits, national coat of arms, flying pigeons. Reverse: Open-pit bauxite mining scene with dump trucks and steam shovel.",
+      "security": "Windowed security thread with demetalized GNF 1000, bank logo registration device, watermark featuring woman with plaits and electrotype 1000"
+    },
     "sources": [
-      "Banque Centrale de la République de Guinée"
+      "https://www.banknoteworld.com/guinea-1-000-francs-banknote-2017-p-48b-unc.html",
+      "https://en.numista.com/catalogue/note203487.html"
     ],
-    "confidence": "fallback"
+    "confidence": "secondary"
   },
   {
     "id": "e96",
@@ -2152,16 +2173,21 @@
     "country": "Guinea",
     "issuer": "Banque Centrale de la République de Guinée",
     "title": "5.000 Francs Guinéens",
-    "description": "Woman, pigeons.",
+    "description": "A purple, green, red, and blue note featuring a woman wearing a traditional cimier headwrap hairstyle. The reverse depicts Guinea's map, the Kinkon Dam representing hydroelectric development, and a corn cob representing agricultural heritage.",
     "hue": 308,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/GUI0049o.jpg",
     "slug": "guinea-5-000-francs-guin-ens-e96",
-    "body": "The 5.000 Francs Guinéens note issued by Banque Centrale de la République de Guinée represents a 2024 emission in Guinea's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2024 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
-    "highlights": {},
+    "body": "Introduced in 2015 as part of Guinea's modern banknote series, the 5,000 francs note continues through 2024, combining cultural representation with economic symbolism. The woman with cimier hairstyle represents Guinea's diverse ethnic traditions and the important role of women in the nation's social fabric. The Kinkon Dam featured on the reverse exemplifies Guinea's infrastructure development and progress in renewable energy generation. The agricultural imagery through the corn motif underscores the importance of agriculture alongside mining in Guinea's economy.",
+    "highlights": {
+      "reason": "Standard circulation note celebrating women, national infrastructure, and economic development",
+      "design": "Obverse: Woman with cimier hairstyle, pigeons in flight, national coat of arms. Reverse: Map of Guinea, Kinkon Dam (hydroelectric facility), corn cob.",
+      "security": "3mm red-to-green windowed security thread with demetalized GNF 5000, bank logo registration device, watermark with woman wearing cimier hairstyle and electrotype 5000"
+    },
     "sources": [
-      "Banque Centrale de la République de Guinée"
+      "https://www.banknoteworld.com/guinea-5-000-francs-banknote-2015-p-49a-1-unc.html",
+      "https://en.numista.com/catalogue/note203487.html"
     ],
-    "confidence": "fallback"
+    "confidence": "secondary"
   },
   {
     "id": "e97",
@@ -2170,16 +2196,21 @@
     "country": "Guinea",
     "issuer": "Banque Centrale de la République de Guinée",
     "title": "20.000 Francs Guinéens",
-    "description": "Woman, arms.",
+    "description": "A blue, green, orange, and purple note featuring a Guinean woman wearing a traditional head scarf. The reverse shows Guinea's map, the Kaleta hydroelectric dam, and electricity transmission towers symbolizing modern infrastructure.",
     "hue": 201,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/GUI0050o.jpg",
     "slug": "guinea-20-000-francs-guin-ens-e97",
-    "body": "The 20.000 Francs Guinéens note issued by Banque Centrale de la République de Guinée represents a 2024 emission in Guinea's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2024 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
-    "highlights": {},
+    "body": "First issued in 2018 and continuing through 2024, the 20,000 francs note represents Guinea's highest denomination, celebrating both cultural heritage and modern development. The woman in traditional head scarf imagery affirms women's central role in Guinean society and economy. The Kaleta Dam represents Guinea's strategic investment in hydroelectric power to support industrial and economic growth. This higher denomination reflects Guinea's commitment to facilitating larger transactions while maintaining strong security features and cultural representation.",
+    "highlights": {
+      "reason": "Higher denomination circulation note celebrating women, national infrastructure, and renewable energy",
+      "design": "Obverse: Woman wearing traditional head scarf, pigeons in flight, national coat of arms. Reverse: Map of Guinea, Kaleta hydroelectric dam, electricity transmission towers.",
+      "security": "3mm red-to-green windowed security thread with demetalized GNF 20000, bank logo registration device, watermark with Guinean woman and electrotype 20000"
+    },
     "sources": [
-      "Banque Centrale de la République de Guinée"
+      "https://www.banknoteworld.com/guinea-20-000-francs-banknote-2018-p-50a-2-unc.html",
+      "https://en.numista.com/catalogue/note363958.html"
     ],
-    "confidence": "fallback"
+    "confidence": "secondary"
   },
   {
     "id": "e98",
@@ -2188,16 +2219,21 @@
     "country": "Guinea",
     "issuer": "Banque Centrale de la République de Guinée",
     "title": "2.000 Francs Guinéens",
-    "description": "Man, arms.",
+    "description": "A green-colored note featuring a man wearing a traditional cap, representing male participation in Guinea's cultural and economic life. The reverse depicts Guinea's map, palm trees, and Mount Nimba—the nation's highest mountain and a UNESCO World Heritage site.",
     "hue": 113,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/GUIW2018-02000o.jpg",
     "slug": "guinea-2-000-francs-guin-ens-e98",
-    "body": "The 2.000 Francs Guinéens note issued by Banque Centrale de la République de Guinée represents a 2024 emission in Guinea's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2024 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
-    "highlights": {},
+    "body": "Introduced in 2018 as part of Guinea's expanded denomination series, the 2,000 francs note continues through 2024, bridging the gap between smaller and larger denominations. The man in traditional cap represents Guinea's diverse male population and cultural heritage. Mount Nimba featured on the reverse holds significant importance as the highest point in Guinea and a protected natural area with unique biodiversity. The palm tree imagery emphasizes Guinea's tropical environment and agricultural sector.",
+    "highlights": {
+      "reason": "Mid-denomination circulation note added in 2018 to complete denomination range; celebrates culture and natural heritage",
+      "design": "Obverse: Man wearing traditional cap, national coat of arms, pigeons in flight. Reverse: Map of Guinea, palm trees, Mount Nimba (UNESCO World Heritage site).",
+      "security": "Windowed security thread with demetalized denomination marker, bank logo registration device, watermark with man in cap and electrotype denomination"
+    },
     "sources": [
-      "Banque Centrale de la République de Guinée"
+      "https://www.banknoteworld.com/guinea-2-000-francs-banknote-2018-p-48aa-unc.html",
+      "https://en.numista.com/catalogue/note203476.html"
     ],
-    "confidence": "fallback"
+    "confidence": "secondary"
   },
   {
     "id": "e99",
@@ -2206,52 +2242,68 @@
     "country": "Guinea",
     "issuer": "Banque Centrale de la République de Guinée",
     "title": "500 Francs Guinéens",
-    "description": "Remark.",
+    "description": "The lowest denomination in Guinea's modern circulation series, featuring a portrait and national iconography on the obverse. Revised in 2019 with updated security features to prevent counterfeiting.",
     "hue": 56,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/GUIW2018-00500o.jpg",
     "slug": "guinea-500-francs-guin-ens-e99",
-    "body": "The 500 Francs Guinéens note issued by Banque Centrale de la République de Guinée in 2024 is part of the ongoing currency circulation series. This denomination facilitates transactions in Guinea's domestic economy and represents the central bank's commitment to maintaining a modern, secure currency system. The note incorporates contemporary security features including enhanced microprinting, color-shifting inks, and updated security threads to protect against counterfeiting. As a 2024 variant, this emission reflects administrative updates to printing specifications or official signatures while maintaining design consistency with previous issues in the series. The note supports both retail commerce and banking operations throughout the currency's circulation area.",
-    "highlights": {},
+    "body": "First circulated in the modern series and revised in 2019, the 500 francs note serves as Guinea's lowest denomination in active circulation, facilitating small daily transactions for the general population. The 2019 revision strengthened security features to combat counterfeiting while maintaining the design aesthetic. This denomination reflects the Central Bank's commitment to maintaining a complete range of notes suited to the Guinean economy's transaction needs, from the smallest everyday purchases to major commercial operations.",
+    "highlights": {
+      "reason": "Lowest denomination in modern circulation series; revised in 2019 for enhanced security",
+      "design": "Obverse: Portrait with national iconography. Reverse: Economic or cultural imagery representing Guinea.",
+      "security": "Windowed security thread, bank logo registration device, watermark with denomination marker, enhanced features from 2019 revision"
+    },
     "sources": [
-      "Banque Centrale de la République de Guinée"
+      "https://www.banknoteworld.com/banknotes/Banknotes-by-Country/Guinea-Currency/"
     ],
-    "confidence": "fallback"
+    "confidence": "secondary"
   },
   {
     "id": "e100",
     "year": 2024,
-    "date": "ND (2011-2024)",
+    "date": "2011-2024",
     "country": "Guyana",
     "issuer": "Bank of Guyana",
     "title": "500 Dollars",
-    "description": "Printer.",
+    "description": "A lilac-brown and purple note featuring Guyana's national coat of arms and a red parrot on the obverse. The reverse depicts the Parliament Building in Georgetown, palm trees, and a cannon. In 2024 the note received a Rolling Star® Lead Pure security foil featuring a Macaw that shifts from magenta to green when tilted.",
     "hue": 349,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/GUY0037o.jpg",
     "slug": "guyana-500-dollars-e100",
-    "body": "The 500 Dollars note issued by Bank of Guyana in 2024 is part of the ongoing currency circulation series. This denomination facilitates transactions in Guyana's domestic economy and represents the central bank's commitment to maintaining a modern, secure currency system. The note incorporates contemporary security features including enhanced microprinting, color-shifting inks, and updated security threads to protect against counterfeiting. As a 2024 variant, this emission reflects administrative updates to printing specifications or official signatures while maintaining design consistency with previous issues in the series. The note supports both retail commerce and banking operations throughout the currency's circulation area.",
-    "highlights": {},
+    "body": "First issued in 2011 as part of the modern Guyanese currency series, the 500 dollar note celebrates Guyana's natural wealth and democratic heritage. The parrot imagery reflects the country's diverse wildlife and rainforest ecosystem, while the Parliament Building represents the foundation of Guyanese governance. The 2024 upgrade replaced the holographic stripe with the advanced Rolling Star® Lead Pure security foil, incorporating a colorful Macaw that demonstrates dynamic security properties when the note is tilted.",
+    "highlights": {
+      "reason": "Standard circulation note celebrating Guyana's biodiversity and governance; 2024 upgrade added Rolling Star® security foil",
+      "design": "Obverse: Bank of Guyana logo, national coat of arms, red parrot, Guyanese map. Reverse: Parliament Building in Georgetown, palm trees, cannon.",
+      "security": "Rolling Star® Lead Pure security foil with Macaw (magenta-to-green shift), holographic elements with bank logo, windowed security thread, watermark with parrot and electrotype 500"
+    },
     "sources": [
-      "Bank of Guyana"
+      "https://www.banknoteworld.com/guyana-500-dollars-banknote-2011-2024-nd-p-37a-3-unc.html",
+      "https://bankofguyana.org.gy/bog/media-centre/news/upgraded-500-and-1-000-bank-notes",
+      "https://platform.keesingtechnologies.com/the-security-of-guyanas-500-and-1000-banknotes-boosted/"
     ],
-    "confidence": "fallback"
+    "confidence": "official"
   },
   {
     "id": "e101",
     "year": 2024,
-    "date": "ND (2011-2024)",
+    "date": "2019-2024",
     "country": "Guyana",
     "issuer": "Bank of Guyana",
     "title": "1.000 Dollars",
-    "description": "Remark.",
+    "description": "A brown and orange note featuring the Bank of Guyana logo and national coat of arms alongside a red macaw parrot and the Victoria Regia lily (Victoria amazonica). The reverse displays the Bank of Guyana building in Georgetown. In 2024 the note received RAPID® Vision technology featuring a Jaguar with pulse effects.",
     "hue": 16,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2024-banknotes/fronts/GUY0038ao.jpg",
     "slug": "guyana-1-000-dollars-e101",
-    "body": "The 1.000 Dollars note issued by Bank of Guyana in 2024 is part of the ongoing currency circulation series. This denomination facilitates transactions in Guyana's domestic economy and represents the central bank's commitment to maintaining a modern, secure currency system. The note incorporates contemporary security features including enhanced microprinting, color-shifting inks, and updated security threads to protect against counterfeiting. As a 2024 variant, this emission reflects administrative updates to printing specifications or official signatures while maintaining design consistency with previous issues in the series. The note supports both retail commerce and banking operations throughout the currency's circulation area.",
-    "highlights": {},
+    "body": "First issued in 2019 as the highest denomination in regular circulation, the 1,000 dollar note showcases Guyana's national symbols and institutional pride. The Victoria Regia lily, the world's largest water lily native to the Amazon and found in Guyanese waters, represents the nation's natural heritage. The macaw represents the rich avian diversity of Guyana's rainforests. The 2024 security upgrade replaced RAPID® micro-optic with RAPID® Vision, a 6mm brown/green feature displaying a Jaguar with dynamic pulse effects, significantly enhancing counterfeiting prevention.",
+    "highlights": {
+      "reason": "Highest denomination in regular circulation; 2024 upgrade added RAPID® Vision Jaguar security feature",
+      "design": "Obverse: Bank of Guyana logo, national coat of arms, red macaw parrot, Victoria Regia lily, Guyanese map. Reverse: Bank of Guyana building in Georgetown.",
+      "security": "RAPID® Vision security feature with Jaguar (6mm brown/green with pulse effect), holographic elements with bank logo and macaw, blue windowed security thread with demetalized 1000, watermark with macaw parrot head and Victoria Regia lily"
+    },
     "sources": [
-      "Bank of Guyana"
+      "https://www.banknoteworld.com/guyana-1-000-dollars-banknote-2024-nd-p-39c-unc.html",
+      "https://bankofguyana.org.gy/bog/media-centre/news/upgraded-500-and-1-000-bank-notes",
+      "https://platform.keesingtechnologies.com/the-security-of-guyanas-500-and-1000-banknotes-boosted/"
     ],
-    "confidence": "fallback"
+    "confidence": "official"
   },
   {
     "id": "e102",
