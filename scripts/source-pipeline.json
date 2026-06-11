@@ -1,9 +1,9 @@
 {
   "description": "Pipeline per arricchire le emissions con URL reali. Processa in batch da 10, ogni batch viene committato.",
   "total": 493,
-  "processed": 135,
+  "processed": 145,
   "batch_size": 10,
-  "last_committed_batch": 14,
+  "last_committed_batch": 15,
   "items": [
     {
       "id": "e47",
@@ -2040,7 +2040,7 @@
         "North Korean central bank"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -2052,7 +2052,7 @@
         "North Korean central bank"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -2064,7 +2064,7 @@
         "North Korean central bank"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -2076,7 +2076,7 @@
         "North Korean central bank"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -2088,7 +2088,7 @@
         "North Korean central bank"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -2101,7 +2101,7 @@
         "East Asian banknote references"
       ],
       "confidence": "high",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -2114,7 +2114,7 @@
         "Banknote databases"
       ],
       "confidence": "high",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -2127,7 +2127,7 @@
         "East Asian currency catalogs"
       ],
       "confidence": "high",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -2140,7 +2140,7 @@
         "Currency references"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -2152,7 +2152,7 @@
         "Bank of Korea"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {

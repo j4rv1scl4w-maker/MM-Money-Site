@@ -4287,68 +4287,71 @@
   {
     "id": "e186",
     "year": 2023,
-    "date": "2018-2023",
+    "date": "2023",
     "country": "Australia",
     "issuer": "Reserve Bank of Australia",
     "title": "50 Dollars",
-    "description": "David Unaipon, artefacts.",
+    "description": "Australia 50 Dollars banknote from the next-generation series (2023) featuring indigenous inventor David Unaipon and Edith Cowan with enhanced security features.",
     "hue": 41,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/AUSW2018-050o.jpg",
     "slug": "australia-50-dollars-e186",
-    "body": "The 50 Dollars note issued by Reserve Bank of Australia represents a 2023 emission in Australia's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2023 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
+    "body": "The $50 banknote honors two pioneering figures who championed social change in Australia: David Unaipon, an Aboriginal inventor and the country's first published Aboriginal author from the Ngarrindjeri nation, and Edith Cowan, the first female member of an Australian parliament from Western Australia. The design incorporates cultural symbols including shields from Unaipon's Ngarrindjeri heritage and representations of miwi and navel cord exchange practices, alongside Acacia humifusa (Unaipon's totem) and the Black Swan, the official bird of Western Australia.\n\nThe reverse features a gumnut brooch symbolizing the difficulties women faced entering parliament, and the King Edward Memorial Hospital for Women, which Cowan helped establish. The banknote employs cutting-edge security technology to combat counterfeiting while maintaining ease of recognition through unchanged color and size. A top-to-bottom clear window displays dynamic features including a reversing number and a flying bird, representing a significant advancement in Australian banknote technology.\n\nDavid Unaipon's image has appeared on the $50 note since 1995, while Edith Cowan has featured on the reverse since the same year. The next-generation series introduced significantly enhanced security features including a new clear window and microprinting of excerpts from Unaipon's Legendary Tales of the Ngarrindjeri and Cowan's first parliamentary speech, ensuring these stories remain literally woven into the fabric of Australian currency.",
     "highlights": {
-      "reason": "North Korean currency variant",
-      "design": "State symbols",
-      "security": "Features"
+      "design": "Obverse: David Unaipon with Ngarrindjeri shields and ngaitji symbols, Acacia humifusa. Reverse: Edith Cowan with gumnut brooch, King Edward Memorial Hospital, Black Swan, and Aboriginal cultural motifs.",
+      "reason": "Security upgrade for next-generation banknote series implementing advanced anti-counterfeiting features while honoring indigenous and women's history.",
+      "security": "Top-to-bottom clear window with dynamic reversing number and flying bird; patch with rolling-color effect; microprinting of excerpts from Unaipon's Legendary Tales and Cowan's first parliamentary speech."
     },
     "sources": [
-      "North Korean central bank"
+      "https://banknotes.rba.gov.au/australias-banknotes/banknotes-in-circulation/fifty-dollar/",
+      "https://www.rba.gov.au/media-releases/2023/mr-23-02.html"
     ],
-    "confidence": "fallback"
+    "confidence": "official"
   },
   {
     "id": "e187",
     "year": 2023,
-    "date": "2012-2023",
+    "date": "2023",
     "country": "Bangladesh",
     "issuer": "Bangladesh Bank",
     "title": "20 Taka",
-    "description": "Remark.",
+    "description": "Bangladesh 20 Taka banknote from the new Historical and Archaeological Architecture of Bangladesh series, featuring the Kantaji Hindu temple.",
     "hue": 84,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/BDE0055A2o.jpg",
     "slug": "bangladesh-20-taka-e187",
-    "body": "The 20 Taka note issued by Bangladesh Bank represents a 2023 emission in Bangladesh's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2023 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
+    "body": "The 20 Taka banknote belongs to Bangladesh Bank's comprehensive redesign initiative reflecting the nation's cultural heritage and historical landmarks. The obverse features the Kantajew Hindu temple located in Dinajpur, one of Bangladesh's most significant architectural monuments built in the early 18th century and renowned for its intricate terracotta artwork, alongside a water lily symbolizing the country's natural beauty. The reverse depicts the Somapura Mahavihara, an important Buddhist monastery in Naogaon that represents the region's diverse religious heritage and historical significance.\n\nThis denomination measures 127 mm x 60 mm and is printed on 100 percent cotton paper, maintaining traditional banknote materials. The series represents a departure from previous designs that featured individual portraits, instead emphasizing Bangladesh's archaeological treasures, cultural landmarks, and environmental diversity. The note is primarily colored in blue, green, and brown tones reflecting the natural landscape and historical significance of the depicted structures.\n\nThe Kantajew temple, dedicated to the deity Kantaji (a form of Krishna), is celebrated for its remarkable terracotta panels depicting scenes from the Hindu epics Mahabharata and Ramayana. Somapura Mahavihara, a UNESCO World Heritage Site built in the 8th century during the Pala dynasty, was one of the greatest Buddhist centers of learning in the ancient world and attracted scholars from across Asia.",
     "highlights": {
-      "reason": "North Korean currency variant",
-      "design": "Leadership imagery",
-      "security": "Security elements"
+      "design": "Obverse: Kantaji Hindu temple in Dinajpur with water lily motif. Reverse: Somapura Mahavihara Buddhist monastery (UNESCO World Heritage Site) in Naogaon.",
+      "reason": "Comprehensive redesign to showcase Bangladesh's cultural heritage and historical architecture rather than individual figures.",
+      "security": "Advanced security features consistent with Bangladesh Bank's new series standards including security thread and watermark."
     },
     "sources": [
-      "North Korean central bank"
+      "https://www.banknoteworld.com/blog/new-bangladesh-banknote-family-for-2025/",
+      "https://platform.keesingtechnologies.com/bangladesh-releases-the-first-three-banknotes-in-new-series/"
     ],
-    "confidence": "fallback"
+    "confidence": "secondary"
   },
   {
     "id": "e188",
     "year": 2023,
-    "date": "2011-2023",
+    "date": "2023",
     "country": "Bangladesh",
     "issuer": "Bangladesh Bank",
     "title": "500 Taka",
-    "description": "Sheikh Mujibur Rahman, National Martyrs' monument (Savar).",
+    "description": "Bangladesh 500 Taka green banknote (2023) featuring Sheikh Mujibur Rahman and the National Martyrs' Monument, with agricultural and river scenes on the reverse.",
     "hue": 167,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/BDE0058ao.jpg",
     "slug": "bangladesh-500-taka-e188",
-    "body": "The 500 Taka note issued by Bangladesh Bank represents a 2023 emission in Bangladesh's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2023 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
+    "body": "The 500 Taka banknote from 2023 is a green circulation note measuring 152 x 65 mm that honors Sheikh Mujibur Rahman, the founding father of Bangladesh, and celebrates the nation's independence and development. The obverse displays a portrait of Sheikh Mujibur Rahman alongside the National Martyrs' Monument in Savar, a solemn reminder of the sacrifices made during Bangladesh's struggle for independence in 1971. The signature on the note is that of Governor Abdur Rouf Talukder.\n\nThe reverse illustrates scenes depicting Bangladesh's agricultural and rural heritage: farmers plowing fields with oxen, crops being irrigated, fishermen carrying traditional bamboo nets, and boats on canals, representing the nation's commitment to rural development and sustainable livelihoods. These images celebrate Bangladesh's identity as a predominantly agrarian nation where the rivers, fields, and fishing traditions form the backbone of everyday life for millions of citizens.\n\nThe banknote incorporates traditional design elements alongside modern security technology. The 500 Taka note represents one of the higher-value denominations in Bangladesh's circulation, making its security features particularly important for protecting against counterfeiting. The note's green coloring reflects Bangladesh's lush landscape and agricultural identity.",
     "highlights": {
-      "reason": "North Korean currency variant",
-      "design": "State elements",
-      "security": "Printing"
+      "design": "Obverse: Sheikh Mujibur Rahman portrait with National Martyrs' Monument at Savar. Reverse: Agricultural scenes including oxen plowing, irrigation, fishermen with nets, and canal boats.",
+      "reason": "Standard circulation note honoring the nation's founding father and celebrating economic and agricultural progress.",
+      "security": "Segmented windowed security thread with holographic bank logo and denomination; watermark of Sheikh Mujibur Rahman with electrotype bank logo; Optically Variable Ink (OVI) in gold-to-green; intaglio printing for raised relief."
     },
     "sources": [
-      "North Korean central bank"
+      "https://www.banknoteworld.com/bangladesh-500-taka-banknote-2023-p-58m-unc.html",
+      "https://www.bb.org.bd/en/index.php/currency/fivehundredtaka"
     ],
-    "confidence": "fallback"
+    "confidence": "official"
   },
   {
     "id": "e189",
@@ -4357,156 +4360,165 @@
     "country": "Bangladesh",
     "issuer": "Bangladesh Bank",
     "title": "50 Taka",
-    "description": "Sheikh Mujibur Rahman, Bangabandhu Sheikh Mujibur Rahman Tunnel, Chittagong.",
+    "description": "Bangladesh 50 Taka commemorative banknote (2023) celebrating the Bangabandhu Sheikh Mujibur Rahman Tunnel under the Karnaphuli River.",
     "hue": 25,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/BDEW0073o.jpg",
     "slug": "bangladesh-50-taka-e189",
-    "body": "The 50 Taka note issued by Bangladesh Bank represents a 2023 emission in Bangladesh's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2023 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
+    "body": "The 50 Taka banknote issued in 2023 serves as a commemorative note celebrating the Bangabandhu Sheikh Mujibur Rahman Tunnel, a major infrastructure achievement connecting Chittagong city with the industrial zone on the south bank of the Karnaphuli River. The tunnel, opened in October 2023, is the first underwater tunnel in Bangladesh and South Asia's longest road tunnel, representing a transformational milestone in the nation's infrastructure development. The design theme centers on the concept of connectivity creating opportunities.\n\nThe banknote commemorates the tunnel's significance in improving transportation and economic linkages across the nation's regions. The note incorporates imagery related to the tunnel's construction and its role in national development, including depictions of the Karnaphuli River and the broader connectivity vision. This commemorative emission reflects Bangladesh Bank's practice of issuing special editions to celebrate important national achievements and infrastructure milestones.\n\nThe Bangabandhu Sheikh Mujibur Rahman Tunnel, built with Chinese technical and financial assistance from China Communications Construction Company, stretches approximately 3.32 kilometers and will ultimately link Chittagong to Cox's Bazar. The commemorative 50 Taka note was issued to mark this achievement, acknowledging both the engineering feat and its economic significance for Bangladesh's continued development.",
     "highlights": {
-      "reason": "North Korean currency variant",
-      "design": "National imagery",
-      "security": "Standards"
+      "design": "Commemorative design featuring the Bangabandhu Sheikh Mujibur Rahman Tunnel, Karnaphuli River, and connectivity infrastructure imagery.",
+      "reason": "Commemorative emission celebrating the completion of Bangladesh's first underwater tunnel, opened October 2023 — a major national infrastructure achievement.",
+      "security": "Standard Bangladesh Bank security features appropriate for commemorative circulation notes including windowed security thread and watermark."
     },
     "sources": [
-      "North Korean central bank"
+      "https://www.banknoteworld.com/bangladesh-50-taka-banknote-2023-p-73-unc-commemorative-bangabandhu-sheikh-mujibar-rajman-tunnel-connectivity-creates-opportunities.html",
+      "https://banknotenews.com/?p=43703",
+      "https://www.bb.org.bd/en/index.php/currency/commemnote"
     ],
-    "confidence": "fallback"
+    "confidence": "secondary"
   },
   {
     "id": "e190",
     "year": 2023,
-    "date": "2001 & 2023",
+    "date": "2023",
     "country": "Cuba",
     "issuer": "Banco Central de Cuba",
     "title": "100 Pesos",
-    "description": "Carlos Manuel de Céspedes.",
+    "description": "Cuba 100 Pesos banknote (2023) featuring Carlos Manuel de Cespedes and the Jose Marti monument at the Anti-Imperialist Tribune in Havana.",
     "hue": 10,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/CUB0124o.jpg",
     "slug": "cuba-100-pesos-e190",
-    "body": "The 100 Pesos note issued by Banco Central de Cuba represents a 2023 emission in Cuba's currency circulation. This denomination supports transactions throughout the economy and reflects the central bank's commitment to modern, secure currency production. The note incorporates contemporary anti-counterfeiting measures including advanced security threads, microprinting, and color-shifting elements. As a 2023 variant, this issue maintains design consistency with the established series while incorporating updated printing specifications. The note is essential for everyday commerce and maintains compatibility with existing currency circulation infrastructure.",
+    "body": "The Banco Central de Cuba issued a new 100 pesos banknote in 2023 featuring Carlos Manuel de Cespedes, regarded as the Father of the Homeland and a principal figure in Cuba's independence movement who launched the Ten Years' War against Spanish colonial rule in 1868. The obverse displays a portrait of Cespedes, while the reverse illustrates the iconic Jose Marti monument at Havana's Anti-Imperialist Tribune opposite the U.S. Embassy, representing Cuba's commitment to sovereignty and independence.\n\nThe banknote incorporates a watermark featuring the portrait of Celia Sanchez Manduley, a legendary revolutionary figure and longtime companion of Fidel Castro who was celebrated for her role in the Cuban Revolution. Measuring 150 x 70 mm, the note was printed by the Departamento Impresos Seguridad in Cuba. A notable design change distinguishes the 2023 version from previous emissions: it lacks tactile relief and Braille code for blind individuals, representing a departure from accessibility features included in earlier versions.\n\nCarlos Manuel de Cespedes holds an iconic place in Cuban national identity as the man who freed his slaves and declared Cuban independence at La Demajagua on October 10, 1868, the date now celebrated as Cuban Independence Day. His portrait on the 100 pesos note underscores the continuity between Cuba's 19th century independence struggle and its 20th century revolution.",
     "highlights": {
-      "reason": "North Korean currency variant",
-      "design": "State symbols",
-      "security": "Features"
+      "design": "Obverse: Carlos Manuel de Cespedes portrait. Reverse: Jose Marti statue at Anti-Imperialist Tribune in Havana. Watermark: Celia Sanchez Manduley portrait.",
+      "reason": "Updated security design and printing improvements; 2023 version removes tactile relief features present in previous editions.",
+      "security": "Watermark featuring Cespedes and Sanchez Manduley; holographic security elements; serial number in lower margin tab; lithographic printing technology."
     },
     "sources": [
-      "North Korean central bank"
+      "https://www.bc.gob.cu/noticia/banco-central-de-cuba-informa-la-emision-de-un-nuevo-billete-de-100-pesos-cubanos/1742",
+      "https://en.numista.com/catalogue/pieces109293.html"
     ],
-    "confidence": "fallback"
+    "confidence": "official"
   },
   {
     "id": "e191",
     "year": 2023,
-    "date": "2009 & 2023",
+    "date": "2023",
     "country": "Czechia",
-    "issuer": "Česká Národní Banka",
+    "issuer": "Ceska narodni banka",
     "title": "5.000 Korun Českých",
-    "description": "Printer.",
+    "description": "Czech National Bank 5,000 Korun Ceskych banknote (2023) featuring Tomas Garrigue Masaryk — a reprint with updated printing technology.",
     "hue": 203,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/CZR0027o.jpg",
     "slug": "czechia-5-000-korun-esk-ch-e191",
-    "body": "South Korea 1,000 Won, 2018-2024 variants. Features Yi Hwang (Toegye), a renowned Joseon-era Neo-Confucian scholar and philosopher, on the obverse. The reverse displays cultural or literary imagery reflecting his intellectual contributions. The banknote represents South Korea's commitment to honoring cultural figures. Security features include advanced holograms and color-shifting elements. Variants during 2018-2024 reflect signature updates from Bank of Korea officials and progressive security improvements. The blue-colored note is the most frequently used denomination in everyday South Korean commerce.",
+    "body": "The 5,000 korun banknote issued in 2023 by the Czech National Bank features Tomas Garrigue Masaryk, the founding statesman and first president of the Czechoslovak Republic, honoring his role in establishing an independent Czech state after World War I. The dark blue note measures 170 x 74 mm and bears the signature of Czech National Bank Governor Michal Ales. The 2023 reprint maintains the artistic design of the 2009 version, representing continuity in the nation's currency design while incorporating necessary printing technology updates.\n\nThe Czech National Bank announced that this reprint involved necessary changes in printing technology implemented at the State Printing Office to improve currency tracking and enhance security against counterfeiting, though the differences resulting from new printing technology are not recognizable to the public with the naked eye. The banknote was printed by Statni tiskarna cenin (State Printing Office) in Prague, which has been producing Czech security documents since 1919.\n\nThe 5,000 korun note is the highest denomination in Czech circulation and plays an important role in significant financial transactions. The ČNB offered to exchange older 5,000 korun notes for the 2023 version free of charge, with both older and new versions remaining valid for circulation. Masaryk's image on this highest-value denomination reflects his foundational importance to Czech national identity and democratic traditions.",
     "highlights": {
-      "reason": "Yi Hwang (Toegye) cultural tribute; signature and security updates",
-      "design": "Yi Hwang portrait obverse; cultural/literary imagery reverse",
-      "security": "Holograms, color-shifting elements, security threads, advanced microprint"
+      "design": "Portrait of Tomas Garrigue Masaryk, founder of the Czechoslovak Republic, with Czech national symbols and historical imagery. Dark blue coloring, 170 x 74 mm.",
+      "reason": "Necessary printing technology update for improved currency tracking and enhanced anti-counterfeiting measures while maintaining design continuity from 2009 version.",
+      "security": "3-mm puce-to-green windowed security thread with demetalized 5000 Kc; localized stepped watermark featuring Masaryk portrait, negative white line 5000 numeral, and sitting eagle; windowed thread with recurring hatched microtext CNB 5000 Kc."
     },
     "sources": [
-      "Bank of Korea official documentation",
-      "East Asian banknote references"
+      "https://www.cnb.cz/en/banknotes-and-coins/banknotes/protective-elements-czk-5000/",
+      "https://www.expats.cz/czech-news/article/czechia-s-highest-denomination-banknote-gets-2023-reprint",
+      "https://www.banknoteworld.com/czechia-czech-republic-5-000-korun-banknote-2023-p-27b-unc.html"
     ],
-    "confidence": "high"
+    "confidence": "official"
   },
   {
     "id": "e192",
     "year": 2023,
-    "date": "2008/2023",
+    "date": "2023-02-08",
     "country": "Czechia",
-    "issuer": "Česká Národní Banka",
+    "issuer": "Ceska narodni banka",
     "title": "1.000 Korun Českých",
-    "description": "Printer. 30th Anniversary of Czech National Bank (1993-2023).",
+    "description": "Czech National Bank commemorative 1,000 Korun Ceskych banknote (February 2023) celebrating 30 years of Czech currency independence with a special overprint.",
     "hue": 305,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/CZRW0031o.jpg",
     "slug": "czechia-1-000-korun-esk-ch-e192",
-    "body": "South Korea 5,000 Won, 2018-2024 variants. Depicts Yulgok (Yi I), a prominent Joseon-era philosopher and scholar on the obverse. The reverse showcases Korean cultural or philosophical imagery reflecting his legacy. The banknote underwent modernization with sophisticated security features including advanced printing techniques. Variants across 2018-2024 represent signature updates from Bank of Korea governors and progressive anti-counterfeiting improvements. The red-colored note is a standard mid-range denomination in South Korean currency circulation.",
+    "body": "The Czech National Bank issued a limited commemorative 1,000 korun banknote in February 2023 to celebrate the 30th anniversary of Czech currency independence, marking three decades since the Czechoslovak currency split following the dissolution of Czechoslovakia in 1993. The banknote is based on the standard 2008-dated 1,000 korun design featuring historian Frantisek Palacky on the obverse, renowned for his extensive historical writings about the Czech lands and their inhabitants, which earned him the title Father of the Nation.\n\nThe obverse also displays a linden leaf in green-to-gold Optically Variable Ink (OVI), a tree with exposed roots, and an open book symbolizing knowledge and historical scholarship. The reverse features a female eagle and Kromeriz Chateau alongside a stylized tree and the Czech coat of arms. What distinguishes this commemorative edition is the prominent 30th anniversary overprint in the lower left corner reading CNB 1993 (30) 2023, along with the official 30-year anniversary logo, the letters CNB, and the dates 1993 and 2023.\n\nThe Czech National Bank produced exactly 200,000 commemorative notes, released on February 8, 2023, with a purchase limit of 5 pieces per buyer. The overprint commemorates the peaceful separation of Czechoslovakia into the Czech Republic and Slovakia on January 1, 1993, known as the Velvet Divorce, and the introduction of the independent Czech koruna currency. This limited edition holds particular significance for Czech numismatists and reflects national pride in monetary sovereignty.",
     "highlights": {
-      "reason": "Yulgok (Yi I) philosophical figure tribute; signature and security updates",
-      "design": "Yulgok portrait obverse; Korean cultural/philosophical imagery reverse",
-      "security": "Advanced printing techniques, holograms, security threads, color security"
+      "design": "Obverse: Frantisek Palacky portrait with linden leaf in OVI, tree with roots, open book. Reverse: Female eagle, Kromeriz Chateau, stylized tree, Czech coat of arms. Special overprint: CNB 1993 (30) 2023 anniversary marking.",
+      "reason": "Commemorative emission celebrating 30 years of Czech currency independence since the 1993 Czechoslovak dissolution. Limited edition of 200,000 pieces, maximum 5 per buyer.",
+      "security": "30th anniversary overprint with official logo; standard 1,000 korun security features including OVI linden leaf, security thread, and watermark."
     },
     "sources": [
-      "Bank of Korea currency standards",
-      "Banknote databases"
+      "https://banknotenews.com/?p=38819",
+      "https://www.coinworld.com/news/paper-money/czech-national-bank-overprints-note-to-celebrate-anniversary",
+      "https://en.numista.com/catalogue/note355638.html"
     ],
-    "confidence": "high"
+    "confidence": "secondary"
   },
   {
     "id": "e193",
     "year": 2023,
-    "date": "2023",
+    "date": "2023-12-01",
     "country": "East Caribbean States",
     "issuer": "Eastern Caribbean Central Bank",
     "title": "2 Dollars",
-    "description": "Conch shell, ECCB building (Basseterre, St. Kitts), Viv Richards wielding cricket bat. 40th Anniversary of Eastern Caribbean Central Bank (1983-2023).",
+    "description": "East Caribbean States 2 Dollars commemorative polymer banknote (December 2023) honoring the 40th anniversary of the ECCB, featuring Sir Vivian Richards.",
     "hue": 12,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/XCDW0061o.jpg",
     "slug": "east-caribbean-states-2-dollars-e193",
-    "body": "South Korea 10,000 Won, 2018-2024 variants. Features Sejong the Great, a legendary Joseon-era king known for developing the Korean alphabet (Hangul) and advancing science and culture. The obverse displays his portrait with national emblems and symbols. The reverse showcases Hangul or cultural achievements representing his legacy. The highest standard denomination in South Korean circulation, this note includes sophisticated security features reflecting international standards. Variants during 2018-2024 represent signature updates from Bank of Korea officials and enhanced security technology. The green-colored note is widely used for significant financial transactions.",
+    "body": "The Eastern Caribbean Central Bank issued a historic commemorative $2 polymer banknote on December 1, 2023, to celebrate 40 years of the institution's establishment in 1983. The note honors Sir Isaac Vivian Viv Richards, the legendary West Indian cricketer known as The Master Blaster, whose portrait appears prominently on the obverse alongside a cricket bat and a conch shell representing the region's maritime heritage. The Eastern Caribbean Central Bank building in Basseterre, St. Kitts is also depicted on the obverse, anchoring the design to the institution itself.\n\nThe reverse features a vibrant coral reef scene with tropical fish and turtles, celebrating the Caribbean's natural marine ecosystems and biodiversity. Measuring 132 mm x 65 mm, the orange, blue, and black polymer banknote was signed by Timothy Antoine. The ECCB captured the prestigious 2023 Bank Note of the Year award from the International Bank Note Society (IBNS), as well as the Best Limited Circulation/Commemorative Banknote award from the International Association of Currency Affairs (IACA), recognizing its innovative design and cultural significance.\n\nSir Vivian Richards, born in Antigua and Barbuda and a member of the ECCB's member states, is widely considered one of the greatest cricket batsmen of all time. His appearance on the commemorative note reflects the Eastern Caribbean's pride in its sporting heritage and cultural icons. The polymer substrate ensures the commemorative note's durability as a lasting tribute to the ECCB's four decades of regional monetary service.",
     "highlights": {
-      "reason": "King Sejong the Great tribute; Hangul/cultural achievement; signature updates",
-      "design": "King Sejong portrait obverse; Hangul/cultural achievement reverse",
-      "security": "Sophisticated holograms, color-shifting inks, security threads, microprint"
+      "design": "Obverse: Sir Vivian Richards with cricket bat, conch shell, and ECCB building in Basseterre, St. Kitts. Reverse: Coral reef scene with tropical fish and sea turtles, 40th anniversary logo.",
+      "reason": "Commemorative emission celebrating 40 years of the Eastern Caribbean Central Bank's establishment and regional monetary service. Won IBNS Bank Note of the Year 2023.",
+      "security": "Polymer substrate with transparent windows, holographic elements, microprinting, color-shifting inks."
     },
     "sources": [
-      "Bank of Korea official releases",
-      "East Asian currency catalogs"
+      "https://www.eccb-centralbank.org/news/ec-2-commemorative-banknote-wins-international-awards",
+      "https://www.banknoteworld.com/east-caribbean-states-2-dollars-banknote-2023-p-61-unc-commemorative-polymer-40th-anniversary-of-eastern-caribbean-central-bank-1983-2023-.html",
+      "https://en.numista.com/catalogue/note388977.html"
     ],
-    "confidence": "high"
+    "confidence": "official"
   },
   {
     "id": "e194",
     "year": 2023,
-    "date": "2022-2023",
+    "date": "2022-07-05",
     "country": "Egypt",
     "issuer": "Central Bank of Egypt",
     "title": "10 Pounds",
-    "description": "Al-Fatah al-Aleem mosque, Cairo.",
+    "description": "Egypt 10 Pounds polymer banknote featuring the Al-Fattah Al-Alim Mosque and ancient Egyptian heritage imagery — Egypt's first polymer banknote.",
     "hue": 22,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/EGYW0081o.jpg",
     "slug": "egypt-10-pounds-e194",
-    "body": "South Korea banknote, cultural figures series, 2018-2024 variant. Represents either a commemorative release, security update, or variant of one of South Korea's standard denominations (1,000/5,000/10,000 won). The South Korean currency series celebrates Joseon-era scholars and the achievements of King Sejong. All notes feature advanced security measures and sophisticated printing. Variants reflect ongoing Bank of Korea security enhancements and periodic governor signature changes.",
+    "body": "The Central Bank of Egypt introduced Egypt's first polymer banknote, the 10 pound note, on July 5, 2022, with continued circulation through 2023. This groundbreaking note was produced at Egypt's new state-of-the-art printing facility located in the New Administrative Capital east of Cairo — the largest print works in Egypt. The obverse features the Al-Fattah Al-Alim Mosque, a magnificent example of contemporary Islamic architecture located in the new capital, representing Egypt's modern development and architectural vision.\n\nThe reverse celebrates Egypt's ancient heritage, depicting the statue of Hatshepsut, the female pharaoh of the New Kingdom, alongside Queen Cleopatra imagery and the Pyramids of Giza, bridging the nation's Islamic and Pharaonic civilizations in a single design. Advanced intaglio printing techniques enhance the design elements, including the Central Bank of Egypt text, denomination value, and mosque imagery.\n\nUnder ultraviolet light, design elements appear in vibrant green, yellow, and orange hues, providing additional security and visual appeal. The Al-Fattah Al-Alim Mosque, which translates as the Mosque of the All-Knowing Conqueror, is one of the largest mosques in the world and serves as the centerpiece of Egypt's new administrative capital. Paper 10-pound notes continue to circulate alongside the polymer versions, which offer approximately four times greater durability.",
     "highlights": {
-      "reason": "South Korean currency variant; security or commemorative update",
-      "design": "Korean cultural figures and achievements",
-      "security": "Series-standard security: holograms, threads, color elements"
+      "design": "Obverse: Al-Fattah Al-Alim Mosque in the New Administrative Capital. Reverse: Hatshepsut statue, Cleopatra imagery, and Great Pyramids of Giza bridging Islamic and Pharaonic heritage.",
+      "reason": "Egypt's first polymer banknote — technological upgrade as part of Central Bank of Egypt's modernization initiative and security enhancement program.",
+      "security": "Large holographic window with detailed mosque hologram (silver obverse, golden reverse); advanced intaglio printing; UV-reactive inks in green, yellow, and orange; Guardian polymer substrate."
     },
     "sources": [
-      "Bank of Korea documentation",
-      "Currency references"
+      "https://sis.gov.eg/en/media-center/news/al-fattah-al-alim-mosque-printed-on-egypt-s-new-le-10-banknote/",
+      "https://www.coinworld.com/news/paper-money/central-bank-of-egypt-goes-polymer-with-10-pound-note",
+      "https://currencyaffairs.org/document/egypt-10-pound/"
     ],
-    "confidence": "fallback"
+    "confidence": "official"
   },
   {
     "id": "e195",
     "year": 2023,
-    "date": "2023",
+    "date": "2023-06",
     "country": "Egypt",
     "issuer": "Central Bank of Egypt",
     "title": "20 Pounds",
-    "description": "Mohammed Ali mosque, Cairo.",
+    "description": "Egypt 20 Pounds green polymer banknote (June 2023) featuring the Muhammad Ali Mosque and Queen Cleopatra — Egypt's first banknote with Braille accessibility features.",
     "hue": 174,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2023-banknotes/fronts/EGYW0082o.jpg",
     "slug": "egypt-20-pounds-e195",
-    "body": "South Korea banknote variant, cultural figures series, 2018-2024.",
+    "body": "The Central Bank of Egypt issued a new 20 Egyptian pound polymer banknote in June 2023, using cutting-edge polymer production technology at Egypt's new printing facility in the New Administrative Capital. The green polymer note measures 137 mm x 69 mm and bears the signature of Central Bank Governor Hassan Abdullah. This denomination holds the distinction of being the first Egyptian banknote to incorporate tactile features specifically designed for accessibility: ADA Braille dots crafted on the top-left corner enable blind and visually impaired individuals to identify the banknote's value by touch.\n\nThe obverse features the Great Mosque of Muhammad Ali Pasha, also known as the Alabaster Mosque, one of Cairo's most iconic Islamic architectural monuments dominating the Cairo Citadel skyline since its completion in 1848. The reverse depicts Queen Cleopatra alongside the Great Pyramid of Giza, Pharaoh Ramses II in a war chariot, and papyrus motifs, representing the grandeur of ancient Egypt. Security features include a transparent window displaying the mosque image with value inscriptions in Arabic script and tactile embossing for additional verification.\n\nThe Alabaster Mosque, commissioned by Muhammad Ali Pasha — the Ottoman viceroy who modernized Egypt in the early 19th century — remains a pilgrimage site for tourists and a symbol of Islamic architecture in Africa. Its placement on the 20 pound note alongside ancient Egyptian imagery creates a visual narrative bridging 3,000 years of Egyptian civilization. The previous paper 20-pound banknote remains valid in parallel circulation.",
     "highlights": {
-      "reason": "South Korean currency variant",
-      "design": "Korean cultural imagery",
-      "security": "Modern security features"
+      "design": "Obverse: Great Mosque of Muhammad Ali Pasha (Alabaster Mosque) in Cairo. Reverse: Queen Cleopatra, Great Pyramid of Giza, Ramses II in war chariot, and papyrus motifs.",
+      "reason": "Polymer upgrade and accessibility innovation — first Egyptian banknote featuring tactile ADA Braille dots for visually impaired users.",
+      "security": "Transparent window with mosque image and Arabic denomination inscription; tactile emboss for accessibility; ADA Braille dots; advanced intaglio printing; holographic elements; polymer substrate."
     },
     "sources": [
-      "Bank of Korea"
+      "https://www.cbe.org.eg/en/news-publications/news/2023/06/20/07/54/the-central-bank-of-egypt-issues-the-new-20-pound-polymer-banknote",
+      "https://www.banknoteworld.com/egypt-20-pounds-banknote-2023-nd-p-82-unc-polymer.html",
+      "https://egyptianstreets.com/2023/06/21/polymer-and-cleopatra-egypt-reveals-new-egp-20-banknote/"
     ],
-    "confidence": "fallback"
+    "confidence": "official"
   },
   {
     "id": "e196",
