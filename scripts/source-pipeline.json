@@ -1,9 +1,9 @@
 {
   "description": "Pipeline per arricchire le emissions con URL reali. Processa in batch da 10, ogni batch viene committato.",
   "total": 493,
-  "processed": 428,
+  "processed": 438,
   "batch_size": 10,
-  "last_committed_batch": 39,
+  "last_committed_batch": 40,
   "items": [
     {
       "id": "e47",
@@ -5488,7 +5488,7 @@
         "Monetary Authority of Singapore (MAS)"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -5500,7 +5500,7 @@
         "National Bank of Slovakia (Narodna banka Slovenska)"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -5512,7 +5512,7 @@
         "National Bank of Slovakia (Narodna banka Slovenska)"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -5524,7 +5524,7 @@
         "National Bank of Slovakia (Narodna banka Slovenska)"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -5536,7 +5536,7 @@
         "National Bank of Slovakia (Narodna banka Slovenska)"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -5548,7 +5548,7 @@
         "National Bank of Slovakia (Narodna banka Slovenska)"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -5560,7 +5560,7 @@
         "Bank of Slovenia (Banka Slovenije)"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -5572,7 +5572,7 @@
         "Bank of Slovenia (Banka Slovenije)"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -5584,7 +5584,7 @@
         "Bank of Slovenia (Banka Slovenije)"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -5596,7 +5596,7 @@
         "Bank of Slovenia (Banka Slovenije)"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
