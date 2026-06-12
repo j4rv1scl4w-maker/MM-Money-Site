@@ -10243,14 +10243,21 @@
     "country": "Pakistan",
     "issuer": "State Bank of Pakistan",
     "title": "75 Rupees",
-    "description": "75 Years of Independence (1947-2022).",
+    "description": "The obverse features portraits of Muhammad Ali Jinnah, Fatima Jinnah, Allama Iqbal, and Sir Syed Ahmad Khan alongside the 75th-anniversary logo; the reverse depicts the Earth from space, mountains, a Markhor, and deodar trees symbolising environmental stewardship.",
     "hue": 85.1,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2022-banknotes/fronts/PAKW0056o.jpg",
     "slug": "pakistan-75-rupees-e449",
-    "body": "The €50 note for San Marino maintains the unified ECB design framework. Incorporates advanced security measures. Used for significant transactions in the microstate economy.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "Issued on 14 August 2022 to mark 75 years of Pakistan's independence (1947–2022), the State Bank of Pakistan introduced this non-standard denomination as its first commemorative note for the diamond jubilee. Designed by Sara Khan, the emerald-green cotton-paper note measures 147 x 65 mm and bears the signature of Governor Jameel Ahmed. Originally planned for polymer substrate, it was ultimately produced on cotton paper with a print run of 100 million pieces, made available to the public from 30 September 2022.",
+    "highlights": {
+      "design": "Obverse: Portraits of Quaid-e-Azam Muhammad Ali Jinnah, Mohtarma Fatima Jinnah, Allama Muhammad Iqbal, and Sir Syed Ahmad Khan with 75th-anniversary logo. Reverse: Earth as seen from space, mountain landscape, Markhor (Capra falconeri), and deodar trees.",
+      "reason": "Commemorates the 75th anniversary of Pakistan's independence on 14 August 1947, honouring the founding leaders and highlighting the country's commitment to environmental conservation.",
+      "security": "Windowed holographic security thread, green-to-gold colour-shifting denomination numeral, denomination registration device (see-through register), and a watermark portrait of Muhammad Ali Jinnah with electrotype '75'."
+    },
+    "sources": [
+      "https://tribune.com.pk/story/2371137/sbp-reveals-rs75-commemorative-banknote",
+      "https://www.dawn.com/news/1704978"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e450",
@@ -10259,14 +10266,20 @@
     "country": "Paraguay",
     "issuer": "Banco Central del Paraguay",
     "title": "5.000 Guaraníes",
-    "description": "Don Carlos Antonio López.",
+    "description": "The obverse features a portrait of President Carlos Antonio López alongside a locomotive and the national coat of arms; the reverse depicts the Palacio de los López (Government Palace) in Asunción and a steam locomotive.",
     "hue": 0.6,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2022-banknotes/fronts/PGY0234o.jpg",
     "slug": "paraguay-5-000-guaran-es-e450",
-    "body": "The €100 note for San Marino represents the highest active denomination. Features comprehensive anti-counterfeiting measures coordinated with the ECB. Reflects San Marino's full integration into the eurozone system.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The 5,000 Guaraníes polymer note is part of Paraguay's ongoing circulation series issued by the Banco Central del Paraguay. The 2022 printing (P-234d, Series J prefix) continues a design lineage that highlights Paraguay's 19th-century modernisation under President Carlos Antonio López, who oversaw the country's first railway — a symbol of national development. Measuring 157 x 67 mm, this red polymer note carries the signatures of Holger Insfrán and José Cantero Sienra.",
+    "highlights": {
+      "design": "Obverse: Portrait of President Carlos Antonio López, national coat of arms with lion and liberty cap, and a steam locomotive. Reverse: Palacio de los López (Government Palace), Asunción, with a steam locomotive.",
+      "reason": "Regular circulation issue honouring Carlos Antonio López, whose presidency (1844–1862) drove Paraguay's early industrialisation including the first railroad in South America.",
+      "security": "Polymer substrate with see-through window; the polymer film itself acts as the primary anti-counterfeiting substrate."
+    },
+    "sources": [
+      "https://www.cgbfr.com/5000-guaranies-paraguay-2022-p-234-neuf,543054,a.html"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e451",
@@ -10275,14 +10288,21 @@
     "country": "Paraguay",
     "issuer": "Banco Central del Paraguay",
     "title": "50.000 Guaraníes",
-    "description": "Remark.",
+    "description": "The obverse portrays Agustín Pío Barrios 'Mangoré' holding a guitar with a see-through guitar-shaped device at lower left; the reverse features the central body of a classical guitar adorned with the traditional ñandutí lace pattern.",
     "hue": 61,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2022-banknotes/fronts/PGY0239o.jpg",
     "slug": "paraguay-50-000-guaran-es-e451",
-    "body": "The 1000 Dobra note features Sao Tome & Principe's island culture and economic activities. Incorporates modern security features appropriate for the island nation. Supports everyday commercial transactions.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The 50,000 Guaraníes note honours Agustín Pío Barrios (1885–1944), Paraguay's most celebrated classical guitarist and composer, widely regarded as one of the greatest guitarists in history. The Banco Central del Paraguay introduced the Barrios design in 2008, replacing a previous soldier motif. The 2022 printing (Series K prefix, P-223 family) bears the signatures of Holger Insfrán and José Cantero Sienra. Its purple, peach, and green colour scheme reflects the cultural richness associated with Paraguayan folk artistry.",
+    "highlights": {
+      "design": "Obverse: Portrait of Agustín Pío Barrios 'Mangoré' with guitar, coat of arms, and see-through guitar-shaped registration device. Reverse: Classical guitar neck and soundhole overlaid with ñandutí lace motif and denomination in Guaraní language.",
+      "reason": "Regular circulation issue celebrating Agustín Pío Barrios 'Mangoré', Paraguay's most famous musician and a towering figure in the global classical guitar repertoire.",
+      "security": "Windowed security thread; ultraviolet-reactive features including a hidden musical staff, reappearing portrait of Mangoré, ñandutí lace pattern, and denomination in Guaraní under UV light."
+    },
+    "sources": [
+      "https://asunciontimes.com/culture/paraguayan-history/the-three-stories-behind-the-50000-guarani-banknote/",
+      "https://en.numista.com/258250"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e452",
@@ -10291,14 +10311,20 @@
     "country": "Philippines",
     "issuer": "Bangko Sentral ng Pilipinas",
     "title": "50 Piso",
-    "description": "Remark.",
+    "description": "The obverse features a portrait of President Sergio Osmeña with scenes of the First National Assembly (1907) and General MacArthur's Leyte landing (1944); the reverse shows Taal Lake and the maliputo (giant trevally fish, Caranx ignobilis).",
     "hue": 351.8,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2022-banknotes/fronts/PILW2020-0050o.jpg",
     "slug": "philippines-50-piso-e452",
-    "body": "The 5000 Dobra note represents mid-range value in Sao Tome & Principe's currency system. Features enhanced security printing and durability. Reflects the island nation's economic development.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The 50 Piso note belongs to the New Generation Currency (NGC) series introduced in 2010 by the Bangko Sentral ng Pilipinas. The 2022 printing incorporates the redesigned BSP logo adopted across all NGC denominations from December 2022 onward, coinciding with updated presidential and gubernatorial signatures. The red cotton-paper note measures 160 x 66 mm and continues to serve as a standard circulation denomination recognising Sergio Osmeña, the fourth President of the Commonwealth of the Philippines.",
+    "highlights": {
+      "design": "Obverse: Portrait of Sergio Osmeña, scene of the First Philippine National Assembly 1907, General MacArthur's Leyte Gulf landing 1944. Reverse: Taal Lake panorama and the maliputo fish (giant trevally, Caranx ignobilis).",
+      "reason": "Regular circulation issue honouring Sergio Osmeña (1878–1961), fourth President of the Philippines, updated in 2022 with the new BSP corporate logo.",
+      "security": "Solid security thread, watermark portrait of Sergio Osmeña with electrotype '50', tactile marks for the visually impaired on extreme left and right of obverse."
+    },
+    "sources": [
+      "https://en.wikipedia.org/wiki/Philippine_fifty-peso_note"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e453",
@@ -10307,14 +10333,21 @@
     "country": "Philippines",
     "issuer": "Bangko Sentral ng Pilipinas",
     "title": "1.000 Piso",
-    "description": "Remark.",
+    "description": "The obverse features the Philippine Eagle (Pithecophaga jefferyi) and sampaguita blossoms against a blue polymer substrate with a vertical transparent window; the reverse depicts the Tubbataha Reefs Natural Park, a pearl oyster (Pinctada maxima), and the T'nalak weave pattern.",
     "hue": 191,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2022-banknotes/fronts/PILW2020-1000o.jpg",
     "slug": "philippines-1-000-piso-e453",
-    "body": "The 10000 Dobra note represents higher denomination value in Sao Tome & Principe. Incorporates advanced watermark and security thread technology. Used for significant retail and wholesale transactions.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "Issued in April 2022, the 1,000-Piso polymer banknote is the first polymer-substrate note ever circulated in the Philippines and won the International Banknote Society's Banknote of the Year Award for 2022. Produced for the Bangko Sentral ng Pilipinas on De La Rue polymer, the note measures 160 x 66 mm and bears the signatures of President Rodrigo Roa Duterte and BSP Governor Benjamin Estoista Diokno. Its flora-and-fauna theme highlights the Philippine Eagle — a critically endangered species and national symbol — alongside the UNESCO World Heritage-listed Tubbataha Reefs and the indigenous T'nalak textile tradition of the T'boli people.",
+    "highlights": {
+      "design": "Obverse: Philippine Eagle (Pithecophaga jefferyi) and sampaguita flowers (Jasminum sambac) with transparent vertical window. Reverse: Tubbataha Reefs Natural Park, South Sea pearl oyster (Pinctada maxima), and T'nalak weave pattern.",
+      "reason": "First Philippine polymer banknote, showcasing the country's biodiversity and cultural heritage; the polymer substrate was chosen for superior durability, hygiene, and security.",
+      "security": "Vertical transparent window with optically variable devices (BSP seal, Republic seal, iridescent figure, tactile flying eagle); rolling bar effect; embossed prints; tactile five-dot feature for visually impaired; colour-shifting elements."
+    },
+    "sources": [
+      "https://mirror.pia.gov.ph/news/2022/04/07/bsp-introduces-new-polymer-1000-piso-banknote",
+      "https://platform.keesingtechnologies.com/philippines-will-soon-start-issuing-new-1000-piso-banknote/"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e454",
@@ -10323,14 +10356,20 @@
     "country": "Philippines",
     "issuer": "Bangko Sentral ng Pilipinas",
     "title": "50 Piso",
-    "description": "Remark.",
+    "description": "The obverse features a portrait of President Sergio Osmeña with scenes of the First National Assembly (1907) and General MacArthur's Leyte landing (1944); the reverse shows Taal Lake and the maliputo (giant trevally fish, Caranx ignobilis).",
     "hue": 4.2,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2022-banknotes/fronts/PILW0231-2022o.jpg",
     "slug": "philippines-50-piso-e454",
-    "body": "The 20000 Dobra note serves as a primary higher denomination. Features comprehensive security elements protecting against counterfeiting. Reflects Sao Tome & Principe's monetary system.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The 50 Piso note belongs to the New Generation Currency (NGC) series introduced in 2010 by the Bangko Sentral ng Pilipinas. The 2022 printing incorporates the redesigned BSP logo adopted across all NGC denominations from December 2022 onward, coinciding with updated presidential and gubernatorial signatures. The red cotton-paper note measures 160 x 66 mm and continues to serve as a standard circulation denomination recognising Sergio Osmeña, the fourth President of the Commonwealth of the Philippines.",
+    "highlights": {
+      "design": "Obverse: Portrait of Sergio Osmeña, scene of the First Philippine National Assembly 1907, General MacArthur's Leyte Gulf landing 1944. Reverse: Taal Lake panorama and the maliputo fish (giant trevally, Caranx ignobilis).",
+      "reason": "Regular circulation issue honouring Sergio Osmeña (1878–1961), fourth President of the Philippines, updated in 2022 with the new BSP corporate logo.",
+      "security": "Solid security thread, watermark portrait of Sergio Osmeña with electrotype '50', tactile marks for the visually impaired on extreme left and right of obverse."
+    },
+    "sources": [
+      "https://en.wikipedia.org/wiki/Philippine_fifty-peso_note"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e455",
@@ -10410,14 +10449,21 @@
     "country": "Qatar",
     "issuer": "Qatar Central Bank",
     "title": "5 Riyals",
-    "description": "Arms, flag, door.",
+    "description": "The obverse displays traditional Islamic geometric patterns, the Qatari flag, dreama flowers, and an ornate historic gate; the reverse presents a desert scene with Arabian horses, camels, oryxes, an Al Ghaf tree, and a traditional goat-hair Bedouin tent.",
     "hue": 359.5,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2022-banknotes/fronts/QATW2020-005o.jpg",
     "slug": "qatar-5-riyals-e458",
-    "body": "The 50 Riyal note represents mid-range value in Saudi Arabia's currency system. Features sophisticated anti-counterfeiting measures including security threads. Used for retail and commercial transactions.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The 5 Riyals note is part of Qatar's Fifth Banknote Series, launched by the Qatar Central Bank on 13 December 2020 and entering circulation on 18 December 2020 — Qatar's National Day. The 2022-dated printing (P-33b) is a continuation of this same series. Measuring 140 x 67 mm, the orange-and-purple note bears the signatures of Ali bin Ahmed al-Kuwari and Sheikh Bandar bin Mohammed bin Saoud Al-Thani, and carries 64 state-of-the-art security specifications. The desert imagery on the reverse evokes Qatar's Bedouin heritage and the natural fauna of the Arabian Peninsula.",
+    "highlights": {
+      "design": "Obverse: Traditional geometric patterns, Qatari flag, dreama flower, and ornate historic gate. Reverse: Arabian horses, camels, Arabian Oryx, Al Ghaf tree, and a traditional goat-hair Bedouin tent (buryuut hajar).",
+      "reason": "Regular circulation note in Qatar's Fifth Banknote Series, launched to modernise currency security and celebrate Qatari cultural and natural heritage.",
+      "security": "Holographic patch, motion windowed security thread with demetalized '5', watermark of the State of Qatar coat of arms with electrotype '5', colour-shifting dreama flower, raised print for visually impaired."
+    },
+    "sources": [
+      "https://www.dohaguides.com/guide-to-qatar-currency-notes/",
+      "https://www.banknoteworld.com/qatar-5-riyals-banknote-2022-p-33b-unc.html"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e459",
@@ -10426,14 +10472,21 @@
     "country": "Qatar",
     "issuer": "Qatar Central Bank",
     "title": "50 Riyals",
-    "description": "Arms, flag, door.",
+    "description": "The obverse displays traditional Islamic geometric patterns, the Qatari flag, dreama flowers, and an ornate historic gate; the reverse depicts the Qatar Central Bank building and the Ministry of Finance building in a single composition.",
     "hue": 354.3,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2022-banknotes/fronts/QATW2020-050o.jpg",
     "slug": "qatar-50-riyals-e459",
-    "body": "The 100 Riyal note serves as a primary higher denomination in Saudi circulation. Incorporates advanced watermarks and holographic elements. Reflects Saudi Arabia's economic prominence in the Middle East.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The 50 Riyals note belongs to Qatar's Fifth Banknote Series issued by the Qatar Central Bank, which entered circulation on 18 December 2020, Qatar National Day. The 2022-dated printing continues the same design. The reverse composition — uniquely pairing the Qatar Central Bank and the Ministry of Finance — underscores the institutional interconnectedness of monetary and fiscal policy in Qatar's development vision. The note carries 64 state-of-the-art security specifications and is signed by Ali bin Ahmed al-Kuwari and Sheikh Bandar bin Mohammed bin Saoud Al-Thani.",
+    "highlights": {
+      "design": "Obverse: Traditional geometric patterns, Qatari flag, dreama flower, and ornate historic gate. Reverse: Qatar Central Bank building and Ministry of Finance building in one panoramic composition.",
+      "reason": "Regular circulation note in Qatar's Fifth Banknote Series, symbolising the coordinated relationship between the nation's central bank and finance ministry.",
+      "security": "Holographic patch, motion windowed security thread with demetalized '50', watermark of the State of Qatar coat of arms with electrotype '50', colour-shifting dreama flower, raised print for visually impaired."
+    },
+    "sources": [
+      "https://www.dohaguides.com/guide-to-qatar-currency-notes/",
+      "https://www.banknoteworld.com/qatar-50-riyals-banknote-2020-p-35a-1-unc.html"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e460",
@@ -10442,14 +10495,21 @@
     "country": "Qatar",
     "issuer": "Qatar Central Bank",
     "title": "100 Riyals",
-    "description": "Arms, flag, door.",
+    "description": "The obverse displays traditional Islamic geometric patterns, the Qatari flag, dreama flowers, and an ornate historic gate; the reverse features the Abu Al-Qubaib Mosque, one of Qatar's oldest mosques built during the founding era of Sheikh Jassim bin Mohammad Al-Thani.",
     "hue": 184.7,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2022-banknotes/fronts/QATW2020-100o.jpg",
     "slug": "qatar-100-riyals-e460",
-    "body": "The 500 Riyal note represents the highest denomination in Saudi active currency circulation. Features comprehensive security elements. Used for major commercial and financial transactions.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The 100 Riyals note is part of Qatar's Fifth Banknote Series, entering circulation on 18 December 2020. The selection of the Abu Al-Qubaib Mosque for the reverse was made at the personal suggestion of HH Emir Sheikh Tamim bin Hamad Al-Thani, reflecting the mosque's deep historical significance as an architectural legacy of Qatar's founder Sheikh Jassim bin Mohammad Al-Thani. The 2022-dated note continues the same design, bearing the signatures of Ali bin Ahmed al-Kuwari and Sheikh Bandar bin Mohammed bin Saoud Al-Thani.",
+    "highlights": {
+      "design": "Obverse: Traditional geometric patterns, Qatari flag, dreama flower in SPARK Orbital effect, coat of arms, and ornate historic gate. Reverse: Abu Al-Qubaib Mosque, one of Qatar's oldest surviving mosques.",
+      "reason": "Regular circulation note in Qatar's Fifth Banknote Series, commemorating Qatar's Islamic architectural heritage and founding history through one of the country's most historic mosques.",
+      "security": "Green IGNITE windowed security thread with demetalized 'QCB 100', enhanced Gemini holographic patch, watermark of State of Qatar coat of arms with electrotype '100' and cornerstones, colour-shifting dreama flower, raised print for visually impaired."
+    },
+    "sources": [
+      "https://www.leftovercurrency.com/exchange/qatari-riyals/current-qatari-riyal-banknotes/100-qatari-riyals-banknote-fifth-issue/",
+      "https://www.dohaguides.com/guide-to-qatar-currency-notes/"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e461",
@@ -10458,14 +10518,21 @@
     "country": "Qatar",
     "issuer": "Qatar Central Bank",
     "title": "200 Riyals",
-    "description": "Arms, flag, door.",
+    "description": "The obverse displays traditional Islamic geometric patterns, the Qatari flag, dreama flowers, and an ornate historic gate; the reverse features the Palace of Sheikh Abdullah bin Jassim Al-Thani, the National Museum of Qatar, and the Museum of Islamic Art.",
     "hue": 13.2,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2022-banknotes/fronts/QATW2020-200o.jpg",
     "slug": "qatar-200-riyals-e461",
-    "body": "The 1000 CFA Franc note for Senegal features the nation's cultural heritage and economic achievements. Part of the West African monetary union coordinated by the BCEAO. Supports everyday transactions.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The 200 Riyals note was introduced for the first time as a denomination in Qatar's Fifth Banknote Series, launched by the Qatar Central Bank on 13 December 2020 and entering circulation on 18 December 2020, Qatar National Day. The brown-on-multicolour note measures 161 x 73 mm and carries the signatures of Abdullah Saud Al-Thani and Ali Shareef Al-Emadi. The three reverse landmarks — Sheikh Abdullah's palace, the National Museum of Qatar, and the Museum of Islamic Art — were chosen to promote Qatar's art, cultural heritage, and creative vision for future generations. The 2022-dated printing continues this inaugural design.",
+    "highlights": {
+      "design": "Obverse: Traditional geometric patterns, Qatari flag, dreama flower, and ornate historic gate. Reverse: Palace of Sheikh Abdullah bin Jassim Al-Thani, National Museum of Qatar, and Museum of Islamic Art.",
+      "reason": "First-ever 200 Riyals denomination, introduced in Qatar's Fifth Banknote Series to fill a gap in the currency spectrum and to celebrate Qatar's landmark cultural and museum institutions.",
+      "security": "Holographic patch, motion windowed security thread with demetalized '200', watermark of State of Qatar coat of arms with crossed swords and palm tree plus electrotype '200', colour-shifting dreama flower, raised print for visually impaired."
+    },
+    "sources": [
+      "https://thepeninsulaqatar.com/article/13/12/2020/Qatar-unveils-QR200-banknote-new-Qatari-Riyal-banknotes-from-Dec-18",
+      "https://www.banknoteworld.com/qatar-200-riyals-banknote-2020-p-37a-1-unc.html"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e462",
