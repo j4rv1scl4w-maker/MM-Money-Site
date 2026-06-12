@@ -1,9 +1,9 @@
 {
   "description": "Pipeline per arricchire le emissions con URL reali. Processa in batch da 10, ogni batch viene committato.",
   "total": 493,
-  "processed": 408,
+  "processed": 418,
   "batch_size": 10,
-  "last_committed_batch": 37,
+  "last_committed_batch": 38,
   "items": [
     {
       "id": "e47",
@@ -5212,7 +5212,7 @@
         "Central Bank of Senegal (Banque Centrale des Etats de l'Afrique de l'Ouest)"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -5224,7 +5224,7 @@
         "Central Bank of Senegal (Banque Centrale des Etats de l'Afrique de l'Ouest)"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -5236,7 +5236,7 @@
         "Central Bank of Senegal (Banque Centrale des Etats de l'Afrique de l'Ouest)"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -5248,7 +5248,7 @@
         "Central Bank of Senegal (Banque Centrale des Etats de l'Afrique de l'Ouest)"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -5260,7 +5260,7 @@
         "National Bank of Serbia (Narodna banka Srbije)"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -5272,7 +5272,7 @@
         "National Bank of Serbia (Narodna banka Srbije)"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -5284,7 +5284,7 @@
         "National Bank of Serbia (Narodna banka Srbije)"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -5296,7 +5296,7 @@
         "National Bank of Serbia (Narodna banka Srbije)"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -5308,7 +5308,7 @@
         "National Bank of Serbia (Narodna banka Srbije)"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -5320,7 +5320,7 @@
         "Central Bank of Seychelles (Banque Zentral Sesel)"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {

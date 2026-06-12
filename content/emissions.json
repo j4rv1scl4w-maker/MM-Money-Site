@@ -10541,14 +10541,22 @@
     "country": "Qatar",
     "issuer": "Qatar Central Bank",
     "title": "500 Riyals",
-    "description": "Arms, flag, door.",
+    "description": "Obverse shows the State of Qatar coat of arms, a traditional ornamental gate, geometric patterns and Qatari flora; reverse depicts the Ras Laffan LNG refinery and a liquefied natural gas carrier ship.",
     "hue": 264.9,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2022-banknotes/fronts/QATW2020-500o.jpg",
     "slug": "qatar-500-riyals-e462",
-    "body": "The 2000 CFA Franc note represents mid-range value in Senegal's currency system. Features enhanced security printing and accessibility elements. Reflects Senegal's participation in the West African economic union.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The Qatar 500 Riyals is the highest denomination of the Fifth Issue series released into circulation on December 18, 2020, with some printings dated 2022. The Fifth Issue was designed to modernize Qatari currency while celebrating the country's economic heritage, particularly its world-leading liquefied natural gas industry centered at Ras Laffan Industrial City. The 500 Riyal note made history as the first banknote in the world to carry the Nexus optical security tape, a compact and highly secure marking developed by De La Rue. The series also introduced the first holographic security thread in the Middle East on this denomination.",
+    "highlights": {
+      "design": "Obverse: Qatar coat of arms, traditional ornamental gate, geometric patterns, and Qatari flora. Reverse: Ras Laffan LNG refinery and LNG carrier ship at Port of Ras Laffan.",
+      "reason": "Issued as the highest denomination in Qatar Central Bank's modernized Fifth Issue banknote series, showcasing Qatar's economic identity and energy industry.",
+      "security": "World-first Nexus compact optical tape, first holographic security thread in the Middle East, holographic patch with Dreama flower motif, hybrid paper-polymer substrate, color-shifting ink, watermark of the State of Qatar crest, and raised print for the visually impaired."
+    },
+    "sources": [
+      "https://www.banknoteworld.com/qatar-500-riyals-banknote-2020-p-38a-unc.html",
+      "https://thepeninsulaqatar.com/article/01/02/2022/fifth-issue-of-qatar-banknote-wins-international-award",
+      "https://en.numista.com/catalogue/note258813.html"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e463",
@@ -10557,30 +10565,45 @@
     "country": "Qatar",
     "issuer": "Qatar Central Bank",
     "title": "22 Riyals",
-    "description": "Doha, Lusail Iconic stadium. 2022 FIFA World Cup in Qatar.",
+    "description": "Obverse features the FIFA World Cup trophy, the FIFA World Cup Qatar 2022 logo, Qatar's national coat of arms, and the Lusail Iconic Stadium; reverse shows the FIFA World Cup trophy, the tournament logo, and Al-Bayt Stadium.",
     "hue": 40.4,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2022-banknotes/fronts/QATW0039o.jpg",
     "slug": "qatar-22-riyals-e463",
-    "body": "The 5000 CFA Franc note serves as a primary higher denomination. Incorporates advanced watermark and security thread technology. Used for significant retail and commercial transactions.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The Qatar 22 Riyals polymer commemorative banknote was unveiled by the Qatar Central Bank on November 9, 2022, to mark the country's hosting of the FIFA World Cup Qatar 2022 — the first World Cup held in the Arab world. The denomination of 22 riyals was deliberately chosen to reflect the 22nd edition of the FIFA World Cup taking place in the year 2022. With a print run of 6,000,000 pieces, the note was sold at banks and exchange houses for 75 riyals in a commemorative folder with a certificate of authenticity, though it remained legal tender at face value. The note is printed on polymer substrate by De La Rue and stands as an internationally recognized numismatic record of a landmark sporting event.",
+    "highlights": {
+      "design": "Obverse: FIFA World Cup trophy, Qatar 2022 tournament logo, national coat of arms, and Lusail Iconic Stadium. Reverse: FIFA World Cup trophy, Qatar 2022 logo, and Al-Bayt Stadium.",
+      "reason": "Commemorates Qatar hosting the FIFA World Cup 2022, the 22nd edition of the tournament; the unusual denomination of 22 directly references both the edition number and the year.",
+      "security": "Polymer substrate with transparent windows (upper window with embossed '22' numerals, lower window with color-shifting gold number '22'), intaglio printing, microprinting, UV-reactive ink elements including coat of arms and dhow, and optically variable elements."
+    },
+    "sources": [
+      "https://www.banknoteworld.com/qatar-22-riyals-banknote-2022-p-39-unc-commemorative-polymer-2022-fifa-world-cup-in-qatar.html",
+      "https://platform.keesingtechnologies.com/qatar-issues-banknote-commemorating-2022-fifa-world-cup/",
+      "https://thepeninsulaqatar.com/article/09/11/2022/qatar-2022-commemorative-banknote-may-be-purchased-at-banks-and-exchange-houses"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e464",
     "year": 2022,
     "date": "2022",
     "country": "Russia",
-    "issuer": "Bank Rossii",
+    "issuer": "Bank of Russia",
     "title": "100 Rubley",
-    "description": "Lomonossov University, Spasskiy tower (Kremlin), Zaryadye Concert hall, Ostankino TV tower.",
+    "description": "Obverse depicts Spasskaya Tower of the Moscow Kremlin, the main building of Moscow State University, Zaryadye Park concert hall with floating bridge, and the Ostankino and Shukhov TV towers; reverse features the Rzhev Memorial to the Soviet Soldier and a birds-eye view of the Central Federal District landscape.",
     "hue": 35.8,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2022-banknotes/fronts/RUSWA0276o.jpg",
     "slug": "russia-100-rubley-e464",
-    "body": "The 10000 CFA Franc note represents major commercial denomination. Features comprehensive security elements including holograms. Demonstrates Senegal's commitment to modern banking standards.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The new 100-ruble banknote was unveiled and entered legal circulation on June 30, 2022, as part of the Bank of Russia's planned 2022–2025 modernization of the entire ruble banknote series. The note is dedicated to Moscow and the broader Central Federal District, replacing the earlier 1997-series 100-ruble note which featured the Bolshoi Theatre. A notable design detail places the Spasskaya Tower chimes at 20:22, a cryptic but intentional reference to the year of issue. For the first time in the history of Russian banknotes, a QR code was incorporated as both an informational and security element.",
+    "highlights": {
+      "design": "Obverse: Spasskaya Tower of Moscow Kremlin (chimes set to 20:22), Moscow State University main building, Zaryadye Park, and Ostankino Tower. Reverse: Rzhev Memorial to the Soviet Soldier, birds in flight, aerial view of Central Federal District.",
+      "reason": "Part of the Bank of Russia's 2022–2025 series modernizing all ruble denominations from 10 to 5000 rubles; dedicated to Moscow and the Central Federal District.",
+      "security": "QR code (first on a Russian banknote), 9-digit serial number (vs. the previous 7-digit), olive-orange color scheme with modern security threads, and updated anti-counterfeit features."
+    },
+    "sources": [
+      "https://banknotenews.com/?p=37076",
+      "https://www.banknoteworld.com/russia-100-rubles-banknote-2022-p-a276-unc.html"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e465",
@@ -10589,14 +10612,21 @@
     "country": "Samoa",
     "issuer": "Central Bank of Samoa",
     "title": "60 Tala",
-    "description": "Prime Minister Fiame Naomi Mata'afa, flag. Commonwealth Heads of Government Meeting (CHOGM), Apia (2024).",
+    "description": "Obverse features Prime Minister Fiame Naomi Mata'afa (Samoa's first female prime minister), the national flag, the CHOGM 2024 logo, and the 60th anniversary independence logo; reverse depicts the first Prime Minister of Samoa lowering the New Zealand flag at independence in 1962.",
     "hue": 16.3,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2022-banknotes/fronts/SAMW0055o.jpg",
     "slug": "samoa-60-tala-e465",
-    "body": "The 10000 CFA Franc note (alternate issue) represents the highest active denomination in Senegalese circulation. Features advanced anti-counterfeiting measures coordinated with the BCEAO. Reflects the nation's regional economic standing.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The 60 Tala commemorative banknote was issued by the Central Bank of Samoa on May 31, 2024, to mark two historic events simultaneously: the 60th anniversary of Samoa's independence (attained from New Zealand on January 1, 1962) and the hosting of the Commonwealth Heads of Government Meeting (CHOGM) in Apia. The note's denomination of 60 directly mirrors the anniversary being celebrated. It carries a 'New Dawn' theme reflecting Samoa's entry into a new era, symbolized in part by the election of Fiame Naomi Mata'afa as the country's first female prime minister. The note won the title of Best Commemorative Banknote of the Year at the High Security Printing Asia awards.",
+    "highlights": {
+      "design": "Obverse: Prime Minister Fiame Naomi Mata'afa, national flag, CHOGM 2024 logo, 60th independence anniversary logo. Reverse: First Prime Minister of Samoa lowering the New Zealand flag at independence, 1962.",
+      "reason": "Commemorates the 60th anniversary of Samoan independence and the hosting of CHOGM 2024 in Apia; the 60 tala denomination directly reflects the anniversary year.",
+      "security": "Windowed security thread, watermark of a teuila flower with electrotype CBS, and standard banknote anti-counterfeit features."
+    },
+    "sources": [
+      "https://banknotenews.com/?p=45266",
+      "https://platform.keesingtechnologies.com/samoa-issues-limited-edition-60-tala-anniversary-banknote/"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e466",
@@ -10605,14 +10635,20 @@
     "country": "Sudan",
     "issuer": "Central Bank of Sudan",
     "title": "100 Sudanese Pounds",
-    "description": "Pyramids of Meroë.",
+    "description": "Obverse depicts the Pyramids of Meroe (the ancient Nubian Kushite burial pyramids on the east bank of the Nile); reverse features the Merowe hydroelectric dam on the Nile River alongside the Central Bank of Sudan emblem.",
     "hue": 18.1,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2022-banknotes/fronts/SUDW2019-100o.jpg",
     "slug": "sudan-100-sudanese-pounds-e466",
-    "body": "The 10 Dinar note features Serbian cultural heritage and historical figures. Incorporates modern security features appropriate for Serbian banking. Supports everyday retail transactions.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The 100 Sudanese Pounds note is part of the current banknote series issued by the Central Bank of Sudan, with the design first introduced in January 2019 and subsequent printings including the 2022 date. The obverse celebrates Sudan's extraordinary pre-Islamic Nubian heritage — the Pyramids of Meroe, built by the rulers of the ancient Kushite Kingdom, are a UNESCO World Heritage Site and a symbol of the depth of Sudanese civilization. The reverse highlights Sudan's infrastructure investment, depicting the Merowe Dam, one of the largest hydroelectric dams in Africa, which opened in 2009 and dramatically increased Sudan's electricity generation capacity.",
+    "highlights": {
+      "design": "Obverse: Pyramids of Meroe (Kushite royal burial pyramids, Nile Valley). Reverse: Merowe hydroelectric dam on the Nile River and the Central Bank of Sudan emblem.",
+      "reason": "Regular circulation issue representing Sudan's ancient heritage and modern infrastructure development.",
+      "security": "Watermark of a falcon head (visible when held to light), color-shifting pyramid ink (changes color when tilted), CBS text visible in rectangular field when tilted, and raised tactile dots for the visually impaired."
+    },
+    "sources": [
+      "https://en.numista.com/212087"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e467",
@@ -10621,78 +10657,114 @@
     "country": "Sudan",
     "issuer": "Central Bank of Sudan",
     "title": "500 Sudanese Pounds",
-    "description": "Satellite dishes, National Telecommunications Corporation Tower, Khartoum.",
+    "description": "Obverse features the National Telecommunications Corporation (NTC) Tower in Khartoum and satellite dishes rendered in optically variable ink; reverse depicts an oil refinery with industrial gears and the Central Bank of Sudan logo.",
     "hue": 322.7,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2022-banknotes/fronts/SUDW2019-500o.jpg",
     "slug": "sudan-500-sudanese-pounds-e467",
-    "body": "The 20 Dinar note celebrates Serbia's cultural achievements and national pride. Features enhanced security printing and durability. Widely circulated in Serbia's domestic economy.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The 500 Sudanese Pounds note belongs to the Central Bank of Sudan's current circulation series, with the original design introduced in 2019 and this 2022 printing designated P-80a.3. As the second-highest standard denomination, it reflects Sudan's economic ambitions, with the obverse showcasing the NTC Tower as a symbol of the country's telecommunications infrastructure and the reverse celebrating the petroleum industry, which was a dominant sector of Sudan's economy before the secession of oil-rich South Sudan in 2011. The 2022 issue represents a continuation of the same design with updated security features and printing dates.",
+    "highlights": {
+      "design": "Obverse: National Telecommunications Corporation Tower (Khartoum) and satellite dishes in optically variable ink. Reverse: Oil refinery, industrial gears, and Central Bank of Sudan logo.",
+      "reason": "Regular high-value circulation note representing Sudan's telecommunications and petroleum sectors.",
+      "security": "Motion windowed security thread with demetalized text, secretary bird watermark with electrotype CBOS text, multi-color optically variable ink on satellite dish (shifting between purple, copper brown, and gold), and color-shifting tones across the note (gold, lime green, turquoise) when tilted."
+    },
+    "sources": [
+      "https://www.banknoteworld.com/sudan-500-sudanese-pounds-banknote-2022-p-80a-3-unc.html",
+      "https://en.numista.com/catalogue/note211356.html"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e468",
     "year": 2022,
     "date": "1999-2022",
     "country": "Tajikistan",
-    "issuer": "Bonki Millii Tochikiston / National Bank of Tajikistan",
+    "issuer": "National Bank of Tajikistan",
     "title": "10 Somoni",
-    "description": "Remark.",
+    "description": "Obverse portrays Mir Said Ali Hamadoni (the 14th-century Sufi scholar, poet, and saint) alongside the national coat of arms, a scroll, a pen, and an inkwell; reverse depicts the tomb of Mir Said Ali Hamadoni in the city of Kulob and the national flag of Tajikistan.",
     "hue": 16,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2022-banknotes/fronts/TAJ0024o.jpg",
     "slug": "tajikistan-10-somoni-e468",
-    "body": "The 50 Dinar note represents mid-range value in Serbia's currency system. Features sophisticated anti-counterfeiting measures. Used for retail and commercial transactions.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The 10 Somoni note is part of the National Bank of Tajikistan's current circulation series, which was substantially updated from 2017 onward to incorporate enhanced security features while retaining existing motifs. The 2022 print is a continuation of the updated series (designated P-24 series). Mir Said Ali Hamadoni (1314–1384 CE), also known as Shah Hamadan, was an Iranian-born scholar, theologian, and Sufi mystic of the Kubrawiyya order who played a crucial role in spreading Islam in the Kashmir and Central Asia regions; he is revered in Tajikistan as a major cultural and spiritual figure. The note uses Louisenthal's Hybrid ADDVance substrate, combining paper with an ultra-fine polyester foil on each side for increased durability at this frequently circulated low denomination.",
+    "highlights": {
+      "design": "Obverse: Portrait of Mir Said Ali Hamadoni, coat of arms of Tajikistan, scroll, pen, and inkwell. Reverse: Tomb of Mir Said Ali Hamadoni in Kulob and the national flag.",
+      "reason": "Regular circulation note honoring the revered 14th-century Sufi scholar Mir Said Ali Hamadoni, a central figure in Tajik cultural and religious heritage.",
+      "security": "Louisenthal Varifeye Colourchange holographic stripe with Hamadoni portrait, Rolling Star windowed security thread with demetalized 'BMT 10' text, watermark of Mir Said Ali Hamadoni, and Hybrid ADDVance paper-polymer composite substrate."
+    },
+    "sources": [
+      "https://www.banknoteworld.com/tajikistan-10-somoni-banknote-2021-p-24d-unc.html",
+      "https://en.numista.com/315784"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e469",
     "year": 2022,
     "date": "2022",
     "country": "Thailand",
-    "issuer": "Government of Thailand",
+    "issuer": "Bank of Thailand",
     "title": "20 Baht",
-    "description": "King Rama X Maha Vajiralongkorn.",
+    "description": "Obverse features a portrait of King Vajiralongkorn (Rama X) in the uniform of the Commander of the Royal Thai Air Force; reverse depicts King Rama I (Phra Buddha Yodfa Chulaloke) and the Grand Palace in Bangkok.",
     "hue": 144.4,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2022-banknotes/fronts/THLW0145o.jpg",
     "slug": "thailand-20-baht-e469",
-    "body": "The 100 Dinar note serves as a primary higher denomination. Incorporates advanced watermarks and security thread technology. Reflects Serbia's economic development in Southeast Europe.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The 20 Baht polymer banknote was issued into circulation on March 24, 2022, as part of Thailand's 17th banknote series. It is the first denomination of this series and Thailand's return to polymer substrate after earlier experiments. The switch from paper to polymer was driven by the fact that the 20 Baht note is the most widely circulated denomination in Thailand — accounting for more than 30% of all banknotes in circulation — meaning paper notes wear out within 2–3 years, whereas polymer notes are expected to last 5–7.5 years. The design continues the Rama X series tradition of pairing the reigning monarch on the obverse with a revered earlier king on the reverse.",
+    "highlights": {
+      "design": "Obverse: King Vajiralongkorn (Rama X) in Royal Thai Air Force Commander uniform. Reverse: King Rama I (Phra Buddha Yodfa Chulaloke) and the Grand Palace, Bangkok.",
+      "reason": "Re-issued on polymer substrate to dramatically extend the service life of Thailand's most-used banknote denomination; marks the transition to the 17th banknote series.",
+      "security": "Polymer substrate with two transparent windows (upper window: embossed '20' numerals; lower window: color-shifting translucent yellow to red), simulated security thread with demetalized '20 BAHT' microtext in Latin and Thai, and a shadow watermark of King Rama X."
+    },
+    "sources": [
+      "https://platform.keesingtechnologies.com/thailand-issues-a-new-polymer-20-baht-banknote/",
+      "https://en.numista.com/317869"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e470",
     "year": 2022,
     "date": "2014-2022",
     "country": "Ukraine",
-    "issuer": "Natsional'niy Bank Ukraïni",
+    "issuer": "National Bank of Ukraine",
     "title": "100 Hriven'",
-    "description": "Remark.",
+    "description": "Obverse bears a portrait of Taras Shevchenko (copied from his 1840–1841 self-portrait) and the screen-printed logotype marking the 30th anniversary of Ukraine's independence; reverse depicts the Taras Shevchenko National University of Kyiv.",
     "hue": 33.3,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2022-banknotes/fronts/UKR0126o.jpg",
     "slug": "ukraine-100-hriven-e470",
-    "body": "The 200 Dinar note represents the highest active denomination in Serbia. Features comprehensive security elements including advanced holograms. Demonstrates Serbia's commitment to modern currency standards.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The 100 Hryvnia 2022 banknote entered circulation on December 19, 2022, as an updated commemorative issue retaining the design of the 2014 series but incorporating the printed logotype '30th Anniversary of Ukraine's Independence' in optically variable ink. It was issued against the backdrop of Russia's full-scale invasion of Ukraine, making it a symbol of national resilience as well as heritage. Taras Shevchenko (1814–1861) is the founding figure of modern Ukrainian literature and national identity; his poetry collection 'Kobzar' is among the most widely translated works of Ukrainian culture. The university on the reverse was named after Shevchenko in 1939 on the 125th anniversary of his birth.",
+    "highlights": {
+      "design": "Obverse: Portrait of Taras Shevchenko (self-portrait, 1840–1841) with 30th independence anniversary logotype. Reverse: Main building of Taras Shevchenko National University of Kyiv.",
+      "reason": "Updated commemorative circulation issue marking the 30th anniversary of Ukraine's independence, retaining the Shevchenko design of the 2014 series.",
+      "security": "Multi-tone watermark with repeated Shevchenko portrait, SPARK optically variable element (painter's palette changing from gold to green when tilted), windowed security thread, and raised intaglio print."
+    },
+    "sources": [
+      "https://bank.gov.ua/en/uah/obig-banknote/100_2014_2022",
+      "https://en.numista.com/catalogue/note302744.html",
+      "https://platform.keesingtechnologies.com/ukraine-launches-new-100-and-500-hryvnia-banknotes/"
+    ],
+    "confidence": "official"
   },
   {
     "id": "e471",
     "year": 2021,
     "date": "2021",
     "country": "Ukraine",
-    "issuer": "Natsional'niy Bank Ukraïni",
+    "issuer": "National Bank of Ukraine",
     "title": "500 Hriven'",
-    "description": "Grigoriy Skovoroda. Skovoroda's World - 300th Anniversary of Birth of G. Skovoroda (1722-2022).",
+    "description": "Obverse features a portrait of philosopher Hryhorii Skovoroda alongside a 'Skovoroda's World' commemorative logotype in optically variable ink; reverse depicts the historic Kyiv-Mohyla Academy building.",
     "hue": 30.6,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2022-banknotes/fronts/UKRW0135o.jpg",
     "slug": "ukraine-500-hriven-e471",
-    "body": "The 25 Rupee note features Seychelles' island culture and marine heritage. Incorporates modern security features appropriate for the island nation. Supports everyday commerce in Seychelles.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The 500 Hryvnia 2021 commemorative banknote was issued by the National Bank of Ukraine to mark the 300th anniversary of the birth of Hryhorii Skovoroda (1722–1794), Ukraine's most celebrated philosopher and itinerant teacher. Skovoroda studied at and later maintained ties with the Kyiv-Mohyla Academy — depicted on the reverse — which was a leading center of Orthodox learning in Eastern Europe. The note was printed in a limited edition of 50,000 pieces, of which 30,000 were packaged in commemorative souvenir folders. It incorporates all security features of the 2015 standard 500 hryvnia series, supplemented with the anniversary logotype printed in optically variable metallic ink that shifts from light green to dark green.",
+    "highlights": {
+      "design": "Obverse: Portrait of Hryhorii Skovoroda with 'Skovoroda's World' 300th-anniversary logotype in optically variable ink. Reverse: Historic buildings of the Kyiv-Mohyla Academy.",
+      "reason": "Commemorates the 300th anniversary of the birth of philosopher Hryhorii Skovoroda (1722–1794), issued in limited edition of 50,000 pieces.",
+      "security": "Open book SPARK optically variable element, windowed holographic security thread with demetalized '500', solid security thread with '500' and trident symbol, watermark of Hryhorii Skovoroda, and 'Skovoroda's World' logotype in color-shifting OVMI ink (light green to dark green)."
+    },
+    "sources": [
+      "https://bank.gov.ua/en/uah/obig-banknote/500_2021",
+      "https://en.numista.com/catalogue/note353863.html"
+    ],
+    "confidence": "official"
   },
   {
     "id": "e472",
