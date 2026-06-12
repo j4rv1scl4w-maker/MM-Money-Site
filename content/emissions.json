@@ -10842,16 +10842,23 @@
     "year": 2022,
     "date": "2003-2022",
     "country": "West African States — Togo",
-    "issuer": "Banque Centrale des États de l'Afrique de l'Ouest",
+    "issuer": "Banque Centrale des États de l'Afrique de l'Ouest (BCEAO)",
     "title": "10.000 Francs CFA",
-    "description": "Code Letter T (Togo).",
+    "description": "Obverse features a stylised sawfish with a telecommunications theme (parabola, satellite, @ sign) against a circuit-board background; reverse depicts a pair of yellow-billed turaco birds in a West African tropical forest landscape with geometric patterns.",
     "hue": 282.3,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2022-banknotes/fronts/WAS0818TTao.JPG",
     "slug": "west-african-states-togo-10-000-francs-cfa-e475",
-    "body": "The 500 Rupee note represents the highest active denomination in Seychelles. Features comprehensive security elements. Demonstrates the island nation's commitment to secure currency circulation.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The 10,000 CFA franc note is the highest denomination issued by the BCEAO for the eight-member West African Economic and Monetary Union (WAEMU). Notes bearing the letter 'T' are allocated to Togo, one of the union's founding members. The 2022 date edition continues the design series first introduced to highlight modern technology and regional biodiversity, representing WAEMU's shared monetary sovereignty across Benin, Burkina Faso, Côte d'Ivoire, Guinea-Bissau, Mali, Niger, Senegal, and Togo.",
+    "highlights": {
+      "design": "Obverse: Sawfish emblem, satellite dish, satellite, @ sign, integrated-circuit background, electromagnetic wave motif. Reverse: Pair of yellow-billed turaco birds in a jungle landscape with African geometric patterns and denomination.",
+      "reason": "Issued as the highest circulation denomination of the West African CFA franc to facilitate large-value transactions across all eight WAEMU member states.",
+      "security": "Discontinuous holographic stripe showing BCEAO logo or face value; color-shifting ink (pink to green) on face value numeral; dual watermarks (BCEAO logo and denomination); see-through register; security thread overprinted with denomination and 'UMOA'; embossed intaglio printing on obverse."
+    },
+    "sources": [
+      "https://banknotenews.com/?p=40297",
+      "https://www.banknoteworld.com/west-african-states-senegal-10-000-francs-banknote-2022-p-718kv-unc.html"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e476",
@@ -10860,14 +10867,20 @@
     "country": "Zambia",
     "issuer": "Bank of Zambia",
     "title": "2 Kwacha",
-    "description": "Fish eagle, tree.",
+    "description": "Obverse features the national coat of arms, a baobab tree, a peace dove, and a fish eagle perched on a branch; reverse depicts a roan antelope, two women with baskets of produce, and the Freedom Statue in Lusaka.",
     "hue": 150.9,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2022-banknotes/fronts/ZAM0056o.jpg",
     "slug": "zambia-2-kwacha-e476",
-    "body": "The 1000 Leone note features Sierra Leone's cultural heritage and development initiatives. Incorporates modern security features appropriate for West African banking. Supports everyday transactions.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The 2 Kwacha note is the lowest denomination of Zambia's current banknote family, introduced after the January 2013 rebasing that replaced the old kwacha at a rate of 1,000:1. The 2022 date edition, signed by Bank of Zambia Governor Dr. Denny H. Kalyalya, represents an upgraded-security reprint of the existing series design. Its gray coloring and compact size (140 x 70 mm) distinguish it from higher denominations and aid sorting. The roan antelope on the reverse is one of Zambia's most emblematic savanna mammals.",
+    "highlights": {
+      "design": "Obverse: National coat of arms, baobab tree, peace dove, fish eagle on branch, tactile diagonal lines for visually impaired. Reverse: Roan antelope, two women with baskets and produce, Freedom Statue (Chainbreaker Monument), Lusaka.",
+      "reason": "Issued as part of the updated 2022 security-enhanced reprint of Zambia's post-rebasing banknote series.",
+      "security": "5 mm windowed security thread with demetallized 'BOZ 2' text; fish eagle watermark with electrotype '2' and eagle motif; intaglio tactile diagonal lines on obverse."
+    },
+    "sources": [
+      "https://www.banknoteworld.com/zambia-2-kwacha-banknote-2022-p-56a-4-unc.html"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e477",
@@ -10876,14 +10889,21 @@
     "country": "Zambia",
     "issuer": "Bank of Zambia",
     "title": "5 Kwacha",
-    "description": "Fish eagle, tree.",
+    "description": "Obverse features the national coat of arms, a mopane tree, a peace dove, and a fish eagle on a branch; reverse depicts a lion and a cassava plant beside the Freedom Statue in Lusaka.",
     "hue": 0.5,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2022-banknotes/fronts/ZAM0057o.jpg",
     "slug": "zambia-5-kwacha-e477",
-    "body": "The 2000 Leone note celebrates Sierra Leone's natural resources and economic potential. Features enhanced security printing and accessibility. Widely circulated in Sierra Leone.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The 5 Kwacha note, printed in purple, sits at the second-lowest tier of Zambia's post-2013 rebase currency family. The 2022 dated edition continues the established design canon that pairs Zambia's national bird — the African fish eagle — with native tree species and wildlife on the reverse. The lion depicted on the reverse is a symbol of strength recognized throughout sub-Saharan Africa, while the cassava motif acknowledges the staple crop's central role in Zambian food security. The note measures 140 x 70 mm and was printed by De La Rue.",
+    "highlights": {
+      "design": "Obverse: National coat of arms, mopane tree, peace dove, fish eagle on branch. Reverse: Lion, cassava plant, Freedom Statue in Lusaka.",
+      "reason": "Issued as a security-updated reprint of Zambia's 5 Kwacha denomination within the current post-rebasing banknote series.",
+      "security": "5 mm windowed security thread with demetallized 'BOZ 5'; fish eagle watermark with electrotype '5' and eagle; intaglio printing on obverse."
+    },
+    "sources": [
+      "https://www.banknoteworld.com/zambia-5-kwacha-banknote-2021-p-57a-4-unc.html",
+      "https://en.numista.com/catalogue/note201747.html"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e478",
@@ -10892,14 +10912,21 @@
     "country": "Zambia",
     "issuer": "Bank of Zambia",
     "title": "10 Kwacha",
-    "description": "Fish eagle, tree.",
+    "description": "Obverse features the national coat of arms, a musuku tree, a peace dove, and a fish eagle on a branch; reverse depicts a porcupine, farmers harvesting rice, and the Freedom Statue in Lusaka.",
     "hue": 146.2,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2022-banknotes/fronts/ZAM0058o.jpg",
     "slug": "zambia-10-kwacha-e478",
-    "body": "The 5000 Leone note represents mid-range value in Sierra Leone's currency system. Features sophisticated anti-counterfeiting measures. Used for retail and commercial transactions.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The aqua-colored 10 Kwacha note (145 x 70 mm) is part of the Bank of Zambia's current circulation series, reissued with upgraded security in 2022. The musuku (Uapaca kirkiana) tree on the obverse is a fruit-bearing indigenous species highly valued in Zambian communities. The porcupine on the reverse — Zambia's most widely recognized small mammal — appears alongside rice-harvesting imagery that underscores the country's agricultural economy. The 2022 reprint carries the signature of Governor Dr. Denny H. Kalyalya.",
+    "highlights": {
+      "design": "Obverse: National coat of arms, musuku tree, peace dove, fish eagle on branch. Reverse: Porcupine, rice farmers harvesting, Freedom Statue in Lusaka.",
+      "reason": "Issued as a security-updated reprint of the 10 Kwacha denomination within the current Zambian banknote series.",
+      "security": "5 mm windowed security thread with demetallized 'BOZ 10'; fish eagle watermark with electrotype '10' and eagle; intaglio raised printing."
+    },
+    "sources": [
+      "https://www.banknoteworld.com/zambia-10-kwacha-banknote-2022-p-58a-4-unc.html",
+      "https://banknotenews.com/?p=46182"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e479",
@@ -10908,14 +10935,21 @@
     "country": "Zambia",
     "issuer": "Bank of Zambia",
     "title": "20 Kwacha",
-    "description": "Fish eagle, tree.",
+    "description": "Obverse features the national coat of arms, a mukwa tree, a peace dove, and a fish eagle on a branch; reverse depicts a black lechwe antelope, miners operating a pneumatic drill, and the Freedom Statue in Lusaka.",
     "hue": 20.5,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2022-banknotes/fronts/ZAM0059o.jpg",
     "slug": "zambia-20-kwacha-e479",
-    "body": "The 10000 Leone note serves as a primary higher denomination. Incorporates advanced watermarks and security thread technology. Reflects Sierra Leone's economic development in West Africa.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The brown 20 Kwacha note (145 x 70 mm) pairs Zambia's celebrated natural heritage with its defining industrial identity. The mukwa (Pterocarpus angolensis), a hardwood prized across southern Africa, graces the obverse, while the reverse's copper-mining scene pays homage to the Copperbelt — the economic backbone of Zambia since the colonial era. The black lechwe, a semi-aquatic antelope found in the Bangweulu wetlands, is one of Zambia's most iconic endemic mammals. The 2022 reprint carries upgraded security features.",
+    "highlights": {
+      "design": "Obverse: National coat of arms, mukwa tree, peace dove, fish eagle on branch. Reverse: Black lechwe antelope, workers with pneumatic drill (mining), Freedom Statue in Lusaka.",
+      "reason": "Issued as a security-updated reprint of the 20 Kwacha denomination, celebrating Zambia's wildlife and copper-mining heritage.",
+      "security": "5 mm windowed security thread with demetallized 'BOZ 20'; fish eagle watermark with electrotype '20' and eagle; SPARK Live security ink on denomination; intaglio printing."
+    },
+    "sources": [
+      "https://www.banknoteworld.com/zambia-20-kwacha-banknote-2022-p-59a-4-unc-tap-authenticated.html",
+      "https://banknotenews.com/?p=46178"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e480",
@@ -10924,14 +10958,21 @@
     "country": "Zambia",
     "issuer": "Bank of Zambia",
     "title": "50 Kwacha",
-    "description": "Printer.",
+    "description": "Obverse features the national coat of arms, a fig tree, a peace dove, and a fish eagle on a branch; reverse depicts a leopard, the Bank of Zambia building, and the Freedom Statue in Lusaka.",
     "hue": 102.9,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2022-banknotes/fronts/ZAM0060o.jpg",
     "slug": "zambia-50-kwacha-e480",
-    "body": "The 10000 Leone note (alternate release) represents major commercial denomination. Features comprehensive security elements including advanced holograms. Demonstrates Sierra Leone's commitment to modern banking standards.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The brown 50 Kwacha note (145 x 70 mm) is one of Zambia's higher-value circulation banknotes. The fig tree (genus Ficus) on the obverse is ecologically significant in Zambia as a keystone species supporting diverse wildlife. The leopard on the reverse — the most secretive of Africa's big cats — represents the wild natural heritage of Zambia's national parks. The Bank of Zambia headquarters building appears alongside the Freedom Statue, linking financial governance with national independence. The 2022 reprint updates security features while retaining the established design.",
+    "highlights": {
+      "design": "Obverse: National coat of arms, fig tree, peace dove, fish eagle on branch. Reverse: Leopard, Bank of Zambia building, Freedom Statue in Lusaka.",
+      "reason": "Issued as a security-updated reprint of the 50 Kwacha denomination, highlighting Zambia's wildlife and central banking institution.",
+      "security": "5 mm windowed security thread with demetallized 'BOZ 50'; fish eagle watermark with electrotype '50' and eagle; intaglio raised printing on obverse."
+    },
+    "sources": [
+      "https://www.banknoteworld.com/zambia-50-kwacha-banknote-2022-p-60a-4-unc.html",
+      "https://en.wikipedia.org/wiki/Fifty_kwacha"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e481",
@@ -10940,14 +10981,21 @@
     "country": "Zambia",
     "issuer": "Bank of Zambia",
     "title": "100 Kwacha",
-    "description": "Fish eagle, tree.",
+    "description": "Obverse features the national coat of arms, a musuku tree, a peace dove, and a fish eagle on a branch; reverse depicts a Cape buffalo, the National Assembly of Zambia building, and the Freedom Statue in Lusaka.",
     "hue": 35.3,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2022-banknotes/fronts/ZAM0061o.jpg",
     "slug": "zambia-100-kwacha-e481",
-    "body": "The 5 Singapore Dollar note features Singapore's vision as a global financial hub. Incorporates advanced security features and modern design aesthetics. Supports everyday retail transactions.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The olive-green 100 Kwacha note (145 x 70 mm) is the highest-denomination circulation banknote in Zambia's current series. The Cape buffalo on the reverse is one of Africa's 'Big Five' and symbolizes Zambia's abundant wildlife. The National Assembly building represents democratic governance, while the Freedom Statue commemorates independence from British rule in 1964. The 2022 reprint, signed by Governor Dr. Denny H. Kalyalya and printed by Giesecke & Devrient, incorporates enhanced security elements without altering the established design.",
+    "highlights": {
+      "design": "Obverse: National coat of arms, musuku tree, peace dove, fish eagle on branch. Reverse: Cape buffalo, National Assembly of Zambia building, Freedom Statue in Lusaka.",
+      "reason": "Issued as a security-updated reprint of the highest-denomination Zambian banknote, symbolizing democratic governance and national wildlife.",
+      "security": "5 mm windowed security thread with demetallized 'BOZ 100'; fish eagle watermark with electrotype '100' and eagle; intaglio printing."
+    },
+    "sources": [
+      "https://www.banknoteworld.com/zambia-100-kwacha-banknote-2022-p-61a-5-unc.html",
+      "https://banknotenews.com/?p=46170"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e482",
@@ -10956,14 +11004,21 @@
     "country": "Australia",
     "issuer": "Reserve Bank of Australia",
     "title": "5 Dollars",
-    "description": "Elizabeth II, prickly Moses wattle and eastern spinebill.",
+    "description": "Obverse features a portrait of Queen Elizabeth II with a sprig of eucalyptus and a top-to-bottom clear polymer window showing a Prickly Moses wattle sprig and an Eastern Spinebill; reverse features the New Parliament House in Canberra with the Michael Nelson Jagamara mosaic forecourt and a schematic plan of the building.",
     "hue": 11.8,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2021-banknotes/fronts/AUS0062o.jpg",
     "slug": "australia-5-dollars-e482",
-    "body": "The 10 Singapore Dollar note celebrates Singapore's economic achievements and cultural identity. Features sophisticated security printing technologies. Widely circulated in Singapore's economy.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The 2021-dated Australian $5 polymer banknote is a date variant of the Next Generation Banknote (NGB) series launched on 1 September 2016 — the fourth polymer $5 note issued by Australia since polymer currency was pioneered by the Reserve Bank of Australia in 1988. The note retains the portrait of Queen Elizabeth II drawn from the same source photograph used since 1992. It was the last generation of $5 notes to carry a royal portrait before the RBA announced in 2023 a new design celebrating First Nations peoples. The Prickly Moses wattle (Acacia verticillata subsp. ovoidea) and the Eastern Spinebill (Acanthorhynchus tenuirostris) were specially selected for the NGB series to represent Australia's flora and fauna.",
+    "highlights": {
+      "design": "Obverse: Portrait of Queen Elizabeth II, eucalyptus sprig, top-to-bottom clear window with Prickly Moses wattle and Eastern Spinebill. Reverse: New Parliament House, Possum and Wallaby Dreaming mosaic forecourt by Michael Nelson Jagamara, Parliament House schematic plan.",
+      "reason": "Issued as the 2021 date variant of the current Next Generation Banknote series, maintaining supply of the lowest-denomination Australian polymer note.",
+      "security": "Top-to-bottom clear polymer window; flapping Eastern Spinebill animation when tilted; colour-shifting Federation Pavilion '5'; shadow image of the Australian coat of arms; tactile embossed dots for the visually impaired; raised intaglio print on portraits and numerals; microprinting."
+    },
+    "sources": [
+      "https://banknotes.rba.gov.au/australias-banknotes/banknotes-in-circulation/five-dollar/",
+      "https://en.wikipedia.org/wiki/Australian_five-dollar_note"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e483",
@@ -10972,14 +11027,21 @@
     "country": "Bangladesh",
     "issuer": "Bangladesh Bank",
     "title": "50 Taka",
-    "description": "Sheikh Mujibur Rahman, National Martyrs' monument (Savar). Golden Jubilee of Independence (1971-2021).",
+    "description": "Obverse features a portrait of Sheikh Mujibur Rahman and the National Martyrs' Monument at Savar with the Golden Jubilee of Independence seal; reverse features a reproduction of artist Zainul Abedin's painting 'Ploughing' and the Bangladesh Bank logo.",
     "hue": 19.8,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2021-banknotes/fronts/BDEW2021-0050-1o.jpg",
     "slug": "bangladesh-50-taka-e483",
-    "body": "The 50 Singapore Dollar note represents mid-range value in Singapore's currency system. Features enhanced security printing and durability. Used for retail and commercial transactions.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The 2021-dated 50 Taka note (P-56Ab) is a standard circulation banknote issued by Bangladesh Bank bearing the signature of Governor Fazle Kabir. It was released alongside a commemorative variant (P-69) to mark the Golden Jubilee of Bangladesh's independence in 2021 — the 50th anniversary of the Liberation War of 1971. Sheikh Mujibur Rahman, the 'Father of the Nation' and Bangladesh's first president, appears on the obverse as on all recent 50 Taka issues. The reverse reproduces a work by Zainul Abedin (1914–1976), widely revered as the founding father of Bangladeshi art.",
+    "highlights": {
+      "design": "Obverse: Portrait of Sheikh Mujibur Rahman, National Martyrs' Monument in Savar, Golden Jubilee of Independence logo. Reverse: Zainul Abedin's painting 'Ploughing', Bangladesh Bank logo.",
+      "reason": "Issued as the 2021 dated standard circulation update of the 50 Taka series, coinciding with Bangladesh's 50th anniversary of independence.",
+      "security": "Windowed security thread with demetallized Bangladesh Bank logo and '50'; watermark portrait of Sheikh Mujibur Rahman on pixelated background; electrotype Bangladesh Bank logo and '50'."
+    },
+    "sources": [
+      "https://www.banknoteworld.com/bangladesh-50-taka-banknote-2021-p-56ab-unc.html",
+      "https://en.numista.com/catalogue/note208208.html"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e484",
@@ -10988,14 +11050,21 @@
     "country": "Bangladesh",
     "issuer": "Bangladesh Bank",
     "title": "50 Taka",
-    "description": "Sheikh Mujibur Rahman, National Martyrs' monument (Savar). Golden Jubilee of Independence (1971-2021).",
+    "description": "Obverse features a portrait of Sheikh Mujibur Rahman, the National Martyrs' Monument at Savar, and the Golden Jubilee of Independence commemorative seal; reverse features freedom fighters of the Liberation Army.",
     "hue": 1.2,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2021-banknotes/fronts/BDEW2021-0050o.jpg",
     "slug": "bangladesh-50-taka-e484",
-    "body": "The 100 Singapore Dollar note serves as a primary higher denomination. Incorporates advanced watermarks and holographic security elements. Reflects Singapore's prominence as a financial center.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The 2021 commemorative 50 Taka note (P-69) was issued by Bangladesh Bank on 28 March 2021 specifically to mark the Golden Jubilee of Bangladesh's independence — the 50th anniversary of the proclamation of independence on 26 March 1971 and the conclusion of the Liberation War. Unlike the parallel standard circulation note (P-56Ab), this commemorative variant carries a distinct reverse design depicting the freedom fighters who fought in the 1971 war. It bears the signature of Governor Fazle Kabir, is legal tender for all internal transactions, and was printed in a limited commemorative format.",
+    "highlights": {
+      "design": "Obverse: Portrait of Sheikh Mujibur Rahman, National Martyrs' Monument in Savar, Golden Jubilee of Independence seal. Reverse: Freedom fighters of the Liberation Army (1971 Liberation War imagery).",
+      "reason": "Issued as a commemorative banknote for the 50th anniversary (Golden Jubilee) of Bangladesh's independence on 26 March 2021.",
+      "security": "Windowed security thread; watermark portrait of Sheikh Mujibur Rahman with electrotype '50'; intaglio printing on portrait."
+    },
+    "sources": [
+      "https://www.banknoteworld.com/bangladesh-50-taka-banknote-2021-p-69-unc-commemorative.html",
+      "https://en.numista.com/catalogue/note283221.html"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e485",

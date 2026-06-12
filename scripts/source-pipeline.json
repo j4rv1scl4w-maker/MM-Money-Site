@@ -1,9 +1,9 @@
 {
   "description": "Pipeline per arricchire le emissions con URL reali. Processa in batch da 10, ogni batch viene committato.",
   "total": 493,
-  "processed": 418,
+  "processed": 428,
   "batch_size": 10,
-  "last_committed_batch": 38,
+  "last_committed_batch": 39,
   "items": [
     {
       "id": "e47",
@@ -5368,7 +5368,7 @@
         "Central Bank of Seychelles (Banque Zentral Sesel)"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -5380,7 +5380,7 @@
         "Central Bank of Sierra Leone (Bank of Sierra Leone)"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -5392,7 +5392,7 @@
         "Central Bank of Sierra Leone (Bank of Sierra Leone)"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -5404,7 +5404,7 @@
         "Central Bank of Sierra Leone (Bank of Sierra Leone)"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -5416,7 +5416,7 @@
         "Central Bank of Sierra Leone (Bank of Sierra Leone)"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -5428,7 +5428,7 @@
         "Central Bank of Sierra Leone (Bank of Sierra Leone)"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -5440,7 +5440,7 @@
         "Monetary Authority of Singapore (MAS)"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -5452,7 +5452,7 @@
         "Monetary Authority of Singapore (MAS)"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -5464,7 +5464,7 @@
         "Monetary Authority of Singapore (MAS)"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -5476,7 +5476,7 @@
         "Monetary Authority of Singapore (MAS)"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
