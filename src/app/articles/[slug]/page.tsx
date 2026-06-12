@@ -1,3 +1,4 @@
+import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
 import { notFound } from 'next/navigation';
@@ -20,12 +21,22 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   };
 }
 
-function escapeHtml(s: string): string {
-  return s
-    .replace(/&/g, '&amp;')
-    .replace(/</g, '&lt;')
-    .replace(/>/g, '&gt;')
-    .replace(/"/g, '&quot;');
+function renderInline(text: string): React.ReactNode[] {
+  const result: React.ReactNode[] = [];
+  const regex = /\*\*(.+?)\*\*|\*(.+?)\*/g;
+  let last = 0;
+  let key = 0;
+  let m: RegExpExecArray | null;
+  while ((m = regex.exec(text)) !== null) {
+    if (m.index > last) result.push(text.slice(last, m.index));
+    result.push(m[1] !== undefined
+      ? <strong key={key++}>{m[1]}</strong>
+      : <em key={key++}>{m[2]}</em>
+    );
+    last = regex.lastIndex;
+  }
+  if (last < text.length) result.push(text.slice(last));
+  return result;
 }
 
 function renderBody(body: string) {
@@ -33,10 +44,7 @@ function renderBody(body: string) {
     if (para.startsWith('## ')) {
       return <h2 key={i} className="serif" style={{ fontWeight: 500, fontSize: 24, lineHeight: 1.3, margin: '32px 0 12px', color: 'var(--ink)' }}>{para.slice(3)}</h2>;
     }
-    const html = escapeHtml(para)
-      .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
-      .replace(/\*(.+?)\*/g, '<em>$1</em>');
-    return <p key={i} style={{ marginBottom: 20 }} dangerouslySetInnerHTML={{ __html: html }} />;
+    return <p key={i} style={{ marginBottom: 20 }}>{renderInline(para)}</p>;
   });
 }
 
