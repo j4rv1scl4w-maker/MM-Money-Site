@@ -9519,14 +9519,21 @@
     "country": "Guyana",
     "issuer": "Bank of Guyana",
     "title": "100 Dollars",
-    "description": "Printer.",
+    "description": "The obverse features the Bank of Guyana logo and a map of Guyana, while the reverse depicts St. George's Cathedral in Georgetown.",
     "hue": 273.7,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2022-banknotes/fronts/GUY0036o.jpg",
     "slug": "guyana-100-dollars-e418",
-    "body": "The 500 Ruble note in blue represents achievement in Russian science and culture. Features sophisticated anti-counterfeiting measures and improved tactile elements. Widely used in commercial transactions.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The Guyana 100 Dollar note (P-36e) is a continuation of the long-running circulation series issued by the Bank of Guyana. Printed by Thomas De La Rue & Company Limited, the blue note signed by Governor Dr. Bobind Ganga and Vice President Bharrat Jagdeo measures 156 x 65 mm. The Cathedral image on the reverse reflects Georgetown's colonial heritage, as St. George's Cathedral is one of the tallest wooden churches in the world. The 2022 date marks a new signature variety of the established design rather than a wholesale redesign.",
+    "highlights": {
+      "design": "Obverse: Bank of Guyana logo and map of Guyana. Reverse: St. George's Cathedral, Georgetown.",
+      "reason": "Routine re-issue of the standard 100 Dollar circulation denomination with updated signatures.",
+      "security": "Windowed security thread with demetallized 'GUYANA' text; watermark of a Red Macaw parrot head with electrotype map and Cornerstones."
+    },
+    "sources": [
+      "https://www.banknoteworld.com/guyana-100-dollars-banknote-2022-p-36e-unc.html",
+      "https://en.numista.com/catalogue/note210080.html"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e419",
@@ -9535,14 +9542,21 @@
     "country": "Guyana",
     "issuer": "Bank of Guyana",
     "title": "5.000 Dollars",
-    "description": "Printer.",
+    "description": "The obverse of the upgraded 5,000 Dollar note features the Bank of Guyana logo, a map, and a gold-to-green color-shifting jaguar motif, while the reverse shows the hoatzin (national bird) in flight over a rainforest river.",
     "hue": 121.3,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2022-banknotes/fronts/GUY0040o.jpg",
     "slug": "guyana-5-000-dollars-e419",
-    "body": "The 1000 Ruble note in violet represents Russian cultural traditions and national pride. Features comprehensive security features including security threads and advanced watermarks. High-value denomination for major transactions.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "On 20 December 2022, the Bank of Guyana introduced an upgraded version of the 5,000 Dollar banknote (B122a) as part of ongoing efforts to enhance security and deter counterfeiting. Printed by Oberthur Fiduciaire, the note retains its overall visual identity but replaces the earlier DualTrack thread and holographic stripe with a new 5 mm wide Pulsar color-shifting security thread and a SPARK Live Truspin feature around the jaguar motif. The hoatzin, Guyana's national bird, continues to dominate the reverse scene set within the country's lush Amazonian interior.",
+    "highlights": {
+      "design": "Obverse: Bank of Guyana logo, map, and gold-to-green SPARK Live Truspin jaguar motif. Reverse: Hoatzin in flight and perched on a branch above a rainforest river.",
+      "reason": "Security upgrade to replace outdated DualTrack thread and holographic stripe with more advanced SPARK and Pulsar technology.",
+      "security": "5 mm wide Pulsar windowed color-shifting security thread (gold to green with dynamic movement); SPARK Live Truspin patch around the jaguar; watermark of Red Macaw parrot head with electrotype 5000."
+    },
+    "sources": [
+      "https://banknotenews.com/?p=38534",
+      "https://newsroom.gy/2022/12/16/bank-of-guyana-announces-upgrade-of-5000-bill/"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e420",
@@ -9720,14 +9734,21 @@
     "country": "Iran",
     "issuer": "Central Bank of the Islamic Republic of Iran",
     "title": "50.000 Rials",
-    "description": "Ayatollah Ruhollah Khomeini.",
+    "description": "The obverse carries a portrait of Ayatollah Ruhollah Khomeini framed in arabesque ornament, while the reverse depicts the Hafezieh, the tomb of the poet Hafez, in Shiraz.",
     "hue": 285.8,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2022-banknotes/fronts/IRNW2021-050000o.jpg",
     "slug": "iran-50-000-rials-e427",
-    "body": "The 10 East Caribbean Dollar note features designs reflecting Saint Kitts & Nevis's maritime heritage and cultural identity. Includes modern security features for the ECCB currency union. Widely used in island economies.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The 50,000 rial note (5,000 toman) is a standard high-denomination circulation banknote of the Islamic Republic of Iran. First introduced in 2007, the design has been refined across multiple printings; the 2022 issue represents the latest incarnation featuring the tomb of 14th-century poet Hafez on the reverse, a celebrated site in Shiraz. As part of Iran's gradual currency redenomination policy, the trailing four zeros of '50,000' are printed in a lighter shade to visually align the note with its toman equivalent of '5 toman,' anticipating eventual redenomination at 10,000 rials to 1 toman.",
+    "highlights": {
+      "design": "Obverse: Portrait of Ayatollah Khomeini in intaglio with geometric and arabesque ornament. Reverse: Hafezieh (tomb of Hafez) in Shiraz.",
+      "reason": "Standard circulation denomination; latest re-issue incorporating redenomination visual cues and updated security elements.",
+      "security": "Intaglio printing; windowed holographic security thread; latent security thread; see-through register; watermark with electrotype; 3D linear design; microprinting."
+    },
+    "sources": [
+      "https://en.wikipedia.org/wiki/50,000_rial_note",
+      "https://platform.keesingtechnologies.com/iran-50000-rial-banknote/"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e428",
@@ -9736,14 +9757,21 @@
     "country": "Iran",
     "issuer": "Central Bank of the Islamic Republic of Iran",
     "title": "1.000.000 Rials",
-    "description": "Purpose.",
+    "description": "The obverse features the Tachara Palace at Persepolis and dual denomination markings in rials and tomans, while the reverse depicts the South Pars gas processing plant with Farsi and English text.",
     "hue": 200,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2022-banknotes/fronts/IRNW0166o.jpg",
     "slug": "iran-1-000-000-rials-e428",
-    "body": "The 20 East Caribbean Dollar note celebrates the natural beauty and economic activities of Saint Kitts & Nevis. Features enhanced security printing and improved accessibility. Part of the ECCB's unified currency circulation.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "Iran placed its 1,000,000 rial cash cheque (equivalent to 100 tomans) into circulation on 12 September 2022, as an emergency measure responding to a severe shortage of high-denomination physical currency during a period of accelerating inflation. Printed by TAKAB, the note carries dual denominations — 1,000,000 rials and 100 tomans — reflecting Iran's multi-year transition from the rial to the toman as the official currency name. The Tachara Palace, a ceremonial hall of Darius the Great at the Achaemenid UNESCO World Heritage site of Persepolis, appears on the obverse, linking modern Iran with its pre-Islamic imperial heritage.",
+    "highlights": {
+      "design": "Obverse: Tachara Palace (Hall of Darius) at Persepolis with dual rial/toman denomination. Reverse: South Pars gas-condensate processing plant with Farsi caption.",
+      "reason": "Emergency high-denomination cash cheque issued to alleviate a physical currency shortage amid elevated inflation during Iran's transition from the rial to the toman.",
+      "security": "2.5 mm gold-to-green windowed security thread with demetallized 'I.R. IRAN'; solid security thread with Farsi script; optically variable magnetic ink (OVMI) on reverse denomination changing gold to green."
+    },
+    "sources": [
+      "https://platform.keesingtechnologies.com/iran-issues-interim-one-million-rial-emergency-cheque/",
+      "https://en.numista.com/catalogue/note208039.html"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e429",
@@ -9752,14 +9780,20 @@
     "country": "Israel",
     "issuer": "Bank of Israel",
     "title": "50 New Shekels",
-    "description": "Citrus tree with fruit, Saul Tchernichovsky.",
+    "description": "The obverse features a portrait of poet Shaul Tchernichovsky with citrus trees and microprinted verse, while the reverse depicts a Corinthian column motif referencing his translations of classical Greek literature.",
     "hue": 103.3,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2022-banknotes/fronts/ISR0066-2013o.jpg",
     "slug": "israel-50-new-shekels-e429",
-    "body": "The 50 East Caribbean Dollar note represents mid-range value in the ECCB currency system. Features sophisticated anti-counterfeiting measures. The denomination is commonly used in wholesale and business transactions.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The 50 New Shekel note is part of the Bank of Israel's Series C banknotes, first introduced in 2014 and reissued with the 2022 date. The note honors Shaul Tchernichovsky (1875–1943), one of the foremost Hebrew poets of the early Zionist era, known for blending Hellenic and Hebrew literary traditions. His poem 'Oh My Land, My Homeland' is reproduced in microtext on the obverse, while the Corinthian column on the reverse alludes to his landmark translations of Homer's Iliad and Odyssey into Hebrew. The green note bears the signature of Bank of Israel Governor Prof. Amir Yaron.",
+    "highlights": {
+      "design": "Obverse: Portrait of Shaul Tchernichovsky with citrus trees and microprinted verse 'Oh My Land, My Homeland.' Reverse: Corinthian column with lines from the poem 'I Believe.'",
+      "reason": "Ongoing circulation issue of the Series C banknote honoring Hebrew poet Shaul Tchernichovsky; 2022 is a new printing date within the same design series.",
+      "security": "Kinegram Volume holographic stripe; gold-to-green color-shifting windowed security thread with demetallized '50' and Tchernichovsky portrait; watermark portrait with electrotype '50'; micro-perforated '50' near top edge; solid security strip windowed into three pieces on reverse."
+    },
+    "sources": [
+      "https://en.numista.com/catalogue/note202912.html"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e430",
@@ -9768,14 +9802,22 @@
     "country": "Jordan",
     "issuer": "Central Bank of Jordan",
     "title": "1 Dinar",
-    "description": "Sherif Hussein Ibn Ali, mountain, plants.",
+    "description": "The obverse shows a portrait of Sharif Hussein Ibn Ali, founder of the Hashemite dynasty and leader of the Great Arab Revolt, while the reverse features the Sinai rosefinch of Petra perched amid stylized floral motifs.",
     "hue": 83.9,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2022-banknotes/fronts/JORW0039o.jpg",
     "slug": "jordan-1-dinar-e430",
-    "body": "The 100 East Caribbean Dollar note serves as the highest denomination for Saint Kitts & Nevis within the ECCB framework. Features comprehensive security elements. Reflects the island nation's economic development and stability.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The 1 Dinar note was the first denomination to enter circulation in Jordan's fifth banknote series, introduced on 30 December 2022 — the first complete redesign of Jordanian currency since 2002. Designed by Jordanian architect and banknote designer Ammar Khammash, each denomination in the series depicts a different Hashemite ruler on the obverse paired with a Jordanian natural or archaeological landmark on the reverse. The note honors Sharif Hussein Ibn Ali (1854–1931), Sharif of Mecca who proclaimed the Great Arab Revolt against Ottoman rule in 1916 and became King of the Hejaz. The reverse celebrates the Sinai rosefinch, Jordan's national bird, found near the rose-red city of Petra and in Wadi Rum.",
+    "highlights": {
+      "design": "Obverse: Portrait of Sharif Hussein Ibn Ali with Arabic text and crown registration device. Reverse: Sinai rosefinch perched on rock with stylized floral motifs.",
+      "reason": "Launch note of Jordan's fifth series — the first full redesign of Jordanian banknotes in approximately two decades — commemorating the dynasty's founding figure.",
+      "security": "Solid security thread; windowed holographic security thread with demetallized numeral '1'; watermark of Sharif Hussein Ibn Ali with electrotype '1' and Arabic text; raised tactile diagonal marks and dot for the visually impaired."
+    },
+    "sources": [
+      "https://platform.keesingtechnologies.com/jordan-launches-new-banknote-series-with-1-dinar-note/",
+      "https://numismag.com/en/2023/01/12/2022-new-jordan-one-dinar-banknote/",
+      "https://en.numista.com/catalogue/note202223.html"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e431",
@@ -9807,14 +9849,20 @@
     "country": "Jordan",
     "issuer": "Central Bank of Jordan",
     "title": "10 Dinars",
-    "description": "King Talal Ibn Abdullah, Qusayr Amra vaults.",
+    "description": "The obverse features a portrait of the late King Talal Ibn Abdullah with Qusayr Amra vault frescoes, while the reverse depicts the Roman Amphitheater of Amman.",
     "hue": 215.5,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2022-banknotes/fronts/JORW0041-2022o.jpg",
     "slug": "jordan-10-dinars-e432",
-    "body": "The 10 East Caribbean Dollar note celebrates Saint Lucia's natural attractions including the iconic Pitons. Features modern security printing and regional coordination with other ECCB territories. Widely circulated in island commerce.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The 10 Dinar note was released as part of Jordan's fifth banknote series in 2022, continuing the sequential introduction of all five denominations redesigned by Ammar Khammash. King Talal Ibn Abdullah (1909–1972) graces the obverse; his brief but significant reign (1951–1952) saw the promulgation of Jordan's landmark 1952 constitution, one of the most liberal in the Arab world. The obverse also references Qusayr Amra, an 8th-century Umayyad desert castle whose bath frescoes are a UNESCO World Heritage treasure. The reverse celebrates the Roman Amphitheater in Amman, a 6,000-seat 2nd-century AD monument that remains central to Jordanian civic life.",
+    "highlights": {
+      "design": "Obverse: Portrait of King Talal Ibn Abdullah with Qusayr Amra vault designs and SPARK color-shifting patch. Reverse: Roman Amphitheater of Amman.",
+      "reason": "Part of Jordan's fifth banknote series — the first redesign since 2002 — honoring King Talal and national cultural heritage sites.",
+      "security": "Solid security thread; windowed MOTION Switch 3D security thread (4.5 mm) with demetallized 'CBJ 10'; SPARK Live Truspin patch changing from green to magenta; watermark of King Talal with electrotype Arabic text; crown registration device."
+    },
+    "sources": [
+      "https://www.cranecurrency.com/news-insights/central-bank-of-jordan-upgrades-new-series-of-banknotes-with-rapid-and-motion-switch/"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e433",
@@ -9823,14 +9871,21 @@
     "country": "Jordan",
     "issuer": "Central Bank of Jordan",
     "title": "20 Dinars",
-    "description": "King Hussein II, King Hussein mosque, Amman.",
+    "description": "The obverse shows a facing portrait of King Hussein Ibn Talal alongside the King Hussein Bin Talal Mosque, while the reverse presents a panoramic landscape of Wadi Mujib.",
     "hue": 188.1,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2022-banknotes/fronts/JORW0042o.jpg",
     "slug": "jordan-20-dinars-e433",
-    "body": "The 20 East Caribbean Dollar note represents Saint Lucia's contribution to the ECCB currency union. Features enhanced security features and durability. Represents the island's economic participation in the Eastern Caribbean region.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The 20 Dinar note, released on 21 March 2023 with a 2022 (AH 1443) date, is the third denomination introduced in Jordan's fifth currency series. King Hussein Ibn Talal (1935–1999), who ruled Jordan for 46 years, is depicted alongside the mosque built by his son and successor King Abdullah II in 2005 in his memory, located in Amman. The reverse features the Wadi Mujib, the biblical Arnon River, a dramatic canyon flowing into the Dead Sea that is home to Jordan's first nature reserve and a UNESCO-recognized biodiversity corridor. The note measures 145 x 74 mm and is printed in green tones.",
+    "highlights": {
+      "design": "Obverse: Facing portrait of King Hussein Ibn Talal with the King Hussein Bin Talal Mosque and an ostrich motif. Reverse: Panoramic canyon landscape of Wadi Mujib with a pair of ancient coins.",
+      "reason": "Part of Jordan's fifth banknote series honoring the long-reigning King Hussein and Jordan's natural heritage.",
+      "security": "Windowed 3D security thread (MOTION Switch) on reverse; SPARK color-shifting patch on obverse changing gold to jade; watermark portrait of King Hussein with hidden '20' visible when held to light; crown registration device."
+    },
+    "sources": [
+      "https://www.coinworld.com/news/paper-money/jordan-releases-20-dinar-note-in-nation-s-fifth-currency-issue",
+      "https://en.numista.com/373084"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e434",
@@ -9839,30 +9894,45 @@
     "country": "Jordan",
     "issuer": "Central Bank of Jordan",
     "title": "50 Dinars",
-    "description": "King Abdullah II bin Al Hussein, Temple Mount compound, Jerusalem.",
+    "description": "The obverse depicts King Abdullah II Ibn Al Hussein with a skyline of Jerusalem featuring the Dome of the Rock, while the reverse shows the dramatic sandstone formations of Wadi Rum.",
     "hue": 330.5,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2022-banknotes/fronts/JORW0043o.jpg",
     "slug": "jordan-50-dinars-e434",
-    "body": "The 50 East Caribbean Dollar note features Saint Lucia's economic achievements and cultural heritage. Incorporates advanced watermark and security thread technology. Used for significant retail and business transactions.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The 50 Dinar note, the highest denomination in Jordan's fifth banknote series, carries particular symbolic weight: as the Hashemite Kingdom's custodian of Islamic and Christian holy sites in Jerusalem, Jordan's inclusion of the Temple Mount compound and the Dome of the Rock on its highest-value note is a direct affirmation of that custodial role. Issued in 2023 with a 2022 date, the note bears the signatures of Finance Minister Ezzedin Kanakrieh and Central Bank Governor Dr. Ziad Fariz. The purple 149 x 74 mm note was printed by De La Rue and completes the full fifth-series rollout.",
+    "highlights": {
+      "design": "Obverse: Portrait of King Abdullah II Ibn Al Hussein with the Dome of the Rock / Temple Mount skyline and color-shifting OVI patch. Reverse: Wadi Rum sandstone rock formations.",
+      "reason": "Highest denomination in Jordan's fifth banknote series; asserts Jordan's Hashemite custodianship of Jerusalem's holy sites.",
+      "security": "SPARK Live Truspin patch changing magenta to green; windowed 3D MOTION Switch security thread (5 mm) with demetallized 'CBJ 50'; watermark of King Abdullah II with electrotype '50' and Arabic text; crown registration device."
+    },
+    "sources": [
+      "https://www.timesofisrael.com/jordan-unveils-new-50-dinar-banknote-featuring-temple-mount-in-jerusalem/",
+      "https://banknotenews.com/?p=38752",
+      "https://en.numista.com/catalogue/note222147.html"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e435",
     "year": 2022,
     "date": "2022",
     "country": "Kazakhstan",
-    "issuer": "Kazakstan Ülttyk Banki",
+    "issuer": "National Bank of Kazakhstan",
     "title": "20.000 Tenge",
-    "description": "Kazakh Eli monument in Astana, Arch of Triumph Eternal Nation (Nur-Sultan/Astana).",
+    "description": "The obverse displays the state symbols of Kazakhstan, the Kazakh Eli monument, the Mangilik El triumphal arch, and a '30' numeral marking the anniversary of independence, while the reverse presents a panoramic view of Astana city and the Akorda Presidential Residence.",
     "hue": 194.1,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2022-banknotes/fronts/KAZW0049o.jpg",
     "slug": "kazakhstan-20-000-tenge-e435",
-    "body": "The 100 East Caribbean Dollar note serves as the highest denomination within the ECCB system for Saint Lucia. Features comprehensive anti-counterfeiting measures. Reflects the island's economic standing and monetary stability.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "On 1 October 2022, the National Bank of Kazakhstan introduced the 20,000 Tenge banknote — the highest denomination in the 'Kazakh Eli' series, complementing existing denominations of 500 to 10,000 Tenge. The note's obverse incorporates a '30' motif honoring Kazakhstan's 30th anniversary of independence (1991–2021) and features the vertical composition characteristic of the series: the Kazakh Eli column monument, the Mangilik El arch, a yurt, doves in flight, and a fragment of the traditional Baskur ornamental ribbon. The reverse is horizontal and dominated by the modern skyline of Astana (formerly Nur-Sultan) with the Akorda Presidential Palace. The Durasafe composite substrate enhances the note's durability.",
+    "highlights": {
+      "design": "Obverse: Kazakh Eli monument, Mangilik El arch, yurt, doves, Baskur ornament, and '30' independence anniversary numeral. Reverse: Panoramic skyline of Astana with the Akorda Presidential Residence.",
+      "reason": "New highest-denomination addition to the 'Kazakh Eli' circulation series, marking Kazakhstan's 30th anniversary of independence.",
+      "security": "25 security elements total; vertical demetallized holographic strip with color-shifting face value; windowed security thread; electrotype '20000' watermark; Durasafe composite paper-polymer substrate."
+    },
+    "sources": [
+      "https://nationalbank.kz/en/news/press-relizy/14112",
+      "https://coinweek.com/kazakhstan-issues-new-20000-tenge-banknote/"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e436",

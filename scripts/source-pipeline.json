@@ -1,9 +1,9 @@
 {
   "description": "Pipeline per arricchire le emissions con URL reali. Processa in batch da 10, ogni batch viene committato.",
   "total": 493,
-  "processed": 378,
+  "processed": 388,
   "batch_size": 10,
-  "last_committed_batch": 34,
+  "last_committed_batch": 35,
   "items": [
     {
       "id": "e47",
@@ -4780,7 +4780,7 @@
         "Central Bank of Russia (Banka Rossii)"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -4792,7 +4792,7 @@
         "Central Bank of Russia (Banka Rossii)"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -4816,7 +4816,7 @@
         "Eastern Caribbean Central Bank (ECCB)"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -4828,7 +4828,7 @@
         "Eastern Caribbean Central Bank (ECCB)"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -4840,7 +4840,7 @@
         "Eastern Caribbean Central Bank (ECCB)"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -4852,7 +4852,7 @@
         "Eastern Caribbean Central Bank (ECCB)"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -4864,7 +4864,7 @@
         "Eastern Caribbean Central Bank (ECCB)"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -4876,7 +4876,7 @@
         "Eastern Caribbean Central Bank (ECCB)"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -4888,7 +4888,7 @@
         "Eastern Caribbean Central Bank (ECCB)"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -4900,7 +4900,7 @@
         "Eastern Caribbean Central Bank (ECCB)"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
