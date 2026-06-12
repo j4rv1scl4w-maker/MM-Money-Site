@@ -1,9 +1,9 @@
 {
   "description": "Pipeline per arricchire le emissions con URL reali. Processa in batch da 10, ogni batch viene committato.",
   "total": 493,
-  "processed": 458,
+  "processed": 493,
   "batch_size": 10,
-  "last_committed_batch": 42,
+  "last_committed_batch": 46,
   "items": [
     {
       "id": "e47",
@@ -5920,7 +5920,7 @@
         "Central Bank of Sri Lanka"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -5932,7 +5932,7 @@
         "Central Bank of Sri Lanka"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -5944,7 +5944,7 @@
         "Central Bank of Sri Lanka"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -5956,7 +5956,7 @@
         "Central Bank of Sri Lanka"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -5968,7 +5968,7 @@
         "Central Bank of Sudan"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -5980,7 +5980,7 @@
         "Central Bank of Sudan"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -5992,7 +5992,7 @@
         "Central Bank of Sudan"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -6004,7 +6004,7 @@
         "Central Bank of Sudan"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -6016,7 +6016,7 @@
         "Central Bank of Suriname"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -6028,7 +6028,7 @@
         "Central Bank of Suriname"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -6040,7 +6040,7 @@
         "Central Bank of Suriname"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -6052,7 +6052,7 @@
         "Central Bank of Suriname"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -6064,7 +6064,7 @@
         "Central Bank of Suriname"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -6076,7 +6076,7 @@
         "Riksbank"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -6088,7 +6088,7 @@
         "Riksbank"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -6100,7 +6100,7 @@
         "Riksbank"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -6112,7 +6112,7 @@
         "Riksbank"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -6124,7 +6124,7 @@
         "Swiss National Bank"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -6136,7 +6136,7 @@
         "Swiss National Bank"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -6148,7 +6148,7 @@
         "Swiss National Bank"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -6160,7 +6160,7 @@
         "Swiss National Bank"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -6172,7 +6172,7 @@
         "Swiss National Bank"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -6184,7 +6184,7 @@
         "Central Bank of Syria"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -6196,7 +6196,7 @@
         "Central Bank of Syria"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -6208,7 +6208,7 @@
         "Central Bank of Syria"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -6220,7 +6220,7 @@
         "Central Bank of Syria"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -6232,7 +6232,7 @@
         "Central Bank of the Republic of China"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -6244,7 +6244,7 @@
         "Central Bank of the Republic of China"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -6256,7 +6256,7 @@
         "Central Bank of the Republic of China"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -6268,7 +6268,7 @@
         "Central Bank of the Republic of China"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -6280,7 +6280,7 @@
         "Central Bank of the Republic of China"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -6292,7 +6292,7 @@
         "National Bank of Tajikistan"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -6304,7 +6304,7 @@
         "National Bank of Tajikistan"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -6316,7 +6316,7 @@
         "National Bank of Tajikistan"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -6328,7 +6328,7 @@
         "National Bank of Tajikistan"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     }
   ]

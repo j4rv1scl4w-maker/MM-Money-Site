@@ -11923,136 +11923,231 @@
   {
     "id": "e522",
     "year": 2021,
-    "date": "2019 & 2021",
+    "date": "2021-07-22",
     "country": "Peru",
-    "issuer": "Banco Central de Reserva del Perú",
+    "issuer": "Banco Central de Reserva del Peru",
     "title": "100 Soles",
-    "description": "Pedro Paulet.",
+    "description": "The 100 Soles banknote issued on 22 July 2021 features Pedro Paulet on the obverse and the Marvelous Spatuletail hummingbird and a native orchid on the reverse.",
     "hue": 207.8,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2021-banknotes/fronts/PERW2019-100o.jpg",
     "slug": "peru-100-soles-e522",
-    "body": "Major denomination supporting large commercial transactions. Part of modernized currency series launched in 2023-2024. Incorporates contemporary design and security elements.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "Part of Peru's newest family of banknotes, the 100 Soles note is dedicated to Pedro Paulet, a multidisciplinary Peruvian inventor and pioneer of astronautics. The reverse side carries a vertical orientation and depicts the endemic Colibrí Cola de Espátula (Marvelous Spatuletail) and Phragmipedium kovachii orchid. The note replaces an earlier design and entered circulation as part of a rolling series update across multiple denominations.",
+    "highlights": {
+      "design": "Obverse: portrait of Pedro Paulet with his watermark; Reverse (vertical): Marvelous Spatuletail hummingbird and Phragmipedium kovachii orchid native to Andean cloud forests",
+      "reason": "Regular series update forming part of Peru's new family of banknotes, replacing the previous 100 Soles design",
+      "security": "SPARK Live color-shifting ink (fuchsia to green), windowed security thread with moving figures and openwork text 100 BCRP, magnetic thread, watermark portrait of Pedro Paulet, tactile marks for the visually impaired"
+    },
+    "sources": [
+      {
+        "url": "https://platform.keesingtechnologies.com/central-bank-of-peru-introduces-a-new-family-of-banknotes/",
+        "label": "Keesing Platform - Central Bank of Peru New Banknotes"
+      },
+      {
+        "url": "https://www.keesingtechnologies.com/blog/keesing-blog/expected-in-documentchecker-perus-new-10-and-100-sol-banknotes/",
+        "label": "Keesing - Peru 10 and 100 Sol Infographic"
+      },
+      {
+        "url": "https://www.robertsworldmoney.com/products/peru-100-soles-2019-2021-b540a-pnl",
+        "label": "Robert's World Money - Peru 100 Soles 2019 (2021)"
+      }
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e523",
     "year": 2021,
-    "date": "2010-2021",
+    "date": "2021",
     "country": "Philippines",
     "issuer": "Bangko Sentral ng Pilipinas",
     "title": "1.000 Piso",
-    "description": "Remark.",
+    "description": "The 2021-dated 1000 Piso banknote is an enhanced paper note from the New Generation Currency series featuring three World War II heroes on the obverse and Tubbataha Reefs on the reverse.",
     "hue": 209.2,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2021-banknotes/fronts/PIL0211o.jpg",
     "slug": "philippines-1-000-piso-e523",
-    "body": "The 1,000 piso note underwent design updates between 2010 and 2021 by the Bangko Sentral ng Pilipinas. The 2010 New Generation series added independence centennial imagery and removed elements in the 2017 revision. The note features three national heroes (Abad Santos, Escoda, and Lim) and the reverse displays the Tubbataha Reefs Natural Park and South Sea pearl, representing Philippine natural heritage.",
+    "body": "The 1000 Piso New Generation Currency note bears portraits of Jose Abad Santos, Vicente Lim, and Josefa Llanes Escoda on the front, honouring Filipino martyrs of World War II. The reverse depicts the Tubbataha Reefs Natural Park UNESCO World Heritage Site and the South Sea Pearl. The 2021 print run incorporates enhanced security elements including color-shifting features and updated tactile marks for the visually impaired, reflecting BSP's ongoing security upgrade program ahead of the transition to polymer for this denomination in 2022.",
     "highlights": {
-      "reason": "Updates security features and design elements reflecting Philippine national symbols and heritage",
-      "design": "Obverse features three national heroes; reverse showcases Tubbataha Reefs and marine resources",
-      "security": "Enhanced security features including updated fonts and refined imagery for counterfeiting prevention"
+      "design": "Obverse: portraits of Jose Abad Santos, Vicente Lim, and Josefa Llanes Escoda; Reverse: Tubbataha Reefs Natural Park and South Sea Pearl",
+      "reason": "Continuing regular circulation issue of the New Generation Currency series with enhanced security features",
+      "security": "Color-shifting rolling bar on denomination numeral, windowed security thread with color-changing indigenous patterns, watermark with electrotype 1000, intaglio printing, ten tactile marks for the visually impaired"
     },
     "sources": [
-      "https://www.bsp.gov.ph/SitePages/CoinsAndNotes/PolymerBanknote.aspx"
+      {
+        "url": "https://www.bsp.gov.ph/SitePages/CoinsAndNotes/NewGenerationCurrencyBanknotes.aspx",
+        "label": "BSP - New Generation Currency Banknotes"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Philippine_one_thousand-peso_note",
+        "label": "Wikipedia - Philippine One Thousand-Peso Note"
+      },
+      {
+        "url": "https://banknotenews.com/?p=30128",
+        "label": "BanknoteNews - Philippines Enhanced Security Notes"
+      }
     ],
     "confidence": "official"
   },
   {
     "id": "e524",
     "year": 2021,
-    "date": "2020 & 2021",
+    "date": "2021",
     "country": "Philippines",
     "issuer": "Bangko Sentral ng Pilipinas",
     "title": "100 Piso",
-    "description": "Signature.",
+    "description": "The 2021-dated 100 Piso banknote is a violet-coloured paper note from the New Generation Currency series featuring Manuel A. Roxas on the obverse and Mayon Volcano with a whale shark on the reverse.",
     "hue": 295.5,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2021-banknotes/fronts/PILW2020-0100o.jpg",
     "slug": "philippines-100-piso-e524",
-    "body": "The 100 piso note was updated in 2020-2021 as part of the NGC Enhanced Issues series by Bangko Sentral ng Pilipinas. The note features Manuel Roxas on the obverse with his 1946 presidential inauguration depicted. The reverse showcases Mayon Volcano in Albay and a whale shark. Updated versions include upgraded windowed security threads with anti-copying and anti-scanning features plus tactile marks.",
+    "body": "The 100 Piso New Generation Currency note features a portrait of President Manuel A. Roxas on the front, with Mayon Volcano and the whale shark (butanding) on the back, celebrating Philippine natural heritage. The 2021 print incorporates enhanced security threads with color-changing indigenous patterns and four tactile marks introduced in the 2020 redesign. The BSP's new corporate logo, redesigned in January 2021, was incorporated into banknotes starting with 2022-signature notes, so the 2021-dated note retains the prior logo.",
     "highlights": {
-      "reason": "Modernizes security features with advanced anti-counterfeiting technology for enhanced protection",
-      "design": "Obverse displays Manuel Roxas and inauguration scene; reverse features Mayon Volcano and whale shark",
-      "security": "Upgraded windowed security thread with anti-copying and anti-scanning features; includes tactile marks for accessibility"
+      "design": "Obverse: portrait of President Manuel A. Roxas; Reverse: Mayon Volcano and whale shark (butanding); dominant color violet",
+      "reason": "Regular circulation issue of the New Generation Currency series; 2021 print run reflects ongoing security enhancements introduced in 2020",
+      "security": "Windowed security thread with color-changing indigenous patterns, watermark with electrotype 100, intaglio printing, four tactile marks on left and right edges, color-shifting ink"
     },
     "sources": [
-      "https://www.bsp.gov.ph"
+      {
+        "url": "https://www.bsp.gov.ph/SitePages/CoinsAndNotes/NewGenerationCurrencyBanknotes.aspx",
+        "label": "BSP - New Generation Currency Banknotes"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Philippine_one_hundred-peso_note",
+        "label": "Wikipedia - Philippine One Hundred-Peso Note"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/New_Generation_Currency_Series",
+        "label": "Wikipedia - New Generation Currency Series"
+      }
     ],
     "confidence": "official"
   },
   {
     "id": "e525",
     "year": 2021,
-    "date": "2020 & 2021",
-    "country": "Philippines",
-    "issuer": "Bangko Sentral ng Pilipinas",
-    "title": "500 Piso",
-    "description": "Remark.",
-    "hue": 45.4,
-    "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2021-banknotes/fronts/PILW2020-0500Fo.jpg",
-    "slug": "philippines-500-piso-e525",
-    "body": "Essential low-denomination note for grassroots commerce. Part of inclusive monetary policy promoting financial access. Practical for retail and service sectors.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
-  },
-  {
-    "id": "e526",
-    "year": 2021,
     "date": "2021",
     "country": "Philippines",
     "issuer": "Bangko Sentral ng Pilipinas",
-    "title": "5.000 Piso",
-    "description": "Lapulapu, Battle of Mactan (1521). 500th Anniversary of the Victory of Mactan (1521-2021).",
-    "hue": 20.2,
-    "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2021-banknotes/fronts/PILW2021-5000o.jpg",
-    "slug": "philippines-5-000-piso-e526",
-    "body": "A commemorative 5,000 piso note launched by Bangko Sentral ng Pilipinas on 18 January 2021 to mark the 500th anniversary of the Battle of Mactan (1521). The obverse depicts Lapulapu and battle imagery with the Karaoka warship; the reverse features the Philippine eagle, coconut tree, and Mount Apo. The note is legal tender but not intended for circulation; sold to collectors at P5,500.",
+    "title": "500 Piso",
+    "description": "The 2021-dated 500 Piso banknote is a yellow paper note from the New Generation Currency series featuring Corazon and Benigno Aquino with the EDSA People Power scene on the obverse and a blue-naped parrot with Puerto Princesa on the reverse.",
+    "hue": 45.4,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2021-banknotes/fronts/PILW2020-0500Fo.jpg",
+    "slug": "philippines-500-piso-e525",
+    "body": "The 500 Piso New Generation Currency note commemorates the 1986 EDSA People Power Revolution, depicting former President Corazon C. Aquino and Senator Benigno Aquino Jr. alongside a crowd scene on the obverse. The reverse features the blue-naped parrot (Tanygnathus lucionensis) and the Puerto Princesa Subterranean River National Park, a UNESCO World Heritage Site. The 2021 printing bears the signatures of President Rodrigo Roa Duterte and BSP Governor Benjamin Diokno and measures 160 x 66 mm.",
     "highlights": {
-      "reason": "Commemorates 500th anniversary of the Battle of Mactan and Lapulapu's victory against colonialism",
-      "design": "Obverse displays young Lapulapu, battle scene, and traditional Karaoka warship; reverse features Philippine eagle and landscape symbolism",
-      "security": "Commemorative banknote with specialized security and production standards"
+      "design": "Obverse: portraits of Corazon and Benigno Aquino with EDSA People Power crowd scene and presidential seal; Reverse: blue-naped parrot and Puerto Princesa Subterranean River National Park; dominant color yellow",
+      "reason": "Regular circulation issue of the New Generation Currency series with updated signatures for the 2021 print run",
+      "security": "SPARK gold-to-green rolling bar denomination feature, 4mm wide windowed security thread with demetalized BSP/500 text, watermark of Corazon and Benigno Aquino with electrotype 500, intaglio printing"
     },
     "sources": [
-      "https://www.nqc.gov.ph/en/lapulapu-now-in-philippine-banknote/"
+      {
+        "url": "https://www.bsp.gov.ph/SitePages/CoinsAndNotes/NewGenerationCurrencyBanknotes.aspx",
+        "label": "BSP - New Generation Currency Banknotes"
+      },
+      {
+        "url": "https://www.banknoteworld.com/philippines-500-piso-banknote-2021-p-227a-2-unc.html",
+        "label": "Banknote World - Philippines 500 Piso 2021"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/New_Generation_Currency_Series",
+        "label": "Wikipedia - New Generation Currency Series"
+      }
     ],
     "confidence": "official"
   },
   {
+    "id": "e526",
+    "year": 2021,
+    "date": "2021-01-17",
+    "country": "Philippines",
+    "issuer": "Bangko Sentral ng Pilipinas",
+    "title": "5.000 Piso",
+    "description": "The 5000 Piso banknote issued on 17 January 2021 is a brown commemorative note honouring the 500th anniversary of Lapu-Lapu's victory at the Battle of Mactan in 1521.",
+    "hue": 20.2,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2021-banknotes/fronts/PILW2021-5000o.jpg",
+    "slug": "philippines-5-000-piso-e526",
+    "body": "Issued on 17 January 2021 to mark the 500th anniversary of the Battle of Mactan, this commemorative brown banknote bears a portrait of the young Lapu-Lapu, a depiction of the battle scene, and a karakoa warship on the obverse, with the Philippine Eagle, coconut tree, and Mt. Apo on the reverse. At 216 x 133 mm, it is the second-largest denomination ever issued by the BSP after the 1998 centennial PHP 100,000 note. It is legal tender but was made available for purchase rather than entering general circulation.",
+    "highlights": {
+      "design": "Obverse: young Lapu-Lapu, Battle of Mactan scene, karakoa outrigger warship, QCP logo; Reverse: Philippine Eagle (manaol), coconut tree, Mt. Apo; color brown",
+      "reason": "Commemorative issue for the 500th anniversary of Lapu-Lapu's victory at the Battle of Mactan (1521-2021), issued jointly with the Quincentennial Commemorations of the Philippines",
+      "security": "Micro prints, fluorescent ink, magnetic ink, optically variable ink, see-through register image, intaglio printing, latent image with concealed numerical value"
+    },
+    "sources": [
+      {
+        "url": "https://platform.keesingtechnologies.com/philippines-releases-new-5000-peso-banknote/",
+        "label": "Keesing Platform - Philippines New 5000 Peso"
+      },
+      {
+        "url": "https://ptvnews.ph/bsp-launches-5000-piso-commemorative-banknote/",
+        "label": "PTV News - BSP Launches 5000-Piso Commemorative Banknote"
+      },
+      {
+        "url": "https://www.pna.gov.ph/articles/1127779",
+        "label": "Philippine News Agency - BSP QCP Launch Lapu-Lapu Banknote"
+      }
+    ],
+    "confidence": "secondary"
+  },
+  {
     "id": "e527",
     "year": 2021,
-    "date": "19.08.1881 / 2021",
+    "date": "2021-12-01",
     "country": "Romania",
-    "issuer": "Banca Națională a României",
+    "issuer": "Banca Nationala a Romaniei",
     "title": "20 Lei",
-    "description": "Boy, Mercury, arms. First Bank Note issued by Banca Națională a României — Replica of Romania P-13(1).",
+    "description": "The 20 Lei banknote introduced on 1 December 2021 is Romania's first legal tender note featuring only a woman — World War I heroine Ecaterina Teodoroiu — printed on a polymer substrate in olive green.",
     "hue": 194.8,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2021-banknotes/fronts/ROMW2021-020commo.jpg",
     "slug": "romania-20-lei-e527",
-    "body": "Significant denomination supporting commercial activity. Enhanced security features address counterfeiting in circulation. Facilitates cross-border transactions and trade.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "Launched on Romania's National Day, 1 December 2021, the 20 Lei note honours Ecaterina Teodoroiu (1894-1917), a nurse-turned-soldier who fell in combat during World War I and became a national heroine. The obverse shows her portrait alongside crocuses and a Romanian Scout Association badge, while the reverse depicts the winged Victory on the Victory Medal and the Mausoleum at Marasesti. Measuring 136 x 77 mm and printed on polymer, the note is a historic first as Romania's only legal tender banknote to feature solely a female figure.",
+    "highlights": {
+      "design": "Obverse: portrait of Ecaterina Teodoroiu, crocus bouquet, Scout badge; Reverse: winged Victory on Victory Medal, Mausoleum at Marasesti, fleur-de-lis; dominant color olive green; polymer substrate",
+      "reason": "New commemorative-style issue entering regular circulation, launched on Romania's National Day to honour the centenary of World War I and celebrate a pioneering female national heroine",
+      "security": "Complex transparent window shaped as the Virtutea Militara (Military Virtue) medal with a gold military trumpet element, color-shifting ink (gold to green), watermark portrait of Ecaterina Teodoroiu with BNR logo, polymer substrate"
+    },
+    "sources": [
+      {
+        "url": "https://currencyaffairs.org/document/20-lei-polymer-banknote/",
+        "label": "IACA - Banca Nationala a Romaniei 20 Lei Polymer Banknote"
+      },
+      {
+        "url": "https://www.polymernotes.com/en/news/romania-new-20-lei-note.html",
+        "label": "PolymerNotes.com - Romania New 20 Lei Note"
+      },
+      {
+        "url": "https://actmedia.eu/financial-and-banking/the-launch-into-circulation-of-the-banknote-with-face-value-of-lei-20/95211",
+        "label": "ActMedia - Launch of Romania 20 Lei Banknote"
+      }
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e528",
     "year": 2021,
-    "date": "2016-2021",
+    "date": "2021",
     "country": "Saudi Arabia",
-    "issuer": "Saudi Arabian Monetary Authority",
+    "issuer": "Saudi Central Bank (SAMA)",
     "title": "100 Riyals",
-    "description": "Prophet's mosque (Medina), King Salman ibn Abdulaziz al-Saud.",
+    "description": "The 2021-dated 100 Riyals banknote is a green note from the sixth series of Saudi currency, distinguished by the issuer name change from Saudi Arabian Monetary Authority to Saudi Central Bank.",
     "hue": 12.3,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2021-banknotes/fronts/SAR0041o.jpg",
     "slug": "saudi-arabia-100-riyals-e528",
-    "body": "The 100 riyal note was issued by Saudi Arabian Monetary Authority as part of the 2016-2017 series, released on 26 December 2016 under King Salman bin Abdulaziz Al Saud's reign. The brick-red and multicolor note features King Salman's portrait and the Green Dome of Medina on the obverse; the reverse depicts the Prophet's Mosque in Medina and the national emblem with crossed swords and palm tree.",
+    "body": "The 100 Riyals note of 2021 belongs to the sixth issue of Saudi Arabian currency, originally launched on 26 December 2016, and is characterized by the updated institutional name Saudi Central Bank replacing the former Saudi Arabian Monetary Authority on the face of the note. The obverse features a portrait of King Salman bin Abdulaziz Al Saud, while the reverse depicts the Green Dome and the Prophet's Mosque in Medina. The note measures 160 x 72 mm in green and continues as a standard circulation denomination alongside other sixth-series notes.",
     "highlights": {
-      "reason": "Celebrates King Salman's leadership and honors Islam's holiest sites in Medina",
-      "design": "Obverse displays King Salman and Green Dome of Prophet's Mosque; reverse features full view of Prophet's Mosque and national emblem",
-      "security": "Part of sixth issue currency series with standard Saudi Central Bank security specifications"
+      "design": "Obverse: portrait of King Salman bin Abdulaziz Al Saud; Reverse: Green Dome and the Prophet's Mosque in Madinah al-Munawwarah; dominant color green",
+      "reason": "Regular circulation re-issue of the sixth series with the updated issuer name Saudi Central Bank, reflecting the institutional rebranding of SAMA in 2020",
+      "security": "Watermark with portrait of King Abdulaziz Al Saud, electrotype 100, national emblem (crossed swords and palm tree), security thread, microprinting, intricate geometric lattices, latent image with denomination shift"
     },
     "sources": [
-      "https://www.sama.gov.sa/en-US/Currency/pages/sixthissue.aspx"
+      {
+        "url": "https://www.sama.gov.sa/en-US/Currency/pages/sixthissue.aspx",
+        "label": "SAMA - Sixth Issue Official Page"
+      },
+      {
+        "url": "https://mriguide.com/saudi-arabia-banknote-of-100-riyals-issued-by-saudi-central-bank/",
+        "label": "MRI Guide - Saudi Arabia 100 Riyals Saudi Central Bank"
+      },
+      {
+        "url": "https://www.banknoteworld.com/saudi-arabia-100-riyals-banknote-2021-ah1442-p-49a-unc-tap-authenticated.html",
+        "label": "Banknote World - Saudi Arabia 100 Riyals 2021"
+      }
     ],
     "confidence": "official"
   },
@@ -12084,118 +12179,221 @@
   {
     "id": "e530",
     "year": 2021,
-    "date": "2019 & 2021",
+    "date": "2021",
     "country": "Sudan",
     "issuer": "Central Bank of Sudan",
     "title": "200 Sudanese Pounds",
-    "description": "Modern building, huts.",
+    "description": "The 2021-dated 200 Sudanese Pounds banknote is a yellow note issued by the Central Bank of Sudan depicting traditional Sudanese housing and community life on both faces.",
     "hue": 32.9,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2021-banknotes/fronts/SUDW2019-200-2o.jpg",
     "slug": "sudan-200-sudanese-pounds-e530",
-    "body": "Essential low-value note for grassroots commerce. Bright colors and clear security features enhance usability. Supports financial inclusion across Sudan.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The 200 Sudanese Pounds note of 2021 is a yellow-coloured banknote themed around housing and population, representing daily life in Sudan. The obverse features a crenelated building, a tukul round house with a conical thatched roof, an arbor, a seated woman, an adobe house, and a table. The reverse shows families in conversation representing cross-cultural bonds, with figures dressed in native attire. Measuring 165 x 74 mm, the note was signed by Central Bank governor Mohamed Elfatih Zein al-Abdein and forms part of Sudan's ongoing currency renewal efforts.",
+    "highlights": {
+      "design": "Obverse: crenelated building, tukul round house, arbor, seated woman, adobe house; Reverse: two families in conversation, figures in native dress; dominant color yellow",
+      "reason": "Regular circulation issue as part of Sudan's currency renewal program, reflecting themes of housing and national cultural diversity",
+      "security": "Windowed security thread with demetalized CBOS text, watermark of secretary bird with electrotype CBOS/200, registration device in the form of a padlock, color-shifting ink, Omron rings, identification mark for the visually impaired"
+    },
+    "sources": [
+      {
+        "url": "https://mriguide.com/sudan-specifications-of-the-new-banknotes-of-100-and-200-sudanese-pounds/",
+        "label": "MRI Guide - Sudan 100 and 200 Sudanese Pounds Specifications"
+      },
+      {
+        "url": "https://www.banknoteworld.com/sudan-200-sudanese-pounds-banknote-2021-p-79a-2-unc.html",
+        "label": "Banknote World - Sudan 200 Sudanese Pounds 2021"
+      },
+      {
+        "url": "https://blog.banknotestreet.com/bank-of-sudan-launches-a-200-pound-banknote-2nd-edition/",
+        "label": "Banknotestreet - Bank of Sudan 200 Pound 2nd Edition"
+      }
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e531",
     "year": 2021,
-    "date": "2015-2021",
+    "date": "2021",
     "country": "Switzerland",
-    "issuer": "Schweizerische Nationalbank",
+    "issuer": "Schweizerische Nationalbank / Banque nationale suisse / Banca nazionale svizzera",
     "title": "20 Franken / Francs / Franchi",
-    "description": "Printer.",
+    "description": "The 2021-dated 20 Franken banknote is a new print run of the award-winning ninth series note themed around light and creativity, first introduced on 17 May 2017.",
     "hue": 5.5,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2021-banknotes/fronts/SUI0076-1o.jpg",
     "slug": "switzerland-20-franken-francs-franchi-e531",
-    "body": "High-value denomination from Suriname's 2024 emission series. Features national symbols and cultural heritage. Supports major transactions in commercial sector.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The 20 Franken ninth series note, designed by Manuela Pfrunder and themed on Switzerland's creativity expressed through light, depicts a hand holding a prism dispersing light into a spectrum on the obverse, with the Piazza Grande screen at the Locarno Film Festival and light-diffracting butterflies on the reverse. The 2021 print run continued regular production of this denomination as the definitive series following the official recall and demonetization of the eighth series (1995-1998) in April-May 2021. The note is printed on an innovative three-layer Durasafe substrate and the series has twice won the IBNS Banknote of the Year award.",
+    "highlights": {
+      "design": "Obverse: hand holding a prism dispersing light, globe with constellations, kaleidoscopic background; Reverse: giant outdoor screen at Locarno Film Festival, light-diffracting butterflies, iris diagram; dominant color yellow-orange",
+      "reason": "Regular circulation reprint of the ninth series note; the 2021 context is also linked to the final retirement of the eighth series, making the ninth series the sole legal tender",
+      "security": "Three-layer Durasafe polymer-paper composite substrate, security strip with night-time light emissions map of Switzerland, microprinting listing celestial distances in light seconds, color-shifting elements, watermark, intaglio printing"
+    },
+    "sources": [
+      {
+        "url": "https://www.snb.ch/en/the-snb/mandates-goals/cash/series-9",
+        "label": "SNB - The Current Banknote Series (9th)"
+      },
+      {
+        "url": "https://www.snb.ch/en/the-snb/mandates-goals/cash/new-banknotes/photos/photos-20-franc-note",
+        "label": "SNB - Images of 20-Franc Notes"
+      },
+      {
+        "url": "https://en.numista.com/catalogue/note201625.html",
+        "label": "Numista - 20 Francs 9th Series Switzerland"
+      }
+    ],
+    "confidence": "official"
   },
   {
     "id": "e532",
     "year": 2021,
-    "date": "2015-2021",
+    "date": "2021",
     "country": "Switzerland",
-    "issuer": "Schweizerische Nationalbank",
+    "issuer": "Schweizerische Nationalbank / Banque nationale suisse / Banca nazionale svizzera",
     "title": "50 Franken / Francs / Franchi",
-    "description": "Printer.",
+    "description": "The 2021-dated 50 Franken banknote is a new print run of the ninth series note themed around wind and the richness of Swiss experiences, first introduced on 12 April 2016.",
     "hue": 67.1,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2021-banknotes/fronts/SUI0077o.jpg",
     "slug": "switzerland-50-franken-francs-franchi-e532",
-    "body": "Major denomination facilitating everyday commerce. Part of modernized currency series emphasizing stability. Advanced security features prevent counterfeiting.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The 50 Franken ninth series note, designed by Manuela Pfrunder and themed on Switzerland's wealth of experiences expressed through wind, features a hand holding a dandelion seed being carried by the wind on the obverse, with the Swiss Alps and a paraglider on the reverse. It was the first denomination of the ninth series to be issued, entering circulation on 12 April 2016, and won the IBNS Banknote of the Year and IACA Best New Banknote awards in 2016. The 2021 print run represents ongoing regular production following the April-May 2021 demonetization of the eighth series banknotes.",
+    "highlights": {
+      "design": "Obverse: hand holding dandelion seed, globe with wind-direction arrows, microtext listing Switzerland's 4000-metre peaks; Reverse: wavy Alpine mountain lines, paraglider over Swiss Alps; dominant color green",
+      "reason": "Regular circulation reprint of the ninth series note; the 2021 context coincides with the final demonetization of the eighth series, consolidating the ninth series as sole legal tender",
+      "security": "Three-layer Durasafe polymer-paper composite substrate, security strip, color-shifting elements, watermark, intaglio printing, microprinting; winner of IBNS Banknote of the Year 2016 and IACA Best New Banknote 2016"
+    },
+    "sources": [
+      {
+        "url": "https://www.snb.ch/en/the-snb/mandates-goals/cash/series-9",
+        "label": "SNB - The Current Banknote Series (9th)"
+      },
+      {
+        "url": "https://www.swissinfo.ch/eng/business/new-money_swiss-national-bank-unveils-latest-chf50-note/42071040",
+        "label": "SWI Swissinfo - Swiss National Bank Unveils CHF50 Note"
+      },
+      {
+        "url": "https://en.numista.com/catalogue/note201625.html",
+        "label": "Numista - 50 Francs 9th Series Switzerland"
+      }
+    ],
+    "confidence": "official"
   },
   {
     "id": "e533",
     "year": 2021,
-    "date": "2009 & 2021",
+    "date": "2021-01-24",
     "country": "Syria",
     "issuer": "Central Bank of Syria",
     "title": "50 Syrian Pounds",
-    "description": "Ugarit alphabet on ancient cuneiform clay tables from Ebla.",
+    "description": "The 2021 50 Syrian Pounds banknote is a regular circulation issue printed by Goznak (Russia) featuring ancient Syrian cultural heritage motifs.",
     "hue": 26.3,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2021-banknotes/fronts/SYR0112o.jpg",
     "slug": "syria-50-syrian-pounds-e533",
-    "body": "Common mid-range note from 2024 series. Reflects Surinamese culture and natural resources. Widely used in retail and service sectors.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The obverse of this note displays cuneiform clay tablets from Ebla and the Ugarit alphabet, celebrating Syria's role as a cradle of early writing. The reverse depicts the Al-Assad National Library in Damascus alongside a statue of former President Hafez al-Assad. The note was introduced into circulation on 24 January 2021 as a reprinting of the existing series design, maintaining continuity with previous issues while updating the date.",
+    "highlights": {
+      "design": "Obverse: cuneiform clay tablets from Ebla and the Ugarit alphabet; reverse: Al-Assad National Library in Damascus and statue of Hafez al-Assad",
+      "reason": "Regular circulation reprinting of existing series with updated date; printed by Goznak (Russian Federation)",
+      "security": "Windowed security thread with demetallized 'CBS 50' and Arabic text; watermark of an Arabian horse head and electrotype '50'"
+    },
+    "sources": [
+      {
+        "url": "https://banknotenews.com/?p=38312",
+        "label": "BanknoteNews - Syria new 50-pound note (B636a) confirmed"
+      },
+      {
+        "url": "https://en.numista.com/catalogue/note207273.html",
+        "label": "Numista - 50 Syrian Pounds 2021"
+      }
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e534",
     "year": 2021,
-    "date": "2009-2021",
+    "date": "2021",
     "country": "Syria",
     "issuer": "Central Bank of Syria",
     "title": "100 Syrian Pounds",
-    "description": "Basalt stone gate and amphitheatre of Bosra.",
+    "description": "The 2021 100 Syrian Pounds banknote is a regular circulation issue featuring archaeological and architectural landmarks of Syria.",
     "hue": 6,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2021-banknotes/fronts/SYR0113o.jpg",
     "slug": "syria-100-syrian-pounds-e534",
-    "body": "The 100 Syrian Pounds note, first issued July 27, 2010 (dated 2009), features Bab el-Hawa, the Western Gate of Bosra built from black basalt stone, along with the historic Bosra Amphitheatre on the obverse. The reverse depicts the dome of the Treasury of Damascus within the Umayyad Mosque and the Central Bank of Syria headquarters. Predominantly vermilion-colored, printed on cotton paper measuring 140 x 65 mm with Arabian horse watermark. This denomination commemorates Syria's ancient architectural and cultural heritage.",
+    "body": "The obverse of the 100 pounds note features the Roman Theater at Bosra, one of Syria's most important ancient Roman sites, alongside the archway of the Bosra gate. The reverse depicts the Umayyad Mosque in Damascus, the Central Bank of Syria headquarters building, and a coin. The 2021-dated note (Islamic calendar 1442 AH) is a continuation of the same design series introduced in 2009, bearing the signatures of Kenan Yaghi and Hazem Younes Karfoul and printed by Goznak.",
     "highlights": {
-      "reason": "Honors Bosra's Greco-Roman architectural legacy as a UNESCO World Heritage site.",
-      "design": "Basalt Western Gate and amphitheatre paired with Damascus Umayyad Mosque treasury.",
-      "security": "Cotton paper substrate with Arabian horse watermark and electrotype security features."
+      "design": "Obverse: Roman Theater and archway at Bosra; reverse: Umayyad Mosque in Damascus and Central Bank building",
+      "reason": "Regular circulation reprinting of established series with updated date (1442 AH / 2021)",
+      "security": "Security thread visible under backlight; watermark of Arabian horse head and electrotype '100'"
     },
-    "sources": [],
-    "confidence": "fallback"
+    "sources": [
+      {
+        "url": "https://en.numista.com/catalogue/note207278.html",
+        "label": "Numista - 100 Syrian Pounds (Fractional serial number)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Syrian_pound",
+        "label": "Wikipedia - Syrian pound"
+      }
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e535",
     "year": 2021,
-    "date": "2009 & 2021",
+    "date": "2021",
     "country": "Syria",
     "issuer": "Central Bank of Syria",
     "title": "200 Syrian Pounds",
-    "description": "Water wheel of Hama.",
+    "description": "The 2021 200 Syrian Pounds banknote is a regular circulation issue showcasing Syrian cultural heritage including the Norias of Hama and the Temple of Bel at Palmyra.",
     "hue": 30.7,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2021-banknotes/fronts/SYR0114o.jpg",
     "slug": "syria-200-syrian-pounds-e535",
-    "body": "Smallest denomination in Surinamese 2024 series. Supports grassroots commerce and small transactions. Designed for accessibility across economic levels.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The obverse of this note features the iconic Norias (waterwheels) of Hama on the Orontes River and the Nur al-Din Mosque, while the reverse displays the ornate ceiling of the Temple of Bel in Palmyra, one of antiquity's most celebrated sanctuaries. The 2021-dated printing continues the design introduced in 2009 and represents a routine reissue rather than a redesign. The note was printed by Goznak in Russia.",
+    "highlights": {
+      "design": "Obverse: Norias of Hama and Nur al-Din Mosque; reverse: ceiling of the Temple of Bel, Palmyra",
+      "reason": "Regular circulation reprinting of established series with updated date (1442 AH / 2021)",
+      "security": "Security thread; watermark of Arabian horse head and denomination; fluorescent elements under UV light"
+    },
+    "sources": [
+      {
+        "url": "https://banknotenews.com/?p=37335",
+        "label": "BanknoteNews - Syria new 200-pound note (B635a) confirmed"
+      },
+      {
+        "url": "https://www.hobbyofking.com/products/200-pounds-banknote-norias-of-hama-nur-al-din-mosque-temple-of-bel-2021",
+        "label": "Hobby of King - Syria 200 Pounds 2021"
+      }
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e536",
     "year": 2021,
-    "date": "2015-2021",
+    "date": "2021",
     "country": "Syria",
     "issuer": "Central Bank of Syria",
     "title": "2.000 Syrian Pounds",
-    "description": "Omayyad mosque, Damascus, president Bashar Hafiz al-Assad.",
+    "description": "The 2021 2,000 Syrian Pounds banknote is a high-denomination regular circulation note featuring the portrait of President Bashar al-Assad and the People's Council building.",
     "hue": 281.1,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2021-banknotes/fronts/SYR0117o.jpg",
     "slug": "syria-2-000-syrian-pounds-e536",
-    "body": "Highest denomination in Swedish Kronor circulation. Features prominent historical figures and Nordic heritage. Part of Sweden's independent currency system outside Eurozone.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The obverse of this large-denomination note bears a portrait of President Bashar Hafiz al-Assad at center-right, along with a view of the People's Council of Syria building in Damascus. The note is printed on paper with a predominantly purple color scheme. It was part of a series that included successive reprintings from 2015 through 2021. The 2,000-pound note was later withdrawn from circulation following the fall of the Assad government in late 2024.",
+    "highlights": {
+      "design": "Obverse: portrait of President Bashar al-Assad and People's Council building in Damascus; reverse: architectural motif",
+      "reason": "Regular high-denomination circulation note, continuation of series originally introduced in 2015 with Assad portrait added in 2017",
+      "security": "Windowed holographic security thread with kinetic 'CBS' lettering; color-shifting optically variable ink on denomination; perforation security thread; watermark"
+    },
+    "sources": [
+      {
+        "url": "https://securamonde.com/news-2/banknotes/syria-new-high-denomination-banknote/",
+        "label": "Secura Monde - Syria new 2000 pound banknote"
+      },
+      {
+        "url": "https://en.numista.com/215563",
+        "label": "Numista - 2000 Syrian Pounds"
+      },
+      {
+        "url": "https://collectible-money.com/product/2000-pounds-syp-unc-banknote/",
+        "label": "Collectible Money - Syrian 2000 Pounds (2015-2021)"
+      }
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e537",
@@ -12225,178 +12423,289 @@
   {
     "id": "e538",
     "year": 2021,
-    "date": "ND (2020-2021)",
+    "date": "2021",
     "country": "Tonga",
     "issuer": "National Reserve Bank of Tonga",
     "title": "50 Pa'anga",
-    "description": "Remark.",
+    "description": "The 2021 50 Pa'anga banknote is a standard circulation note issued by the National Reserve Bank of Tonga, commemorating the coronation of King Tupou VI, printed by De La Rue.",
     "hue": 84.2,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2021-banknotes/fronts/TONW2020-050o.jpg",
     "slug": "tonga-50-pa-anga-e538",
-    "body": "The 50 Pa'anga banknote from the 2020-2021 series represents a signature update by the National Reserve Bank of Tonga. The note features His Majesty King Tupou VI on the obverse with traditional Tongan ornamental motifs and the national coat of arms. This polymer or paper issue reflects Tonga's continued modernization of its currency system, with updated signatures representing the central bank's current leadership during the early 2020s period.",
+    "body": "The obverse features a portrait of King 'Ahoʻeitu Tupou VI against a background of traditional Tongan ornamental motifs, alongside the national coat of arms. The reverse depicts the Royal Palace in Nuku'alofa, the official royal residence, along with a commemorative medallion. The 2021-dated note (P-48Aa.2) is part of the coronation series first introduced in June 2015, with the 2021 date representing an updated printing of the same design. It measures 150 x 70 mm and is printed on polymer by De La Rue.",
     "highlights": {
-      "reason": "Signature refresh reflecting changes in National Reserve Bank leadership.",
-      "design": "Portrait of King Tupou VI with traditional Tongan cultural ornamental motifs.",
-      "security": "Updated banknote series incorporating modern security enhancements from 2020 onwards."
+      "design": "Obverse: portrait of King Tupou VI with national coat of arms and traditional Tongan ornamental motifs; reverse: Royal Palace in Nuku'alofa and commemorative medallion",
+      "reason": "Commemorative circulation note originally issued to mark the coronation of King Tupou VI in July 2015; 2021 is an updated printing of the coronation series",
+      "security": "OPTIKS security thread (18 mm wide on the 50 pa'anga); watermark of King Tupou VI, electrotype 'NRBT', and cornerstones"
     },
     "sources": [
-      "https://www.reservebank.to/"
+      {
+        "url": "https://www.banknoteworld.com/tonga-50-pa-anga-banknote-2021-nd-p-48aa-2-unc.html",
+        "label": "Banknote World - Tonga 50 Pa'anga 2021"
+      },
+      {
+        "url": "https://en.numista.com/catalogue/note211054.html",
+        "label": "Numista - 50 Pa'anga (Coronation) Tonga"
+      },
+      {
+        "url": "http://www.reservebank.to/index.php/currency/currency/banknotes.html",
+        "label": "National Reserve Bank of Tonga - Banknotes & Features"
+      }
     ],
-    "confidence": "official"
+    "confidence": "secondary"
   },
   {
     "id": "e539",
     "year": 2021,
-    "date": "2019 & 2021",
+    "date": "2021-11-09",
     "country": "Ukraine",
-    "issuer": "Natsional'niy Bank Ukraïni",
+    "issuer": "National Bank of Ukraine",
     "title": "200 Hriven'",
-    "description": "Remark.",
+    "description": "The 2021 200 Hryvnia banknote is an updated regular circulation note featuring enhanced security including the SPARK optically variable element and RAPID micro-optic security thread.",
     "hue": 288.2,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2021-banknotes/fronts/UKRW2019-0200o.jpg",
     "slug": "ukraine-200-hriven-e539",
-    "body": "The 200 Hriven banknote issued 2019-2021 by the National Bank of Ukraine features the portrait of Lesia Ukrainka, a significant Ukrainian cultural figure. The reverse depicts the Gate Tower of Lutsk Castle. The banknote underwent signature updates, with the 2021 commemorative version signed by NBU Governor Kyrylo Shevchenko. Measuring 75 x 148 mm, this note combines cultural heritage with modern security features and represents Ukraine's currency modernization program.",
+    "body": "The obverse features a central portrait of poet Lesia Ukrainka, while the reverse depicts the Gate Tower of Lutsk Castle. The 2021 update represents a new-generation redesign that upgraded the security features of the 200-hryvnia denomination, which had not been substantially updated since 2007. Key improvements include the SPARK optically variable device (changing color from purple to golden-green when tilted) and a RAPID windowed security thread. The note measures 75 x 148 mm.",
     "highlights": {
-      "reason": "Signature update reflecting changes in National Bank of Ukraine leadership.",
-      "design": "Lesia Ukrainka portrait paired with Lutsk Castle Gate Tower on reverse.",
-      "security": "Updated signature line and contemporary banknote security features."
+      "design": "Obverse: portrait of Lesia Ukrainka (poet); reverse: Gate Tower of Lutsk Castle",
+      "reason": "New-generation security upgrade of the regular 200 hryvnia circulation banknote, completing the NBU's multi-year modernization of the hryvnia series",
+      "security": "SPARK optically variable element (purple to golden-green); 4 mm RAPID micro-optic windowed security thread with kinetic effect; raised printing; improved UV and IR protection; multi-tone watermark"
     },
     "sources": [
-      "https://bank.gov.ua/en/uah/obig-banknote/200_2021"
+      {
+        "url": "https://bank.gov.ua/en/uah/obig-banknote/200_2021",
+        "label": "National Bank of Ukraine - 200 Hryvnia 2021"
+      },
+      {
+        "url": "https://bank.gov.ua/en/news/all/natsionalniy-bank-zavershuye-onovlennya-banknotno-monetnogo-ryadu-grivni",
+        "label": "NBU - Finishing Upgrade of Hryvnia Denominations"
+      },
+      {
+        "url": "https://www.cranecurrency.com/news-insights/ukraine-issues-updated-200-hryvnia-banknote-with-rapid/",
+        "label": "Crane Currency - Ukraine Issues Updated 200 Hryvnia with RAPID"
+      }
     ],
     "confidence": "official"
   },
   {
     "id": "e540",
     "year": 2021,
-    "date": "2021",
+    "date": "2021-11-19",
     "country": "Ukraine",
-    "issuer": "Natsional'niy Bank Ukraïni",
+    "issuer": "National Bank of Ukraine",
     "title": "20 Hriven'",
-    "description": "Ivan Franko. 30th Anniversary of Independence (1991-2021).",
+    "description": "The 2021 20 Hryvnia banknote is a commemorative circulation note issued to mark the 30th anniversary of Ukrainian independence (1991-2021).",
     "hue": 113.9,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2021-banknotes/fronts/UKRW2021-0020o.jpg",
     "slug": "ukraine-20-hriven-e540",
-    "body": "The 20 Hriven commemorative banknote, issued August 2021 by the National Bank of Ukraine, celebrates the 30th anniversary of Ukraine's independence (1991-2021). The note features Ivan Franko, the renowned Ukrainian writer, poet, and national symbol, on the obverse. The reverse depicts the Lviv Opera House. Measuring 130 x 69 mm in green, blue, and pink colors, this issue honors Franko's contributions to Ukrainian national identity and culture.",
+    "body": "The obverse features a portrait of writer Ivan Franko, while the reverse depicts the Lviv Opera and Ballet Theatre. Maintaining the same design as the standard 20-hryvnia notes (from 2003 and 2018 series), this commemorative version adds the official '30th anniversary of Ukraine's independence' logotype screen-printed in optically variable magnetic ink (OVMI) on the watermark area. Only 30,000 pieces were issued. The note measures 69 x 130 mm and was signed by NBU Governor Kyrylo Shevchenko.",
     "highlights": {
-      "reason": "Commemorates Ukraine's 30th independence anniversary, celebrating national identity.",
-      "design": "Ivan Franko portrait with Lviv Opera House on reverse; anniversary logo featured.",
-      "security": "Solid security thread with demetalized elements and Ivan Franko watermark with electrotype."
+      "design": "Obverse: portrait of Ivan Franko (writer); reverse: Lviv Opera and Ballet Theatre; commemorative '30th anniversary of Ukraine's independence' overprint in OVMI",
+      "reason": "Commemorative issue for the 30th anniversary of Ukraine's restored independence (1991-2021), limited to 30,000 pieces",
+      "security": "Existing 2018-series security features plus '30th anniversary' logotype in optically variable magnetic ink (OVMI) on watermark"
     },
     "sources": [
-      "https://bank.gov.ua/en/uah/obig-banknote/20_2021_independence30"
+      {
+        "url": "https://bank.gov.ua/en/uah/obig-banknote/20_2021_independence30",
+        "label": "National Bank of Ukraine - 20 Hryvnia 2021 (30th Anniversary)"
+      },
+      {
+        "url": "https://www.banknoteworld.com/ukraine-20-hryven-banknote-2021-p-129-unc-commemorative-30th-anniversary-of-independence-1991-2021-.html",
+        "label": "Banknote World - Ukraine 20 Hryven 2021 Commemorative"
+      }
     ],
     "confidence": "official"
   },
   {
     "id": "e541",
     "year": 2021,
-    "date": "2021",
+    "date": "2021-12-22",
     "country": "Ukraine",
-    "issuer": "Natsional'niy Bank Ukraïni",
+    "issuer": "National Bank of Ukraine",
     "title": "50 Hriven'",
-    "description": "Mikhailo Hrushevskiy. 30th Anniversary of Independence (1991-2021).",
+    "description": "The 2021 50 Hryvnia banknote is a new-generation regular circulation note featuring enhanced security and the portrait of Ukrainian People's Republic founder Mykhailo Hrushevsky.",
     "hue": 245.6,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2021-banknotes/fronts/UKRW2021-0050o.jpg",
     "slug": "ukraine-50-hriven-e541",
-    "body": "Prestigious high-denomination note in Swiss Francs. Features cultural and historical icons of Switzerland. World-renowned for advanced security technology and design.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The obverse displays a portrait of Mykhailo Hrushevsky, first president of the Ukrainian People's Republic, and the reverse depicts the Ukrainian Central Rada (House of the Teacher) building in Kyiv. The 2021 issue is an updated new-generation banknote, replacing the 2004 series design with improved security features. Printed on tinted magenta security paper, it retains the dominant color and main imagery of the previous issue while adding pronounced embossed tactile elements and advanced security features. The note measures 72 x 136 mm.",
+    "highlights": {
+      "design": "Obverse: portrait of Mykhailo Hrushevsky; reverse: Ukrainian Central Rada (House of the Teacher) building in Kyiv",
+      "reason": "New-generation security and design upgrade of regular circulation 50 hryvnia banknote, replacing the 2004 series",
+      "security": "Multi-tone local watermark (repeated Hrushevsky portrait); light watermark element with denomination; demetallized security thread with '50 ГРН' and trident; security fibers; pronounced embossed elements for visually impaired; improved UV and IR protection"
+    },
+    "sources": [
+      {
+        "url": "https://bank.gov.ua/en/uah/obig-banknote/50_2021",
+        "label": "National Bank of Ukraine - 50 Hryvnia 2021"
+      },
+      {
+        "url": "https://bank.gov.ua/en/news/all/v-ukrayini-zyavilisya-novi-groshi--obigova-moneta-5-griven-ta-onovlena-banknota-50-griven",
+        "label": "NBU - New 50 Hryvnia Banknote"
+      },
+      {
+        "url": "https://www.banknoteworld.com/ukraine-50-hryven-banknote-2021-p-b126a-2-unc.html",
+        "label": "Banknote World - Ukraine 50 Hryven 2021"
+      }
+    ],
+    "confidence": "official"
   },
   {
     "id": "e542",
     "year": 2021,
-    "date": "2021",
+    "date": "2021-08-20",
     "country": "Ukraine",
-    "issuer": "Natsional'niy Bank Ukraïni",
+    "issuer": "National Bank of Ukraine",
     "title": "100 Hriven'",
-    "description": "Taras Grigoryevich Shevchenko. 30th Anniversary of Independence (1991-2021).",
+    "description": "The 2021 100 Hryvnia banknote is a commemorative circulation note issued to mark the 30th anniversary of Ukrainian independence, featuring poet Taras Shevchenko.",
     "hue": 38.7,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2021-banknotes/fronts/UKRW2021-0100o.jpg",
     "slug": "ukraine-100-hriven-e542",
-    "body": "The 100 Hriven commemorative banknote, issued August 20, 2021 by the National Bank of Ukraine, celebrates the 30th independence anniversary. Based on the 2014 design, it features a portrait of Taras Shevchenko, Ukraine's greatest poet and cultural icon, with a 30th anniversary logo placed on the obverse. Limited to 30,000 pieces and measuring 75 x 142 mm, this issue honors Shevchenko's profound influence on Ukrainian national consciousness and literary heritage.",
+    "body": "The obverse bears a portrait of national poet Taras Shevchenko, while the reverse depicts Taras Shevchenko National University of Kyiv. The design follows the standard 2014-series 100 hryvnia note but adds the '30 years of Independence of Ukraine' festive logo on the obverse, applied by screen printing with color-changing optically variable ink. The commemorative note also features the RAPID micro-optic security thread from Crane Currency. Only 30,000 pieces were issued. The note measures 75 x 142 mm.",
     "highlights": {
-      "reason": "Commemorates Ukraine's 30th independence anniversary with limited edition of 30,000.",
-      "design": "Taras Shevchenko portrait with 30th anniversary commemorative logo.",
-      "security": "Enhanced security features incorporated into 2014 base design."
+      "design": "Obverse: portrait of Taras Shevchenko with '30 years of Independence' commemorative logo; reverse: Taras Shevchenko National University of Kyiv",
+      "reason": "Commemorative issue for the 30th anniversary of Ukraine's restored independence (1991-2021), limited to 30,000 pieces",
+      "security": "4 mm RAPID micro-optic windowed security thread (kinetic effect); '30 years of Independence' logo in optically variable ink (color-shifting); existing 2014-series security features including watermark and security thread"
     },
-    "sources": [],
-    "confidence": "secondary"
+    "sources": [
+      {
+        "url": "https://bank.gov.ua/en/uah/obig-banknote/100_2014_2021",
+        "label": "National Bank of Ukraine - 100 Hryvnia 2021"
+      },
+      {
+        "url": "https://platform.keesingtechnologies.com/ukraine-launches-new-100-and-500-hryvnia-banknotes/",
+        "label": "Keesing Platform - Ukraine Launches New 100 and 500 Hryvnia Banknotes"
+      }
+    ],
+    "confidence": "official"
   },
   {
     "id": "e543",
     "year": 2021,
-    "date": "2021",
+    "date": "2021-11-19",
     "country": "Ukraine",
-    "issuer": "Natsional'niy Bank Ukraïni",
+    "issuer": "National Bank of Ukraine",
     "title": "200 Hriven'",
-    "description": "Larysa Petrivna Kosatch-Kvitka (Lesia Ukrainka). 30th Anniversary of Independence (1991-2021).",
+    "description": "The 2021 200 Hryvnia commemorative banknote was issued to mark the 30th anniversary of Ukrainian independence (1991-2021), featuring poet Lesia Ukrainka.",
     "hue": 300.7,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2021-banknotes/fronts/UKRW2021-0200o.jpg",
     "slug": "ukraine-200-hriven-e543",
-    "body": "Standard high-value note in Swiss currency circulation. Features renowned figures contributing to Swiss culture and science. Facilitates significant commercial transactions.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The obverse features a portrait of poet Lesia Ukrainka with the '30th anniversary of Ukraine's independence' logotype printed in optically variable magnetic ink (OVMI) on the watermark area, while the reverse depicts the Gate Tower of Lutsk Castle with the patriotic inscription 'СЛАВА УКРАЇНІ! ГЕРОЯМ СЛАВА!' (Glory to Ukraine! Glory to the Heroes!) in blue ink. The note incorporates the full security suite of the 2019-series 200 hryvnia, including the RAPID security thread and SPARK optically variable element. Signed by NBU Governor Kyrylo Shevchenko, only 30,000 pieces were issued. The note measures 75 x 148 mm.",
+    "highlights": {
+      "design": "Obverse: portrait of Lesia Ukrainka with '30th anniversary of Ukraine's independence' commemorative logo in OVMI; reverse: Gate Tower of Lutsk Castle with patriotic slogan",
+      "reason": "Commemorative issue for the 30th anniversary of Ukraine's restored independence (1991-2021), limited to 30,000 pieces",
+      "security": "4 mm RAPID micro-optic windowed security thread; SPARK optically variable device (purple to golden-green); '30th anniversary' logotype in OVMI; watermark; security fibers"
+    },
+    "sources": [
+      {
+        "url": "https://bank.gov.ua/en/uah/obig-banknote/200_2021_independence30",
+        "label": "National Bank of Ukraine - 200 Hryvnia 2021 (30th Anniversary)"
+      },
+      {
+        "url": "https://banknotenews.com/?p=49756",
+        "label": "BanknoteNews - Ukraine new 200-hryvnia commemorative note (B869a) confirmed"
+      },
+      {
+        "url": "https://www.cranecurrency.com/news-insights/ukraine-issues-updated-200-hryvnia-banknote-with-rapid/",
+        "label": "Crane Currency - Ukraine 200 Hryvnia with RAPID"
+      }
+    ],
+    "confidence": "official"
   },
   {
     "id": "e544",
     "year": 2021,
-    "date": "2021",
+    "date": "2021-03-23",
     "country": "Ukraine",
-    "issuer": "Natsional'niy Bank Ukraïni",
+    "issuer": "National Bank of Ukraine (Natsionalnyi bank Ukrainy)",
     "title": "500 Hriven'",
-    "description": "Grigoriy Skovoroda. 30th Anniversary of Independence (1991-2021).",
+    "description": "The 2021 series 500 hryvnia note is a regular circulation update featuring Ukrainian philosopher Hryhorii Skovoroda on the obverse and the Kyiv Mohyla Academy building on the reverse.",
     "hue": 34.3,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2021-banknotes/fronts/UKRW2021-0500o.jpg",
     "slug": "ukraine-500-hriven-e544",
-    "body": "The 500 Hriven commemorative banknote, issued August 20, 2021 by the National Bank of Ukraine, commemorates Ukraine's 30th independence anniversary. It features Grigoriy Skovoroda (1722-1794), the Ukrainian philosopher, poet, and enlightener known as 'The Ukrainian Socrates,' on the obverse. The reverse depicts the Kievo-Mogilyansk Academy. Measuring 75 x 154 mm and signed by NBU Governor Kyrylo Shevchenko, this note honors Skovoroda's spiritual and intellectual legacy.",
+    "body": "The 500 hryvnia banknote printed in 2021 entered circulation on 23 March 2021 as part of the National Bank of Ukraine's ongoing modernisation of its banknote series. It retains the established design honouring Hryhorii Skovoroda (1722-1794), an outstanding Ukrainian philosopher, poet, and pedagogue, alongside the Kyiv Mohyla Academy — the first institution of higher education in Ukraine, founded in 1632. The note measures 75 x 154 mm and is printed on beige-tinted special paper with embedded security elements.",
     "highlights": {
-      "reason": "Commemorates Ukraine's 30th independence anniversary with limited commemorative issue.",
-      "design": "Grigoriy Skovoroda portrait with Kievo-Mogilyansk Academy on reverse.",
-      "security": "Signed by NBU Governor; contemporary security features for 2021 issue."
+      "design": "Obverse: portrait of Hryhorii Skovoroda; Reverse: building of the Kyiv Mohyla Academy in Kyiv",
+      "reason": "Regular circulation series update as part of NBU's rolling modernisation of hryvnia denominations",
+      "security": "SPARK optically variable element (open book motif, shifts green to blue when tilted); multi-tone local watermark with Skovoroda portrait; light watermark with denomination numerals; fully embedded coded polymer security thread; security fibers in paper"
     },
     "sources": [
-      "https://bank.gov.ua/en/news/all/do-300-richchya-vid-dnya-narodjennya-grigoriya-skovorodi-v-obigu-zyavitsya-nova-pamyatna-banknota"
+      {
+        "url": "https://bank.gov.ua/en/uah/obig-banknote/500_2021",
+        "label": "National Bank of Ukraine - 500 hryvnia banknote"
+      },
+      {
+        "url": "https://bank.gov.ua/en/news/all/natsionalniy-bank-zavershuye-onovlennya-banknotno-monetnogo-ryadu-grivni",
+        "label": "NBU - Finishes Upgrading Hryvnia Series"
+      },
+      {
+        "url": "https://platform.keesingtechnologies.com/ukraine-launches-new-100-and-500-hryvnia-banknotes/",
+        "label": "Keesing Platform - Ukraine 500 hryvnia"
+      }
     ],
     "confidence": "official"
   },
   {
     "id": "e545",
     "year": 2021,
-    "date": "2021",
+    "date": "2021-12-07",
     "country": "Ukraine",
-    "issuer": "Natsional'niy Bank Ukraïni",
+    "issuer": "National Bank of Ukraine (Natsionalnyi bank Ukrainy)",
     "title": "1.000 Hriven'",
-    "description": "Volodymyr Vernadskiy. 30th Anniversary of Independence (1991-2021).",
+    "description": "The 2021 print-date 1,000 hryvnia note is a regular circulation reissue of the 2019 design honouring scientist Volodymyr Vernadsky, placed into circulation on 7 December 2021.",
     "hue": 170,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2021-banknotes/fronts/UKRW2021-1000o.jpg",
     "slug": "ukraine-1-000-hriven-e545",
-    "body": "Essential denomination for practical transactions. Compact design facilitates daily use. Part of Switzerland's stable and internationally respected currency system.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The 1,000 hryvnia denomination was first introduced on 25 October 2019 as the highest-value hryvnia note. The 2021 print-date version entered circulation on 7 December 2021 and carries the same design: a portrait of Volodymyr Vernadsky (1863-1945), founder and first president of the Ukrainian Academy of Sciences, on the obverse, and the Presidium of the National Academy of Sciences of Ukraine on the reverse. The note measures 75 x 160 mm and is printed on light-blue tinted paper with more than 20 security features.",
+    "highlights": {
+      "design": "Obverse: portrait of Volodymyr Vernadsky; Reverse: Presidium building of the National Academy of Sciences of Ukraine",
+      "reason": "Regular circulation reprint of the 2019 series design to meet demand",
+      "security": "SPARK optically variable element (crystalline-floral composition, shifts gold to jade green); window security thread (purple polymer strip, partly woven, with dynamic light effect and denomination digits); multi-tone watermark with Vernadsky portrait; light watermark with denomination figures; security fibers"
+    },
+    "sources": [
+      {
+        "url": "https://bank.gov.ua/en/news/all/banknota-nominalom-1-000-griven-uvedena-v-obig",
+        "label": "NBU - 1000-Hryvnia Banknote in Circulation"
+      },
+      {
+        "url": "https://bank.gov.ua/en/uah/obig-banknote/1000_2019_2021",
+        "label": "National Bank of Ukraine - 1000 hryvnia (2019/2021)"
+      },
+      {
+        "url": "https://bank.gov.ua/banknote/1000uah/en.html",
+        "label": "NBU - The new 1000 hryvnia banknote"
+      }
+    ],
+    "confidence": "official"
   },
   {
     "id": "e546",
     "year": 2021,
-    "date": "2019 & 2021",
+    "date": "2021-12-22",
     "country": "Ukraine",
-    "issuer": "Natsional'niy Bank Ukraïni",
+    "issuer": "National Bank of Ukraine (Natsionalnyi bank Ukrainy)",
     "title": "50 Hriven'",
-    "description": "Remark.",
+    "description": "The 2021 50 hryvnia note is a commemorative circulation banknote issued to mark the 30th anniversary of Ukrainian independence, featuring Mykhailo Hrushevsky on the obverse and the Ukrainian Central Rada building on the reverse.",
     "hue": 272,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2021-banknotes/fronts/UKRW2019-0050o.jpg",
     "slug": "ukraine-50-hriven-e546",
-    "body": "The 50 Hriven banknote underwent signature updates between 2019 and 2021 by the National Bank of Ukraine. Originally completed in December 2019, the note features historian Mykhailo Hrushevskyi on the obverse with enhanced security features. The 2021 commemorative version, signed by NBU Governor Kyrylo Shevchenko and issued December 22, 2021, celebrates Ukraine's 30th independence anniversary. Measuring 136 x 72 mm in violet, brown, purple, blue, and red colors.",
+    "body": "The 50 hryvnia banknote with a 2021 print date entered circulation on 22 December 2021 and commemorates Ukraine's 30th anniversary of independence (1991-2021). It features Mykhailo Hrushevsky (1866-1934) — historian, founder and first president of the Ukrainian People's Republic — on the obverse, and the Central Rada building in Kyiv on the reverse. The note measures 72 x 136 mm and is printed on magenta-tinted special paper; the front carries a screen-printed logotype '30th anniversary of Ukraine's independence' in OVMI.",
     "highlights": {
-      "reason": "Signature update reflecting NBU leadership changes and independence commemoration.",
-      "design": "Mykhailo Hrushevskyi with national coat of arms and equestrian imagery.",
-      "security": "Enhanced security features introduced in 2019 design, updated signature for 2021."
+      "design": "Obverse: portrait of Mykhailo Hrushevsky with '30th anniversary of Ukraine's independence' OVMI logotype; Reverse: building of the Ukrainian Central Rada, Kyiv",
+      "reason": "Commemorative circulation banknote marking the 30th anniversary of Ukrainian independence (1991-2021)",
+      "security": "OVMI screen-printed anniversary logotype; multi-tone local watermark; light watermark with denomination numerals; security thread; security fibers in magenta-tinted special paper"
     },
     "sources": [
-      "https://bank.gov.ua/en/uah/obig-banknote/50_2021"
+      {
+        "url": "https://bank.gov.ua/en/uah/obig-banknote/50_2021",
+        "label": "National Bank of Ukraine - 50 hryvnia banknote (2021)"
+      },
+      {
+        "url": "https://bank.gov.ua/en/news/all/v-ukrayini-zyavilisya-novi-groshi--obigova-moneta-5-griven-ta-onovlena-banknota-50-griven",
+        "label": "NBU - New 50-Hryvnia Banknote"
+      },
+      {
+        "url": "https://www.banknoteworld.com/ukraine-50-hryven-banknote-2021-p-130-unc-commemorative-30th-anniversary-of-independence-1991-2021-.html",
+        "label": "Banknote World - Ukraine 50 Hryven 2021 Commemorative"
+      }
     ],
     "confidence": "official"
   },
@@ -12427,242 +12736,398 @@
   {
     "id": "e548",
     "year": 2021,
-    "date": "2021",
+    "date": "2023",
     "country": "United States Of America",
-    "issuer": "Federal Reserve System",
+    "issuer": "Federal Reserve System (issued by the Federal Reserve Banks; printed by the Bureau of Engraving and Printing, U.S. Department of the Treasury)",
     "title": "1 Dollar",
-    "description": "Signature.",
+    "description": "The Series 2021 $1 Federal Reserve Note is a regular circulation note bearing the signatures of Treasury Secretary Janet Yellen and Treasurer Lynn Malerba, the first series signed by two women.",
     "hue": 66.8,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2021-banknotes/fronts/USAW0549o.jpg",
     "slug": "united-states-of-america-1-dollar-e548",
-    "body": "The Series 2021 $1 bill, issued by the Federal Reserve System beginning December 2022, represents a historic signature update. It bears the facsimile signatures of Treasury Secretary Janet Yellen—the first woman to hold this office—and U.S. Treasurer Lynn Malerba, the first Native American to serve as Treasurer. The note features George Washington's portrait on the obverse and the Great Seal on the reverse, continuing traditional $1 design elements while marking a generational shift in U.S. currency signatories.",
+    "body": "Series 2021 $1 Federal Reserve Notes began production at the Bureau of Engraving and Printing in late 2022 and entered circulation in 2023. The design is unchanged from the 1963 introduction: George Washington on the obverse and the Great Seal of the United States on the reverse. The series designation changed from 2017A to 2021 solely due to the new signature combination of Janet Yellen (Treasury Secretary) and Lynn Malerba (Treasurer of the United States) — the first time two women's signatures have appeared on U.S. currency. The $1 note does not carry the advanced security features present on higher denominations.",
     "highlights": {
-      "reason": "First U.S. currency series signed by two women, marking historic representation.",
-      "design": "George Washington obverse with Great Seal reverse; traditional established design.",
-      "security": "Contemporary Federal Reserve security features and production standards."
+      "design": "Obverse: portrait of George Washington, Federal Reserve district seal, Treasury seal; Reverse: Great Seal of the United States — unfinished pyramid with Eye of Providence (left) and bald eagle with olive branch and arrows (right)",
+      "reason": "Regular circulation series update triggered by new Treasury Secretary and Treasurer signature combination (Yellen-Malerba)",
+      "security": "No embedded security thread or watermark on the $1 note; printed on 75% cotton / 25% linen paper with fine-line printing and serial numbers in green ink"
     },
     "sources": [
-      "https://www.uscurrency.gov/denominations/1"
+      {
+        "url": "https://home.treasury.gov/news/featured-stories/secretary-janet-l-yellen-provides-official-signature-for-2021-united-states-paper-currency",
+        "label": "U.S. Treasury - Secretary Yellen Signature for 2021 Currency"
+      },
+      {
+        "url": "https://www.uscurrency.gov/denominations/1",
+        "label": "U.S. Currency Education Program - $1 Note"
+      },
+      {
+        "url": "https://www.coinworld.com/news/paper-money/series-2021-dollar-notes-now-being-found-in-circulation",
+        "label": "Coin World - Series 2021 notes in circulation"
+      }
     ],
     "confidence": "official"
   },
   {
     "id": "e549",
     "year": 2021,
-    "date": "2021",
+    "date": "2022-12",
     "country": "United States Of America",
-    "issuer": "Federal Reserve System",
+    "issuer": "Federal Reserve System (issued by the Federal Reserve Banks; printed by the Bureau of Engraving and Printing, U.S. Department of the Treasury)",
     "title": "5 Dollars",
-    "description": "Signature.",
+    "description": "The Series 2021 $5 Federal Reserve Note is a regular circulation note bearing the Yellen-Malerba signatures, featuring Abraham Lincoln on the obverse and the Lincoln Memorial on the reverse.",
     "hue": 33.3,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2021-banknotes/fronts/USAW0551o.jpg",
     "slug": "united-states-of-america-5-dollars-e549",
-    "body": "The Series 2021 $5 bill, issued by the Federal Reserve System beginning December 2022, features signatures of Treasury Secretary Janet Yellen and U.S. Treasurer Lynn Malerba—the first female dual-signature combination on U.S. currency. Yellen is the first woman Treasury Secretary; Malerba is the first Native American Treasurer. The note features Abraham Lincoln's portrait on the obverse and the Lincoln Memorial on the reverse, maintaining traditional design while marking a significant milestone in U.S. currency representation.",
+    "body": "Series 2021 $5 Federal Reserve Notes were among the first denominations to enter production in December 2022 (25.6 million notes for the Boston Federal Reserve Bank and 57.6 million for San Francisco). The design retains Abraham Lincoln on the obverse and the Lincoln Memorial on the reverse, unchanged from the 2008 redesign. The series change reflects solely the new Yellen-Malerba signature combination. The $5 note includes enhanced security features introduced with the Series 2006 redesign.",
     "highlights": {
-      "reason": "First U.S. currency with dual-female signature combination, historic representation.",
-      "design": "Abraham Lincoln obverse and Lincoln Memorial reverse; traditional established design.",
-      "security": "Contemporary Federal Reserve security features and production standards."
+      "design": "Obverse: portrait of Abraham Lincoln; Reverse: Lincoln Memorial, Washington D.C.",
+      "reason": "Regular circulation series update reflecting new Yellen-Malerba signature combination",
+      "security": "Two watermarks (large numeral '5' to the right of portrait; column of three small '5's to the left); embedded security thread to the right of portrait reading 'USA FIVE' — glows blue under UV light; microprinting; 75% cotton / 25% linen paper"
     },
     "sources": [
-      "https://www.uscurrency.gov/denominations/5"
+      {
+        "url": "https://home.treasury.gov/news/featured-stories/secretary-janet-l-yellen-provides-official-signature-for-2021-united-states-paper-currency",
+        "label": "U.S. Treasury - Secretary Yellen Signature for 2021 Currency"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20080313a.htm",
+        "label": "Federal Reserve Board - New $5 Bill Enters Circulation"
+      },
+      {
+        "url": "https://www.uscurrency.gov/denominations/bank-note-identifiers",
+        "label": "U.S. Currency Education Program - Identifying Banknotes"
+      }
     ],
     "confidence": "official"
   },
   {
     "id": "e550",
     "year": 2021,
-    "date": "2021",
+    "date": "2023",
     "country": "United States Of America",
-    "issuer": "Federal Reserve System",
+    "issuer": "Federal Reserve System (issued by the Federal Reserve Banks; printed by the Bureau of Engraving and Printing, U.S. Department of the Treasury)",
     "title": "10 Dollars",
-    "description": "Signature.",
+    "description": "The Series 2021 $10 Federal Reserve Note is a regular circulation note with Yellen-Malerba signatures, featuring Alexander Hamilton on the obverse and the U.S. Treasury Building on the reverse.",
     "hue": 53,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2021-banknotes/fronts/USAW0552o.jpg",
     "slug": "united-states-of-america-10-dollars-e550",
-    "body": "Essential low-denomination note for grassroots transactions. Practical design addresses needs of local commerce. Part of financial inclusion efforts.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The Series 2021 $10 Federal Reserve Note carries the signature combination of Treasury Secretary Janet Yellen and Treasurer Lynn Malerba. The design retains Alexander Hamilton on the obverse and the U.S. Treasury Building on the reverse, as established in the 2006 redesign. Security features remain those of the current redesign series.",
+    "highlights": {
+      "design": "Obverse: portrait of Alexander Hamilton; Reverse: U.S. Treasury Building, Washington D.C.",
+      "reason": "Regular circulation series update reflecting new Yellen-Malerba signature combination",
+      "security": "Portrait watermark of Alexander Hamilton (right of portrait, visible against light); embedded security thread reading 'USA TEN' with flag — glows orange under UV light; color-shifting numeral '10' ink (copper to green); microprinting; fine-line printing patterns"
+    },
+    "sources": [
+      {
+        "url": "https://home.treasury.gov/news/press-releases/ls650",
+        "label": "U.S. Treasury - New $10 and $5 Bills"
+      },
+      {
+        "url": "https://www.uscurrency.gov/denominations/bank-note-identifiers",
+        "label": "U.S. Currency Education Program - Identifying Banknotes"
+      },
+      {
+        "url": "https://www.federalreserve.gov/paymentsystems/2021_currency_print_order_delivered.htm",
+        "label": "Federal Reserve Board - 2021 Print Order Delivery"
+      }
+    ],
+    "confidence": "official"
   },
   {
     "id": "e551",
     "year": 2021,
-    "date": "2021",
+    "date": "2023",
     "country": "United States Of America",
-    "issuer": "Federal Reserve System",
+    "issuer": "Federal Reserve System (issued by the Federal Reserve Banks; printed by the Bureau of Engraving and Printing, U.S. Department of the Treasury)",
     "title": "50 Dollars",
-    "description": "Signature.",
+    "description": "The Series 2021 $50 Federal Reserve Note is a regular circulation note with Yellen-Malerba signatures, featuring Ulysses S. Grant on the obverse and the U.S. Capitol on the reverse.",
     "hue": 57.9,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2021-banknotes/fronts/USAW0554o.jpg",
     "slug": "united-states-of-america-50-dollars-e551",
-    "body": "The Series 2021 $50 bill, issued by the Federal Reserve System beginning December 2022, features signatures of Treasury Secretary Janet Yellen and U.S. Treasurer Lynn Malerba. Production began in December 2022, with the first denomination pair ($1/$5) circulating earlier. The note features Ulysses S. Grant's portrait on the obverse. Like other 2021 Series notes, this represents a historic shift to female signature representation on U.S. currency while maintaining established design and security standards.",
+    "body": "The Series 2021 $50 Federal Reserve Note carries the Yellen-Malerba signature combination. The $50 note's design, established with the 2004 redesign, features a borderless portrait of Ulysses S. Grant on the obverse against a subtle blue and red American flag background, and the west front of the U.S. Capitol on the reverse. The series designation changed due solely to the new signature pair.",
     "highlights": {
-      "reason": "Series 2021 signature update reflecting historic female representation.",
-      "design": "Ulysses S. Grant obverse; traditional established design maintained.",
-      "security": "Contemporary Federal Reserve security features and production standards."
+      "design": "Obverse: portrait of Ulysses S. Grant with blue and red flag background; Reverse: west front of the U.S. Capitol Building",
+      "reason": "Regular circulation series update reflecting new Yellen-Malerba signature combination",
+      "security": "Color-shifting numeral '50' ink (copper to green); embedded security thread to the right of portrait reading 'USA 50' with flag — glows yellow under UV light; portrait watermark of Grant (right of portrait, visible against light); EURion constellation; microprinting"
     },
     "sources": [
-      "https://www.uscurrency.gov/denominations/50"
+      {
+        "url": "https://www.uscurrency.gov/denominations/50",
+        "label": "U.S. Currency Education Program - $50 Note"
+      },
+      {
+        "url": "https://home.treasury.gov/news/press-releases/rr1746",
+        "label": "U.S. Treasury - New $50 Bill"
+      },
+      {
+        "url": "https://home.treasury.gov/news/featured-stories/secretary-janet-l-yellen-provides-official-signature-for-2021-united-states-paper-currency",
+        "label": "U.S. Treasury - Yellen Signature for 2021 Currency"
+      }
     ],
     "confidence": "official"
   },
   {
     "id": "e552",
     "year": 2021,
-    "date": "2021",
+    "date": "2023",
     "country": "United States Of America",
-    "issuer": "Federal Reserve System",
+    "issuer": "Federal Reserve System (issued by the Federal Reserve Banks; printed by the Bureau of Engraving and Printing, U.S. Department of the Treasury)",
     "title": "100 Dollars",
-    "description": "Signature.",
+    "description": "The Series 2021 $100 Federal Reserve Note is a regular circulation note with Yellen-Malerba signatures, featuring Benjamin Franklin on the obverse and Independence Hall on the reverse.",
     "hue": 51.6,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2021-banknotes/fronts/USAW0555o.jpg",
     "slug": "united-states-of-america-100-dollars-e552",
-    "body": "The Series 2021 $100 bill, issued by the Federal Reserve System with production beginning December 2022, features signatures of Treasury Secretary Janet Yellen and U.S. Treasurer Lynn Malerba. The note features Benjamin Franklin's portrait on the obverse. As the highest-denomination note in the 2021 Series, it represents the completion of the currency modernization with historic dual-female signatures, marking a significant generational shift in U.S. currency design and representation.",
+    "body": "The Series 2021 $100 Federal Reserve Note bears the Yellen-Malerba signatures and continues the design introduced in 2013 (Series 2009A). Benjamin Franklin appears on the obverse, accompanied by a Declaration of Independence excerpt, quill pen, and the Syng inkstand. Independence Hall in Philadelphia is depicted on the reverse. The $100 note carries the most advanced security features of any U.S. banknote. The series update is a standard administrative change upon appointment of a new Treasury Secretary and Treasurer.",
     "highlights": {
-      "reason": "Series 2021 signature update with historic female representation on highest denomination.",
-      "design": "Benjamin Franklin obverse; traditional established design maintained.",
-      "security": "Contemporary Federal Reserve security features and production standards."
+      "design": "Obverse: portrait of Benjamin Franklin, Declaration of Independence vignette, quill pen, Syng inkstand; Reverse: Independence Hall, Philadelphia, PA",
+      "reason": "Regular circulation series update reflecting new Yellen-Malerba signature combination",
+      "security": "Blue 3-D Security Ribbon (woven into paper, tilting shifts bell and '100' images); Bell in the Inkwell (optically variable bell shifts copper to green); portrait watermark of Franklin (visible against light); embedded pink security thread reading 'USA 100' — glows pink under UV light; color-shifting numeral '100' ink; microprinting; EURion constellation"
     },
     "sources": [
-      "https://www.uscurrency.gov/denominations/100"
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20100421a.htm",
+        "label": "Federal Reserve Board - New Design for the $100 Note"
+      },
+      {
+        "url": "https://home.treasury.gov/news/featured-stories/secretary-janet-l-yellen-provides-official-signature-for-2021-united-states-paper-currency",
+        "label": "U.S. Treasury - Yellen Signature for 2021 Currency"
+      },
+      {
+        "url": "https://www.uscurrency.gov/denominations/bank-note-identifiers",
+        "label": "U.S. Currency Education Program - Identifying Banknotes"
+      }
     ],
     "confidence": "official"
   },
   {
     "id": "e553",
     "year": 2021,
-    "date": "2015-2021",
+    "date": "2021",
     "country": "Uruguay",
-    "issuer": "Banco Central del Uruguay",
+    "issuer": "Banco Central del Uruguay (BCU)",
     "title": "1.000 Pesos Uruguayos",
-    "description": "Printer.",
+    "description": "The 2021 Serie G 1,000 pesos uruguayos note is a regular circulation update featuring poet Juana de Ibarbourou on the obverse and eight of her literary works on the reverse.",
     "hue": 40.5,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2021-banknotes/fronts/URU0098o.jpg",
     "slug": "uruguay-1-000-pesos-uruguayos-e553",
-    "body": "The 1,000 Pesos Uruguayos banknote, issued 2015-2021 by the Banco Central del Uruguay, features the Uruguayan poet Juana de Ibarbourou (1892-1979), known as 'Juana de América,' on the obverse. The reverse showcases cultural imagery. Printed by Oberthur Fiduciaire on cotton paper in green, yellow, and brown colors, this note represents Uruguay's currency modernization program with enhanced security features and contemporary design reflecting the nation's cultural heritage.",
+    "body": "The 1,000 pesos uruguayos denomination is part of the BCU's current banknote family first launched in 2014-2015. The 2021 issue (Serie G) continues this series honouring Juana de Ibarbourou (1892-1979), one of Uruguay's most celebrated poets, known as 'Juana de America.' The obverse features her portrait alongside the Coat of Arms, a map of Uruguay in gold optically variable ink, and registration device laurels. The reverse depicts eight of her most important literary works together with the La Palma de Juana palm tree monument in Montevideo. The note measures 159 x 74 mm.",
     "highlights": {
-      "reason": "Part of Uruguay's 2015 currency modernization program with enhanced security.",
-      "design": "Juana de Ibarbourou poet portrait in green, yellow, and brown color scheme.",
-      "security": "Printed by Oberthur Fiduciaire with contemporary security enhancements."
+      "design": "Obverse: portrait of Juana de Ibarbourou, Coat of Arms, map of Uruguay in gold OVI; Reverse: eight literary works including Raiz salvaje, Las Lenguas de diamante, El Cantaro Fresco, La Palma de Juana monument, Montevideo",
+      "reason": "Regular circulation series continuation (Serie G update) of the 2014-2015 BCU banknote family",
+      "security": "4-mm holographic windowed security thread (demetalized, BCU 1000); registration allegory transparent device; portrait watermark of Juana de Ibarbourou plus electrotype 'Mil' and '1000' x3; color-shifting metallic band (green to gold when tilted); tactile marks for visually impaired on both sides"
     },
-    "sources": [],
+    "sources": [
+      {
+        "url": "https://en.numista.com/catalogue/note207690.html",
+        "label": "Numista - 1000 Pesos Uruguayos (2021)"
+      },
+      {
+        "url": "https://coinweek.com/uruguay-issues-100-1000-peso-banknotes-new-security-features/",
+        "label": "CoinWeek - Uruguay Issues 1000 Peso Banknotes"
+      },
+      {
+        "url": "https://www.banknoteworld.com/blog/the-1000-pesos-banknote-remembering-uruguayan-poet-writer-juana-de-ibarbourou/",
+        "label": "Banknote World - Uruguay 1000 Pesos Juana de Ibarbourou"
+      }
+    ],
     "confidence": "secondary"
   },
   {
     "id": "e554",
     "year": 2021,
-    "date": "2015-2021",
+    "date": "2021",
     "country": "Uruguay",
-    "issuer": "Banco Central del Uruguay",
+    "issuer": "Banco Central del Uruguay (BCU)",
     "title": "2.000 Pesos Uruguayos",
-    "description": "Printer.",
+    "description": "The 2021 Serie D 2,000 pesos uruguayos note is a regular circulation update featuring naturalist and priest Damaso Antonio Larranaga on the obverse and the National Library's original building on the reverse.",
     "hue": 75.9,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2021-banknotes/fronts/URU0099o.jpg",
     "slug": "uruguay-2-000-pesos-uruguayos-e554",
-    "body": "The 2,000 Pesos Uruguayos banknote, issued 2015-2021 by the Banco Central del Uruguay, features José Gervasio Artigas, a central figure in Uruguayan history and independence. This note represents the higher denomination tier of Uruguay's modernized currency series introduced in 2015, incorporating advanced security measures and contemporary design elements. The Banco Central del Uruguay updated printers and production standards during this period to enhance currency security and durability.",
+    "body": "The 2,000 pesos uruguayos note belongs to the BCU banknote family introduced in 2014-2015, with the 2021 issue representing Serie D of this series. The obverse features Damaso Antonio Larranaga (1771-1848) — Uruguayan priest, naturalist, and botanist who founded the National Library of Uruguay — while the reverse depicts the National Library's first building (1816). The dominant colors are shades of gray and blue. The note includes advanced optically variable security features consistent with the current BCU series standard.",
     "highlights": {
-      "reason": "Part of Uruguay's 2015 currency modernization with enhanced security.",
-      "design": "José Gervasio Artigas portrait; traditional Uruguayan historical figure.",
-      "security": "Updated printer and production standards for improved security and durability."
+      "design": "Obverse: portrait of Damaso Antonio Larranaga, Coat of Arms, registration allegory device; Reverse: first building of the National Library of Uruguay (1816)",
+      "reason": "Regular circulation series continuation (Serie D update) of the 2014-2015 BCU banknote family",
+      "security": "4-mm holographic windowed security thread (demetalized, BCU 2000); holographic color-shifting band with map of Uruguay and '2000' (shifts purple to brown when tilted); registration allegory transparent device; watermark of Damaso Antonio Larranaga plus electrotype 'Dos Mil' and '2000' x3; metallic-like band with latent coat of arms and BCU lettering; tactile raised triangles for visually impaired (top left)"
     },
-    "sources": [],
+    "sources": [
+      {
+        "url": "https://en.numista.com/catalogue/note202940.html",
+        "label": "Numista - 2000 Pesos Uruguayos (2021)"
+      },
+      {
+        "url": "https://coinweek.com/uruguay-issues-new-2000-peso-banknote/",
+        "label": "CoinWeek - Uruguay Issues New 2000 Peso Banknote"
+      },
+      {
+        "url": "https://securamonde.com/news-2/uruguay-issues-new-2000-banknote/",
+        "label": "Secura Monde - Uruguay Issues New 2000 Banknote"
+      }
+    ],
     "confidence": "secondary"
   },
   {
     "id": "e555",
     "year": 2021,
-    "date": "2020 & 2021",
+    "date": "2021",
     "country": "Uruguay",
     "issuer": "Banco Central del Uruguay",
     "title": "20 Pesos Uruguayos",
-    "description": "Printer.",
+    "description": "A 20 Pesos Uruguayos polymer banknote issued by the Banco Central del Uruguay, featuring poet Juan Zorrilla de San Martin, introduced into circulation on October 3, 2020 with a 2021 date.",
     "hue": 98.6,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2021-banknotes/fronts/URUW2020-0020o.jpg",
     "slug": "uruguay-20-pesos-uruguayos-e555",
-    "body": "The 20 Pesos Uruguayos polymer banknote, issued 2020-2021 by the Banco Central del Uruguay, marks a transition to polymer currency substrate. Featuring epic poet Juan Zorrilla de San Martín on the obverse with the Uruguayan coat of arms, the reverse depicts the Allegory of the Homeland and the poet's manuscript. Printed by Oberthur Fiduciaire, measuring 139 x 67 mm, and signed by Alberto Grana and Alfredo Allo Arrieta, this note represents Uruguay's embrace of modern polymer technology for improved durability.",
+    "body": "The 20 Pesos Uruguayos polymer banknote features epic poet Juan Zorrilla de San Martin (1855-1931) prominently on the obverse, with a large portrait at center-right and a smaller image within a clear window at left. The reverse depicts the Allegory of the Fatherland Legend (Alegoria de la Leyenda Patria), represented as an angel, alongside handwritten verse from Zorrilla's epic poem Tabare. Printed by Oberthur Fiduciaire on polymer substrate measuring 139 x 67 mm, this note entered regular circulation on October 3, 2020 (Heritage Day) alongside updated security features compared to the prior 2015 paper series.",
     "highlights": {
-      "reason": "Uruguay's introduction of polymer substrate for improved durability and security.",
-      "design": "Juan Zorrilla de San Martín portrait with Allegory of Homeland on reverse.",
-      "security": "Polymer substrate provides enhanced durability; printed by Oberthur Fiduciaire."
+      "design": "Obverse: portrait of poet Juan Zorrilla de San Martin, coat of arms, laurels, inkwell, quill and scroll as registration device, denomination as latent image on map of Uruguay; Reverse: Allegory of the Fatherland Legend as an angel and Zorrilla's handwritten verse from Tabare",
+      "reason": "Regular circulation update replacing the 2015 paper series with a new polymer substrate for improved durability, introduced on Uruguay's Heritage Day (October 3, 2020)",
+      "security": "Polymer substrate with clear window containing portrait, watermark of Juan Zorrilla de San Martin, latent image denomination, raised tactile dots for the visually impaired, color-shifting inks, intaglio printing"
     },
-    "sources": [],
+    "sources": [
+      {
+        "url": "https://www.coinworld.com/news/paper-money/uruguay-nicaragua-produce-new-polymer-bank-notes",
+        "label": "Coin World - Uruguay polymer banknote news"
+      },
+      {
+        "url": "https://en.numista.com/catalogue/note238828.html",
+        "label": "Numista - 20 Pesos Uruguayos 2021"
+      },
+      {
+        "url": "https://www.banknoteworld.com/uruguay-20-pesos-uruguayos-banknote-2020-p-101a-1-unc-polymer.html",
+        "label": "Banknote World - Uruguay 20 Pesos 2020 Polymer"
+      }
+    ],
     "confidence": "secondary"
   },
   {
     "id": "e556",
     "year": 2021,
-    "date": "2020 & 2021",
+    "date": "2021",
     "country": "Uruguay",
     "issuer": "Banco Central del Uruguay",
     "title": "50 Pesos Uruguayos",
-    "description": "Printer.",
+    "description": "A 50 Pesos Uruguayos polymer banknote issued by the Banco Central del Uruguay, featuring educator Jose Pedro Varela on the obverse and the Monument to Jose Pedro Varela on the reverse, introduced on October 3, 2020 with a 2021 date.",
     "hue": 65.4,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2021-banknotes/fronts/URUW2020-0050o.jpg",
     "slug": "uruguay-50-pesos-uruguayos-e556",
-    "body": "The 50 Pesos Uruguayos polymer banknote, issued 2020-2021 by the Banco Central del Uruguay, features José Pedro Varela, an educator and national figure, on the obverse with the Uruguayan coat of arms. The reverse depicts the Monument to José Pedro Varela. Printed by Oberthur Fiduciaire on polymer substrate, measuring 144 x 68 mm in red, blue, green, and orange, signed by Alberto Grana and Alfredo Allo Arrieta. This note represents Uruguay's modernization with polymer technology.",
+    "body": "The 50 Pesos Uruguayos polymer banknote features Jose Pedro Varela (1845-1879), a celebrated Uruguayan sociologist, journalist, politician, and education reformer, with a large portrait on the obverse and a smaller image in a clear window. The reverse depicts the Monument to Jose Pedro Varela in Montevideo. Printed by Oberthur Fiduciaire on polymer (Guardian substrate) measuring 144 x 68 mm in red, blue, green, and orange tones, this note was issued as part of the regular circulation series update alongside the 20-peso note, replacing the 2015 paper issue series with improved security features.",
     "highlights": {
-      "reason": "Uruguay's introduction of polymer substrate for improved durability and security.",
-      "design": "José Pedro Varela educator portrait with Monument to Varela on reverse.",
-      "security": "Polymer substrate provides enhanced durability; printed by Oberthur Fiduciaire."
+      "design": "Obverse: portrait of educator Jose Pedro Varela (1845-1879), coat of arms, open book and rising sun as registration device, denomination as latent image on map of Uruguay, clear window with portrait; Reverse: Monument to Jose Pedro Varela in Montevideo",
+      "reason": "Regular circulation series update, replacing the 2015 paper banknote series with a more durable polymer substrate; introduced on Uruguay's Heritage Day (October 3, 2020)",
+      "security": "Polymer substrate (Guardian), clear window with portrait, color-shifting inks, intaglio printing, latent image denomination, raised tactile dots for the visually impaired, watermark"
     },
-    "sources": [],
+    "sources": [
+      {
+        "url": "https://www.coinworld.com/news/paper-money/uruguay-nicaragua-produce-new-polymer-bank-notes",
+        "label": "Coin World - Uruguay polymer banknote news"
+      },
+      {
+        "url": "https://en.numista.com/catalogue/note238829.html",
+        "label": "Numista - 50 Pesos Uruguayos 2021"
+      },
+      {
+        "url": "https://www.ma-shops.com/numiscollection/item.php?id=200038205",
+        "label": "MA-Shops - Uruguay 50 Pesos Jose Pedro Varela 2020 Polymer"
+      }
+    ],
     "confidence": "secondary"
   },
   {
     "id": "e557",
     "year": 2021,
-    "date": "03.09.2020",
+    "date": "2021-03-08",
     "country": "Venezuela",
     "issuer": "Banco Central de Venezuela",
     "title": "1.000.000 Bolívares",
-    "description": "Simón Bolívar. Bicentennial of Battle of Carabobo (1821-2021).",
+    "description": "A 1,000,000 Bolivares Soberano banknote issued by the Banco Central de Venezuela in March 2021, commemorating the bicentennial of the Battle of Carabobo and representing the highest denomination ever issued by Venezuela at that time.",
     "hue": 46.7,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2021-banknotes/fronts/VENW0114-11o.jpg",
     "slug": "venezuela-1-000-000-bol-vares-e557",
-    "body": "Significant denomination from contemporary series. Reflects Tajik culture and historical heritage. Incorporates enhanced security features.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The 1,000,000 Bolivares Soberano banknote was announced on March 5, 2021 and entered circulation on March 8, 2021, becoming the largest denomination in Venezuela's monetary history. The obverse features national hero and liberator Simon Bolivar in yellow and light brown tones, while the reverse depicts the Coat of Arms of Venezuela, the Triumph Arch, and the painting 'Batalla de Carabobo' by Martin Tovar y Tovar, commemorating the decisive 1821 battle whose 200th anniversary fell in 2021. The note measures 156 x 69 mm and was issued as part of the late-stage Bolivar Soberano series before Venezuela's third redenomination in October 2021, when 1,000,000 Bolivares Soberanos became equal to 1 Bolivar Digital.",
+    "highlights": {
+      "design": "Obverse: portrait of Simon Bolivar in yellow and light brown with engraved printing; Reverse: Coat of Arms, Triumph Arch, and painting 'Batalla de Carabobo' by Martin Tovar y Tovar",
+      "reason": "Emergency high-denomination note issued to address hyperinflation and to commemorate the bicentennial of the Battle of Carabobo (1821-2021); highest denomination in Venezuelan history at time of issue",
+      "security": "Windowed security thread with demetallized BCV text, watermark of Simon Bolivar, electrotype BCV, UV-fluorescent serial numbers in yellow-green, fluorescent embedded fibers"
+    },
+    "sources": [
+      {
+        "url": "https://coinsweekly.com/venezuela-issues-one-million-bolivares-banknotes/",
+        "label": "Coins Weekly - Venezuela Issues One Million Bolivares Banknotes"
+      },
+      {
+        "url": "https://www.numismatica.info.ve/en/banknotes/bbcv1000000bss-aa.htm",
+        "label": "Numismatica Venezuela - 1,000,000 Bolivares Soberanos"
+      },
+      {
+        "url": "https://www.banknoteworld.com/venezuela-1-million-bolivar-soberano-banknote-2020-p-114-unc.html",
+        "label": "Banknote World - Venezuela 1 Million Bolivar Soberano"
+      }
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e558",
     "year": 2021,
-    "date": "29.04.2021",
+    "date": "2021-10-01",
     "country": "Venezuela",
     "issuer": "Banco Central de Venezuela",
     "title": "5 Bolívares",
-    "description": "Simón Bolívar. Bicentennial of Battle of Carabobo (1821-2021).",
+    "description": "A 5 Bolivares Digitales banknote issued by the Banco Central de Venezuela on October 1, 2021, as part of the Nueva Expresion Monetaria redenomination, equivalent to 5,000,000 old Bolivares Soberanos.",
     "hue": 35.7,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2021-banknotes/fronts/VENW2021-005o.jpg",
     "slug": "venezuela-5-bol-vares-e558",
-    "body": "The 5 Bolívares banknote, issued April 29, 2021 by the Banco Central de Venezuela, commemorates the bicentennial of the Battle of Carabobo (1821-2021). Featuring Simón Bolívar, the Liberator who led Venezuelan independence, on the obverse, the reverse displays the Arch of Triumph at Campo Carabobo, the Venezuelan coat of arms, and Martín Tovar y Tovar's iconic painting of the Battle of Carabobo—June 24, 1821—marking Venezuela's decisive victory over Spanish colonial forces.",
+    "body": "The 5 Bolivares Digitales (P-115) is one of the inaugural denominations of Venezuela's third currency redenomination, the 'Nueva Expresion Monetaria' launched on October 1, 2021, in which six zeros were removed from the Bolivar Soberano. The vertically-oriented obverse features national liberator Simon Bolivar, while the reverse depicts the Venezuelan Coat of Arms, the Monument to the Motherland on the Carabobo Fields, and the Battle of Carabobo. The note is printed in brown and earth-tone colors on paper measuring 156 x 69 mm, with intricate guilloche patterns and microtext forming a modern 'digital' aesthetic background. The new series was introduced to address Venezuela's severe ongoing hyperinflation crisis and to simplify transactions hampered by unwieldy multi-million bolivar figures.",
     "highlights": {
-      "reason": "Commemorates the bicentennial of the Battle of Carabobo (1821), Venezuelan independence milestone.",
-      "design": "Simón Bolívar portrait with Arch of Triumph and Carabobo battle painting.",
-      "security": "Contemporary banknote security features for 2021 commemorative issue."
+      "design": "Obverse (vertical orientation): portrait of Simon Bolivar in brown and earth tones with guilloche patterns and microtext; Reverse: Venezuelan Coat of Arms, Monument to the Motherland on Carabobo Fields, and scene of the Battle of Carabobo",
+      "reason": "Third Venezuelan currency redenomination (Nueva Expresion Monetaria), removing six zeros from the Bolivar Soberano to address hyperinflation; 1 Bolivar Digital = 1,000,000 Bolivares Soberanos",
+      "security": "Windowed security thread with demetallized BCV text, watermark of Simon Bolivar, electrotype BCV, microtext, guilloche patterns, intaglio printing"
     },
-    "sources": [],
-    "confidence": "official"
+    "sources": [
+      {
+        "url": "https://www.banknoteworld.com/venezuela-5-bolivar-digital-digitales-banknote-2021-p-115-unc-5-million-soberano.html",
+        "label": "Banknote World - Venezuela 5 Bolivar Digital 2021"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Venezuelan_bol%C3%ADvar",
+        "label": "Wikipedia - Venezuelan Bolivar"
+      },
+      {
+        "url": "https://www.nbcnews.com/news/latino/venezuela-unveils-new-currency-6-fewer-zeros-rcna2515",
+        "label": "NBC News - Venezuela unveils new currency with 6 fewer zeros"
+      }
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e559",
     "year": 2021,
-    "date": "29.04.2021",
+    "date": "2021-10-01",
     "country": "Venezuela",
     "issuer": "Banco Central de Venezuela",
     "title": "10 Bolívares",
-    "description": "Simón Bolívar. Bicentennial of Battle of Carabobo (1821-2021).",
+    "description": "A 10 Bolivares Digitales banknote issued by the Banco Central de Venezuela on October 1, 2021, as part of the Nueva Expresion Monetaria redenomination, equivalent to 10,000,000 old Bolivares Soberanos.",
     "hue": 255.2,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2021-banknotes/fronts/VENW2021-010o.jpg",
     "slug": "venezuela-10-bol-vares-e559",
-    "body": "The 10 Bolívares banknote, issued April 29, 2021 by the Banco Central de Venezuela, commemorates the bicentennial of the Battle of Carabobo (1821-2021). Featuring Simón Bolívar, El Libertador, on the obverse, the reverse depicts the Carabobo Field Monument and scenes from the historic battle of June 24, 1821—when Bolívar's army of 6,500 troops, including British volunteers, defeated Spanish royalists, effectively securing Venezuelan independence and regional liberation across South America.",
+    "body": "The 10 Bolivares Digitales (P-116, dated April 29, 2021) is a key denomination of Venezuela's 2021 Bolivar Digital series, part of the Nueva Expresion Monetaria that removed six zeros from the Bolivar Soberano effective October 1, 2021. The vertically-oriented obverse features national liberator Simon Bolivar in a purple color scheme, while the reverse depicts the Venezuelan Coat of Arms, the Monument to the Motherland on Carabobo Fields, and the Battle of Carabobo. Measuring 156 x 69 mm, the note shares thematic design elements with the 5-bolivar digital note but is distinguished by its purple hue. The 10-bolivar denomination was one of the first to circulate following the introduction of the new currency on October 1, 2021.",
     "highlights": {
-      "reason": "Commemorates the bicentennial of the Battle of Carabobo (1821), pivotal independence victory.",
-      "design": "Simón Bolívar portrait with Carabobo Field Monument and battle imagery.",
-      "security": "Contemporary banknote security features for 2021 commemorative issue."
+      "design": "Obverse (vertical orientation): portrait of Simon Bolivar in purple tones with guilloche patterns and microtext; Reverse: Venezuelan Coat of Arms, Monument to the Motherland on Carabobo Fields, and scene of the Battle of Carabobo",
+      "reason": "Third Venezuelan currency redenomination (Nueva Expresion Monetaria), removing six zeros from the Bolivar Soberano to address hyperinflation; 1 Bolivar Digital = 1,000,000 Bolivares Soberanos",
+      "security": "Windowed security thread with demetallized BCV text, watermark of Simon Bolivar, electrotype BCV, microtext, guilloche patterns, intaglio printing"
     },
-    "sources": [],
-    "confidence": "official"
+    "sources": [
+      {
+        "url": "https://www.banknoteworld.com/banknotes/Banknotes-by-Country/Venezuela-Currency/venezuela-digital-digitales-series/10-venezuela-bolivar-digital-digitales/",
+        "label": "Banknote World - Venezuela 10 Bolivar Digital series"
+      },
+      {
+        "url": "https://worbes-verlag.de/en/Banknotes-Worldwide/Banknotes-America/Venezuela/Venezuela-P-116-10-Bolivares-Digitales-29-4-2021-1.html",
+        "label": "Worbes Verlag - Venezuela P-116 10 Bolivares Digitales"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Venezuelan_bol%C3%ADvar",
+        "label": "Wikipedia - Venezuelan Bolivar"
+      }
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e560",
