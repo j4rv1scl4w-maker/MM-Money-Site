@@ -11525,14 +11525,20 @@
     "country": "Jordan",
     "issuer": "Central Bank of Jordan",
     "title": "20 Dinars",
-    "description": "King Hussein II.",
+    "description": "The obverse features a portrait of King Abdullah II bin Al-Hussein alongside the Dome of the Rock in Jerusalem; the reverse depicts the landscape of Wadi Rum.",
     "hue": 195.2,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2021-banknotes/fronts/JOR0037ao.jpg",
     "slug": "jordan-20-dinars-e505",
-    "body": "Smallest denomination in the 2024 emission set. Bright security features and compact design facilitate widespread use. Represents commitment to accessible monetary system.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The Jordan 20 Dinar note is part of the Central Bank of Jordan's fourth banknote series, issued from 2002 onward and in circulation through 2021 before the introduction of the fifth series beginning in 2022. It is a green note bearing the image of the reigning monarch alongside Jerusalem's most iconic Islamic landmark, reflecting Jordan's Hashemite custodianship of the holy sites. The denomination is the second-highest in the fourth series and circulated widely until being phased out by the upgraded fifth series.",
+    "highlights": {
+      "design": "Obverse: Portrait of King Abdullah II bin Al-Hussein with the Dome of the Rock, Jerusalem. Reverse: Wadi Rum desert landscape.",
+      "reason": "Issued as part of the fourth series (2002) to provide upgraded banknotes replacing the third series, featuring the reigning monarch and important cultural and religious sites.",
+      "security": "Windowed security thread, watermark of King Abdullah II, color-shifting OVI ink patch, and microprinting."
+    },
+    "sources": [
+      "https://www.leftovercurrency.com/exchange/jordanian-dinars/current-jordanian-dinar-banknotes/20-jordanian-dinars-banknote-dome-of-the-rock-jerusalem/"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e506",
@@ -11541,56 +11547,69 @@
     "country": "Jordan",
     "issuer": "Central Bank of Jordan",
     "title": "50 Dinars",
-    "description": "King Abdullah II bin Al Hussein.",
+    "description": "The obverse features a portrait of King Abdullah II bin Al-Hussein with the Temple Mount compound (including the Dome of the Rock) in Jerusalem; the reverse shows the Wadi Rum desert landscape.",
     "hue": 17.4,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2021-banknotes/fronts/JOR0038ao.jpg",
     "slug": "jordan-50-dinars-e506",
-    "body": "The 50 dinar note features King Abdullah II bin Al Hussein and depicts the Temple Mount in Jerusalem on the obverse. The purple banknote includes Wadi Rum imagery on the reverse. Measuring 149 x 74 mm, it was issued in 2022 as part of the Central Bank of Jordan's new banknote family with enhanced security features for modern circulation.",
+    "body": "The Jordan 50 Dinar note is the highest denomination in the Jordanian dinar series and part of the Central Bank of Jordan's new banknote family introduced from 2022 onward. It prominently features King Abdullah II alongside the Jerusalem skyline, underscoring Jordan's role as the custodian of Islamic and Christian holy sites in the city. The note was unveiled in 2022 as part of a comprehensive redesign of Jordanian currency with advanced security features, and the year 2021 appears in catalog listings reflecting its authorization date.",
     "highlights": {
-      "reason": "Presents contemporary portrait of King Abdullah II and celebrates Jordanian national sites",
-      "design": "Obverse displays King Abdullah II with Temple Mount view; reverse showcases Wadi Rum landscape",
-      "security": "Features 3-D windowed security thread with demetalized denomination and royal crown; watermark of King Abdullah II with electrotype details"
+      "design": "Obverse: Portrait of King Abdullah II bin Al-Hussein with the Dome of the Rock and Al-Aqsa Mosque compound, Jerusalem. Reverse: Wadi Rum rock formations.",
+      "reason": "Issued as the highest-denomination note in the new series, emphasizing Jordan's Hashemite guardianship over Jerusalem's holy sites.",
+      "security": "SPARK Live Truspin patch (magenta to green), 3D windowed MOTION Switch security thread with demetalized '50' and royal crown, watermark of King Abdullah II with electrotype '50'."
     },
     "sources": [
+      "https://banknotenews.com/?p=38752",
       "https://www.timesofisrael.com/jordan-unveils-new-50-dinar-banknote-featuring-temple-mount-in-jerusalem/"
     ],
-    "confidence": "official"
+    "confidence": "secondary"
   },
   {
     "id": "e507",
     "year": 2021,
     "date": "2021",
     "country": "Kazakhstan",
-    "issuer": "Kazakstan Ülttyk Banki",
+    "issuer": "National Bank of Kazakhstan",
     "title": "20.000 Tenge",
-    "description": "Kazakh Eli monument in Astana. 30th Anniversary of Independence (1991-2021).",
+    "description": "The obverse features national symbols including the Manglik El arch, the Kazakh Eli monument, the House of Parliament, and a 30th-anniversary SPARK element; the reverse shows the Akorda Presidential Palace along the Ishim River and a portrait of President Nursultan Nazarbayev.",
     "hue": 167.3,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2021-banknotes/fronts/KAZW2021-20000o.jpg",
     "slug": "kazakhstan-20-000-tenge-e507",
-    "body": "Uncommon higher denomination from 2024 circulation series. Features diverse national themes and contemporary design elements. Enhanced anti-counterfeiting measures throughout.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "This commemorative 20,000 Tenge banknote was issued on 16 December 2021 by the National Bank of Kazakhstan to mark the 30th anniversary of Kazakhstan's independence from the Soviet Union (1991–2021). It was the first banknote to incorporate the latest iteration of De La Rue's SPARK technology, which appears three-dimensional but is flat to the touch. The note was a candidate in the International Bank Note Society's Banknote of the Year competition for 2021.",
+    "highlights": {
+      "design": "Obverse: Manglik El monumental arch, Kazakh Eli monument, national flag, House of Parliament, and 30th-anniversary SPARK feature — vertically oriented. Reverse: Akorda Presidential Palace as seen from the Ishim River, portrait of President Nursultan Nazarbayev, outline of Kazakhstan.",
+      "reason": "Commemorates the 30th anniversary of Kazakhstan's independence from the Soviet Union (1991–2021), issued on Independence Day 16 December 2021.",
+      "security": "SPARK Live three-dimensional color-shifting feature, watermark of the mythic Samruk bird with electrotype '20000', dove-shaped transparent window with blind embossing, iridescent print, see-through registration image, denomination watermark in half window."
+    },
+    "sources": [
+      "https://nationalbank.kz/en/news/banknoty/6780",
+      "https://en.numista.com/catalogue/note312730.html",
+      "https://www.banknoteworld.com/kazakhstan-20-000-tenge-banknote-2021-p-48-unc-commemorative-30th-anniversary-of-independence-1991-2021-.html"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e508",
     "year": 2021,
     "date": "2021",
     "country": "Korea (North)",
-    "issuer": "Central Bank of the Democratic Peoples Republic of Korea",
+    "issuer": "Central Bank of the Democratic People's Republic of Korea",
     "title": "5.000 Won",
-    "description": "Remark.",
+    "description": "The obverse bears the printed text 'Central Bank of the Democratic People's Republic of Korea — Money Coupon — 5,000 Won' in Korean script; the reverse is plain white paper with minimal markings.",
     "hue": 24.9,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2021-banknotes/fronts/KONW0068o.jpg",
     "slug": "korea-north-5-000-won-e508",
-    "body": "North Korea introduced money coupons called 'donpyo' in 2021 in denominations of 5,000 and 50,000 won, representing an alternative currency form. These coupons served as a means of maintaining domestic commerce alongside traditional banknotes. The exact design details remain limited in public documentation, though they represent a significant shift in North Korean monetary policy.",
+    "body": "The North Korean 5,000 Won Donpyo (돈표, 'money coupon') is an emergency currency issued in the second half of 2021 because COVID-19 border lockdowns prevented North Korea from importing the specialized paper and inks needed to produce regular banknotes from China. Printed in red ink on ordinary white paper, the donpyo lacks the security features and durability of standard won notes. It circulated at a discount — roughly 3,800–4,000 won — in informal markets, and many merchants refused to accept them, questioning whether they would ever be redeemable for regular currency.",
     "highlights": {
-      "reason": "Introduces alternative currency form (donpyo) to supplement traditional banknote circulation",
-      "design": "Coupon format denominations of 5,000 and 50,000 won with functional currency purpose",
-      "security": "Specific security features of donpyo coupons not publicly documented in Western sources"
+      "design": "Obverse: Red-ink printed text in Korean script stating denomination and issuer (Juche 110/2021). Reverse: Plain or minimally printed.",
+      "reason": "Emergency currency issued due to COVID-19 border closures that cut off supplies of banknote-grade paper and printing ink from China.",
+      "security": "No formal security features; plain low-quality white paper with red-ink text only."
     },
-    "sources": [],
-    "confidence": "fallback"
+    "sources": [
+      "https://en.numista.com/catalogue/note309746.html",
+      "https://www.coinworld.com/news/paper-money/new-details-arise-on-tonpyo-from-north-korea",
+      "https://www.rfa.org/english/news/korea/donpyo-04072022193445.html/"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e509",
@@ -11599,17 +11618,20 @@
     "country": "Lebanon",
     "issuer": "Banque du Liban",
     "title": "5.000 Livres",
-    "description": "Printer.",
+    "description": "The obverse features Arabic text and an abstract geometric design with a cedar tree registration device; the reverse displays Arabic and French text with a complementary geometric pattern and cedar tree motif.",
     "hue": 340.5,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2021-banknotes/fronts/LEB0091o.jpg",
     "slug": "lebanon-5-000-livres-e509",
-    "body": "The 5,000 livres banknote was issued by Banque du Liban across the 2012-2021 period with varying printers and designs. Earlier versions (2012-2014) measured 120 x 62 mm with geometric series design and cedar tree imagery. The 2021 version was printed by Polish Security Printing Works. The note features Arabic text and geometric patterns reflecting Lebanese national symbolism.",
+    "body": "The Lebanon 5,000 Livres note dated 2021 (P-91c) is the third variant in the Banque du Liban's 2012 geometric series. The design is unchanged from earlier variants of the same series, but the 2021 edition introduced an upgraded windowed security thread with demetalized BDL lettering and color-shifting properties. The cedar tree of Lebanon, the national emblem, appears as a registration device aligning across both faces. The note circulated during Lebanon's severe economic crisis, during which the lira lost more than 90% of its value.",
     "highlights": {
-      "reason": "Updates security printing and production standards across a decade of currency circulation",
-      "design": "Obverse features Arabic text with cedar tree registration device; reverse contains geometric series design",
-      "security": "Varies by period; later versions printed by advanced security firms with enhanced features"
+      "design": "Obverse: Abstract geometric pattern in pink, purple, and orange with Arabic denomination and cedar tree registration device. Reverse: Complementary geometric motifs with French and Arabic text.",
+      "reason": "Routine updated issue (variant c) of the ongoing 2012-series design, introducing an improved security thread.",
+      "security": "3mm magenta-to-green windowed security thread with demetalized 'BDL 5000', cedar tree watermark with electrotype 5000."
     },
-    "sources": [],
+    "sources": [
+      "https://www.banknoteworld.com/lebanon-5-000-livres-banknote-2021-p-91c-unc.html",
+      "https://mriguide.com/lebanon-improved-banknote-of-5000-livres/"
+    ],
     "confidence": "secondary"
   },
   {
@@ -11619,14 +11641,20 @@
     "country": "Lebanon",
     "issuer": "Banque du Liban",
     "title": "10.000 Livres",
-    "description": "Printer.",
+    "description": "The obverse features the Lebanese State Emblem (cedar) and a geometric design of 16 squares; the reverse depicts the Martyrs' Monument bronze statue by Renato Marino Mazzacurati on Martyrs' Square in Beirut, framed by cedar foliage.",
     "hue": 41.6,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2021-banknotes/fronts/LEB0092o.jpg",
     "slug": "lebanon-10-000-livres-e510",
-    "body": "Smallest denomination in 2024 South African series. Designed for high-frequency circulation use. Features bright colors and accessible security indicators for public recognition.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The Lebanon 10,000 Livres note dated 2021 (P-92c) continues the Banque du Liban's geometric series introduced in 2012. The 16 squares on the obverse symbolize Lebanon's reconstruction and the front gates of the Central Bank building, while the 25 rectangles in the background represent the unity of Lebanon's 25 regions. The Martyrs' Monument on the reverse commemorates Lebanese nationalists who were executed by the Ottoman authorities during World War I, a central symbol of Lebanese identity and independence. The 2021 variant carries an updated security thread.",
+    "highlights": {
+      "design": "Obverse: Cedar of Lebanon state emblem with 16-square geometric motif in yellow, orange, and green. Reverse: Bronze Martyrs' Monument (three nationalists) at Martyrs' Square, Beirut, with cedar foliage background.",
+      "reason": "Routine updated issue (variant c) of the 2012 geometric series, introducing an enhanced security thread.",
+      "security": "3mm magenta-to-green windowed security thread with demetalized 'BDL 10000', cedar tree watermark with electrotype 10000."
+    },
+    "sources": [
+      "https://www.banknoteworld.com/lebanon-10-000-livres-banknote-2021-p-92c-unc.html"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e511",
@@ -11760,46 +11788,66 @@
     "country": "Mauritius",
     "issuer": "Bank of Mauritius",
     "title": "50 Rupees",
-    "description": "Joseph Maurice Paturau.",
+    "description": "The obverse features a portrait of entrepreneur and Cabinet minister Joseph Maurice Paturau, the Mauritius Coat of Arms, the old Bank of Mauritius facade, and a blindfolded Lady Justice; the reverse depicts Le Caudan Waterfront in Port Louis.",
     "hue": 172.5,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2021-banknotes/fronts/MRS0065o.jpg",
     "slug": "mauritius-50-rupees-e516",
-    "body": "Major high-value denomination from Euro series maintained by Bank of Spain. Features Renaissance architecture and cultural heritage. Advanced security features prevent counterfeiting.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The 2021 Mauritius 50 Rupees polymer note (P-65b) is an upgraded version of the Bank of Mauritius's 2013 series, transitioning the denomination to Guardian polymer substrate for greater durability and enhanced security. Printed by De La Rue using Guardian polymer and measuring 140 x 68 mm, the note retains the blue-and-orange color scheme of its predecessors. Joseph Maurice Paturau (1916–1996) was a visionary Mauritian industrialist who helped modernize the country's sugar and manufacturing sectors. The 2021 edition introduced the Gemini UV fluorescent feature as an additional security upgrade.",
+    "highlights": {
+      "design": "Obverse: Portrait of Joseph Maurice Paturau with Coat of Arms, old Bank of Mauritius facade, Lady Justice statue, and a transparent dodo-bird window. Reverse: Le Caudan Waterfront, Port Louis.",
+      "reason": "Issued as part of the Bank of Mauritius upgrade program to transition lower denominations to more durable Guardian polymer substrate with enhanced security features.",
+      "security": "Transparent window with dodo bird image, Gemini UV fluorescent feature, iridescent swing feature, shadow-image watermark, Domino vision-impaired tactile feature, magnetic-ink numerals, microlettering."
+    },
+    "sources": [
+      "https://banknotenews.com/?p=9819"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e517",
     "year": 2021,
     "date": "2021",
     "country": "Mongolia",
-    "issuer": "Mongolbank",
+    "issuer": "Bank of Mongolia (Mongolbank)",
     "title": "10.000 Tögrög",
-    "description": "Remark.",
+    "description": "The obverse features a portrait of Chinggis Khan, the national coat of arms, a commemorative stamp, and a paiza (gerege) tablet of authority; the reverse depicts the inner square of the ancient city of Kharkhorin (Karakorum).",
     "hue": 41.9,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2021-banknotes/fronts/MONW0077o.jpg",
     "slug": "mongolia-10-000-t-gr-g-e517",
-    "body": "Significant denomination supporting large transactions across Spain. Circulates primarily in banking and commercial sectors. Maintains standardized Euro design with Spanish elements.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "This commemorative 10,000 Togrog banknote was issued on 9 July 2021 by the Bank of Mongolia to celebrate the 100th anniversary of the Mongolian People's Revolution of 1921, which established the Mongolian People's Republic. The reverse image of Kharkhorin recalls the former imperial capital of the Mongol Empire, linking the modern Mongolian state to its medieval heritage. The note measures 150 x 72 mm and was issued alongside a 5,000 Togrog commemorative note in the same series.",
+    "highlights": {
+      "design": "Obverse: Portrait of Chinggis Khan, national coat of arms, 100th-anniversary commemorative overprint, and paiza (gerege) imperial tablet. Reverse: Inner square of the ancient city of Kharkhorin (Karakorum).",
+      "reason": "Commemorates the 100th anniversary of the 1921 Mongolian People's Revolution (1921–2021).",
+      "security": "Windowed security thread with demetalized 'MONGOLBANK', watermark of Chinggis Khan with electrotype Cyrillic bank initials."
+    },
+    "sources": [
+      "https://banknotenews.com/?p=33893",
+      "https://www.banknoteworld.com/mongolia-10-000-tugrik-banknote-2021-p-79-unc-commemorative-100th-anniversary-of-the-mongolian-revolution-1921-2021-.html"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e518",
     "year": 2021,
     "date": "2021",
     "country": "Mongolia",
-    "issuer": "Mongolbank",
+    "issuer": "Bank of Mongolia (Mongolbank)",
     "title": "10.000 Tögrög",
-    "description": "Chinggis Khaan. 100th Anniversary of the Mongolian Revolution (1921-2021).",
+    "description": "The obverse features a portrait of Chinggis Khan, the national coat of arms, a commemorative stamp, and a paiza (gerege) tablet of authority; the reverse depicts the inner square of the ancient city of Kharkhorin (Karakorum).",
     "hue": 36.7,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2021-banknotes/fronts/MONW0079o.jpg",
     "slug": "mongolia-10-000-t-gr-g-e518",
-    "body": "Standard high-denomination Euro note used throughout Spain. Facilitates significant purchases and transactions. Part of coordinated Eurozone currency system.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "This commemorative 10,000 Togrog banknote was issued on 9 July 2021 by the Bank of Mongolia to celebrate the 100th anniversary of the Mongolian People's Revolution of 1921, which established the Mongolian People's Republic. The reverse image of Kharkhorin recalls the former imperial capital of the Mongol Empire, linking the modern Mongolian state to its medieval heritage. The note measures 150 x 72 mm and was issued alongside a 5,000 Togrog commemorative note in the same series.",
+    "highlights": {
+      "design": "Obverse: Portrait of Chinggis Khan, national coat of arms, 100th-anniversary commemorative overprint, and paiza (gerege) imperial tablet. Reverse: Inner square of the ancient city of Kharkhorin (Karakorum).",
+      "reason": "Commemorates the 100th anniversary of the 1921 Mongolian People's Revolution (1921–2021).",
+      "security": "Windowed security thread with demetalized 'MONGOLBANK', watermark of Chinggis Khan with electrotype Cyrillic bank initials."
+    },
+    "sources": [
+      "https://banknotenews.com/?p=33893",
+      "https://www.banknoteworld.com/mongolia-10-000-tugrik-banknote-2021-p-79-unc-commemorative-100th-anniversary-of-the-mongolian-revolution-1921-2021-.html"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e519",
@@ -11854,22 +11902,23 @@
     "year": 2021,
     "date": "2019 & 2021",
     "country": "Peru",
-    "issuer": "Banco Central de Reserva del Perú",
+    "issuer": "Banco Central de Reserva del Peru",
     "title": "50 Soles",
-    "description": "María Rostworowski.",
+    "description": "The obverse features a portrait of historian Maria Rostworowski Tovar de Diez Canseco; the reverse (in vertical orientation) depicts a jaguar and the flowering plant Puya Raimondi.",
     "hue": 334.8,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2021-banknotes/fronts/PERW0198o.jpg",
     "slug": "peru-50-soles-e521",
-    "body": "The 50 soles note was issued by the Banco Central de Reserva del Perú and circulated from 2019 onwards, featuring historian María Rostworowski (1915-2016). The predominantly red note displays her portrait on the obverse alongside a jaguar and Puya Raimondi plant on the reverse. Rostworowski was a renowned expert on Andean civilization and founder of the Institute of Peruvian Studies.",
+    "body": "The Peru 50 Soles banknote was officially authorized in 2021 as part of a new banknote family launched by the Banco Central de Reserva del Peru to honor important 20th-century Peruvian figures from science and culture. Maria Rostworowski (1915–2016) was a pioneering historian and researcher of Andean civilization and the Inca Empire, whose work transformed understanding of pre-Hispanic Peru. Printed by De La Rue International Limited, the note is red in color and measures 140 x 65 mm; it is notable for its vertical reverse design — the first time this orientation was used in the Peruvian sol series.",
     "highlights": {
-      "reason": "Honors María Rostworowski, a leading historian of Andean and Inca civilizations",
-      "design": "Obverse features Rostworowski; reverse displays jaguar and Puya Raimondi alpine plant symbolizing Andean heritage",
-      "security": "Standard Central Reserve Bank security features for modern currency circulation"
+      "design": "Obverse: Portrait of historian Maria Rostworowski with tactile denomination impressions. Reverse (vertical): Jaguar and Puya Raimondi flowering plant.",
+      "reason": "Part of a new banknote family honoring distinguished 20th-century Peruvian intellectuals and showcasing Peru's biodiversity, launched in the context of the bicentennial of Peruvian independence.",
+      "security": "SPARK Live color-shifting element (gold to green), RAPID Detect security thread showing denomination, moving figures, and Andean cross at different angles, GEMINI registration feature, phosphorescent '50' block, watermark with portrait and triangular denomination element."
     },
     "sources": [
-      "https://www.bcrp.gob.pe"
+      "https://platform.keesingtechnologies.com/peru-issues-new-20-and-50-soles-banknotes/",
+      "https://www.coinworld.com/news/paper-money/bank-of-peru-issues-20--50-sol-notes-featuring-20th-century-people"
     ],
-    "confidence": "official"
+    "confidence": "secondary"
   },
   {
     "id": "e522",

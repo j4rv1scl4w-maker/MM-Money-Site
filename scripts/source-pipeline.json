@@ -1,9 +1,9 @@
 {
   "description": "Pipeline per arricchire le emissions con URL reali. Processa in batch da 10, ogni batch viene committato.",
   "total": 493,
-  "processed": 448,
+  "processed": 458,
   "batch_size": 10,
-  "last_committed_batch": 41,
+  "last_committed_batch": 42,
   "items": [
     {
       "id": "e47",
@@ -5728,7 +5728,7 @@
         "Central Bank of Somalia"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -5740,7 +5740,7 @@
         "South African Reserve Bank"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -5752,7 +5752,7 @@
         "South African Reserve Bank"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -5764,7 +5764,7 @@
         "South African Reserve Bank"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -5776,7 +5776,7 @@
         "South African Reserve Bank"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -5788,7 +5788,7 @@
         "South African Reserve Bank"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -5860,7 +5860,7 @@
         "Bank of Spain"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -5872,7 +5872,7 @@
         "Bank of Spain"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -5884,7 +5884,7 @@
         "Bank of Spain"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -5908,7 +5908,7 @@
         "Central Bank of Sri Lanka"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
