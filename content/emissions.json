@@ -11073,14 +11073,20 @@
     "country": "Bhutan",
     "issuer": "Royal Monetary Authority of Bhutan",
     "title": "50 Ngultrum",
-    "description": "Jigme Khesar Namgyel Wangchuk.",
+    "description": "The obverse features a portrait of His Majesty King Jigme Khesar Namgyel Wangchuck flanked by the Khorlo (Wheel of Dharma); the reverse depicts Trongsa Dzong, the ancestral fortress of the Wangchuck dynasty in central Bhutan.",
     "hue": 10.2,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2021-banknotes/fronts/BHU0031o.jpg",
     "slug": "bhutan-50-ngultrum-e485",
-    "body": "The 1000 Singapore Dollar note represents the highest denomination in circulation. Features comprehensive security elements protecting against counterfeiting. Demonstrates Singapore's monetary stability and economic prowess.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The 50 Ngultrum note belongs to the 2013 series that was re-dated and re-signed in 2021, reflecting a new signatory at the Royal Monetary Authority of Bhutan. The design retains the portrait of the Fifth King alongside Trongsa Dzong, the largest dzong-fortress in Bhutan and historical seat of the Tongsa Penlop, which has been the base of power from which every Bhutanese king has governed. Printed on a hybrid cotton-polymer substrate, the 2021 emission offers enhanced durability suited to Bhutan's extreme climatic variations.",
+    "highlights": {
+      "design": "Obverse: Portrait of King Jigme Khesar Namgyel Wangchuck with the Khorlo at centre. Reverse: Trongsa Dzong.",
+      "reason": "Regular circulation re-emission with updated signatory while retaining the existing series design.",
+      "security": "Watermark portrait of the King, intaglio printing with guilloches and micro-text, anti-scanner line structures, fluorescent elements, hybrid cotton-polymer substrate."
+    },
+    "sources": [
+      "https://en.numista.com/catalogue/note217403.html"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e486",
@@ -11089,14 +11095,20 @@
     "country": "Bhutan",
     "issuer": "Royal Monetary Authority of Bhutan",
     "title": "1.000 Ngultrum",
-    "description": "Jigme Khesar Namgyel Wangchuk. Crowning of King Jigme Khesar Namgyel Wangchuk (2008).",
+    "description": "The obverse bears a portrait of His Majesty King Jigme Khesar Namgyel Wangchuck with the Raven Crown, and the reverse depicts Tashichho Dzong, the seat of the Bhutanese government and office of the King in Thimphu.",
     "hue": 34.5,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2021-banknotes/fronts/BHU0034o.jpg",
     "slug": "bhutan-1-000-ngultrum-e486",
-    "body": "The €5 note for Slovakia represents the nation's participation in the eurozone. Features harmonized ECB design standards. Supports everyday transactions in Slovakia.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The 1,000 Ngultrum is the highest denomination in the standard circulation series issued by the Royal Monetary Authority of Bhutan, re-dated 2021 with an updated governor's signature. The note continues the design of the 2013 series, placing the reigning monarch alongside Tashichho Dzong, which houses the throne room and several government ministries. The hybrid cotton-polymer substrate provides superior durability and anti-soiling properties compared to traditional cotton paper.",
+    "highlights": {
+      "design": "Obverse: Portrait of King Jigme Khesar Namgyel Wangchuck with Raven Crown. Reverse: Tashichho Dzong, Thimphu.",
+      "reason": "Regular circulation re-emission with updated signatory and year on the established series design.",
+      "security": "Watermark portrait of the King, intaglio printing, microlettering, guilloches, anti-scanner and anti-copier line structures, hybrid cotton-polymer substrate."
+    },
+    "sources": [
+      "https://en.numista.com/catalogue/note207040.html"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e487",
@@ -11105,14 +11117,21 @@
     "country": "Cambodia",
     "issuer": "National Bank of Cambodia",
     "title": "30.000 Riels",
-    "description": "Naga head, King Father Norodom Sihanouk. 30th Anniversary of Peace Accords / Paris Conference about Cambodia (1991).",
+    "description": "The obverse illustrates the signing of the Paris Peace Agreement with King Norodom Sihanouk returning to Cambodia, while the reverse honours the 30th anniversary of the accords with imagery reflecting national reconciliation and sovereignty.",
     "hue": 187.6,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2021-banknotes/fronts/CMBW2021-030000o.jpg",
     "slug": "cambodia-30-000-riels-e487",
-    "body": "The €10 note for Slovakia maintains the unified ECB design framework. Features modern security printing standards. Widely used in retail and commercial activities.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "Cambodia issued this 30,000-riel commemorative note on 23 October 2021 to mark the 30th anniversary of the Paris Peace Agreements (signed 23 October 1991), which ended more than two decades of civil war and foreign occupation. The denomination of 30,000 riels was specifically chosen to echo the number 30, linking the face value directly to the anniversary. A second theme on the note commemorates the return of His Majesty King Norodom Sihanouk to Cambodia on 14 November 1991. The note is printed on a Durasafe hybrid polymer substrate and is the only Cambodian note of this denomination.",
+    "highlights": {
+      "design": "Obverse: Scenes related to the 1991 Paris Peace Agreements and King Sihanouk's return. Reverse: Imagery celebrating national reconciliation.",
+      "reason": "Issued to commemorate the 30th anniversary of the 1991 Paris Peace Agreements and the return of King Norodom Sihanouk to Cambodia.",
+      "security": "Durasafe hybrid substrate, windowed security thread, holographic features, intaglio printing, serial numbers with colour-shifting ink."
+    },
+    "sources": [
+      "https://platform.keesingtechnologies.com/cambodia-launches-a-new-30000-riel-banknote/",
+      "https://banknotenews.com/?p=34744"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e488",
@@ -11121,14 +11140,20 @@
     "country": "Chile",
     "issuer": "Banco Central de Chile",
     "title": "2.000 Pesos",
-    "description": "Manuel Rodrigues Erdoyza.",
+    "description": "The obverse features a portrait of Manuel Rodriguez Erdoiza with a copihue floral motif and Mapuche Antu sun symbol, while the reverse depicts the Nalcas National Reserve in the Araucania Region with the Tolhuaca volcano and a Choroy parrot.",
     "hue": 263.7,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2021-banknotes/fronts/CIL0162o.jpg",
     "slug": "chile-2-000-pesos-e488",
-    "body": "The €20 note for Slovakia represents mid-range value in the eurozone. Features enhanced security measures. Reflects Slovakia's integration into the European monetary union.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The 2,000 Chilean Peso note is printed on polymer substrate by Note Printing Australia and has been in circulation since 2009 as part of Chile's polymer banknote family. The 2021-dated emission is a re-issue of the established design. Manuel Rodriguez Erdoiza (1785–1818) was a guerrilla leader and lawyer widely regarded as one of the founding heroes of Chilean independence from Spanish colonial rule. The reverse highlights Chile's biodiversity: the Choroy parrot (Enicognathus leptorhynchus) is endemic to Chilean southern forests.",
+    "highlights": {
+      "design": "Obverse: Portrait of Manuel Rodriguez Erdoiza with copihue heart motif and Mapuche Antu symbol. Reverse: Nalcas National Reserve landscape with Tolhuaca volcano and Choroy parrot.",
+      "reason": "Regular circulation polymer emission honouring a hero of Chilean independence.",
+      "security": "Polymer substrate, denomination registration device, colour-shifting Antu ink element (purple to gold), simulated security thread with demetallised text, microprinting."
+    },
+    "sources": [
+      "https://en.numista.com/catalogue/note203633.html"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e489",
@@ -11137,30 +11162,44 @@
     "country": "Chile",
     "issuer": "Banco Central de Chile",
     "title": "5.000 Pesos",
-    "description": "Gabriela Mistral, national flower of Chile (Copihue).",
+    "description": "The obverse features a portrait of poet and Nobel laureate Gabriela Mistral alongside a stylised red-to-gold colour-shifting sun and copihue motif, while the reverse depicts Chilean palm trees and an owl in Parque Nacional La Campana.",
     "hue": 340.6,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2021-banknotes/fronts/CIL0163o.jpg",
     "slug": "chile-5-000-pesos-e489",
-    "body": "The €50 note for Slovakia features the ECB design standards with advanced security elements. Used for significant retail and commercial transactions. Demonstrates Slovakia's full eurozone participation.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The 5,000 Chilean Peso polymer note, printed by Note Printing Australia, has been issued since 2009 and the 2021 date reflects the current emission of the established series. Gabriela Mistral (1889–1957) was a Chilean poet, diplomat, and educator who became the first Latin American author to receive the Nobel Prize in Literature, awarded in 1945. Parque Nacional La Campana on the reverse is a UNESCO World Biosphere Reserve in the Valparaiso Region and was visited by Charles Darwin in 1834.",
+    "highlights": {
+      "design": "Obverse: Portrait of Gabriela Mistral with colour-shifting OVI sun and stylised copihue heart. Reverse: Chilean palm trees and owl in Parque Nacional La Campana.",
+      "reason": "Regular circulation polymer emission honouring Chile's Nobel Prize-winning poet and national natural heritage.",
+      "security": "Polymer substrate, red-to-gold optically variable element, denomination registration device, simulated security thread with demetallised 5000 PESOS text, extensive microprinting."
+    },
+    "sources": [
+      "https://www.banknoteworld.com/chile-5-000-pesos-banknote-2021-p-163h-unc-polymer.html",
+      "https://en.numista.com/205234"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e490",
     "year": 2021,
     "date": "ND (2021)",
     "country": "Cook Islands",
-    "issuer": "Ministry of Finance",
+    "issuer": "Cook Islands Ministry of Finance and Economic Management",
     "title": "3 Dollars",
-    "description": "Ina and the Shark (Polynesian legend).",
+    "description": "The obverse depicts the Polynesian legend of Ina riding a shark in search of the sea god Tinirau, while the reverse shows a Pukapukan fishing canoe against a sunset seascape with the Te-Rongo statue.",
     "hue": 161.9,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2021-banknotes/fronts/COKW2021-03o.jpg",
     "slug": "cook-islands-3-dollars-e490",
-    "body": "The €100 note for Slovakia represents the highest active denomination. Features comprehensive anti-counterfeiting measures coordinated with the ECB. Reflects Slovakia's monetary stability within the eurozone.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The Cook Islands $3 note was redesigned and issued in August 2021 to celebrate the 56th anniversary of Cook Islands Constitution Day (4 August 1965), which marked the islands' self-governance in free association with New Zealand. The $3 denomination is unique to the Cook Islands and co-circulates with the New Zealand dollar. It is printed on De La Rue's SAFEGUARD polymer substrate. The note was formally launched on 3 August 2021 during Constitution Week celebrations.",
+    "highlights": {
+      "design": "Obverse: Ina riding a shark (Polynesian legend). Reverse: Pukapukan fishing canoe at sunset with Te-Rongo/Tangaroa statue.",
+      "reason": "Issued to commemorate the 56th anniversary of Cook Islands Constitution Day and self-governance (1965–2021).",
+      "security": "SAFEGUARD polymer substrate, see-through polymer window, Enhanced GEMINI hidden UV feature behind the Tangaroa statue, microtext."
+    },
+    "sources": [
+      "https://www.delarue.com/about/news/cook-islands-issues-new-3-dollar-banknote",
+      "https://coinweek.com/cook-islands-issue-new-3-polymer-note-on-safeguard/"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e491",
@@ -11169,14 +11208,21 @@
     "country": "Cuba",
     "issuer": "Banco Central de Cuba",
     "title": "5 Pesos",
-    "description": "Antonio Maceo.",
+    "description": "The obverse bears a portrait of General Antonio Maceo Grajales, and the reverse depicts the Protesta de Baragua scene showing Maceo's defiant meeting with Spanish General Arsenio Martinez Campos at Mangos de Baragua on 15 March 1878.",
     "hue": 88.8,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2021-banknotes/fronts/CUB0116ao.jpg",
     "slug": "cuba-5-pesos-e491",
-    "body": "The €5 note for Slovenia represents the nation's participation in the eurozone. Features harmonized ECB design standards. Supports everyday transactions in Slovenia.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The 5 Cuban Peso note has been issued continuously since 1997 and the 2021-dated notes remained in circulation following Cuba's historic monetary unification on 1 January 2021, which abolished the convertible peso (CUC) and made the Cuban Peso (CUP) the sole legal tender. Antonio Maceo Grajales (1845–1896), known as the Bronze Titan, was second-in-command of the Cuban Army of Independence and is venerated as a national hero. The Protesta de Baragua, depicted on the reverse, represents Maceo's refusal to accept Spain's peace terms, becoming a symbol of uncompromising patriotism in Cuban history.",
+    "highlights": {
+      "design": "Obverse: Portrait of Antonio Maceo Grajales. Reverse: Protesta de Baragua — Maceo's meeting with General Martinez Campos at Mangos de Baragua, 1878.",
+      "reason": "Ongoing regular circulation note honouring a hero of Cuban independence; the 2021 series continued after the monetary unification reform.",
+      "security": "Watermark with portrait, embedded security thread, intaglio portrait printing, serial numbers in two colours."
+    },
+    "sources": [
+      "https://www.leftovercurrency.com/exchange/cuban-pesos/current-cuban-pesos-banknotes/5-cuban-pesos-banknote-antonio-maceo/",
+      "https://en.numista.com/catalogue/note219711.html"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e492",
@@ -11185,14 +11231,21 @@
     "country": "Denmark",
     "issuer": "Danmarks Nationalbank",
     "title": "200 Kroner",
-    "description": "Remark.",
+    "description": "The obverse features Knippelsbro (Knippels Bridge) in Copenhagen with a holographic belt plate patch, while the reverse depicts the Langstrup belt plate, an Early Bronze Age artefact (c. 1400 BC), with a lake scene and map.",
     "hue": 144.5,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2021-banknotes/fronts/DENW0072-2021-1o.jpg",
     "slug": "denmark-200-kroner-e492",
-    "body": "The €10 note for Slovenia maintains the unified ECB design framework. Features modern security printing standards. Widely used in retail and commercial activities.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The 200 kroner note belongs to Danmarks Nationalbank's Bridges and Prehistoric Artefacts series, first introduced in 2009. The year 2021 appears on the note, though it entered circulation in early 2024 as one of the first notes issued under King Frederik X. Knippelsbro, the fifth bridge on the same Copenhagen waterway site, dates from 1937 and is an iconic functionalist structure. The Langstrup belt plate on the reverse is the largest known fully preserved Early Bronze Age belt ornament, discovered in northern Zealand before 1880 and now held by the National Museum of Denmark.",
+    "highlights": {
+      "design": "Obverse: Knippelsbro (Knippels Bridge), Copenhagen, with holographic belt plate patch. Reverse: Langstrup bronze belt plate with lake and map vignette.",
+      "reason": "Updated emission of the Bridges and Prehistoric Artefacts series with improved security features; first issued under King Frederik X.",
+      "security": "Solid security thread, windowed motion security thread, watermark of Viking ship hull (Skuldelev, Roskilde Fjord) with electrotype 200, holographic foil patch."
+    },
+    "sources": [
+      "https://en.numista.com/catalogue/note407959.html",
+      "https://www.banknoteworld.org/denmark-200-kroner-2021-p-72a-1.html"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e493",
@@ -11201,14 +11254,21 @@
     "country": "Georgia",
     "issuer": "National Bank of Georgia",
     "title": "5 Lari",
-    "description": "State University (Tbilisi), Ivane Javakishvili.",
+    "description": "The obverse features a portrait of academic Ivane Javakhishvili alongside Tbilisi State University and a gold-to-green SPARK colour-shifting element, while the reverse reproduces a detail from Niko Pirosmani's painting 'A Fisherman in a Red Shirt' and the national coat of arms.",
     "hue": 32.4,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2021-banknotes/fronts/GEO0076o.jpg",
     "slug": "georgia-5-lari-e493",
-    "body": "The €20 note for Slovenia represents mid-range value in the eurozone. Features enhanced security measures. Reflects Slovenia's integration into the European monetary union.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The National Bank of Georgia placed the 5 lari banknote of 2021 emission into circulation on 1 July 2021, alongside the 20 lari of the same year. The design is identical to preceding issues; the sole modification was a slight change in the tonality of background patterns to reduce the risk of confusion between denominations. Ivane Javakhishvili (1876–1940) was the founder of Tbilisi State University (1918) and one of the most eminent Georgian historians and public figures of the 20th century. Niko Pirosmani (1862–1918) is Georgia's most celebrated naïve painter.",
+    "highlights": {
+      "design": "Obverse: Portrait of Ivane Javakhishvili with Tbilisi State University building and SPARK gold-to-green element. Reverse: Pirosmani's 'A Fisherman in a Red Shirt' and national coat of arms.",
+      "reason": "Regular re-emission with adjusted background colour tonality to reduce inter-denomination confusion.",
+      "security": "Gold-to-green windowed SPARK security thread with demetallised text, holographic stripe with portrait, map of Georgia and denomination, iridescent stripe, watermark portrait with electrotype, denomination registration device."
+    },
+    "sources": [
+      "https://nbg.gov.ge/en/media/news/on-the-issuance-of-5-and-20-lari-banknotes-of-2021-emission-in-circulation",
+      "https://www.banknoteworld.com/georgia-5-lari-banknote-2021-p-76a-2-unc.html"
+    ],
+    "confidence": "official"
   },
   {
     "id": "e494",
@@ -11217,14 +11277,21 @@
     "country": "Georgia",
     "issuer": "National Bank of Georgia",
     "title": "20 Lari",
-    "description": "Ilya Chavchavadze, publishing house; personal belongings (lens, watch, pen and inkpot).",
+    "description": "The obverse portrays poet and publisher Ilia Chavchavadze with his publishing house and a magenta-to-green SPARK element, while the reverse shows a panorama of old Tbilisi with Narikala fortress, the equestrian statue of King Vakhtang Gorgasali, and an 18th-century city map.",
     "hue": 0.7,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2021-banknotes/fronts/GEO0078o.jpg",
     "slug": "georgia-20-lari-e494",
-    "body": "The €50 note for Slovenia features the ECB design standards with advanced security elements. Used for significant retail and commercial transactions. Demonstrates Slovenia's full eurozone participation.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The 20 lari banknote of 2021 emission was released into circulation on 1 July 2021 alongside the 5 lari note. The design mirrors the preceding series, with a carefully adjusted background tonality to differentiate it more clearly from adjacent denominations. Ilia Chavchavadze (1837–1907) was the pre-eminent figure of Georgian national revival — a poet, journalist, publisher, and statesman who founded influential newspapers and is canonised as a saint by the Georgian Orthodox Church. The Narikala fortress on the reverse traces its origins to the 4th century AD.",
+    "highlights": {
+      "design": "Obverse: Portrait of Ilia Chavchavadze with Sakartvelos Moambe/Iveria publishing house and magenta-to-green SPARK element. Reverse: Old Tbilisi panorama with Narikala fortress, equestrian statue of King Vakhtang Gorgasali, and Vakhushti Batonishvili's 18th-century map of Tbilisi.",
+      "reason": "Regular re-emission with adjusted background colour tonality to reduce inter-denomination confusion.",
+      "security": "Magenta-to-gold windowed SPARK security thread with demetallised 20 and Georgian text, holographic stripe with portrait, phaeton and map of Georgia, iridescent stripe, watermark portrait with electrotype, denomination registration device."
+    },
+    "sources": [
+      "https://nbg.gov.ge/en/media/news/on-the-issuance-of-5-and-20-lari-banknotes-of-2021-emission-in-circulation",
+      "https://www.banknoteworld.com/georgia-20-lari-banknote-2021-p-78a-2-unc.html"
+    ],
+    "confidence": "official"
   },
   {
     "id": "e495",
