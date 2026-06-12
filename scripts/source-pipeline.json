@@ -1,9 +1,9 @@
 {
   "description": "Pipeline per arricchire le emissions con URL reali. Processa in batch da 10, ogni batch viene committato.",
   "total": 493,
-  "processed": 398,
+  "processed": 408,
   "batch_size": 10,
-  "last_committed_batch": 36,
+  "last_committed_batch": 37,
   "items": [
     {
       "id": "e47",
@@ -5068,7 +5068,7 @@
         "Central Bank of San Marino (coordinated through ECB)"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -5080,7 +5080,7 @@
         "Central Bank of San Marino (coordinated through ECB)"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -5092,7 +5092,7 @@
         "Central Bank of Sao Tome & Principe (Banco Central de Sao Tome e Principe)"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -5104,7 +5104,7 @@
         "Central Bank of Sao Tome & Principe (Banco Central de Sao Tome e Principe)"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -5116,7 +5116,7 @@
         "Central Bank of Sao Tome & Principe (Banco Central de Sao Tome e Principe)"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -5128,7 +5128,7 @@
         "Central Bank of Sao Tome & Principe (Banco Central de Sao Tome e Principe)"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -5164,7 +5164,7 @@
         "Saudi Central Bank (SAMA - Saudi Arabian Monetary Authority)"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -5176,7 +5176,7 @@
         "Saudi Central Bank (SAMA - Saudi Arabian Monetary Authority)"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -5188,7 +5188,7 @@
         "Saudi Central Bank (SAMA - Saudi Arabian Monetary Authority)"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -5200,7 +5200,7 @@
         "Central Bank of Senegal (Banque Centrale des Etats de l'Afrique de l'Ouest)"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
