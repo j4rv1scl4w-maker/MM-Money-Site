@@ -92,16 +92,20 @@ export default async function EmissionPage({ params }: { params: Promise<{ slug:
         <div style={{ marginBottom: 32 }}>
           <div style={{ font: '700 11px/1 Hanken Grotesk,sans-serif', letterSpacing: '.12em', textTransform: 'uppercase', color: 'var(--ink2)', marginBottom: 10 }}>Sources</div>
           <ul style={{ listStyle: 'none', padding: 0, display: 'flex', flexDirection: 'column', gap: 6 }}>
-            {e.sources.map((src, i) => (
-              <li key={i}>
-                {src.startsWith('http')
-                  ? <a href={src} target="_blank" rel="noopener noreferrer" style={{ font: '400 12.5px/1 Hanken Grotesk,sans-serif', color: 'var(--gold)', wordBreak: 'break-all' }}>
-                      {src}
-                    </a>
-                  : <span style={{ font: '400 12.5px/1 Hanken Grotesk,sans-serif', color: 'var(--ink2)', wordBreak: 'break-all' }}>{src}</span>
-                }
-              </li>
-            ))}
+            {e.sources.map((src, i) => {
+              const url = typeof src === 'string' ? src : (src as { url: string; label?: string }).url;
+              const label = typeof src === 'string' ? src : ((src as { url: string; label?: string }).label ?? url);
+              return (
+                <li key={i}>
+                  {url.startsWith('http')
+                    ? <a href={url} target="_blank" rel="noopener noreferrer" style={{ font: '400 12.5px/1 Hanken Grotesk,sans-serif', color: 'var(--gold)', wordBreak: 'break-all' }}>
+                        {label}
+                      </a>
+                    : <span style={{ font: '400 12.5px/1 Hanken Grotesk,sans-serif', color: 'var(--ink2)', wordBreak: 'break-all' }}>{label}</span>
+                  }
+                </li>
+              );
+            })}
           </ul>
         </div>
       )}
