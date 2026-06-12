@@ -11300,14 +11300,21 @@
     "country": "Guatemala",
     "issuer": "Banco de Guatemala",
     "title": "20 Quetzales",
-    "description": "Printer. 200th Anniversary of Independence (1821-2021).",
+    "description": "Obverse features a vertical portrait of Dr. Mariano Gálvez and the Real Palacio de la Nueva Guatemala de la Asunción; reverse depicts the allegory of the signing of the Central American Independence Act with a quetzal bird.",
     "hue": 208.1,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2021-banknotes/fronts/GTMW2020-020o.jpg",
     "slug": "guatemala-20-quetzales-e495",
-    "body": "The €100 note for Slovenia represents the highest active denomination. Features comprehensive anti-counterfeiting measures coordinated with the ECB. Reflects Slovenia's monetary stability within the eurozone.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "Issued on 27 May 2020, this commemorative note celebrates the 200th anniversary of Central American independence (1821–2021). It is the first commemorative banknote ever issued by the Banco de Guatemala and the first vertically oriented note in Guatemalan history. Twenty-five million copies were printed and released into circulation in 2021.",
+    "highlights": {
+      "design": "Obverse: Portrait of Dr. Mariano Gálvez (vertical orientation), Guatemalan flag, and the Real Palacio. Reverse: Allegory of the signing of the independence act and a quetzal bird.",
+      "reason": "Commemorating the bicentennial of Central American independence (1821–2021) — the first commemorative note in Banco de Guatemala's history.",
+      "security": "Galaxy with Saturn-effect windowed security thread (tilts from '20' to a quill image); high-definition watermark portrait of Dr. Mariano Gálvez with electrotypes of Arabic and Mayan numeral '2.0'; SICPA SPARK Live optically variable ink in magenta-to-green; UV-reactive fluorescent quetzal and flag on reverse."
+    },
+    "sources": [
+      "https://platform.keesingtechnologies.com/guatemala-marks-bicentennial-with-a-new-20-q-banknote/",
+      "https://en.numista.com/catalogue/note214923.html"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e496",
@@ -11316,14 +11323,21 @@
     "country": "Guyana",
     "issuer": "Bank of Guyana",
     "title": "2.000 Dollars",
-    "description": "Flag of Guyana, arms, map. 55th Independence Anniversary (1966-2021).",
+    "description": "Obverse features the Bank of Guyana crest, a map of Guyana with natural resources, and the 55th independence anniversary logo; reverse depicts children representing Guyana's six ethnic communities under the slogan 'One Guyana.'",
     "hue": 32.5,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2021-banknotes/fronts/GUYW0042o.jpg",
     "slug": "guyana-2-000-dollars-e496",
-    "body": "The 5 Solomon Islands Dollar note features the nation's Pacific Island culture and maritime heritage. Incorporates modern security features appropriate for island economies. Supports everyday transactions.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "Released in 2021 to mark Guyana's 55th anniversary of independence (1966–2021), this is the country's first polymer banknote. Its introduction was originally planned for 2021 but was delayed by the COVID-19 pandemic. Printed on CCL Secure's GUARDIAN polymer substrate, the note carries bilingual text and contemporary national symbolism.",
+    "highlights": {
+      "design": "Obverse: Bank of Guyana crest, map of Guyana with natural resources, 55th independence logo. Reverse: Faces of children from Guyana's six ethnic groups, motto 'One People, One Nation, One Destiny.'",
+      "reason": "Commemorating the 55th anniversary of Guyana's independence (1966–2021); also Guyana's first polymer banknote.",
+      "security": "Large transparent window showing a jaguar and '2000'; secondary transparent window with SPARK optically variable ink depicting the Victoria Regina lily (Guyana's national flower) with rolling-bar effect; polymer substrate provides inherent security."
+    },
+    "sources": [
+      "https://www.cclsecure.com/news/guyana-launches-commemorative-2000-guardian-polymer-banknote",
+      "https://www.banknoteworld.com/guyana-2-000-dollars-banknote-2021-p-42-unc-commemorative-polymer-55th-independence-anniversary-1966-2021-.html"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e497",
@@ -11332,46 +11346,65 @@
     "country": "Haiti",
     "issuer": "Banque de la République d'Haïti",
     "title": "25 Gourdes",
-    "description": "Remark.",
+    "description": "Obverse portrays General Nicolas Geffrard, a signatory of Haiti's Act of Independence, with an engraved portrait and security microtext; reverse depicts the Fortress of Des Platons in Ducis, southern Haiti.",
     "hue": 245.7,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2021-banknotes/fronts/HAI0266ao.jpg",
     "slug": "haiti-25-gourdes-e497",
-    "body": "The 10 Solomon Islands Dollar note celebrates the nation's cultural heritage and natural beauty. Features enhanced security printing and durability. Widely circulated in Solomon Islands.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The 25 gourdes note is part of Haiti's ongoing commemorative series honoring independence heroes, re-dated 2021 as the Banque de la République d'Haïti updated its circulation notes with enhanced security features. Nicolas Geffrard (1762–1806) was a key military figure of the Haitian War of Independence and a signatory of the 1804 Act of Independence. The Fortress of Des Platons was a strategic stronghold during the independence struggle.",
+    "highlights": {
+      "design": "Obverse: Engraved portrait of General Nicolas Geffrard with microtext at bottom left. Reverse: The Fortress of Des Platons (Ducis, Les Cayes), coat of arms.",
+      "reason": "Regular circulation issue updated to 2021, honoring a signatory of Haiti's 1804 Act of Independence.",
+      "security": "Segmented security thread with 'BRH' readable in transmitted light; engraved intaglio portrait with incorporated microtext; coat of arms overprint; latent image with denomination."
+    },
+    "sources": [
+      "https://en.numista.com/catalogue/note206679.html"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e498",
     "year": 2021,
     "date": "2004-2021",
     "country": "Haiti",
-    "issuer": "Banque de la République d'Haïti / Bank Repiblik Dayiti",
+    "issuer": "Banque de la République d'Haïti",
     "title": "10 Gourdes / Goud",
-    "description": "Remark. Bicentennial of Independence of Haiti (1804-2004).",
+    "description": "Obverse features Lieutenant Sanité Bélair, a female revolutionary and officer under Toussaint Louverture, alongside the Haitian coat of arms; reverse depicts Fort Cap-Rouge in Jacmel.",
     "hue": 342.9,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2021-banknotes/fronts/HAI0272ao.jpg",
     "slug": "haiti-10-gourdes-goud-e498",
-    "body": "The 20 Solomon Islands Dollar note represents mid-range value in the nation's currency system. Features sophisticated anti-counterfeiting measures. Used for retail and commercial transactions.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The 10 gourdes note is part of Haiti's bicentennial independence commemorative series (1804–2004), re-dated 2021 for continued circulation. Sanité Bélair (1781–1802) was a lieutenant in Toussaint Louverture's army and one of the few women to hold military rank during the Haitian Revolution; she was executed by French colonial forces at age 21. The note is printed on polymer by De La Rue and bears text in both French and Haitian Creole.",
+    "highlights": {
+      "design": "Obverse: Portrait of Lieutenant Sanité Bélair, soldiers, and Haitian coat of arms over a clear polymer window. Reverse: Fort Cap-Rouge (Jacmel) with coat of arms.",
+      "reason": "Part of the series commemorating the Bicentennial of Haitian Independence (1804–2004), updated to a 2021 date.",
+      "security": "Polymer substrate with clear windows; latent image reading 'DIX / DIS / 10'; reinforced corner stones as watermark-equivalent; no traditional security thread."
+    },
+    "sources": [
+      "https://en.numista.com/catalogue/note203899.html",
+      "https://banknotenews.com/?p=5230"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e499",
     "year": 2021,
     "date": "2004-2021",
     "country": "Haiti",
-    "issuer": "Banque de la République d'Haïti / Bank Repiblik Dayiti",
+    "issuer": "Banque de la République d'Haïti",
     "title": "500 Gourdes / Goud",
-    "description": "Alexandre Sabès Pétion. Bicentennial of Independence of Haiti (1804-2004).",
+    "description": "Obverse portrays Alexandre Sabès Pétion, co-founder and first president of the Republic of Haiti; reverse depicts Fort Jacques in Fermathe, south of Port-au-Prince.",
     "hue": 39.5,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2021-banknotes/fronts/HAI0277ao.JPG",
     "slug": "haiti-500-gourdes-goud-e499",
-    "body": "The 50 Solomon Islands Dollar note serves as a primary higher denomination. Incorporates advanced watermarks and security thread technology. Reflects Solomon Islands' economic development in the South Pacific.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The 500 gourdes note honors Alexandre Pétion (1770–1818), who co-led the southern republic after Haiti's independence and served as its first elected president. Fort Jacques (1804), visible on the reverse, was constructed immediately after independence to defend Haiti against potential French reconquest. The 2021 date reflects a re-issue of the long-running series with updated security features.",
+    "highlights": {
+      "design": "Obverse: Portrait of Alexandre Sabès Pétion with Haitian coat of arms. Reverse: Fort Jacques (Fermathe, southern Port-au-Prince region).",
+      "reason": "Continuing regular circulation series re-dated 2021, honoring a founding president of the Haitian Republic.",
+      "security": "Segmented security thread with 'BRH' text visible in transmitted light; intaglio engraving of portrait; holographic foil strip with 'BRH BANQUE DE LA REPUBLIQUE D'HAITI' and map of Haiti; latent image with denomination."
+    },
+    "sources": [
+      "https://en.numista.com/catalogue/note216041.html"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e500",
@@ -11380,14 +11413,20 @@
     "country": "Haiti",
     "issuer": "Banque de la République d'Haïti",
     "title": "1.000 Gourdes",
-    "description": "Printer. 250th Anniversary of the Founding of Port-au-Prince (1749-1999).",
+    "description": "Obverse features President Florvil Hyppolite and a stylized sailing ship with the crowned coat of arms of Port-au-Prince; reverse depicts Marché Vallière, the busy central market of Port-au-Prince.",
     "hue": 334.4,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2021-banknotes/fronts/HAI0278ao.jpg",
     "slug": "haiti-1-000-gourdes-e500",
-    "body": "The 100 Solomon Islands Dollar note represents the highest active denomination. Features comprehensive security elements including holograms. Demonstrates the nation's commitment to modern banking standards.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The 1000 gourdes note was originally introduced in 1999 to mark the 250th anniversary of the founding of Port-au-Prince; the 2021 date is a re-issue for continued circulation. Florvil Hyppolite (1828–1896), the 15th President of Haiti, is commemorated for his efforts to modernize the country's infrastructure. Marché Vallière on the reverse represents the vibrant commercial life of the Haitian capital.",
+    "highlights": {
+      "design": "Obverse: Portrait of President Florvil Hyppolite, a sailing ship, and the crowned coat of arms of Port-au-Prince. Reverse: Marché Vallière (the main market of Port-au-Prince).",
+      "reason": "Re-issued in 2021; originally commemorated the 250th anniversary of the founding of Port-au-Prince (1749–1999).",
+      "security": "Holographic starburst security element; segmented security thread with 'BRH'; intaglio engraved portrait; latent image with denomination; UV-fluorescent elements."
+    },
+    "sources": [
+      "https://en.numista.com/catalogue/note204977.html"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e501",
@@ -11396,14 +11435,20 @@
     "country": "Indonesia",
     "issuer": "Bank Indonesia",
     "title": "1.000 Rupiah",
-    "description": "Tjut Meutia.",
+    "description": "Obverse depicts Tjut Meutia, an Acehnese female national hero who fought against Dutch colonialism, against a backdrop of Indonesia's coat of arms; reverse shows Fort Belgica in Banda Neira, Maluku, with a Tari Tifa dancer and an orchid.",
     "hue": 50.1,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2021-banknotes/fronts/INO0154o.jpg",
     "slug": "indonesia-1-000-rupiah-e501",
-    "body": "Modern commemorative issue celebrating Somalia's economic recovery and central bank independence. Features architectural landmarks and national symbols. Part of the 2024 series emphasizing monetary stability and national pride.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The 1000 rupiah note belongs to the 2016 'National Heroes' series introduced by Bank Indonesia on 19 December 2016, when all rupiah denominations were simultaneously redesigned. Tjut Meutia (1848–1910) led guerrilla resistance in Aceh against Dutch colonial forces and was proclaimed a National Hero in 1964. Banda Neira, shown on the reverse, was the historic heart of the Spice Islands trade and a site of Dutch colonial rule. The 2021 date indicates the latest production year within the ongoing series.",
+    "highlights": {
+      "design": "Obverse: Portrait of Tjut Meutia with Indonesia's coat of arms. Reverse: Fort Belgica (Banda Neira, Maluku), Tari Tifa dancer, and an orchid flower.",
+      "reason": "Part of the 2016 National Heroes series, celebrating Indonesian independence-era heroes across all rupiah denominations; 2021 is a re-dated printing.",
+      "security": "Windowed security thread printed with 'BANK INDONESIA'; watermark portrait of Tjut Meutia; electrotype '1000' visible in transmitted light; Bank Indonesia logo registration device (color-shift when viewed from obverse and reverse)."
+    },
+    "sources": [
+      "https://en.wikipedia.org/wiki/Banknotes_of_the_Indonesian_rupiah"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e502",
@@ -11412,20 +11457,21 @@
     "country": "Israel",
     "issuer": "Bank of Israel",
     "title": "20 New Shekels",
-    "description": "Palm trees, Rachel Bluwstein.",
+    "description": "Obverse bears the portrait of Hebrew poet Rachel Bluwstein (Rachel the Poetess) against a background of palm fronds with the poem 'Kinneret' in microtext; reverse depicts the shoreline of Lake Kinneret (Sea of Galilee), the landscape she immortalized in her poetry.",
     "hue": 358.5,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2021-banknotes/fronts/ISR0065o.jpg",
     "slug": "israel-20-new-shekels-e502",
-    "body": "The 20 New Shekels note was introduced by the Bank of Israel on 23 November 2017, featuring poet Rachel Bluwstein (1890-1931). The red banknote displays her portrait and microprinted verses from her signature poem 'Kinneret' on the obverse; the reverse shows the Sea of Galilee shoreline with palm trees, segments of her poetry, and a menorah. This commemorates Hebrew poets of the 20th century.",
+    "body": "Issued in November 2017 as part of the Bank of Israel's Third Series (Series C), the 20 new shekel note dedicates its design to Rachel Bluwstein (1890–1931), considered one of the foremost Hebrew lyric poets. The series, the first Israeli series to feature women on all denominations, replaced the prior Moshe Sharett note. The 2021 date appears on production runs within the ongoing Third Series, with unchanged design. The note measures 129 x 71 mm and is dominated by red tones.",
     "highlights": {
-      "reason": "Honors Rachel Bluwstein, a significant Hebrew-language poet, and celebrates Israeli cultural heritage",
-      "design": "Obverse features Rachel Bluwstein and microprinted poem; reverse depicts Sea of Galilee shoreline with palm trees and menorah",
-      "security": "Includes SPARK technology with gold-to-green optical effects and advanced security printing"
+      "design": "Obverse: Portrait of Rachel Bluwstein with palm fronds and microtext of the poem 'Kinneret.' Reverse: Landscape of the Sea of Galilee (Lake Kinneret).",
+      "reason": "Part of the Third Series of the New Shekel (launched 2017), the first Israeli series to feature women on every denomination, honoring prominent Hebrew poets.",
+      "security": "Windowed security thread with multicolor shift (copper-brown, gold, and lime green); hologram stripe on obverse right with menorahs and denomination '20'; watermark of Rachel Bluwstein with electrotype '20'; latent image denomination in bottom-left corner of reverse; raised intaglio ink numerals for accessibility."
     },
     "sources": [
-      "https://www.timesofisrael.com/bank-of-israel-unveil-new-banknotes-featuring-women/"
+      "https://en.numista.com/catalogue/note202322.html",
+      "https://banknotenews.com/?p=4679"
     ],
-    "confidence": "official"
+    "confidence": "secondary"
   },
   {
     "id": "e503",
@@ -11434,17 +11480,20 @@
     "country": "Jordan",
     "issuer": "Central Bank of Jordan",
     "title": "1 Dinar",
-    "description": "Sherif Hussein Ibn Ali.",
+    "description": "Obverse depicts King Abdullah II bin Al-Hussein and Hashemite silver coins struck in 1916, with a portrait of Sharif Hussein bin Ali who proclaimed the Great Arab Revolt; reverse shows three men riding camels carrying the flag of the Great Arab Revolt.",
     "hue": 65.6,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2021-banknotes/fronts/JOR0034ao.jpg",
     "slug": "jordan-1-dinar-e503",
-    "body": "The 1 dinar note features Sherif Hussein Ibn Ali, leader of the Great Arab Revolt against the Ottoman Empire. The green banknote displays his portrait and historical Hashemite silver coins on the obverse; the reverse depicts three camel riders with the flag of the Arab Revolt. Issued from 2002 onward, it carries strong symbolism of Arab independence and historical significance.",
+    "body": "The Jordan 1 dinar banknote bearing the 2021 (AH1442) date is the final printing of the fourth series (2002–2021), which was the first issue to carry the portrait of King Abdullah II. The fourth series remained in circulation for approximately twenty years until the fifth series launched in late 2022. The 1 dinar denomination honors the legacy of the Great Arab Revolt of 1916, the Hashemite-led uprising against Ottoman rule that shaped the modern Arab world.",
     "highlights": {
-      "reason": "Commemorates Sherif Hussein Ibn Ali and the Great Arab Revolt against Ottoman rule",
-      "design": "Obverse features Sherif Hussein and Hashemite coins; reverse shows three riders with Arab Revolt flag",
-      "security": "Includes watermark of Sherif Hussein Ibn Ali, 3-D security thread, and holographic patch with seven-pointed star"
+      "design": "Obverse: Portrait of King Abdullah II bin Al-Hussein, Hashemite silver coins from 1916, and portrait of Sharif Hussein bin Ali. Reverse: Three men riding camels with the Great Arab Revolt flag.",
+      "reason": "Final-date printing (2021) of Jordan's fourth banknote series (2002–2021), replaced by the fifth series beginning in late 2022.",
+      "security": "Solid security thread; windowed demetalized security thread with 'CBJ 1'; watermark of King Abdullah II; intaglio engraving; optically variable ink patch."
     },
-    "sources": [],
+    "sources": [
+      "https://www.banknoteworld.com/jordan-1-dinar-banknote-2021-ah1442-p-34j-unc.html",
+      "https://en.numista.com/catalogue/note221912.html"
+    ],
     "confidence": "secondary"
   },
   {
@@ -11454,14 +11503,20 @@
     "country": "Jordan",
     "issuer": "Central Bank of Jordan",
     "title": "10 Dinars",
-    "description": "King Talal Ibn Abdullah.",
+    "description": "Obverse features King Abdullah II bin Al-Hussein with Qusayr Amra vaults and a crown registration device; reverse depicts the Roman Amphitheatre of Amman and Ajloun Castle.",
     "hue": 248.1,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2021-banknotes/fronts/JOR0036ao.jpg",
     "slug": "jordan-10-dinars-e504",
-    "body": "Lower denomination from 2024 series addressing everyday transactions. Emphasizes historical figures and cultural identity. Color-coded for ease of identification in commerce.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The Jordan 10 dinars banknote with the 2021 date represents a late printing of the fourth series, which was introduced in 2002 as the first series to carry a portrait of King Abdullah II. The fourth series remained in circulation until gradually replaced by the fifth series beginning in late 2022. The 10 dinar denomination links Jordanian identity to its ancient Roman heritage in Amman and the medieval Crusader-era Ajloun Castle.",
+    "highlights": {
+      "design": "Obverse: Portrait of King Abdullah II bin Al-Hussein, Qusayr Amra vaults decoration, and crown registration device. Reverse: Roman Amphitheatre of Amman and Ajloun Castle.",
+      "reason": "Late-date printing (2021) of the fourth series (2002–2021), continuing regular circulation until the fifth series was phased in from 2022.",
+      "security": "Solid security thread; windowed demetalized security thread with 'CBJ 10'; watermark portrait of King Abdullah II with electrotype; intaglio engraving; color-shift optically variable ink."
+    },
+    "sources": [
+      "https://en.numista.com/catalogue/note221912.html"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e505",
