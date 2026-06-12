@@ -9939,16 +9939,23 @@
     "year": 2022,
     "date": "2022",
     "country": "Korea (North)",
-    "issuer": "Central Bank of the Democratic Peoples Republic of Korea",
+    "issuer": "Central Bank of the Democratic People's Republic of Korea",
     "title": "50.000 Won",
-    "description": "Remark.",
+    "description": "The obverse features Mount Paektu sacred to Korean culture with the coat of arms of the DPRK; the reverse depicts Heaven Lake (Cheonji), the caldera crater lake atop Paektu Mountain.",
     "hue": 70.9,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2022-banknotes/fronts/KONW0069o.jpg",
     "slug": "korea-north-50-000-won-e436",
-    "body": "The 5 East Caribbean Dollar note for Saint Vincent features the nation's volcanic landscape and maritime heritage. Part of the unified ECCB currency system. Supports everyday transactions in the island economy.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "Issued in Juche 111 (2022), this 50,000-won money voucher is the highest denomination ever printed by North Korea, worth ten times the previous highest banknote. It was introduced amid acute shortages of printing materials caused by the suspension of imports during the COVID-19 pandemic beginning in 2020. The vouchers were intended primarily for inter-enterprise transactions in Pyongyang rather than everyday retail circulation. The note bears the name of the Central Bank of the DPRK alongside the Juche calendar date.",
+    "highlights": {
+      "design": "Obverse: Mount Paektu landscape with DPRK coat of arms. Reverse: Heaven Lake (Cheonji) caldera on Paektu Mountain.",
+      "reason": "Issued to address acute shortages of conventional printing materials during the COVID-19 import suspension, replacing standard banknotes for high-value business transactions.",
+      "security": "Printed on low-quality white paper due to material shortages; specific anti-counterfeiting features have not been publicly disclosed by North Korean authorities."
+    },
+    "sources": [
+      "https://www.rfa.org/english/news/korea/donpyo-04072022193445.html/",
+      "https://www.coinworld.com/news/paper-money/north-korea-prints-highest-denomination-50-000-won-voucher"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e437",
@@ -10007,14 +10014,21 @@
     "country": "Liberia",
     "issuer": "Central Bank of Liberia",
     "title": "100 Dollars",
-    "description": "President William Richard Tolbert Jr.",
+    "description": "The obverse bears a portrait of President William Richard Tolbert Jr., the 19th President of Liberia; the reverse depicts a market woman representing everyday Liberian economic life.",
     "hue": 15.8,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2022-banknotes/fronts/LIBW0041o.jpg",
     "slug": "liberia-100-dollars-e439",
-    "body": "The 50 East Caribbean Dollar note features Saint Vincent's achievements in tourism and agriculture. Incorporates advanced security printing technology. Used for significant commercial and retail transactions.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The L$100 banknote is part of the Central Bank of Liberia's renewed banknote family introduced between 2021 and 2024, the first comprehensive redesign in over a decade. The green and purple note measures 143 mm x 66 mm and was among the first denominations rolled out in the new series. William Tolbert (1913–1980) served as Liberia's president from 1971 until his assassination in the 1980 coup and is remembered as a reformist leader. The reverse's market-woman motif celebrates the vital role of women traders in Liberia's informal economy.",
+    "highlights": {
+      "design": "Obverse: Portrait of President William Richard Tolbert Jr. Reverse: A Liberian market woman.",
+      "reason": "Issued as part of a modernized Liberian dollar banknote family to incorporate enhanced security features and updated imagery.",
+      "security": "Rapid windowed security thread with demetalized stars that show pulsating purple-coloured stars when tilted; watermark of coat of arms with electrotype CBL; see-through registration device forming a complete 5-pointed Liberian star when held to light; raised tactile marks for the visually impaired."
+    },
+    "sources": [
+      "https://platform.keesingtechnologies.com/central-bank-of-liberia-introduces-a-new-l100-banknote/",
+      "https://www.banknoteworld.com/liberia-100-dollars-banknote-2022-p-41a-2-unc.html"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e440",
@@ -10048,30 +10062,44 @@
     "country": "Liberia",
     "issuer": "Central Bank of Liberia",
     "title": "1.000 Dollars",
-    "description": "16 tribal masks (Kpelle, Dey, Gbandi, Gio, Yaj, Kissi, Mano, Kru, Mandingo, Grebo, Krahn, Bassa, Gola, Mende, Lorma, Belle).",
+    "description": "The obverse displays the traditional masks of the sixteen tribes of Liberia, while the reverse shows the Capitol building in Monrovia alongside the Central Bank of Liberia logo depicting Kissi Money and a 1969 Liberian 50-cent coin.",
     "hue": 192.5,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2022-banknotes/fronts/LIBW0043o.jpg",
     "slug": "liberia-1-000-dollars-e441",
-    "body": "The 5 Tala note features Samoa's cultural heritage and Pacific Island traditions. Incorporates modern security features appropriate for the Pacific island economy. Supports everyday transactions in Samoa.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "Released in September 2022, the L$1,000 note is the highest denomination in the Central Bank of Liberia's modernized banknote series. Its blue, brown, and pink design celebrates Liberia's ethnic diversity by showcasing the ceremonial masks of 16 tribal groups: Kpelle, Dey, Gbandi, Gio, Vai, Kissi, Mano, Kru, Mandingo, Grebo, Krahn, Bassa, Gola, Mende, Lorma, and Belle. The note sparked controversy when the Sarpo tribe sued the central bank for omitting their tribal mask from the design. The reverse links monetary heritage and national governance by depicting the Capitol alongside historical currency motifs.",
+    "highlights": {
+      "design": "Obverse: Masks of the sixteen tribes of Liberia. Reverse: Capitol building in Monrovia with CBL logo depicting Kissi Money and a 1969 Liberian 50-cent coin.",
+      "reason": "Issued in September 2022 to complete the Central Bank of Liberia's modernized banknote series and to celebrate Liberia's ethnic and cultural diversity.",
+      "security": "Gold-to-green windowed security thread with demetalized stars; watermark of Liberia's coat of arms with electrotype CBL; see-through registration device forming a 5-pointed Liberian star; microtext visible under magnification."
+    },
+    "sources": [
+      "https://platform.keesingtechnologies.com/liberia-issues-new-banknotes-20-50-500-and-1000/",
+      "https://www.numiscollection.com/liberia-1000-dollars-sixteen-tribes-of-liberia-2022-a54618-en.html"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e442",
     "year": 2022,
     "date": "01.01.2022",
     "country": "Macau",
-    "issuer": "Banco da China",
+    "issuer": "Banco Nacional Ultramarino",
     "title": "10 Patacas",
-    "description": "Tiger, zodiac. Year of the Tiger 2022.",
+    "description": "The obverse features a stylized tiger with Chinese zodiac wheel, Chinese lantern, and a SPARK-effect numeral 10, while the reverse shows the BNU Macau head office building and the entrance of the A-Ma Temple with children celebrating Chinese New Year.",
     "hue": 10,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2022-banknotes/fronts/MAC0125o.jpg",
     "slug": "macau-10-patacas-e442",
-    "body": "The 10 Tala note celebrates Samoan natural beauty and cultural accomplishments. Features enhanced security printing and durability. Widely circulated in Samoa's domestic economy.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "This red, orange, and green commemorative note, dated 1 January 2022, was issued by Banco Nacional Ultramarino (National Overseas Bank) to mark the Chinese Year of the Tiger. Under Decree 30/2011, both BNU and the Bank of China (Macau) were authorised to issue up to 20 million commemorative 10-pataca notes per year from 2012 to 2023, one for each animal of the Chinese zodiac cycle. The 2022 note measures 138 mm x 69 mm and was printed by Hong Kong Note Printing Limited. A parallel version with the same Year of the Tiger design was simultaneously issued by Banco da China (Bank of China Macau).",
+    "highlights": {
+      "design": "Obverse: Stylized tiger, twelve-animal zodiac wheel, Chinese lantern, and SPARK-effect denomination 10. Reverse: BNU Macau head office building and A-Ma Temple entrance with New Year celebrants.",
+      "reason": "Annual commemorative issue celebrating the Chinese Year of the Tiger (2022) as part of a 12-year zodiac series authorized under Decree 30/2011.",
+      "security": "4-mm windowed security thread with demetalized numeral 10; watermark of lotus flower with electrotype 10."
+    },
+    "sources": [
+      "https://www.banknoteworld.com/macau-10-patacas-banknote-2022-p-88g-unc-commemorative-year-of-the-tiger-2022-.html",
+      "https://en.numista.com/catalogue/note202227.html"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e443",
@@ -10080,14 +10108,20 @@
     "country": "Namibia",
     "issuer": "Bank of Namibia",
     "title": "200 Namibia Dollars",
-    "description": "Captain Hendrik Witbooi, Parliament building (Windhoek).",
+    "description": "The obverse bears a portrait of Kaptein Hendrik Witbooi against the Parliament building in Windhoek, while the reverse features the Roan Antelope.",
     "hue": 300.5,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2022-banknotes/fronts/NAM0015o.jpg",
     "slug": "namibia-200-namibia-dollars-e443",
-    "body": "The 20 Tala note represents medium-value currency in Samoa. Features improved security measures and accessibility features. Represents Samoa's commitment to modern currency standards.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The N$200 note is the highest denomination in Namibia's current banknote series. Its dominant purple colour and dimensions of 152 x 70 mm were retained in the 2022 update, which introduced upgraded anti-counterfeiting technology. The note was officially launched at a ceremony in Windhoek in February 2023, with the date 2022 printed on the note. Kaptein Hendrik Witbooi (c. 1830–1905) was a Nama resistance leader against German colonial rule and remains one of Namibia's most revered historical figures, appearing on the N$50, N$100, and N$200 denominations.",
+    "highlights": {
+      "design": "Obverse: Portrait of Kaptein Hendrik Witbooi with Parliament building in Windhoek. Reverse: Roan Antelope.",
+      "reason": "Updated circulation note with enhanced security features, introduced as part of the Bank of Namibia's modernized banknote family unveiled in 2023.",
+      "security": "Securicoat varnish; optical variation ink (OVI) that shifts from green to blue on the bank logo; Janus colour-shifting window security thread changing from green to magenta and blue; BON initials and denomination visible as glossy prints when tilted; watermark of Hendrik Witbooi portrait and electrotype 200."
+    },
+    "sources": [
+      "https://banknotenews.com/?p=47403"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e444",
@@ -10096,78 +10130,111 @@
     "country": "Namibia",
     "issuer": "Bank of Namibia",
     "title": "20 Namibia Dollars",
-    "description": "Remark.",
+    "description": "The obverse features a portrait of Founding President Dr Sam Nujoma against the Parliament building in Windhoek, while the reverse depicts the Red Hartebeest.",
     "hue": 23,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2022-banknotes/fronts/NAM0017o.jpg",
     "slug": "namibia-20-namibia-dollars-e444",
-    "body": "The 50 Tala note serves as a primary higher denomination in Samoa. Incorporates advanced watermark and security thread technology. Used for significant retail and commercial transactions.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The orange-dominant N$20 banknote (134 x 70 mm) honours Samuel Shafiishuna Daniel Nujoma, Namibia's founding president and leader of SWAPO who guided the country to independence in 1990. The 2022 date edition is part of the Bank of Namibia's upgraded banknote series, officially presented in February 2023. The lower denominations (N$10 and N$20) are the only notes in the current series to feature President Nujoma, while higher denominations carry Kaptein Hendrik Witbooi's image.",
+    "highlights": {
+      "design": "Obverse: Portrait of Founding President Dr Sam Nujoma with Parliament building in Windhoek. Reverse: Red Hartebeest.",
+      "reason": "Updated circulation note featuring improved security to reduce counterfeiting, as part of the Bank of Namibia's modernized banknote series.",
+      "security": "Securicoat varnish; optical variation ink (OVI); Janus colour-shifting window security thread; BON initials and denomination 20 become glossy when tilted; watermark portrait of Sam Nujoma and electrotype 20."
+    },
+    "sources": [
+      "https://english.news.cn/africa/20230221/cae94be3f2524aabb8464a6e058c038c/c.html"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e445",
     "year": 2022,
     "date": "2016-2022",
     "country": "New Zealand",
-    "issuer": "Reserve Bank of New Zealand",
+    "issuer": "Reserve Bank of New Zealand - Te Putea Matua",
     "title": "50 Dollars",
-    "description": "Sir Apirana Ngata, Maori meeting house.",
+    "description": "The obverse features Sir Apirana Ngata alongside the Porourangi meeting house (wharenui) and tukutuku poutama panel, while the reverse depicts the kokako bird amid Pureora Forest Park with the blue Entoloma mushroom and supplejack vine.",
     "hue": 249.2,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2022-banknotes/fronts/NZL0194o.jpg",
     "slug": "new-zealand-50-dollars-e445",
-    "body": "The 100 Tala note represents the highest denomination in Samoa's active currency circulation. Features comprehensive security elements including advanced holograms. Reflects Samoa's economic development in the Pacific region.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "The NZ$50 polymer banknote belongs to the Series 7 'Brighter Money' family released in 2016 by the Reserve Bank of New Zealand. Sir Apirana Ngata (1874–1950) was the first Maori person to earn a university degree and served as a Cabinet minister, championing Maori land rights, cultural revival, and education. He has appeared on the $50 note since 1999. The reverse celebrates New Zealand's unique biodiversity through the kokako (Callaeas wilsoni), a rare native bird found in Pureora Forest Park. The 2022-dated notes continue the same design with updated print runs.",
+    "highlights": {
+      "design": "Obverse: Sir Apirana Ngata with Porourangi wharenui and tukutuku poutama panel. Reverse: Kokako bird, Pureora Forest Park, blue Entoloma mushroom, and supplejack vine.",
+      "reason": "Ongoing circulation note honouring Sir Apirana Ngata's contributions to Maori and New Zealand society, part of the Series 7 polymer series.",
+      "security": "Large transparent polymer window with denomination detail and fern/koru border; hologram featuring kokako, denomination 50, ferns, and New Zealand contour map; see-through puzzle number 50; raised tactile ink on portrait, large numeral, and text on both sides."
+    },
+    "sources": [
+      "https://www.rbnz.govt.nz/money-and-cash/banknotes-and-coins/banknotes-in-circulation/50-banknote",
+      "https://en.wikipedia.org/wiki/New_Zealand_fifty-dollar_note"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e446",
     "year": 2022,
     "date": "05-2022",
     "country": "North Macedonia",
-    "issuer": "Narodna Banka na Republika Severna Makedonija",
+    "issuer": "National Bank of the Republic of North Macedonia",
     "title": "100 Denari",
-    "description": "Wooden ceiling in Debar/Dibra Town House.",
+    "description": "The obverse displays the ornate carved wooden ceiling rosette of an Albanian townhouse in Debar, while the reverse shows a 1594 engraving of Skopje by Jacobus Harevin viewed through the window of a traditional Albanian house.",
     "hue": 28.9,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2022-banknotes/fronts/MCDW0029o.jpg",
     "slug": "north-macedonia-100-denari-e446",
-    "body": "The €5 note for San Marino represents the nation's participation in the eurozone. Features the harmonized design across all euro-using territories. Supports everyday transactions in the microstate.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "Dated May 2022 and signed by Governor Anita Angelovska Bezhoska, the 100-denar note (146 x 70 mm) is part of the series updated to reflect the country's new official name following the 2018 Prespa Agreement with Greece, which resolved the long-running naming dispute. The note's lilac and brown design celebrates the rich architectural heritage of the Debar region, known for its exceptional woodcarving tradition. The inclusion of a 16th-century map of Skopje on the reverse underscores the city's long history and its role as the national capital.",
+    "highlights": {
+      "design": "Obverse: Wooden ceiling rosette from an Albanian townhouse in Debar. Reverse: 1594 engraving of Skopje by Jacobus Harevin through an Albanian house window.",
+      "reason": "Updated to bear the new official country name 'Republic of North Macedonia' following the 2019 Prespa Agreement name change.",
+      "security": "2-mm windowed security thread with demetalized bank initials; watermark of the ceiling rosette design."
+    },
+    "sources": [
+      "https://en.numista.com/catalogue/note367023.html"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e447",
     "year": 2022,
     "date": "07-2022",
     "country": "North Macedonia",
-    "issuer": "Narodna Banka na Republika Severna Makedonija",
+    "issuer": "National Bank of the Republic of North Macedonia",
     "title": "1.000 Denari",
-    "description": "Madonna Episkepsis (St. Vrach Mali church, Ohrid).",
+    "description": "The obverse features a gold bird earring, an angel icon, a holographic patch, and an icon of the Christ Child and Madonna Episkepsis from the 14th-century Church of Saint Vrachi-Mali in Ohrid, while the reverse depicts the arches of the 11th-century Church of Saint Sophia in Ohrid.",
     "hue": 17.3,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2022-banknotes/fronts/MCDW0032o.jpg",
     "slug": "north-macedonia-1-000-denari-e447",
-    "body": "The €10 note for San Marino features the ECB's harmonized design standards. Includes modern security features appropriate for eurozone circulation. Widely used in retail and tourism-related transactions.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "Dated July 2022 and signed by Governor Anita Angelovska Bezhoska, the brown 1,000-denar note (152 x 70 mm) showcases the world-renowned medieval religious art and architecture of Ohrid, a UNESCO World Heritage city. The Madonna Episkepsis ('the Overseer') is among the most celebrated Byzantine icons in the Balkans, housed in the Church of Saints Clement and Panteleimon. The 11th-century Church of Saint Sophia's distinctive arcaded nave on the reverse represents a pinnacle of Byzantine architecture in the region. The note was updated to carry the new country name under the Prespa Agreement.",
+    "highlights": {
+      "design": "Obverse: Gold bird earring, angel icon, holographic patch, and Madonna Episkepsis icon from the 14th-century Church of Saint Vrachi-Mali, Ohrid. Reverse: Arches of the 11th-century Church of Saint Sophia, Ohrid.",
+      "reason": "Updated to bear the new official country name 'Republic of North Macedonia' and to showcase North Macedonia's outstanding Byzantine cultural heritage.",
+      "security": "2-mm windowed security thread with demetalized Cyrillic bank initials; holographic patch on obverse; watermark of Madonna Episkepsis."
+    },
+    "sources": [
+      "https://en.numista.com/catalogue/note367025.html",
+      "https://www.banknoteworld.com/north-macedonia-1-000-denari-banknote-2022-p-32-unc.html"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e448",
     "year": 2022,
     "date": "05-2022",
     "country": "North Macedonia",
-    "issuer": "Narodna Banka na Republika Severna Makedonija",
+    "issuer": "National Bank of the Republic of North Macedonia",
     "title": "2.000 Denari",
-    "description": "Bronze artifact in the form of cup poppy, Macedonian bridal dress from Prilep.",
+    "description": "The obverse displays a traditional Macedonian bridal costume from Prilep alongside a 7th-century BC bronze poppy artefact discovered in Suva Reka, Gevgelija, while the reverse features the decorative interior of a 16th-century gilded bowl adorned with peacocks.",
     "hue": 18.3,
     "imageUrl": "https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-uscite-2022-banknotes/fronts/MCDW0033o.jpg",
     "slug": "north-macedonia-2-000-denari-e448",
-    "body": "The €20 note for San Marino represents mid-range value in the eurozone. Features enhanced security printing standards. San Marino's limited population ensures specialized coin and note circulation.",
-    "highlights": {},
-    "sources": [],
-    "confidence": "fallback"
+    "body": "Dated May 2022, the purple, orange, yellow, and green 2,000-denar note (152 x 70 mm) is the highest denomination in the Macedonian denar series and was signed by Governor Anita Angelovska Bezhoska. It interweaves two strands of national identity: the vibrant folk traditions of the Macedonian bride and the ancient archaeological heritage represented by the bronze poppy vessel. The reverse's gilded bowl with peacock ornamentation exemplifies the refined craftsmanship of the Ottoman-era Macedonian decorative arts. The 2022 update reflects the country's official rename to the Republic of North Macedonia.",
+    "highlights": {
+      "design": "Obverse: Traditional Macedonian bridal costume from Prilep and a 7th-century BC bronze poppy from Suva Reka, Gevgelija. Reverse: Interior decoration of a 16th-century gilded bowl with peacocks.",
+      "reason": "Updated to bear the new official country name 'Republic of North Macedonia' following the Prespa Agreement, and to celebrate Macedonian folk heritage and ancient artefacts.",
+      "security": "Pearlescent windowed security thread with demetalized Cyrillic bank initials and denomination 2000; watermark of Macedonian bride, electrotype 2000, and cornerstones."
+    },
+    "sources": [
+      "https://en.numista.com/catalogue/note350320.html",
+      "https://www.banknoteworld.com/north-macedonia-2-000-denari-banknote-2022-p-33-unc.html"
+    ],
+    "confidence": "secondary"
   },
   {
     "id": "e449",
