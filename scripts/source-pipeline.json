@@ -1,9 +1,9 @@
 {
   "description": "Pipeline per arricchire le emissions con URL reali. Processa in batch da 10, ogni batch viene committato.",
   "total": 493,
-  "processed": 438,
+  "processed": 448,
   "batch_size": 10,
-  "last_committed_batch": 40,
+  "last_committed_batch": 41,
   "items": [
     {
       "id": "e47",
@@ -5608,7 +5608,7 @@
         "Bank of Slovenia (Banka Slovenije)"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -5620,7 +5620,7 @@
         "Central Bank of Solomon Islands"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -5632,7 +5632,7 @@
         "Central Bank of Solomon Islands"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -5644,7 +5644,7 @@
         "Central Bank of Solomon Islands"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -5656,7 +5656,7 @@
         "Central Bank of Solomon Islands"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -5668,7 +5668,7 @@
         "Central Bank of Solomon Islands"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -5680,7 +5680,7 @@
         "Central Bank of Somalia"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -5692,7 +5692,7 @@
         "Central Bank of Somalia"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -5704,7 +5704,7 @@
         "Central Bank of Somalia"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
@@ -5716,7 +5716,7 @@
         "Central Bank of Somalia"
       ],
       "confidence": "fallback",
-      "status": "pending",
+      "status": "done",
       "found_urls": []
     },
     {
