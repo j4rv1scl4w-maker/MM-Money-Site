@@ -15,6 +15,10 @@ const nextConfig: NextConfig = {
         hostname: 'www.delcampe.net',
         pathname: '/static/img_large/**',
       },
+      {
+        protocol: 'https',
+        hostname: 'cdn.jsdelivr.net',
+      },
     ],
   },
 };
