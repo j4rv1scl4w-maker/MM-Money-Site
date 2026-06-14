@@ -30,7 +30,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <Nav />
         <main>{children}</main>
         <footer className="footer-row" style={{ padding: '40px 56px 48px', borderTop: '1px solid var(--line)', display: 'flex', justifyContent: 'space-between', alignItems: 'center', color: 'var(--ink2)', fontSize: 12 }}>
-          <div translate="no" style={{ fontFamily: 'var(--font-spectral),Georgia,serif', fontSize: 18, color: 'var(--ink)' }}>
+          <div className="notranslate" translate="no" style={{ fontFamily: 'var(--font-spectral),Georgia,serif', fontSize: 18, color: 'var(--ink)' }}>
             <span style={{ color: 'var(--gold)' }}>MM</span>·Money
           </div>
           <div className="footer-links" style={{ display: 'flex', gap: 36 }}>

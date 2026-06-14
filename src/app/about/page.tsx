@@ -13,13 +13,13 @@ export default function About() {
     <div className="pad-x" style={{ maxWidth: 760, margin: '0 auto', padding: '52px 56px 80px' }}>
 
       <span style={label}>About</span>
-      <h1 translate="no" className="serif" style={{ fontWeight: 300, fontSize: 48, lineHeight: 1.05, margin: '0 0 32px' }}>
+      <h1 translate="no" className="serif notranslate" style={{ fontWeight: 300, fontSize: 48, lineHeight: 1.05, margin: '0 0 32px' }}>
         MM·Money
       </h1>
 
       <div style={sec}>
         <p style={{ font: '400 17px/1.75 Hanken Grotesk,sans-serif', color: 'var(--ink)', margin: '0 0 18px' }}>
-          <span translate="no">MM·Money</span> is a premium banknote dealer specialised in paper numismatics, active since 2009. We offer over 4,000 graded pieces from 241 countries — from common circulated notes to rare overprints, specimens and essays that document the monetary history of the world.
+          <span translate="no" className="notranslate">MM·Money</span> is a premium banknote dealer specialised in paper numismatics, active since 2009. We offer over 4,000 graded pieces from 241 countries — from common circulated notes to rare overprints, specimens and essays that document the monetary history of the world.
         </p>
         <p style={{ font: '400 17px/1.75 Hanken Grotesk,sans-serif', color: 'var(--ink2)', margin: 0 }}>
           Every note is individually photographed, graded and catalogued before listing. We ship worldwide from Italy with tracked shipping on all orders.
