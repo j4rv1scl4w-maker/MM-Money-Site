@@ -45,9 +45,29 @@ export const metadata: Metadata = {
   },
 };
 
+const organizationSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'Organization',
+  name: 'MM·Money',
+  url: SITE_URL,
+  logo: `${SITE_URL}/favicon.ico`,
+  description: 'Over 4,000 catalogued pieces from 208 countries. Rarities, overprints and specimens for discerning collectors.',
+  email: 'info.mmmoney@gmail.com',
+  sameAs: [
+    'https://www.delcampe.net/en_GB/collectables/store/MM-Money',
+    'https://www.ebay.com/str/mmmoney',
+  ],
+};
+
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="en" className={`${spectral.variable} ${hanken.variable}`}>
+      <head>
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationSchema) }}
+        />
+      </head>
       <body>
         <Nav />
         <main>{children}</main>

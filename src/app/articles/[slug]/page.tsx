@@ -50,8 +50,25 @@ export default async function ArticlePage({ params }: { params: Promise<{ slug: 
   const article = articles.find(a => a.slug === slug);
   if (!article) notFound();
 
+  const articleSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'Article',
+    headline: article.title,
+    description: article.meta,
+    keywords: article.kw.join(', '),
+    url: `${SITE_URL}/articles/${slug}`,
+    datePublished: article.createdAt,
+    dateModified: article.updatedAt ?? article.createdAt,
+    author: { '@type': 'Organization', name: 'MM·Money', url: SITE_URL },
+    publisher: { '@type': 'Organization', name: 'MM·Money', url: SITE_URL },
+  };
+
   return (
     <article style={{ maxWidth: 740, margin: '0 auto', padding: '44px 24px 80px' }}>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
+      />
       <div style={{ font: '600 12px/1 Hanken Grotesk,sans-serif', color: 'var(--ink2)', marginBottom: 20, display: 'flex', gap: 8 }}>
         <Link href="/articles" style={{ color: 'var(--ink2)', textDecoration: 'none' }}>Articles</Link>
         <span>/</span>
