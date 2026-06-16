@@ -8,14 +8,27 @@ export async function generateStaticParams() {
   return articles.map(a => ({ slug: a.slug }));
 }
 
+const SITE_URL = 'https://mmmoneybanknotes.com';
+
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params;
   const articles = await getArticles();
   const article = articles.find(a => a.slug === slug);
   if (!article) return {};
+  const url = `${SITE_URL}/articles/${slug}`;
   return {
-    title: `${article.title} — MM·Money`,
+    title: article.title,
     description: article.meta,
+    keywords: article.kw,
+    alternates: { canonical: url },
+    openGraph: {
+      type: 'article',
+      url,
+      title: article.title,
+      description: article.meta,
+      publishedTime: article.createdAt,
+      modifiedTime: article.updatedAt,
+    },
   };
 }
 
