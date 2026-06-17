@@ -11,6 +11,7 @@ interface BanknoteImageProps {
   alt?: string;
   style?: React.CSSProperties;
   className?: string;
+  priority?: boolean;
 }
 
 export function delcampeImgUrl(idAuction: string | number): string {
@@ -25,7 +26,7 @@ export function delcampeImgUrl(idAuction: string | number): string {
   return `https://www.delcampe.net/static/img_large/auction/${parts.join('/')}_001.jpg`;
 }
 
-export default function BanknoteImage({ idAuction, hue = 200, denom, label, alt = '', style, className }: BanknoteImageProps) {
+export default function BanknoteImage({ idAuction, hue = 200, denom, label, alt = '', style, className, priority = false }: BanknoteImageProps) {
   const [imgError, setImgError] = useState(false);
 
   // Show placeholder if no id or image failed to load
@@ -53,6 +54,7 @@ export default function BanknoteImage({ idAuction, hue = 200, denom, label, alt 
         sizes="(max-width: 768px) 100vw, 300px"
         style={{ objectFit: 'contain', background: '#111' }}
         onError={() => setImgError(true)}
+        priority={priority}
         unoptimized // Avoids Next.js image optimization server requirement on static export
       />
     </div>

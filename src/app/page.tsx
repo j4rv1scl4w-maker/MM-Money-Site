@@ -70,6 +70,7 @@ export default async function Home() {
                   denom={it.denom.split(' ')[0]}
                   label={it.country.toUpperCase().slice(0, 8)}
                   alt={`${it.country} ${it.denom} ${it.year}`}
+                  priority={i === 0}
                 />
               </div>
             ))}
