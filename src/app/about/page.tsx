@@ -1,8 +1,17 @@
 import type { Metadata } from 'next';
 
+const SITE_URL = 'https://mmmoneybanknotes.com';
+
 export const metadata: Metadata = {
-  title: 'About — MM·Money',
+  title: { absolute: 'About — MM·Money' },
   description: 'Premium banknote dealer. Over 4,000 graded pieces from 241 countries, available on Delcampe and eBay.',
+  alternates: { canonical: `${SITE_URL}/about` },
+  openGraph: {
+    type: 'website',
+    url: `${SITE_URL}/about`,
+    title: 'About — MM·Money',
+    description: 'Premium banknote dealer. Over 4,000 graded pieces from 241 countries, available on Delcampe and eBay.',
+  },
 };
 
 export default function About() {

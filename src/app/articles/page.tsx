@@ -1,6 +1,21 @@
+import type { Metadata } from 'next';
 import Link from 'next/link';
 import Banknote from '@/components/Banknote';
 import { getArticles } from '@/lib/content';
+
+const SITE_URL = 'https://mmmoneybanknotes.com';
+
+export const metadata: Metadata = {
+  title: 'Articles & Guides',
+  description: 'In-depth articles on world banknote collecting: history, grading, overprints, and country spotlights.',
+  alternates: { canonical: `${SITE_URL}/articles` },
+  openGraph: {
+    type: 'website',
+    url: `${SITE_URL}/articles`,
+    title: 'Articles & Guides | MM·Money',
+    description: 'In-depth articles on world banknote collecting: history, grading, overprints, and country spotlights.',
+  },
+};
 
 export default async function Articles() {
   const articles = await getArticles();
