@@ -2,6 +2,7 @@ import type { Metadata } from 'next';
 import { Spectral, Hanken_Grotesk } from 'next/font/google';
 import './globals.css';
 import Nav from '@/components/Nav';
+import WebVitals from '@/components/WebVitals';
 
 const spectral = Spectral({
   subsets: ['latin'],
@@ -43,6 +44,9 @@ export const metadata: Metadata = {
     title: 'MM·Money — Rare banknotes of the world',
     description: 'Over 4,000 catalogued pieces from 208 countries. Rarities, overprints and specimens for discerning collectors.',
   },
+  ...(process.env.NEXT_PUBLIC_GSC_VERIFICATION && {
+    verification: { google: process.env.NEXT_PUBLIC_GSC_VERIFICATION },
+  }),
 };
 
 const organizationSchema = {
@@ -82,6 +86,14 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             <span>© 2026</span>
           </div>
         </footer>
+        <WebVitals />
+        {process.env.NEXT_PUBLIC_CF_BEACON_TOKEN && (
+          <script
+            defer
+            src="https://static.cloudflareinsights.com/beacon.min.js"
+            data-cf-beacon={JSON.stringify({ token: process.env.NEXT_PUBLIC_CF_BEACON_TOKEN })}
+          />
+        )}
       </body>
     </html>
   );
