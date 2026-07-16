@@ -84,3 +84,14 @@ export const ARTICLES: Article[] = [
 export function eur(n: number) {
   return "€ " + n.toFixed(2).replace(".", ",");
 }
+
+// Static export is served under a basePath on GitHub Pages (see next.config.ts).
+// next/image with `unoptimized` does NOT prepend basePath to the src, so we do it
+// ourselves for root-relative asset paths (absolute http(s) URLs are left untouched).
+export const BASE_PATH =
+  process.env.NEXT_PUBLIC_BUILD_MODE === "export" ? "/MM-Money-Site" : "";
+
+export function assetUrl(path: string): string {
+  if (!path || /^https?:\/\//.test(path)) return path;
+  return `${BASE_PATH}${path}`;
+}

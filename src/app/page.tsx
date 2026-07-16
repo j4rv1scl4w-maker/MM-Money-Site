@@ -2,7 +2,7 @@ import Link from 'next/link';
 import Image from 'next/image';
 import Banknote from '@/components/Banknote';
 import BanknoteImage from '@/components/BanknoteImage';
-import { eur } from '@/lib/data';
+import { eur, assetUrl } from '@/lib/data';
 import { getArticles } from '@/lib/content';
 import type { CatalogItem } from '@/lib/content';
 import catalogData from '../../content/catalog.json';
@@ -17,10 +17,10 @@ const ALL_CATALOG = catalogData as CatalogItem[];
 const COUNTRY_COUNT = new Set(ALL_CATALOG.map(i => i.country)).size;
 
 const UPCOMING_RELEASES = [
-  { region: 'Curaçao & Sint Maarten', issuer: 'Centrale Bank van Curaçao en Sint Maarten', title: '10 Caribbean Guilders', when: 'Mar 2025', hue: 45,  imageUrl: 'https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-dated-2025-first-11/11-curacao-and-sint-maarten-10-caribbean-guilders-mar-2025.jpg' },
-  { region: 'Mexico',                 issuer: 'Banco de México',                           title: '1,000 Pesos',          when: 'Mar 2025', hue: 200, imageUrl: 'https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-dated-2025-first-11/10-mexico-1-000-pesos-mar-2025.jpg' },
-  { region: 'Poland',                 issuer: 'Narodowy Bank Polski',                      title: '20 Zlotych',           when: 'Jan 2025', hue: 215, imageUrl: 'https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-dated-2025-first-11/02-poland-20-zlotych-jan-2025.jpg' },
-  { region: 'Egypt',                  issuer: 'Central Bank of Egypt',                     title: '10 Pounds',            when: 'Jan 2025', hue: 40,  imageUrl: 'https://cdn.jsdelivr.net/gh/j4rv1scl4w-maker/Assets@main/banknote-ws-dated-2025-first-11/01-egypt-10-pounds-jan-2025.jpg' },
+  { region: 'Curaçao & Sint Maarten', issuer: 'Centrale Bank van Curaçao en Sint Maarten', title: '10 Caribbean Guilders', when: 'Mar 2025', hue: 45,  imageUrl: '/emissions/banknote-ws-dated-2025-first-11/11-curacao-and-sint-maarten-10-caribbean-guilders-mar-2025.jpg' },
+  { region: 'Mexico',                 issuer: 'Banco de México',                           title: '1,000 Pesos',          when: 'Mar 2025', hue: 200, imageUrl: '/emissions/banknote-ws-dated-2025-first-11/10-mexico-1-000-pesos-mar-2025.jpg' },
+  { region: 'Poland',                 issuer: 'Narodowy Bank Polski',                      title: '20 Zlotych',           when: 'Jan 2025', hue: 215, imageUrl: '/emissions/banknote-ws-dated-2025-first-11/02-poland-20-zlotych-jan-2025.jpg' },
+  { region: 'Egypt',                  issuer: 'Central Bank of Egypt',                     title: '10 Pounds',            when: 'Jan 2025', hue: 40,  imageUrl: '/emissions/banknote-ws-dated-2025-first-11/01-egypt-10-pounds-jan-2025.jpg' },
 ];
 
 const STATS = [
@@ -151,7 +151,7 @@ export default async function Home() {
             <div key={i} style={{ background: 'var(--bg2)', border: '1px solid var(--line)', borderRadius: 6, overflow: 'hidden' }}>
               <div style={{ position: 'relative', aspectRatio: '8/5', background: 'var(--card)' }}>
                 {u.imageUrl
-                  ? <Image src={u.imageUrl} alt={u.title} fill style={{ objectFit: 'contain', background: '#111' }} unoptimized />
+                  ? <Image src={assetUrl(u.imageUrl)} alt={u.title} fill style={{ objectFit: 'contain', background: '#111' }} unoptimized />
                   : <Banknote hue={u.hue} dark label={u.region} style={{ width: '100%', height: '100%' }} />
                 }
               </div>
