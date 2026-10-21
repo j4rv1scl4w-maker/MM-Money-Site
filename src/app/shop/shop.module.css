@@ -1,0 +1,190 @@
+.page {
+  max-width: 1120px;
+  margin: 0 auto;
+  padding: 20px 20px 72px;
+}
+
+.lang {
+  display: flex;
+  justify-content: flex-end;
+  gap: 8px;
+  margin-bottom: 16px;
+}
+
+.lang a {
+  min-height: 36px;
+  padding: 8px 12px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  color: var(--ink2);
+  text-decoration: none;
+  font: 700 12px/1 var(--font-hanken), 'Hanken Grotesk', sans-serif;
+  letter-spacing: 0.08em;
+}
+
+.lang a[aria-current='page'] {
+  color: #1b150a;
+  background: var(--gold);
+  border-color: var(--gold);
+}
+
+.layout {
+  display: grid;
+  gap: 22px;
+}
+
+.collage {
+  display: grid;
+  gap: 8px;
+}
+
+.heroFrame,
+.thumb {
+  position: relative;
+  overflow: hidden;
+  border: 1px solid var(--line);
+  background: #111;
+}
+
+.heroFrame {
+  aspect-ratio: 8 / 5;
+  border-radius: 12px;
+}
+
+.thumbs {
+  display: none;
+}
+
+.thumb {
+  aspect-ratio: 8 / 5;
+  border-radius: 8px;
+}
+
+.eyebrow {
+  margin-bottom: 10px;
+  color: var(--gold);
+  font: 600 11px/1 var(--font-hanken), 'Hanken Grotesk', sans-serif;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+}
+
+.title {
+  margin: 0;
+  font-weight: 300;
+  font-size: 40px;
+  line-height: 1.05;
+  letter-spacing: -0.02em;
+}
+
+.lede {
+  max-width: 38rem;
+  margin: 14px 0 0;
+  color: var(--ink2);
+  font: 400 16px/1.6 var(--font-hanken), 'Hanken Grotesk', sans-serif;
+}
+
+.trust {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+  margin: 22px 0 16px;
+}
+
+.trust div {
+  padding: 14px 12px 12px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--bg2);
+}
+
+.trust strong {
+  display: block;
+  color: var(--gold2);
+  font-family: var(--font-spectral), Georgia, serif;
+  font-size: 26px;
+  font-weight: 400;
+  line-height: 1;
+}
+
+.trust span {
+  display: block;
+  margin-top: 6px;
+  color: var(--ink2);
+  font: 500 12px/1.35 var(--font-hanken), 'Hanken Grotesk', sans-serif;
+}
+
+.cta {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  min-height: 52px;
+  padding: 14px 18px;
+  border-radius: 4px;
+  background: var(--gold);
+  color: #1b150a;
+  text-align: center;
+  text-decoration: none;
+  font: 700 15px/1.2 var(--font-hanken), 'Hanken Grotesk', sans-serif;
+}
+
+.cta:hover {
+  background: var(--gold2);
+}
+
+.note {
+  margin: 12px 0 0;
+  color: var(--ink2);
+  font: 400 13px/1.5 var(--font-hanken), 'Hanken Grotesk', sans-serif;
+}
+
+.ebay {
+  display: inline-block;
+  margin-top: 14px;
+  color: var(--ink2);
+  font: 600 13px/1 var(--font-hanken), 'Hanken Grotesk', sans-serif;
+}
+
+.more {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 8px;
+  margin-top: 28px;
+}
+
+@media (min-width: 900px) {
+  .page {
+    padding: 36px 56px 88px;
+  }
+
+  .layout {
+    grid-template-columns: minmax(0, 1.05fr) minmax(0, 0.95fr);
+    gap: 48px;
+    align-items: center;
+  }
+
+  .collage {
+    grid-template-columns: 1.35fr 1fr;
+  }
+
+  .heroFrame {
+    grid-row: span 2;
+  }
+
+  .thumbs {
+    display: grid;
+    gap: 8px;
+  }
+
+  .copy {
+    order: -1;
+  }
+
+  .title {
+    font-size: 56px;
+  }
+
+  .more {
+    display: none;
+  }
+}

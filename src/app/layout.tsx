@@ -1,7 +1,9 @@
 import { Spectral, Hanken_Grotesk } from 'next/font/google';
 import './globals.css';
+import CloudflareBeacon from '@/components/CloudflareBeacon';
 import Nav from '@/components/Nav';
 import { homeMetadata } from '@/lib/seo';
+import { promoteEbay, ebayStoreUrl } from '@/lib/stores';
 import { DELCAMPE_STORE, SITE_URL, catalogDescription, catalogStats, jsonLd } from '@/lib/site';
 
 const spectral = Spectral({
@@ -44,6 +46,7 @@ export default async function RootLayout({ children }: { children: React.ReactNo
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: jsonLd(organizationSchema) }}
         />
+        <CloudflareBeacon />
         <Nav />
         <main>{children}</main>
         <footer className="footer-row" style={{ padding: '40px 56px 48px', borderTop: '1px solid var(--line)', display: 'flex', justifyContent: 'space-between', alignItems: 'center', color: 'var(--ink2)', fontSize: 12 }}>
@@ -52,7 +55,9 @@ export default async function RootLayout({ children }: { children: React.ReactNo
           </div>
           <div className="footer-links" style={{ display: 'flex', gap: 36 }}>
             <a href="https://www.delcampe.net/en_GB/collectables/store/MM-Money" target="_blank" rel="noopener noreferrer" style={{ color: 'var(--ink2)', textDecoration: 'none' }}>Delcampe</a>
-            <a href="https://www.ebay.com/str/mmmoney" target="_blank" rel="noopener noreferrer" style={{ color: 'var(--ink2)', textDecoration: 'none' }}>eBay</a>
+            {promoteEbay && (
+              <a href={ebayStoreUrl} target="_blank" rel="noopener noreferrer" style={{ color: 'var(--ink2)', textDecoration: 'none' }}>eBay</a>
+            )}
             <a href="mailto:info.mmmoney@gmail.com" style={{ color: 'var(--ink2)', textDecoration: 'none' }}>Contact</a>
             <span>© 2026</span>
           </div>
