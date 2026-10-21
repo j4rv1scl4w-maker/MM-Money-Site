@@ -36,6 +36,9 @@ jobs:
         env:
           NEXT_PUBLIC_BUILD_MODE: export
           NEXT_PUBLIC_CUSTOM_DOMAIN: true
+          # Public beacon token. Prefer an Actions variable; a secret with the same name also works.
+          # Leave both empty to publish the site with no analytics snippet.
+          NEXT_PUBLIC_CF_BEACON_TOKEN: ${{ vars.NEXT_PUBLIC_CF_BEACON_TOKEN != '' && vars.NEXT_PUBLIC_CF_BEACON_TOKEN || secrets.NEXT_PUBLIC_CF_BEACON_TOKEN }}
 
       - name: Add .nojekyll
         run: touch out/.nojekyll

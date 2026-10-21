@@ -13,6 +13,8 @@ export function pageMeta({
   publishedTime,
   modifiedTime,
   includeOgImage = true,
+  locale = 'en_GB',
+  languages,
 }: {
   title: string;
   description: string;
@@ -24,6 +26,8 @@ export function pageMeta({
   modifiedTime?: string;
   /** Home uses the generated file image, rewritten to /og.png after export. */
   includeOgImage?: boolean;
+  locale?: string;
+  languages?: Record<string, string>;
 }): Metadata {
   const url = pageUrl(path);
   const ogImages = images && images.length > 0 ? images : includeOgImage ? [DEFAULT_OG_IMAGE] : undefined;
@@ -31,14 +35,14 @@ export function pageMeta({
     title: { absolute: title },
     description,
     keywords,
-    alternates: { canonical: url },
+    alternates: { canonical: url, ...(languages ? { languages } : {}) },
     openGraph: {
       type,
       url,
       siteName: 'MM·Money',
       title,
       description,
-      locale: 'en_GB',
+      locale,
       ...(ogImages ? { images: ogImages } : {}),
       ...(publishedTime ? { publishedTime } : {}),
       ...(modifiedTime ? { modifiedTime } : {}),
