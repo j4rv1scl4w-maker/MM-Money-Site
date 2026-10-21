@@ -1,5 +1,6 @@
 import fs from 'fs/promises';
 import path from 'path';
+import { localEmissionImage } from '@/lib/images';
 import type { NewsItem, Article } from './data';
 
 export interface Emission {
@@ -79,7 +80,11 @@ export async function getCatalog(): Promise<CatalogItem[]> {
 }
 
 export async function getEmissions(): Promise<Emission[]> {
-  return readJSON<Emission>('emissions.json', []);
+  const emissions = await readJSON<Emission>('emissions.json', []);
+  return emissions.map((emission) => ({
+    ...emission,
+    imageUrl: localEmissionImage(emission.imageUrl),
+  }));
 }
 
 export function toSlug(text: string): string {

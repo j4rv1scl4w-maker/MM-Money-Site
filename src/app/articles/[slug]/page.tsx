@@ -1,9 +1,10 @@
 import React from 'react';
 import Link from 'next/link';
-import Image from 'next/image';
 import { notFound } from 'next/navigation';
 import Banknote from '@/components/Banknote';
 import { getArticles } from '@/lib/content';
+import { pageMeta } from '@/lib/seo';
+import { SITE_URL, absoluteAsset, jsonLd, pageUrl } from '@/lib/site';
 
 export async function generateStaticParams() {
   const articles = await getArticles();
@@ -15,10 +16,16 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   const articles = await getArticles();
   const article = articles.find(a => a.slug === slug);
   if (!article) return {};
-  return {
+  return pageMeta({
     title: `${article.title} — MM·Money`,
     description: article.meta,
-  };
+    path: `/articles/${slug}`,
+    type: 'article',
+    keywords: article.kw,
+    images: article.imageUrl ? [article.imageUrl] : undefined,
+    publishedTime: article.createdAt,
+    modifiedTime: article.updatedAt ?? article.createdAt,
+  });
 }
 
 function renderInline(text: string): React.ReactNode[] {
@@ -54,8 +61,29 @@ export default async function ArticlePage({ params }: { params: Promise<{ slug: 
   const article = articles.find(a => a.slug === slug);
   if (!article) notFound();
 
+  const articleSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'Article',
+    headline: article.title,
+    description: article.meta,
+    keywords: article.kw.join(', '),
+    url: pageUrl(`/articles/${slug}`),
+    mainEntityOfPage: pageUrl(`/articles/${slug}`),
+    datePublished: article.createdAt,
+    dateModified: article.updatedAt ?? article.createdAt,
+    image: absoluteAsset(article.imageUrl),
+    author: { '@type': 'Organization', name: 'MM·Money', url: SITE_URL },
+    publisher: {
+      '@type': 'Organization',
+      name: 'MM·Money',
+      url: SITE_URL,
+      logo: { '@type': 'ImageObject', url: `${SITE_URL}/favicon.ico` },
+    },
+  };
+
   return (
     <article style={{ maxWidth: 740, margin: '0 auto', padding: '44px 24px 80px' }}>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: jsonLd(articleSchema) }} />
       <div style={{ font: '600 12px/1 Hanken Grotesk,sans-serif', color: 'var(--ink2)', marginBottom: 20, display: 'flex', gap: 8 }}>
         <Link href="/articles" style={{ color: 'var(--ink2)', textDecoration: 'none' }}>Articles</Link>
         <span>/</span>
