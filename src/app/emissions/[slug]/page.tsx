@@ -3,6 +3,15 @@ import Image from 'next/image';
 import { notFound } from 'next/navigation';
 import Banknote from '@/components/Banknote';
 import { getEmissions } from '@/lib/content';
+import type { Emission } from '@/lib/content';
+import { parseContentDate } from '@/lib/dates';
+import { pageMeta } from '@/lib/seo';
+import { SITE_URL, absoluteAsset, jsonLd, pageUrl } from '@/lib/site';
+
+function emissionDescription(emission: Emission): string {
+  const text = (emission.description || emission.body || `${emission.country} ${emission.title}`).replace(/\s+/g, ' ').trim();
+  return text.length > 180 ? `${text.slice(0, 177)}…` : text;
+}
 
 export async function generateStaticParams() {
   const emissions = await getEmissions();
@@ -14,10 +23,15 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   const emissions = await getEmissions();
   const e = emissions.find(e => e.slug === slug);
   if (!e) return {};
-  return {
+  const published = parseContentDate(e.date, e.year);
+  return pageMeta({
     title: `${e.country} · ${e.title} (${e.date}) — MM·Money`,
-    description: e.body || e.description,
-  };
+    description: emissionDescription(e),
+    path: `/emissions/${slug}`,
+    type: 'article',
+    images: e.imageUrl ? [e.imageUrl] : undefined,
+    publishedTime: published?.toISOString(),
+  });
 }
 
 export default async function EmissionPage({ params }: { params: Promise<{ slug: string }> }) {
@@ -26,8 +40,28 @@ export default async function EmissionPage({ params }: { params: Promise<{ slug:
   const e = emissions.find(e => e.slug === slug);
   if (!e) notFound();
 
+  const published = parseContentDate(e.date, e.year);
+  const emissionSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'Article',
+    headline: `${e.country} ${e.title}`,
+    description: emissionDescription(e),
+    url: pageUrl(`/emissions/${slug}`),
+    mainEntityOfPage: pageUrl(`/emissions/${slug}`),
+    datePublished: published?.toISOString(),
+    image: absoluteAsset(e.imageUrl),
+    author: { '@type': 'Organization', name: 'MM·Money', url: SITE_URL },
+    publisher: {
+      '@type': 'Organization',
+      name: 'MM·Money',
+      url: SITE_URL,
+      logo: { '@type': 'ImageObject', url: `${SITE_URL}/favicon.ico` },
+    },
+  };
+
   return (
     <article style={{ maxWidth: 740, margin: '0 auto', padding: '44px 24px 80px' }}>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: jsonLd(emissionSchema) }} />
       <div style={{ font: '600 12px/1 Hanken Grotesk,sans-serif', color: 'var(--ink2)', marginBottom: 20, display: 'flex', gap: 8, flexWrap: 'wrap' }}>
         <Link href="/news" style={{ color: 'var(--ink2)', textDecoration: 'none' }}>Banknotes News</Link>
         <span>/</span>

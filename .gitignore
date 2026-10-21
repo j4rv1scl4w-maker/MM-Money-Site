@@ -39,4 +39,10 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# python
 __pycache__/
+*.py[cod]
+
+# Scratch research dump. Not read by the site or the pipeline scripts.
+banknotes_research.json

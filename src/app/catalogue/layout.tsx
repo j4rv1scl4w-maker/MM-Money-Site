@@ -1,9 +1,8 @@
-import type { Metadata } from 'next';
+import { catalogueMetadata } from '@/lib/seo';
 
-export const metadata: Metadata = {
-  title: 'Catalogue — MM·Money',
-  description: 'Browse over 4,000 rare banknotes from 208 countries. Filter by grade, country, or denomination. Specimens, overprints and UNC notes for discerning collectors.',
-};
+export async function generateMetadata() {
+  return catalogueMetadata();
+}
 
 export default function CatalogueLayout({ children }: { children: React.ReactNode }) {
   return <>{children}</>;

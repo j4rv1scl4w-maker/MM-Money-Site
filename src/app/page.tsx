@@ -4,6 +4,7 @@ import Banknote from '@/components/Banknote';
 import BanknoteImage from '@/components/BanknoteImage';
 import HomeNewsRotator from '@/components/HomeNewsRotator';
 import { eur } from '@/lib/data';
+import { localEmissionImage } from '@/lib/images';
 import { getArticles } from '@/lib/content';
 import type { CatalogItem } from '@/lib/content';
 import catalogData from '../../content/catalog.json';
@@ -17,7 +18,10 @@ const FEATURED: CatalogItem[] = (catalogData as CatalogItem[])
 const ALL_CATALOG = catalogData as CatalogItem[];
 const COUNTRY_COUNT = new Set(ALL_CATALOG.map(i => i.country)).size;
 
-const EMISSIONS_2026 = emissions2026 as { id: string; year: number; date: string; country: string; issuer: string; title: string; description: string; hue: number; imageUrl?: string }[];
+const EMISSIONS_2026 = (emissions2026 as { id: string; year: number; date: string; country: string; issuer: string; title: string; description: string; hue: number; imageUrl?: string }[]).map((emission) => ({
+  ...emission,
+  imageUrl: localEmissionImage(emission.imageUrl),
+}));
 
 const STATS = [
   [ALL_CATALOG.length.toLocaleString(), 'notes'],
@@ -66,6 +70,7 @@ export default async function Home() {
                   denom={it.denom.split(' ')[0]}
                   label={it.country.toUpperCase().slice(0, 8)}
                   alt={`${it.country} ${it.denom} ${it.year}`}
+                  priority={i === 0}
                 />
               </div>
             ))}

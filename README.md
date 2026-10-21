@@ -1,36 +1,29 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# MM·Money
 
-## Getting Started
+Static site for [mmmoneybanknotes.com](https://mmmoneybanknotes.com): a banknote catalogue, news on new issues, and collector articles. Notes are sold on [Delcampe](https://www.delcampe.net/it/collezionismo/store/MM-Money).
 
-First, run the development server:
+The site is a Next.js static export (`output: export`, trailing slashes). Production deploys from the `main` branch to GitHub Pages with [`.github/workflows/deploy.yml`](.github/workflows/deploy.yml), behind Cloudflare. There is no `basePath`.
+
+## Develop
 
 ```bash
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Production build
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```bash
+npm run build
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+The export is written to `out/`.
 
-## Learn More
+## Content
 
-To learn more about Next.js, take a look at the following resources:
+- `content/catalog.json` — catalogue listings
+- `content/articles.json` — articles
+- `content/emissions.json` — banknote news and `/emissions/` pages
+- `public/emissions/` — local photos for news and the home page
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+`merge_results.py` and `tools/qc_merge.py` read `progress.json` and `review_state.json`. Those files are the research pipeline’s state. They are not imported by the site build, so they stay in the repo. `banknotes_research.json` is scratch data with no readers; it is gitignored.

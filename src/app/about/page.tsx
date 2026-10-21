@@ -1,9 +1,8 @@
-import type { Metadata } from 'next';
+import { aboutMetadata } from '@/lib/seo';
 
-export const metadata: Metadata = {
-  title: 'About — MM·Money',
-  description: 'Premium banknote dealer. Over 4,000 graded pieces from 241 countries, available on Delcampe and eBay.',
-};
+export async function generateMetadata() {
+  return aboutMetadata();
+}
 
 export default function About() {
   const sec: React.CSSProperties = { padding: '0 0 48px' };

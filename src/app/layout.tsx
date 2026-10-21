@@ -1,7 +1,8 @@
-import type { Metadata } from 'next';
 import { Spectral, Hanken_Grotesk } from 'next/font/google';
 import './globals.css';
 import Nav from '@/components/Nav';
+import { homeMetadata } from '@/lib/seo';
+import { DELCAMPE_STORE, SITE_URL, catalogDescription, catalogStats, jsonLd } from '@/lib/site';
 
 const spectral = Spectral({
   subsets: ['latin'],
@@ -18,28 +19,31 @@ const hanken = Hanken_Grotesk({
   display: 'swap',
 });
 
-export const metadata: Metadata = {
-  title: 'MM·Money — Rare banknotes of the world',
-  description: 'Over 4,000 catalogued pieces from 208 countries. Rarities, overprints and specimens for discerning collectors.',
-  openGraph: {
-    siteName: 'MM·Money',
-    title: 'MM·Money — Rare banknotes of the world',
-    description: 'Over 4,000 catalogued pieces from 208 countries. Rarities, overprints and specimens for discerning collectors.',
-    type: 'website',
-    url: 'https://mmmoneybanknotes.com',
-    locale: 'en_GB',
-  },
-  twitter: {
-    card: 'summary',
-    title: 'MM·Money — Rare banknotes of the world',
-    description: 'Over 4,000 catalogued pieces from 208 countries. Rarities, overprints and specimens for discerning collectors.',
-  },
-};
+export async function generateMetadata() {
+  return homeMetadata();
+}
 
-export default function RootLayout({ children }: { children: React.ReactNode }) {
+export default async function RootLayout({ children }: { children: React.ReactNode }) {
+  const { pieces, countries } = await catalogStats();
+  const description = catalogDescription(pieces, countries);
+  const organizationSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'Organization',
+    name: 'MM·Money',
+    url: `${SITE_URL}/`,
+    logo: `${SITE_URL}/favicon.ico`,
+    description,
+    email: 'info.mmmoney@gmail.com',
+    sameAs: [DELCAMPE_STORE],
+  };
+
   return (
     <html lang="en" className={`${spectral.variable} ${hanken.variable}`}>
       <body>
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: jsonLd(organizationSchema) }}
+        />
         <Nav />
         <main>{children}</main>
         <footer className="footer-row" style={{ padding: '40px 56px 48px', borderTop: '1px solid var(--line)', display: 'flex', justifyContent: 'space-between', alignItems: 'center', color: 'var(--ink2)', fontSize: 12 }}>

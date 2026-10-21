@@ -1,12 +1,9 @@
-import type { Metadata } from 'next';
 import Link from 'next/link';
 import Banknote from '@/components/Banknote';
 import { getArticles } from '@/lib/content';
+import { articlesMetadata } from '@/lib/seo';
 
-export const metadata: Metadata = {
-  title: 'Articles & Guides — MM·Money',
-  description: 'Evergreen collector guides and in-depth stories about rare banknotes, overprints, and specimens from around the world.',
-};
+export const metadata = articlesMetadata;
 
 export default async function Articles() {
   const articles = await getArticles();
