@@ -5,10 +5,21 @@ const path = require('path');
 // /opengraph-image?hash. GitHub Pages serves that as application/octet-stream.
 // Copy a real PNG and point the meta tags at it so crawlers receive image/png.
 const outDir = path.join(process.cwd(), 'out');
-const source = path.join(outDir, 'opengraph-image');
 const target = path.join(outDir, 'og.png');
 
-if (!fs.existsSync(source)) {
+// The file is extensionless. At the app root it is `opengraph-image`. Inside a
+// route-group root layout Next suffixes it (`opengraph-image-<id>`).
+function findOpenGraphImage(dir) {
+  const names = fs.readdirSync(dir).filter((name) => /^opengraph-image(?:-[a-z0-9]+)?$/.test(name));
+  const files = names
+    .map((name) => path.join(dir, name))
+    .filter((file) => fs.statSync(file).isFile());
+  if (files.length === 1) return files[0];
+  return null;
+}
+
+const source = findOpenGraphImage(outDir);
+if (!source) {
   console.error('publish-og-image: out/opengraph-image is missing');
   process.exit(1);
 }
@@ -17,7 +28,7 @@ fs.copyFileSync(source, target);
 
 // Hash is hex. Do not use a quote-based match: in flight payloads the URL is
 // followed by an escaped quote (\"), and a greedy match would eat the backslash.
-const from = /https:\/\/mmmoneybanknotes\.com\/opengraph-image\?[a-f0-9]+/g;
+const from = /https:\/\/mmmoneybanknotes\.com\/opengraph-image(?:-[a-z0-9]+)?\?[a-f0-9]+/g;
 const to = 'https://mmmoneybanknotes.com/og.png';
 let files = 0;
 

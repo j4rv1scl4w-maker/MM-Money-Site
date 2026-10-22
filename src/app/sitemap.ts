@@ -10,14 +10,29 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const [articles, emissions] = await Promise.all([getArticles(), getEmissions()]);
 
   // Static routes have no source date. Omit lastModified rather than stamp every build with new Date().
+  const shopLanguages = {
+    en: pageUrl('/shop'),
+    it: pageUrl('/it/shop'),
+    'x-default': pageUrl('/shop'),
+  };
   const staticRoutes: MetadataRoute.Sitemap = [
     { url: pageUrl('/'), changeFrequency: 'weekly', priority: 1 },
     { url: pageUrl('/catalogue'), changeFrequency: 'daily', priority: 0.9 },
     { url: pageUrl('/news'), changeFrequency: 'daily', priority: 0.8 },
     { url: pageUrl('/articles'), changeFrequency: 'weekly', priority: 0.8 },
     { url: pageUrl('/about'), changeFrequency: 'monthly', priority: 0.5 },
-    { url: pageUrl('/shop'), changeFrequency: 'monthly', priority: 0.9 },
-    { url: pageUrl('/it/shop'), changeFrequency: 'monthly', priority: 0.8 },
+    {
+      url: pageUrl('/shop'),
+      changeFrequency: 'monthly',
+      priority: 0.9,
+      alternates: { languages: shopLanguages },
+    },
+    {
+      url: pageUrl('/it/shop'),
+      changeFrequency: 'monthly',
+      priority: 0.8,
+      alternates: { languages: shopLanguages },
+    },
   ];
 
   const articleRoutes: MetadataRoute.Sitemap = articles.map((article) => {

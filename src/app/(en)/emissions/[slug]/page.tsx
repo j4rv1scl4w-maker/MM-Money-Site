@@ -3,15 +3,10 @@ import Image from 'next/image';
 import { notFound } from 'next/navigation';
 import Banknote from '@/components/Banknote';
 import { getEmissions } from '@/lib/content';
-import type { Emission } from '@/lib/content';
 import { parseContentDate } from '@/lib/dates';
+import { emissionMetaDescription } from '@/lib/emission-description';
 import { pageMeta } from '@/lib/seo';
-import { SITE_URL, absoluteAsset, jsonLd, pageUrl } from '@/lib/site';
-
-function emissionDescription(emission: Emission): string {
-  const text = (emission.description || emission.body || `${emission.country} ${emission.title}`).replace(/\s+/g, ' ').trim();
-  return text.length > 180 ? `${text.slice(0, 177)}…` : text;
-}
+import { ORGANIZATION_LOGO, SITE_URL, absoluteAsset, jsonLd, pageUrl } from '@/lib/site';
 
 export async function generateStaticParams() {
   const emissions = await getEmissions();
@@ -26,7 +21,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   const published = parseContentDate(e.date, e.year);
   return pageMeta({
     title: `${e.country} · ${e.title} (${e.date}) — MM·Money`,
-    description: emissionDescription(e),
+    description: emissionMetaDescription(e),
     path: `/emissions/${slug}`,
     type: 'article',
     images: e.imageUrl ? [e.imageUrl] : undefined,
@@ -45,7 +40,7 @@ export default async function EmissionPage({ params }: { params: Promise<{ slug:
     '@context': 'https://schema.org',
     '@type': 'Article',
     headline: `${e.country} ${e.title}`,
-    description: emissionDescription(e),
+    description: emissionMetaDescription(e),
     url: pageUrl(`/emissions/${slug}`),
     mainEntityOfPage: pageUrl(`/emissions/${slug}`),
     datePublished: published?.toISOString(),
@@ -55,7 +50,7 @@ export default async function EmissionPage({ params }: { params: Promise<{ slug:
       '@type': 'Organization',
       name: 'MM·Money',
       url: SITE_URL,
-      logo: { '@type': 'ImageObject', url: `${SITE_URL}/favicon.ico` },
+      logo: ORGANIZATION_LOGO,
     },
   };
 
@@ -84,7 +79,7 @@ export default async function EmissionPage({ params }: { params: Promise<{ slug:
 
       <div style={{ marginBottom: 36, borderRadius: 6, overflow: 'hidden', border: '1px solid var(--line)', background: 'var(--card)', aspectRatio: '8/5', position: 'relative' }}>
         {e.imageUrl
-          ? <Image src={e.imageUrl} alt={`${e.country} ${e.title}`} fill style={{ objectFit: 'contain', background: '#111' }} unoptimized />
+          ? <Image src={e.imageUrl} alt={`${e.country} ${e.title}`} fill sizes="(max-width: 768px) 100vw, 740px" loading="eager" fetchPriority="high" style={{ objectFit: 'contain', background: '#111' }} unoptimized />
           : <Banknote hue={e.hue} dark denom={e.title} label={e.country} style={{ width: '100%', height: '100%' }} />
         }
       </div>

@@ -25,6 +25,11 @@ const nextConfig: NextConfig = {
       },
       {
         protocol: "https",
+        hostname: "www.delcampe.net",
+        pathname: "/static/img_thumb/**",
+      },
+      {
+        protocol: "https",
         hostname: "cdn.jsdelivr.net",
       },
     ],

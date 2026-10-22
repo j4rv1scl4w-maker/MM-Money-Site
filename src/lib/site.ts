@@ -3,6 +3,14 @@ import { getCatalog } from '@/lib/content';
 
 export const SITE_URL = 'https://mmmoneybanknotes.com';
 
+/** Square mark for Organization JSON-LD. The favicon is 32px; Google asks for >=112px. */
+export const ORGANIZATION_LOGO = {
+  '@type': 'ImageObject' as const,
+  url: `${SITE_URL}/logo.png`,
+  width: 512,
+  height: 512,
+};
+
 export const DELCAMPE_STORE = 'https://www.delcampe.net/en_GB/collectables/store/MM-Money';
 
 /** Absolute page URL with a trailing slash, matching `trailingSlash: true`. */

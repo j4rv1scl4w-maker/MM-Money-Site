@@ -2,7 +2,7 @@ import Image from 'next/image';
 import Link from 'next/link';
 import { catalogStats } from '@/lib/site';
 import { delcampeStore, delcampeTrust, ebayStoreUrl, promoteEbay } from '@/lib/stores';
-import styles from '@/app/shop/shop.module.css';
+import styles from '@/app/(en)/shop/shop.module.css';
 
 const NOTES = [
   {
@@ -63,9 +63,6 @@ export default async function ShopLanding({ locale }: { locale: 'en' | 'it' }) {
 
   return (
     <div className={styles.page} lang={locale}>
-      {locale === 'it' && (
-        <script dangerouslySetInnerHTML={{ __html: "document.documentElement.lang='it'" }} />
-      )}
       <nav className={styles.lang} aria-label={locale === 'it' ? 'Lingua' : 'Language'}>
         <Link href="/shop" hrefLang="en" aria-current={locale === 'en' ? 'page' : undefined}>EN</Link>
         <Link href="/it/shop" hrefLang="it" aria-current={locale === 'it' ? 'page' : undefined}>IT</Link>
@@ -74,12 +71,12 @@ export default async function ShopLanding({ locale }: { locale: 'en' | 'it' }) {
       <div className={styles.layout}>
         <div className={styles.collage}>
           <div className={styles.heroFrame}>
-            <Image src={hero.src} alt={hero.alt[locale]} fill priority sizes="(max-width: 900px) 100vw, 46vw" unoptimized />
+            <Image src={hero.src} alt={hero.alt[locale]} fill sizes="(max-width: 900px) 100vw, 46vw" loading="eager" fetchPriority="high" unoptimized />
           </div>
           <div className={styles.thumbs}>
             {rest.slice(0, 2).map((note) => (
               <div className={styles.thumb} key={note.src}>
-                <Image src={note.src} alt={note.alt[locale]} fill sizes="20vw" unoptimized />
+                <Image src={note.src} alt={note.alt[locale]} fill sizes="20vw" loading="lazy" unoptimized />
               </div>
             ))}
           </div>
@@ -124,7 +121,7 @@ export default async function ShopLanding({ locale }: { locale: 'en' | 'it' }) {
       <div className={styles.more}>
         {rest.map((note) => (
           <div className={styles.thumb} key={note.src}>
-            <Image src={note.src} alt={note.alt[locale]} fill sizes="50vw" unoptimized />
+            <Image src={note.src} alt={note.alt[locale]} fill sizes="50vw" loading="lazy" unoptimized />
           </div>
         ))}
       </div>

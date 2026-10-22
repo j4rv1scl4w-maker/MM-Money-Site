@@ -15,17 +15,26 @@ interface Emission {
   imageUrl?: string;
 }
 
-function shuffle<T>(arr: T[]): T[] {
+function shuffle<T>(arr: T[], random: () => number = Math.random): T[] {
   const a = [...arr];
   for (let i = a.length - 1; i > 0; i--) {
-    const j = Math.floor(Math.random() * (i + 1));
+    const j = Math.floor(random() * (i + 1));
     [a[i], a[j]] = [a[j], a[i]];
   }
   return a;
 }
 
+/** Same sequence on the server and the client. Math.random() here was React #418. */
+function seededRandom(seed: number): () => number {
+  let s = seed >>> 0;
+  return () => {
+    s = (Math.imul(s, 1664525) + 1013904223) >>> 0;
+    return s / 4294967296;
+  };
+}
+
 export default function HomeNewsRotator({ emissions }: { emissions: Emission[] }) {
-  const [visible, setVisible] = useState<Emission[]>(() => shuffle(emissions).slice(0, 4));
+  const [visible, setVisible] = useState<Emission[]>(() => shuffle(emissions, seededRandom(0x4d4d6e6d)).slice(0, 4));
 
   useEffect(() => {
     const id = setInterval(() => {
