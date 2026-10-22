@@ -8,7 +8,7 @@ export default async function BanknotesNews() {
     <EmissionsGrid
       emissions={emissions.map((emission) => ({
         ...toEmissionCard(emission),
-        image: responsiveSource(emission.imageUrl),
+        image: responsiveSource(emission.imageUrl, 320),
       }))}
     />
   );

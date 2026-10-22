@@ -31,11 +31,19 @@ function srcSet(variants: Variant[] | undefined): string | undefined {
   return variants.map((variant) => `${variant.src} ${variant.w}w`).join(', ');
 }
 
+function withinWidth(variants: Variant[], maxWidth?: number): Variant[] {
+  if (!maxWidth) return variants;
+  const within = variants.filter((variant) => variant.w <= maxWidth);
+  if (within.length > 0) return within;
+  return variants.slice(0, 1);
+}
+
 /**
  * Attach width, height, and srcset for a local emission photo.
  * External URLs and files the optimizer has not seen pass through unchanged.
+ * `maxWidth` drops candidates the layout cannot use (news thumbs are 160px).
  */
-export function responsiveSource(src?: string | null): ResponsiveSource | undefined {
+export function responsiveSource(src?: string | null, maxWidth?: number): ResponsiveSource | undefined {
   if (!src) return undefined;
   const entry = manifest[src];
   if (!entry) return { src };
@@ -43,8 +51,8 @@ export function responsiveSource(src?: string | null): ResponsiveSource | undefi
     src,
     width: entry.width,
     height: entry.height,
-    avifSrcSet: srcSet(entry.avif),
-    webpSrcSet: srcSet(entry.webp),
+    avifSrcSet: srcSet(withinWidth(entry.avif, maxWidth)),
+    webpSrcSet: srcSet(withinWidth(entry.webp, maxWidth)),
   };
 }
 
