@@ -12,9 +12,12 @@ interface BanknoteImageProps {
   style?: React.CSSProperties;
   className?: string;
   priority?: boolean;
+  /** Card grids pass `thumb`. Detail-sized hero images stay on `large`. */
+  variant?: 'large' | 'thumb';
+  loading?: 'eager' | 'lazy';
 }
 
-export function delcampeImgUrl(idAuction: string | number): string {
+export function delcampeImgUrl(idAuction: string | number, variant: 'large' | 'thumb' = 'large'): string {
   const s = String(idAuction);
   const parts: string[] = [];
   let i = s.length;
@@ -23,10 +26,10 @@ export function delcampeImgUrl(idAuction: string | number): string {
     i -= 3;
   }
   parts[0] = parts[0].padStart(3, '0');
-  return `https://www.delcampe.net/static/img_large/auction/${parts.join('/')}_001.jpg`;
+  return `https://www.delcampe.net/static/img_${variant}/auction/${parts.join('/')}_001.jpg`;
 }
 
-export default function BanknoteImage({ idAuction, hue = 200, denom, label, alt = '', style, className, priority = false }: BanknoteImageProps) {
+export default function BanknoteImage({ idAuction, hue = 200, denom, label, alt = '', style, className, priority = false, variant = 'large', loading = 'lazy' }: BanknoteImageProps) {
   const [imgError, setImgError] = useState(false);
 
   // Show placeholder if no id or image failed to load
@@ -48,13 +51,15 @@ export default function BanknoteImage({ idAuction, hue = 200, denom, label, alt 
       }}
     >
       <Image
-        src={delcampeImgUrl(idAuction)}
+        src={delcampeImgUrl(idAuction, variant)}
         alt={alt || String(label || denom || '')}
         fill
         sizes="(max-width: 768px) 100vw, 300px"
         style={{ objectFit: 'contain', background: '#111' }}
         onError={() => setImgError(true)}
         priority={priority}
+        loading={priority ? 'eager' : loading}
+        fetchPriority={priority ? 'high' : undefined}
         unoptimized // Avoids Next.js image optimization server requirement on static export
       />
     </div>

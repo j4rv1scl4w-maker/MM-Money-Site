@@ -1,14 +1,14 @@
 import Link from 'next/link';
-import Image from 'next/image';
 import Banknote from '@/components/Banknote';
 import BanknoteImage from '@/components/BanknoteImage';
 import HomeNewsRotator from '@/components/HomeNewsRotator';
 import { eur } from '@/lib/data';
+import { formatCount } from '@/lib/format';
 import { localEmissionImage } from '@/lib/images';
 import { getArticles } from '@/lib/content';
 import type { CatalogItem } from '@/lib/content';
-import catalogData from '../../content/catalog.json';
-import emissions2026 from '../../content/emissions-2026.json';
+import catalogData from '../../../content/catalog.json';
+import emissions2026 from '../../../content/emissions-2026.json';
 
 // Top 12 by views for homepage
 const FEATURED: CatalogItem[] = (catalogData as CatalogItem[])
@@ -24,7 +24,7 @@ const EMISSIONS_2026 = (emissions2026 as { id: string; year: number; date: strin
 }));
 
 const STATS = [
-  [ALL_CATALOG.length.toLocaleString(), 'notes'],
+  [formatCount(ALL_CATALOG.length), 'notes'],
   [String(COUNTRY_COUNT),              'countries'],
   ['Delcampe',                          '+ eBay'],
   ['since 2009',                        'worldwide shipping'],
@@ -49,7 +49,7 @@ export default async function Home() {
               at a time.
             </h1>
             <p style={{ maxWidth: 430, marginTop: 24, font: '400 15px/1.65 Hanken Grotesk,sans-serif', color: 'var(--ink2)' }}>
-              A collection of over {ALL_CATALOG.length.toLocaleString()} pieces from {COUNTRY_COUNT} countries. Rarities, overprints and specimens, photographed and graded with archival care.
+              A collection of over {formatCount(ALL_CATALOG.length)} pieces from {COUNTRY_COUNT} countries. Rarities, overprints and specimens, photographed and graded with archival care.
             </p>
             <div style={{ display: 'flex', gap: 12, marginTop: 30 }}>
               <Link href="/catalogue" style={{ background: 'var(--gold)', color: '#1b150a', padding: '13px 26px', font: '700 13px/1 Hanken Grotesk,sans-serif', borderRadius: 3, textDecoration: 'none', display: 'inline-block' }}>
@@ -96,11 +96,11 @@ export default async function Home() {
             <div className="serif" style={{ fontSize: 32 }}>Most viewed pieces</div>
           </div>
           <Link href="/catalogue" style={{ font: '600 13px/1 Hanken Grotesk,sans-serif', color: 'var(--gold)', textDecoration: 'none' }}>
-            Full catalogue ({ALL_CATALOG.length.toLocaleString()}) →
+            Full catalogue ({formatCount(ALL_CATALOG.length)}) →
           </Link>
         </div>
         <div className="grid-4" style={{ display: 'grid', gridTemplateColumns: 'repeat(4,1fr)', gap: 18 }}>
-          {FEATURED.map((it) => (
+          {FEATURED.map((it, index) => (
             <a
               key={it.idAuction}
               href={`https://www.delcampe.net/it/collezionismo/monete-banconote/banconote/${it.title.toLowerCase().replace(/['"]/g,'').replace(/\./g,'').replace(/[^a-z0-9]+/g,'-').replace(/^-+|-+$/g,'')}-${it.idAuction}.html`}
@@ -115,6 +115,8 @@ export default async function Home() {
                   denom={it.denom.split(' ')[0]}
                   label={`${it.country.toUpperCase().slice(0,8)} · ${it.year}`}
                   alt={`${it.country} ${it.denom} ${it.year}`}
+                  variant="thumb"
+                  loading={index === 0 ? 'eager' : 'lazy'}
                 />
               </div>
               <div style={{ padding: '2px 14px 15px' }}>
@@ -156,7 +158,7 @@ export default async function Home() {
             <div style={{ font: '600 11px/1 Hanken Grotesk,sans-serif', letterSpacing: '.2em', textTransform: 'uppercase', color: 'var(--gold)', marginBottom: 10 }}>Blog</div>
             <div className="serif" style={{ fontSize: 32 }}>Articles &amp; guides</div>
           </div>
-          <Link href="/articles" style={{ font: '600 13px/1 Hanken Grotesk,sans-serif', color: 'var(--gold)', textDecoration: 'none' }}>All posts →</Link>
+          <Link href="/articles" prefetch={false} style={{ font: '600 13px/1 Hanken Grotesk,sans-serif', color: 'var(--gold)', textDecoration: 'none' }}>All posts →</Link>
         </div>
         <div className="grid-4" style={{ display: 'grid', gridTemplateColumns: '1.5fr 1fr 1fr', gap: 20 }}>
           {articles.slice(0, 3).map((a, i) => (

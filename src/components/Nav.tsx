@@ -20,7 +20,7 @@ export default function Nav() {
         {NAV.map(({ label, href }) => {
           const active = path === href || path?.startsWith(href + '/');
           return (
-            <Link key={href} href={href} style={{ font: '500 13px/1 Hanken Grotesk,system-ui,sans-serif', color: active ? 'var(--ink)' : 'var(--ink2)', textDecoration: 'none', whiteSpace: 'nowrap' }}>
+            <Link key={href} href={href} prefetch={href === '/articles' ? false : undefined} style={{ font: '500 13px/1 Hanken Grotesk,system-ui,sans-serif', color: active ? 'var(--ink)' : 'var(--ink2)', textDecoration: 'none', whiteSpace: 'nowrap' }}>
               {label}
             </Link>
           );

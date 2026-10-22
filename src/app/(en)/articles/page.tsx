@@ -24,7 +24,7 @@ export default async function Articles() {
         <div className="pad-x" style={{ padding: '0 56px 36px' }}>
           <Link href={`/articles/${featured.slug}`} className="grid-2" style={{ textDecoration: 'none', color: 'inherit', display: 'grid', gridTemplateColumns: '1.15fr 1fr', background: 'var(--bg2)', border: '1px solid var(--line)', borderRadius: 12, padding: 22, gap: 28, alignItems: 'center' }}>
             {featured.imageUrl
-              ? <img src={featured.imageUrl} alt={featured.title} style={{ width: '100%', aspectRatio: '16/9', objectFit: 'cover', borderRadius: 8 }} />
+              ? <img src={featured.imageUrl} alt={featured.title} loading="eager" decoding="async" style={{ width: '100%', aspectRatio: '16/9', objectFit: 'cover', borderRadius: 8 }} />
               : <Banknote hue={featured.hue} dark style={{ aspectRatio: '16/9' }} />
             }
             <div>
@@ -41,7 +41,7 @@ export default async function Articles() {
         {rest.map((a) => (
           <Link key={a.id} href={`/articles/${a.slug}`} style={{ textDecoration: 'none', color: 'inherit', display: 'grid', gridTemplateColumns: '170px 1fr', gap: 18, background: 'var(--card)', border: '1px solid var(--line)', borderRadius: 10, padding: 16, alignItems: 'start' }}>
             {a.imageUrl
-              ? <img src={a.imageUrl} alt={a.title} style={{ width: 170, aspectRatio: '8/5', objectFit: 'cover', borderRadius: 6 }} />
+              ? <img src={a.imageUrl} alt={a.title} loading="lazy" decoding="async" style={{ width: 170, aspectRatio: '8/5', objectFit: 'cover', borderRadius: 6 }} />
               : <Banknote hue={a.hue} dark style={{ aspectRatio: '8/5' }} />
             }
             <div>

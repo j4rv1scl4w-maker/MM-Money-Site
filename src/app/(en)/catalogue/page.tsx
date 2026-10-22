@@ -3,7 +3,8 @@ import { useState, useMemo } from 'react';
 import BanknoteImage from '@/components/BanknoteImage';
 import { eur } from '@/lib/data';
 import type { CatalogItem } from '@/lib/content';
-import catalogData from '../../../content/catalog.json';
+import { formatCount } from '@/lib/format';
+import catalogData from '../../../../content/catalog.json';
 
 const ALL_ITEMS = catalogData as CatalogItem[];
 const ALL_COUNTRIES = ['All', ...Array.from(new Set(ALL_ITEMS.map(i => i.country))).sort()];
@@ -54,7 +55,7 @@ export default function Catalogue() {
     <div className="pad-x" style={{ padding: '44px 56px 60px' }}>
       <div style={{ font: '600 11px/1 Hanken Grotesk,sans-serif', letterSpacing: '.2em', textTransform: 'uppercase', color: 'var(--gold)', marginBottom: 12 }}>Catalogue</div>
       <h1 className="serif" style={{ fontWeight: 400, fontSize: 42, lineHeight: 1.05, margin: '0 0 12px' }}>
-        {ALL_ITEMS.length.toLocaleString()} banknotes from {new Set(ALL_ITEMS.map(i => i.country)).size} countries
+        {formatCount(ALL_ITEMS.length)} banknotes from {new Set(ALL_ITEMS.map(i => i.country)).size} countries
       </h1>
       <p style={{ font: '400 15px/1.6 Hanken Grotesk,sans-serif', color: 'var(--ink2)', maxWidth: 540, margin: '0 0 28px' }}>
         Specimens, overprints, rarities and crisp notes — photographed one by one.
@@ -77,7 +78,7 @@ export default function Catalogue() {
             {ALL_COUNTRIES.map(c => <option key={c} value={c}>{c === 'All' ? 'All countries' : c}</option>)}
           </select>
           <span style={{ font: '400 13px/1 Hanken Grotesk,sans-serif', color: 'var(--ink2)', marginLeft: 'auto' }}>
-            {filtered.length.toLocaleString()} results
+            {formatCount(filtered.length)} results
           </span>
         </div>
         <div style={{ display: 'flex', gap: 6, flexWrap: 'wrap' }}>

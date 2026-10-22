@@ -1,10 +1,8 @@
 import { Spectral, Hanken_Grotesk } from 'next/font/google';
-import './globals.css';
 import CloudflareBeacon from '@/components/CloudflareBeacon';
 import Nav from '@/components/Nav';
-import { homeMetadata } from '@/lib/seo';
 import { promoteEbay, ebayStoreUrl } from '@/lib/stores';
-import { DELCAMPE_STORE, SITE_URL, catalogDescription, catalogStats, jsonLd } from '@/lib/site';
+import { DELCAMPE_STORE, ORGANIZATION_LOGO, SITE_URL, catalogDescription, catalogStats, jsonLd } from '@/lib/site';
 
 const spectral = Spectral({
   subsets: ['latin'],
@@ -21,11 +19,7 @@ const hanken = Hanken_Grotesk({
   display: 'swap',
 });
 
-export async function generateMetadata() {
-  return homeMetadata();
-}
-
-export default async function RootLayout({ children }: { children: React.ReactNode }) {
+export default async function SiteShell({ lang, children }: { lang: 'en' | 'it'; children: React.ReactNode }) {
   const { pieces, countries } = await catalogStats();
   const description = catalogDescription(pieces, countries);
   const organizationSchema = {
@@ -33,14 +27,14 @@ export default async function RootLayout({ children }: { children: React.ReactNo
     '@type': 'Organization',
     name: 'MM·Money',
     url: `${SITE_URL}/`,
-    logo: `${SITE_URL}/favicon.ico`,
+    logo: ORGANIZATION_LOGO,
     description,
     email: 'info.mmmoney@gmail.com',
     sameAs: [DELCAMPE_STORE],
   };
 
   return (
-    <html lang="en" className={`${spectral.variable} ${hanken.variable}`}>
+    <html lang={lang} className={`${spectral.variable} ${hanken.variable}`}>
       <body>
         <script
           type="application/ld+json"

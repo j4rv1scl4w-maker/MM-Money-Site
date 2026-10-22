@@ -4,7 +4,7 @@ import { notFound } from 'next/navigation';
 import Banknote from '@/components/Banknote';
 import { getArticles } from '@/lib/content';
 import { pageMeta } from '@/lib/seo';
-import { SITE_URL, absoluteAsset, jsonLd, pageUrl } from '@/lib/site';
+import { ORGANIZATION_LOGO, SITE_URL, absoluteAsset, jsonLd, pageUrl } from '@/lib/site';
 
 export async function generateStaticParams() {
   const articles = await getArticles();
@@ -77,7 +77,7 @@ export default async function ArticlePage({ params }: { params: Promise<{ slug: 
       '@type': 'Organization',
       name: 'MM·Money',
       url: SITE_URL,
-      logo: { '@type': 'ImageObject', url: `${SITE_URL}/favicon.ico` },
+      logo: ORGANIZATION_LOGO,
     },
   };
 
