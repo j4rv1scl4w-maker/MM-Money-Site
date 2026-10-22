@@ -13990,6 +13990,7 @@
     "title": "50.000 Riels",
     "description": "Norodom Sihanouk and a seven-headed naga; Bakong temple and a young elephant on the back.",
     "hue": 36,
+    "imageUrl": "/emissions/2026-additions/cambodia-50000-riels-2026.webp",
     "slug": "cambodia-50-000-riels-e593",
     "body": "On 25 September 2026 Cambodia issued a new 50,000-riel note. Sub-decrees signed by Prime Minister Hun Manet put it into circulation beside the notes already in use. The National Bank of Cambodia set the design out in a prakas, reported the same day by Agence Kampuchea Presse.\n\nThe note measures 155 × 72 mm and is mainly dark yellow and brown. The front shows former King Norodom Sihanouk and a seven-headed naga. The back shows Bakong temple, in the Roluos group, and a young elephant taken from a stone carving at Koh Ker. Both new high denominations carry marks that can be felt by people with impaired sight, and a hologram 10 mm wide.",
     "highlights": {
@@ -14001,6 +14002,10 @@
       {
         "url": "https://akp.gov.kh/post/detail/382173",
         "label": "Agence Kampuchea Presse — 25 September 2026, citing the National Bank of Cambodia"
+      },
+      {
+        "url": "https://banknotenews.com/?p=51325",
+        "label": "Banknote News — photograph"
       }
     ],
     "confidence": "official"
@@ -14014,6 +14019,7 @@
     "title": "100.000 Riels",
     "description": "Norodom Sihanouk and Queen Monineath; the three royals and a Garuda on the back.",
     "hue": 150,
+    "imageUrl": "/emissions/2026-additions/cambodia-100000-riels-2026.webp",
     "slug": "cambodia-100-000-riels-e594",
     "body": "A new 100,000-riel note was issued on the same day as the 50,000 riels, 25 September 2026, under sub-decrees signed by Prime Minister Hun Manet. It circulates beside the older 100,000-riel notes. The description comes from the National Bank of Cambodia's prakas, as published by Agence Kampuchea Presse.\n\nGreen and grey predominate, and the sheet measures 170 × 75 mm. The front pairs former King Norodom Sihanouk with Queen Mother Norodom Monineath Sihanouk and a nine-headed naga. The back shows Sihanouk, Monineath and King Norodom Sihamoni, with a standing Garuda taken from a carving at Preah Khan in Siem Reap. A 10 mm hologram and tactile marks are shared with the new 50,000-riel note.",
     "highlights": {
@@ -14025,6 +14031,10 @@
       {
         "url": "https://akp.gov.kh/post/detail/382173",
         "label": "Agence Kampuchea Presse — 25 September 2026, citing the National Bank of Cambodia"
+      },
+      {
+        "url": "https://banknotenews.com/?p=51321",
+        "label": "Banknote News — photograph"
       }
     ],
     "confidence": "official"
@@ -14038,6 +14048,7 @@
     "title": "200 Pesos Uruguayos, Series H",
     "description": "Pedro Figari, dated 2025, with a micro-optic thread that alternates 200 and BCU.",
     "hue": 40.5,
+    "imageUrl": "/emissions/2026-additions/uruguay-200-pesos-series-h-2026.webp",
     "slug": "uruguay-200-pesos-series-h-e595",
     "body": "The Banco Central del Uruguay's banknote guide lists a Series H 200-peso note dated 2025, printed by Oberthur Fiduciaire. The portrait is still Pedro Figari. The watermark continues to show the portrait, the value in words and the number 200 three times, and the map of Uruguay at upper right still shifts through greens and reveals a large 200 when the note is moved.\n\nThe new feature is the security thread. It is a micro-optic band: tilted, the design in the thread moves and switches between the figures 200 and the letters BCU. The series was reported in circulation in September 2026. The central bank's page describes the note and does not give a separate day of release, so the month used here follows that report.",
     "highlights": {
@@ -14053,6 +14064,10 @@
       {
         "url": "https://mriguide.com/uruguay-issues-200-pesos-banknote-with-novel-security-stripe/",
         "label": "MRI Bankers' Guide — update of 10 September 2026"
+      },
+      {
+        "url": "https://banknotenews.com/?p=50856",
+        "label": "Banknote News — photograph of Series H"
       }
     ],
     "confidence": "secondary"
@@ -14131,6 +14146,7 @@
     "title": "50 Dobras, commemorative",
     "description": "Fiftieth anniversary of independence. Peregrine falcon, grey parrot and Rei Amador. Not for shop payments.",
     "hue": 142,
+    "imageUrl": "/emissions/2026-additions/sao-tome-50-dobras-2026.webp",
     "slug": "sao-tome-and-principe-50-dobras-commemorative-e598",
     "body": "On 21 August 2026 the Central Bank of São Tomé and Príncipe issued a commemorative 50-dobra note for the fiftieth anniversary of independence, 1975–2025. The bank's own questions-and-answers sheet says the note is not valid for commercial payments in the country. It is sold by the central bank as a piece of record, with a certificate of authenticity, and it is not a new denomination for everyday cash.\n\nThe sheet measures 145 × 67 mm and is green and gold, on polymer. The front shows a peregrine falcon, an African grey parrot, tropical vegetation, a waterfall, the national arms and a portrait of Rei Amador, the sixteenth-century leader of a revolt against slavery. The back shows the islands, the equator and the Marco do Equador monument, where a visitor can stand in both hemispheres. A clear window in the shape of a cocoa pod carries iridescent ink. The numeral 50 is printed in optically variable ink, the value and the birds are in intaglio, and each note has its own serial number. The bank names Royal Joh. Enschedé in the Netherlands as the printer.",
     "highlights": {
@@ -14145,7 +14161,7 @@
       },
       {
         "url": "https://www.bcstp.st/Upload/New_DOC/NOTA_COMEMORATIVA_50_DOBRAS_f.pdf",
-        "label": "Banco Central de São Tomé e Príncipe — commemorative note sheet"
+        "label": "Banco Central de São Tomé e Príncipe — commemorative note sheet, official image"
       }
     ],
     "confidence": "official"
@@ -14218,5 +14234,1938 @@
       }
     ],
     "confidence": "official"
+  },
+  {
+    "id": "e601",
+    "year": 2026,
+    "date": "2026",
+    "country": "Nigeria",
+    "issuer": "Central Bank of Nigeria",
+    "title": "500 Naira, 2026 date variety",
+    "description": "2026 date variety of the 500 Naira.",
+    "hue": 8,
+    "imageUrl": "/emissions/2026-additions/nigeria-500-naira-2026-date-variety-e601.webp",
+    "slug": "nigeria-500-naira-2026-date-variety-e601",
+    "body": "A 2026 date variety of the 500 Naira has been confirmed for Nigeria. It is issued by the Central Bank of Nigeria. The printed date is 2026. The picture and the security features continue the preceding issue of this denomination.",
+    "highlights": {
+      "reason": "2026 date variety of the 500 Naira.",
+      "design": "Preceding design of this denomination.",
+      "security": "Security features carried over from the preceding issue."
+    },
+    "sources": [
+      {
+        "url": "https://banknotenews.com/?p=51376",
+        "label": "Banknote News"
+      },
+      {
+        "url": "https://banknotenews.com/wp-content/uploads/2026/10/Nigeria_CBN_500_naira_2026.00.00_B245i_PNL_D-88_622401_f.jpg",
+        "label": "Banknote News image"
+      }
+    ],
+    "confidence": "secondary"
+  },
+  {
+    "id": "e602",
+    "year": 2026,
+    "date": "2026",
+    "country": "Hungary",
+    "issuer": "Magyar Nemzeti Bank",
+    "title": "20.000 Forint, 2026 signature and date variety",
+    "description": "2026 signature and date variety of the 20.000 Forint. Signatures: Banai/Varga/Kurali.",
+    "hue": 32,
+    "imageUrl": "/emissions/2026-additions/hungary-20-000-forint-2026-signature-and-date-variety-e602.webp",
+    "slug": "hungary-20-000-forint-2026-signature-and-date-variety-e602",
+    "body": "A 2026 signature and date variety of the 20.000 Forint has been confirmed for Hungary. It is issued by the Magyar Nemzeti Bank. The printed date is 2026. The signatures are Banai/Varga/Kurali. The picture and the security features continue the preceding issue of this denomination.",
+    "highlights": {
+      "reason": "2026 signature and date variety of the 20.000 Forint.",
+      "design": "Preceding design of this denomination.",
+      "security": "Security features carried over from the preceding issue."
+    },
+    "sources": [
+      {
+        "url": "https://banknotenews.com/?p=51293",
+        "label": "Banknote News"
+      },
+      {
+        "url": "https://banknotenews.com/wp-content/uploads/2026/09/Hungary_MNB_20000_forint_2026.00.00_B592j_P207_LJ_5349307_f.jpg",
+        "label": "Banknote News image"
+      }
+    ],
+    "confidence": "secondary"
+  },
+  {
+    "id": "e603",
+    "year": 2026,
+    "date": "2026",
+    "country": "West African States — Mali",
+    "issuer": "Banque Centrale des États de l'Afrique de l'Ouest",
+    "title": "10.000 Francs CFA, 2026 date variety",
+    "description": "2026 date variety of the 10.000 Francs CFA.",
+    "hue": 24,
+    "imageUrl": "/emissions/2026-additions/west-african-states-mali-10-000-francs-cfa-2026-date-variety-e603.webp",
+    "slug": "west-african-states-mali-10-000-francs-cfa-2026-date-variety-e603",
+    "body": "A 2026 date variety of the 10.000 Francs CFA has been confirmed for West African States — Mali. It is issued by the Banque Centrale des États de l'Afrique de l'Ouest. The printed date is 2026. The picture and the security features continue the preceding issue of this denomination.",
+    "highlights": {
+      "reason": "2026 date variety of the 10.000 Francs CFA.",
+      "design": "Preceding design of this denomination.",
+      "security": "Security features carried over from the preceding issue."
+    },
+    "sources": [
+      {
+        "url": "https://banknotenews.com/?p=51253",
+        "label": "Banknote News"
+      },
+      {
+        "url": "https://banknotenews.com/wp-content/uploads/2026/09/West_African_States_BC_10000_francs_2026.00.00_B124Dz_P418D_26479909228_f.jpg",
+        "label": "Banknote News image"
+      }
+    ],
+    "confidence": "secondary"
+  },
+  {
+    "id": "e604",
+    "year": 2026,
+    "date": "2026",
+    "country": "West African States — Mali",
+    "issuer": "Banque Centrale des États de l'Afrique de l'Ouest",
+    "title": "2.000 Francs CFA, 2026 date variety",
+    "description": "2026 date variety of the 2.000 Francs CFA.",
+    "hue": 24,
+    "imageUrl": "/emissions/2026-additions/west-african-states-mali-2-000-francs-cfa-2026-date-variety-e604.webp",
+    "slug": "west-african-states-mali-2-000-francs-cfa-2026-date-variety-e604",
+    "body": "A 2026 date variety of the 2.000 Francs CFA has been confirmed for West African States — Mali. It is issued by the Banque Centrale des États de l'Afrique de l'Ouest. The printed date is 2026. The picture and the security features continue the preceding issue of this denomination.",
+    "highlights": {
+      "reason": "2026 date variety of the 2.000 Francs CFA.",
+      "design": "Preceding design of this denomination.",
+      "security": "Security features carried over from the preceding issue."
+    },
+    "sources": [
+      {
+        "url": "https://banknotenews.com/?p=51250",
+        "label": "Banknote News"
+      },
+      {
+        "url": "https://banknotenews.com/wp-content/uploads/2026/09/West_African_States_BC_2000_francs_2026.00.00_B122Dz_P416D_26463450330_f.jpg",
+        "label": "Banknote News image"
+      }
+    ],
+    "confidence": "secondary"
+  },
+  {
+    "id": "e605",
+    "year": 2026,
+    "date": "2026",
+    "country": "West African States — Mali",
+    "issuer": "Banque Centrale des États de l'Afrique de l'Ouest",
+    "title": "500 Francs CFA, 2026 date variety",
+    "description": "2026 date variety of the 500 Francs CFA.",
+    "hue": 24,
+    "imageUrl": "/emissions/2026-additions/west-african-states-mali-500-francs-cfa-2026-date-variety-e605.webp",
+    "slug": "west-african-states-mali-500-francs-cfa-2026-date-variety-e605",
+    "body": "A 2026 date variety of the 500 Francs CFA has been confirmed for West African States — Mali. It is issued by the Banque Centrale des États de l'Afrique de l'Ouest. The printed date is 2026. The picture and the security features continue the preceding issue of this denomination.",
+    "highlights": {
+      "reason": "2026 date variety of the 500 Francs CFA.",
+      "design": "Preceding design of this denomination.",
+      "security": "Security features carried over from the preceding issue."
+    },
+    "sources": [
+      {
+        "url": "https://banknotenews.com/?p=51247",
+        "label": "Banknote News"
+      },
+      {
+        "url": "https://banknotenews.com/wp-content/uploads/2026/09/West_African_States_BC_500_francs_2026.00.00_B120Do_P419D_26457532426_f.jpg",
+        "label": "Banknote News image"
+      }
+    ],
+    "confidence": "secondary"
+  },
+  {
+    "id": "e606",
+    "year": 2026,
+    "date": "2026",
+    "country": "West African States — Benin",
+    "issuer": "Banque Centrale des États de l'Afrique de l'Ouest",
+    "title": "5.000 Francs CFA, 2026 date variety",
+    "description": "2026 date variety of the 5.000 Francs CFA.",
+    "hue": 36,
+    "imageUrl": "/emissions/2026-additions/west-african-states-benin-5-000-francs-cfa-2026-date-variety-e606.webp",
+    "slug": "west-african-states-benin-5-000-francs-cfa-2026-date-variety-e606",
+    "body": "A 2026 date variety of the 5.000 Francs CFA has been confirmed for West African States — Benin. It is issued by the Banque Centrale des États de l'Afrique de l'Ouest. The printed date is 2026. The picture and the security features continue the preceding issue of this denomination.",
+    "highlights": {
+      "reason": "2026 date variety of the 5.000 Francs CFA.",
+      "design": "Preceding design of this denomination.",
+      "security": "Security features carried over from the preceding issue."
+    },
+    "sources": [
+      {
+        "url": "https://banknotenews.com/?p=51244",
+        "label": "Banknote News"
+      },
+      {
+        "url": "https://banknotenews.com/wp-content/uploads/2026/09/West_African_States_BC_5000_francs_2026.00.00_B123Bz_P217B_26042238619_f.jpg",
+        "label": "Banknote News image"
+      }
+    ],
+    "confidence": "secondary"
+  },
+  {
+    "id": "e607",
+    "year": 2026,
+    "date": "2026",
+    "country": "West African States — Benin",
+    "issuer": "Banque Centrale des États de l'Afrique de l'Ouest",
+    "title": "1.000 Francs CFA, 2026 date variety",
+    "description": "2026 date variety of the 1.000 Francs CFA.",
+    "hue": 36,
+    "imageUrl": "/emissions/2026-additions/west-african-states-benin-1-000-francs-cfa-2026-date-variety-e607.webp",
+    "slug": "west-african-states-benin-1-000-francs-cfa-2026-date-variety-e607",
+    "body": "A 2026 date variety of the 1.000 Francs CFA has been confirmed for West African States — Benin. It is issued by the Banque Centrale des États de l'Afrique de l'Ouest. The printed date is 2026. The picture and the security features continue the preceding issue of this denomination.",
+    "highlights": {
+      "reason": "2026 date variety of the 1.000 Francs CFA.",
+      "design": "Preceding design of this denomination.",
+      "security": "Security features carried over from the preceding issue."
+    },
+    "sources": [
+      {
+        "url": "https://banknotenews.com/?p=51240",
+        "label": "Banknote News"
+      },
+      {
+        "url": "https://banknotenews.com/wp-content/uploads/2026/09/West_African_States_BC_1000_francs_2026.00.00_B121Bz_P215B_26006444279_f.jpg",
+        "label": "Banknote News image"
+      }
+    ],
+    "confidence": "secondary"
+  },
+  {
+    "id": "e608",
+    "year": 2026,
+    "date": "2026",
+    "country": "West African States — Benin",
+    "issuer": "Banque Centrale des États de l'Afrique de l'Ouest",
+    "title": "500 Francs CFA, 2026 date variety",
+    "description": "2026 date variety of the 500 Francs CFA.",
+    "hue": 36,
+    "imageUrl": "/emissions/2026-additions/west-african-states-benin-500-francs-cfa-2026-date-variety-e608.webp",
+    "slug": "west-african-states-benin-500-francs-cfa-2026-date-variety-e608",
+    "body": "A 2026 date variety of the 500 Francs CFA has been confirmed for West African States — Benin. It is issued by the Banque Centrale des États de l'Afrique de l'Ouest. The printed date is 2026. The picture and the security features continue the preceding issue of this denomination.",
+    "highlights": {
+      "reason": "2026 date variety of the 500 Francs CFA.",
+      "design": "Preceding design of this denomination.",
+      "security": "Security features carried over from the preceding issue."
+    },
+    "sources": [
+      {
+        "url": "https://banknotenews.com/?p=51236",
+        "label": "Banknote News"
+      },
+      {
+        "url": "https://banknotenews.com/wp-content/uploads/2026/09/West_African_States_BC_500_francs_2026.00.00_B120Bo_P219B_26010355358_f.jpg",
+        "label": "Banknote News image"
+      }
+    ],
+    "confidence": "secondary"
+  },
+  {
+    "id": "e609",
+    "year": 2026,
+    "date": "2026",
+    "country": "Hungary",
+    "issuer": "Magyar Nemzeti Bank",
+    "title": "10.000 Forint, 2026 signature and date variety",
+    "description": "2026 signature and date variety of the 10.000 Forint. Signatures: Banai/Varga/Kurali.",
+    "hue": 32,
+    "imageUrl": "/emissions/2026-additions/hungary-10-000-forint-2026-signature-and-date-variety-e609.webp",
+    "slug": "hungary-10-000-forint-2026-signature-and-date-variety-e609",
+    "body": "A 2026 signature and date variety of the 10.000 Forint has been confirmed for Hungary. It is issued by the Magyar Nemzeti Bank. The printed date is 2026. The signatures are Banai/Varga/Kurali. The picture and the security features continue the preceding issue of this denomination.",
+    "highlights": {
+      "reason": "2026 signature and date variety of the 10.000 Forint.",
+      "design": "Preceding design of this denomination.",
+      "security": "Security features carried over from the preceding issue."
+    },
+    "sources": [
+      {
+        "url": "https://banknotenews.com/?p=51167",
+        "label": "Banknote News"
+      },
+      {
+        "url": "https://banknotenews.com/wp-content/uploads/2026/09/Hungary_MNB_10000_forint_2026.00.00_B591js_P206s_KU_0000073_f.jpg",
+        "label": "Banknote News image"
+      }
+    ],
+    "confidence": "secondary"
+  },
+  {
+    "id": "e610",
+    "year": 2026,
+    "date": "2026",
+    "country": "Hungary",
+    "issuer": "Magyar Nemzeti Bank",
+    "title": "1.000 Forint, 2026 signature and date variety",
+    "description": "2026 signature and date variety of the 1.000 Forint. Signatures: Banai/Varga/Kurali.",
+    "hue": 32,
+    "imageUrl": "/emissions/2026-additions/hungary-1-000-forint-2026-signature-and-date-variety-e610.webp",
+    "slug": "hungary-1-000-forint-2026-signature-and-date-variety-e610",
+    "body": "A 2026 signature and date variety of the 1.000 Forint has been confirmed for Hungary. It is issued by the Magyar Nemzeti Bank. The printed date is 2026. The signatures are Banai/Varga/Kurali. The picture and the security features continue the preceding issue of this denomination.",
+    "highlights": {
+      "reason": "2026 signature and date variety of the 1.000 Forint.",
+      "design": "Preceding design of this denomination.",
+      "security": "Security features carried over from the preceding issue."
+    },
+    "sources": [
+      {
+        "url": "https://banknotenews.com/?p=51163",
+        "label": "Banknote News"
+      },
+      {
+        "url": "https://banknotenews.com/wp-content/uploads/2026/09/Hungary_MNB_1000_forint_2026.00.00_B588g_PNL_ME_2120751_f.jpg",
+        "label": "Banknote News image"
+      }
+    ],
+    "confidence": "secondary"
+  },
+  {
+    "id": "e611",
+    "year": 2026,
+    "date": "2026",
+    "country": "Namibia",
+    "issuer": "Bank of Namibia",
+    "title": "20 Dollars, 2026 date variety",
+    "description": "2026 date variety of the 20 Dollars.",
+    "hue": 188,
+    "imageUrl": "/emissions/2026-additions/namibia-20-dollars-2026-date-variety-e611.webp",
+    "slug": "namibia-20-dollars-2026-date-variety-e611",
+    "body": "A 2026 date variety of the 20 Dollars has been confirmed for Namibia. It is issued by the Bank of Namibia. The printed date is 2026. The picture and the security features continue the preceding issue of this denomination.",
+    "highlights": {
+      "reason": "2026 date variety of the 20 Dollars.",
+      "design": "Preceding design of this denomination.",
+      "security": "Security features carried over from the preceding issue."
+    },
+    "sources": [
+      {
+        "url": "https://banknotenews.com/?p=51151",
+        "label": "Banknote News"
+      },
+      {
+        "url": "https://banknotenews.com/wp-content/uploads/2026/09/Namibia_BON_20_dollars_2026.00.00_B221b_PNL_DD_09812483_f.jpg",
+        "label": "Banknote News image"
+      }
+    ],
+    "confidence": "secondary"
+  },
+  {
+    "id": "e612",
+    "year": 2026,
+    "date": "2026",
+    "country": "Nigeria",
+    "issuer": "Central Bank of Nigeria",
+    "title": "100 Naira, 2026 signature and date variety",
+    "description": "2026 signature and date variety of the 100 Naira. Signatures: Cardoso/Adedeji.",
+    "hue": 8,
+    "imageUrl": "/emissions/2026-additions/nigeria-100-naira-2026-signature-and-date-variety-e612.webp",
+    "slug": "nigeria-100-naira-2026-signature-and-date-variety-e612",
+    "body": "A 2026 signature and date variety of the 100 Naira has been confirmed for Nigeria. It is issued by the Central Bank of Nigeria. The printed date is 2026. The signatures are Cardoso/Adedeji. The picture and the security features continue the preceding issue of this denomination.",
+    "highlights": {
+      "reason": "2026 signature and date variety of the 100 Naira.",
+      "design": "Preceding design of this denomination.",
+      "security": "Security features carried over from the preceding issue."
+    },
+    "sources": [
+      {
+        "url": "https://banknotenews.com/?p=51148",
+        "label": "Banknote News"
+      },
+      {
+        "url": "https://banknotenews.com/wp-content/uploads/2026/09/Nigeria_CBN_100_naira_2026.00.00_B226t_P28_AA-27_461722_f.jpg",
+        "label": "Banknote News image"
+      }
+    ],
+    "confidence": "secondary"
+  },
+  {
+    "id": "e613",
+    "year": 2026,
+    "date": "2026",
+    "country": "Hungary",
+    "issuer": "Magyar Nemzeti Bank",
+    "title": "5.000 Forint, 2026 signature and date variety",
+    "description": "2026 signature and date variety of the 5.000 Forint. Signatures: Péter Benő Banai /Mihaly Varga/Zoltan Kurali.",
+    "hue": 32,
+    "imageUrl": "/emissions/2026-additions/hungary-5-000-forint-2026-signature-and-date-variety-e613.webp",
+    "slug": "hungary-5-000-forint-2026-signature-and-date-variety-e613",
+    "body": "A 2026 signature and date variety of the 5.000 Forint has been confirmed for Hungary. It is issued by the Magyar Nemzeti Bank. The printed date is 2026. The signatures are Péter Benő Banai /Mihaly Varga/Zoltan Kurali. The picture and the security features continue the preceding issue of this denomination.",
+    "highlights": {
+      "reason": "2026 signature and date variety of the 5.000 Forint.",
+      "design": "Preceding design of this denomination.",
+      "security": "Security features carried over from the preceding issue."
+    },
+    "sources": [
+      {
+        "url": "https://banknotenews.com/?p=51001",
+        "label": "Banknote News"
+      },
+      {
+        "url": "https://banknotenews.com/wp-content/uploads/2026/08/Hungary_MNB_5000_forint_2026.00.00_B590e_P205_BR_3778531_f.jpg",
+        "label": "Banknote News image"
+      }
+    ],
+    "confidence": "secondary"
+  },
+  {
+    "id": "e614",
+    "year": 2026,
+    "date": "2026",
+    "country": "Namibia",
+    "issuer": "Bank of Namibia",
+    "title": "10 Dollars, 2026 date variety",
+    "description": "2026 date variety of the 10 Dollars.",
+    "hue": 188,
+    "imageUrl": "/emissions/2026-additions/namibia-10-dollars-2026-date-variety-e614.webp",
+    "slug": "namibia-10-dollars-2026-date-variety-e614",
+    "body": "A 2026 date variety of the 10 Dollars has been confirmed for Namibia. It is issued by the Bank of Namibia. The printed date is 2026. The picture and the security features continue the preceding issue of this denomination.",
+    "highlights": {
+      "reason": "2026 date variety of the 10 Dollars.",
+      "design": "Preceding design of this denomination.",
+      "security": "Security features carried over from the preceding issue."
+    },
+    "sources": [
+      {
+        "url": "https://banknotenews.com/?p=50993",
+        "label": "Banknote News"
+      },
+      {
+        "url": "https://banknotenews.com/wp-content/uploads/2026/08/Namibia_BON_10_dollars_2026.00.00_B220b_PNL_AA_08129614_f.jpg",
+        "label": "Banknote News image"
+      }
+    ],
+    "confidence": "secondary"
+  },
+  {
+    "id": "e615",
+    "year": 2026,
+    "date": "26 Apr 2026",
+    "country": "Poland",
+    "issuer": "Narodowy Bank Polski",
+    "title": "200 Złotych, 2026 date variety",
+    "description": "2026 date variety of the 200 Złotych.",
+    "hue": 214,
+    "imageUrl": "/emissions/2026-additions/poland-200-zlotych-2026-date-variety-e615.webp",
+    "slug": "poland-200-zlotych-2026-date-variety-e615",
+    "body": "A 2026 date variety of the 200 Złotych has been confirmed for Poland. It is issued by the Narodowy Bank Polski. The printed date is 26 Apr 2026. The picture and the security features continue the preceding issue of this denomination.",
+    "highlights": {
+      "reason": "2026 date variety of the 200 Złotych.",
+      "design": "Preceding design of this denomination.",
+      "security": "Security features carried over from the preceding issue."
+    },
+    "sources": [
+      {
+        "url": "https://banknotenews.com/?p=50978",
+        "label": "Banknote News"
+      },
+      {
+        "url": "https://banknotenews.com/wp-content/uploads/2026/08/Poland_NBP_200_zlotych_2026.04.26_B863cs_P189s_GS_0000000_ditigal_f.jpg",
+        "label": "Banknote News image"
+      }
+    ],
+    "confidence": "secondary"
+  },
+  {
+    "id": "e616",
+    "year": 2026,
+    "date": "2026",
+    "country": "Cuba",
+    "issuer": "Banco Central de Cuba",
+    "title": "100 Pesos, 2026 signature and date variety",
+    "description": "2026 signature and date variety of the 100 Pesos. Signatures: Delgado.",
+    "hue": 198,
+    "imageUrl": "/emissions/2026-additions/cuba-100-pesos-2026-signature-and-date-variety-e616.webp",
+    "slug": "cuba-100-pesos-2026-signature-and-date-variety-e616",
+    "body": "A 2026 signature and date variety of the 100 Pesos has been confirmed for Cuba. It is issued by the Banco Central de Cuba. The printed date is 2026. The signatures are Delgado. The picture and the security features continue the preceding issue of this denomination.",
+    "highlights": {
+      "reason": "2026 signature and date variety of the 100 Pesos.",
+      "design": "Preceding design of this denomination.",
+      "security": "Security features carried over from the preceding issue."
+    },
+    "sources": [
+      {
+        "url": "https://banknotenews.com/?p=50961",
+        "label": "Banknote News"
+      },
+      {
+        "url": "https://banknotenews.com/wp-content/uploads/2026/08/Cuba_BCC_100_pesos_2026.00.00_B912.5b_PNL_AR-13_008048_f.jpg",
+        "label": "Banknote News image"
+      }
+    ],
+    "confidence": "secondary"
+  },
+  {
+    "id": "e617",
+    "year": 2026,
+    "date": "2026",
+    "country": "Indonesia",
+    "issuer": "Bank Indonesia",
+    "title": "100.000 Rupiah, 2026 date variety",
+    "description": "2026 date variety of the 100.000 Rupiah.",
+    "hue": 142,
+    "imageUrl": "/emissions/2026-additions/indonesia-100-000-rupiah-2026-date-variety-e617.webp",
+    "slug": "indonesia-100-000-rupiah-2026-date-variety-e617",
+    "body": "A 2026 date variety of the 100.000 Rupiah has been confirmed for Indonesia. It is issued by the Bank Indonesia. The printed date is 2026. The picture and the security features continue the preceding issue of this denomination.",
+    "highlights": {
+      "reason": "2026 date variety of the 100.000 Rupiah.",
+      "design": "Preceding design of this denomination.",
+      "security": "Security features carried over from the preceding issue."
+    },
+    "sources": [
+      {
+        "url": "https://banknotenews.com/?p=50949",
+        "label": "Banknote News"
+      },
+      {
+        "url": "https://banknotenews.com/wp-content/uploads/2026/08/Indonesia_BI_100000_rupiah_2026.00.00_B623e_PNL_MML_309601_f.jpg",
+        "label": "Banknote News image"
+      }
+    ],
+    "confidence": "secondary"
+  },
+  {
+    "id": "e618",
+    "year": 2026,
+    "date": "1 Jan 2026",
+    "country": "Malawi",
+    "issuer": "Reserve Bank of Malawi",
+    "title": "5.000 Kwacha, 2026 signature and date variety",
+    "description": "2026 signature and date variety of the 5.000 Kwacha. Signatures: MacDonald Mafuta Mwale.",
+    "hue": 128,
+    "imageUrl": "/emissions/2026-additions/malawi-5-000-kwacha-2026-signature-and-date-variety-e618.webp",
+    "slug": "malawi-5-000-kwacha-2026-signature-and-date-variety-e618",
+    "body": "A 2026 signature and date variety of the 5.000 Kwacha has been confirmed for Malawi. It is issued by the Reserve Bank of Malawi. The printed date is 1 Jan 2026. The signatures are MacDonald Mafuta Mwale. The picture and the security features continue the preceding issue of this denomination.",
+    "highlights": {
+      "reason": "2026 signature and date variety of the 5.000 Kwacha.",
+      "design": "Preceding design of this denomination.",
+      "security": "Security features carried over from the preceding issue."
+    },
+    "sources": [
+      {
+        "url": "https://banknotenews.com/?p=50922",
+        "label": "Banknote News"
+      },
+      {
+        "url": "https://banknotenews.com/wp-content/uploads/2026/08/Malawi_RBM_5000_kwacha_2026.01.01_B165e_PNL_BZ_8779677_f.jpg",
+        "label": "Banknote News image"
+      }
+    ],
+    "confidence": "secondary"
+  },
+  {
+    "id": "e619",
+    "year": 2026,
+    "date": "2026",
+    "country": "Philippines",
+    "issuer": "Bangko Sentral ng Pilipinas",
+    "title": "50 Piso, 2026 date variety",
+    "description": "2026 date variety of the 50 Piso.",
+    "hue": 268,
+    "imageUrl": "/emissions/2026-additions/philippines-50-piso-2026-date-variety-e619.webp",
+    "slug": "philippines-50-piso-2026-date-variety-e619",
+    "body": "A 2026 date variety of the 50 Piso has been confirmed for Philippines. It is issued by the Bangko Sentral ng Pilipinas. The printed date is 2026. The picture and the security features continue the preceding issue of this denomination.",
+    "highlights": {
+      "reason": "2026 date variety of the 50 Piso.",
+      "design": "Preceding design of this denomination.",
+      "security": "Security features carried over from the preceding issue."
+    },
+    "sources": [
+      {
+        "url": "https://banknotenews.com/?p=50919",
+        "label": "Banknote News"
+      },
+      {
+        "url": "https://banknotenews.com/wp-content/uploads/2026/08/Philippines_BSP_50_piso_2026.00.00_B1101d_PNL_JB_898964_f.jpg",
+        "label": "Banknote News image"
+      }
+    ],
+    "confidence": "secondary"
+  },
+  {
+    "id": "e620",
+    "year": 2026,
+    "date": "2026",
+    "country": "Philippines",
+    "issuer": "Bangko Sentral ng Pilipinas",
+    "title": "100 Piso, 2026 date variety",
+    "description": "2026 date variety of the 100 Piso.",
+    "hue": 268,
+    "imageUrl": "/emissions/2026-additions/philippines-100-piso-2026-date-variety-e620.webp",
+    "slug": "philippines-100-piso-2026-date-variety-e620",
+    "body": "A 2026 date variety of the 100 Piso has been confirmed for Philippines. It is issued by the Bangko Sentral ng Pilipinas. The printed date is 2026. The picture and the security features continue the preceding issue of this denomination.",
+    "highlights": {
+      "reason": "2026 date variety of the 100 Piso.",
+      "design": "Preceding design of this denomination.",
+      "security": "Security features carried over from the preceding issue."
+    },
+    "sources": [
+      {
+        "url": "https://banknotenews.com/?p=50915",
+        "label": "Banknote News"
+      },
+      {
+        "url": "https://banknotenews.com/wp-content/uploads/2026/08/Philippines_BSP_100_piso_2026.00.00_B1102fz_PNL__819216_f.jpg",
+        "label": "Banknote News image"
+      }
+    ],
+    "confidence": "secondary"
+  },
+  {
+    "id": "e621",
+    "year": 2026,
+    "date": "17 Jun 2026",
+    "country": "Nepal",
+    "issuer": "Nepal Rastra Bank",
+    "title": "500 Rupees, 2026 signature and date variety",
+    "description": "500 rupees dated 2025, introduced on 17 June 2026, with Poudel's signature.",
+    "hue": 16,
+    "imageUrl": "/emissions/2026-additions/nepal-500-rupees-2026-signature-and-date-variety-e621.webp",
+    "slug": "nepal-500-rupees-2026-signature-and-date-variety-e621",
+    "body": "On 17 June 2026 Nepal Rastra Bank introduced a 500-rupee note dated 2025 with the signature of Governor Poudel. The design continues the preceding 500-rupee note.",
+    "highlights": {
+      "reason": "Signature and date variety introduced on 17 June 2026. Printed date 2025.",
+      "design": "Preceding 500-rupee design.",
+      "security": "Security of the preceding 500-rupee note."
+    },
+    "sources": [
+      {
+        "url": "https://banknotenews.com/?p=50555",
+        "label": "Banknote News"
+      },
+      {
+        "url": "https://banknotenews.com/wp-content/uploads/2026/06/Nepal_NRB_500_rupees_2025.00.00_B292c_P81_क-56_083408_f.jpg",
+        "label": "Banknote News image"
+      }
+    ],
+    "confidence": "secondary"
+  },
+  {
+    "id": "e622",
+    "year": 2026,
+    "date": "Jun 2026",
+    "country": "Angola",
+    "issuer": "Banco Nacional de Angola",
+    "title": "5.000 Kwanzas, 2026 date variety",
+    "description": "2026 date variety of the 5.000 Kwanzas.",
+    "hue": 42,
+    "imageUrl": "/emissions/2026-additions/angola-5-000-kwanzas-2026-date-variety-e622.webp",
+    "slug": "angola-5-000-kwanzas-2026-date-variety-e622",
+    "body": "A 2026 date variety of the 5.000 Kwanzas has been confirmed for Angola. It is issued by the Banco Nacional de Angola. The printed date is Jun 2026. The picture and the security features continue the preceding issue of this denomination.",
+    "highlights": {
+      "reason": "2026 date variety of the 5.000 Kwanzas.",
+      "design": "Preceding design of this denomination.",
+      "security": "Security features carried over from the preceding issue."
+    },
+    "sources": [
+      {
+        "url": "https://banknotenews.com/?p=50768",
+        "label": "Banknote News"
+      },
+      {
+        "url": "https://banknotenews.com/wp-content/uploads/2026/07/Angola_BNA_5000_kwanzas_2026.06.00_B561d_PNL_G_03264106_f.jpg",
+        "label": "Banknote News image"
+      }
+    ],
+    "confidence": "secondary"
+  },
+  {
+    "id": "e623",
+    "year": 2026,
+    "date": "2026",
+    "country": "Namibia",
+    "issuer": "Bank of Namibia",
+    "title": "200 Dollars, 2026 date variety",
+    "description": "2026 date variety of the 200 Dollars.",
+    "hue": 188,
+    "imageUrl": "/emissions/2026-additions/namibia-200-dollars-2026-date-variety-e623.webp",
+    "slug": "namibia-200-dollars-2026-date-variety-e623",
+    "body": "A 2026 date variety of the 200 Dollars has been confirmed for Namibia. It is issued by the Bank of Namibia. The printed date is 2026. The picture and the security features continue the preceding issue of this denomination.",
+    "highlights": {
+      "reason": "2026 date variety of the 200 Dollars.",
+      "design": "Preceding design of this denomination.",
+      "security": "Security features carried over from the preceding issue."
+    },
+    "sources": [
+      {
+        "url": "https://banknotenews.com/?p=50754",
+        "label": "Banknote News"
+      },
+      {
+        "url": "https://banknotenews.com/wp-content/uploads/2026/07/Namibia_BON_200_dollars_2026.00.00_B224b_PNL_NN_21598224_f.jpg",
+        "label": "Banknote News image"
+      }
+    ],
+    "confidence": "secondary"
+  },
+  {
+    "id": "e624",
+    "year": 2026,
+    "date": "2026",
+    "country": "West African States — Ivory Coast",
+    "issuer": "Banque Centrale des États de l'Afrique de l'Ouest",
+    "title": "2.000 Francs CFA, 2026 date variety",
+    "description": "2026 date variety of the 2.000 Francs CFA.",
+    "hue": 20,
+    "imageUrl": "/emissions/2026-additions/west-african-states-ivory-coast-2-000-francs-cfa-2026-date-variety-e624.webp",
+    "slug": "west-african-states-ivory-coast-2-000-francs-cfa-2026-date-variety-e624",
+    "body": "A 2026 date variety of the 2.000 Francs CFA has been confirmed for West African States — Ivory Coast. It is issued by the Banque Centrale des États de l'Afrique de l'Ouest. The printed date is 2026. The picture and the security features continue the preceding issue of this denomination.",
+    "highlights": {
+      "reason": "2026 date variety of the 2.000 Francs CFA.",
+      "design": "Preceding design of this denomination.",
+      "security": "Security features carried over from the preceding issue."
+    },
+    "sources": [
+      {
+        "url": "https://banknotenews.com/?p=50712",
+        "label": "Banknote News"
+      },
+      {
+        "url": "https://banknotenews.com/wp-content/uploads/2026/07/West_African_States_BC_2000_francs_2026.00.00_B122Az_P116A_26230911675_f.jpg",
+        "label": "Banknote News image"
+      }
+    ],
+    "confidence": "secondary"
+  },
+  {
+    "id": "e625",
+    "year": 2026,
+    "date": "2026",
+    "country": "West African States — Ivory Coast",
+    "issuer": "Banque Centrale des États de l'Afrique de l'Ouest",
+    "title": "1.000 Francs CFA, 2026 date variety",
+    "description": "2026 date variety of the 1.000 Francs CFA.",
+    "hue": 20,
+    "imageUrl": "/emissions/2026-additions/west-african-states-ivory-coast-1-000-francs-cfa-2026-date-variety-e625.webp",
+    "slug": "west-african-states-ivory-coast-1-000-francs-cfa-2026-date-variety-e625",
+    "body": "A 2026 date variety of the 1.000 Francs CFA has been confirmed for West African States — Ivory Coast. It is issued by the Banque Centrale des États de l'Afrique de l'Ouest. The printed date is 2026. The picture and the security features continue the preceding issue of this denomination.",
+    "highlights": {
+      "reason": "2026 date variety of the 1.000 Francs CFA.",
+      "design": "Preceding design of this denomination.",
+      "security": "Security features carried over from the preceding issue."
+    },
+    "sources": [
+      {
+        "url": "https://banknotenews.com/?p=50708",
+        "label": "Banknote News"
+      },
+      {
+        "url": "https://banknotenews.com/wp-content/uploads/2026/07/West_African_States_BC_1000_francs_2026.00.00_B121Az_P115A_26256923713_f.jpg",
+        "label": "Banknote News image"
+      }
+    ],
+    "confidence": "secondary"
+  },
+  {
+    "id": "e626",
+    "year": 2026,
+    "date": "2026",
+    "country": "Philippines",
+    "issuer": "Bangko Sentral ng Pilipinas",
+    "title": "100 Piso, polymer, 2026 date variety",
+    "description": "2026 date variety of the 100 Piso.",
+    "hue": 268,
+    "imageUrl": "/emissions/2026-additions/philippines-100-piso-polymer-2026-date-variety-e626.webp",
+    "slug": "philippines-100-piso-polymer-2026-date-variety-e626",
+    "body": "A 2026 date variety of the 100 Piso has been confirmed for Philippines. It is issued by the Bangko Sentral ng Pilipinas. The printed date is 2026. It is the polymer type. The picture and the security features continue the preceding issue of this denomination.",
+    "highlights": {
+      "reason": "2026 date variety of the 100 Piso.",
+      "design": "Preceding design of this denomination. Polymer substrate.",
+      "security": "Security features carried over from the preceding issue."
+    },
+    "sources": [
+      {
+        "url": "https://banknotenews.com/?p=50680",
+        "label": "Banknote News"
+      },
+      {
+        "url": "https://banknotenews.com/wp-content/uploads/2026/07/Philippines_BSP_100_piso_2026.00.00_B1106c_PNL_AN_3143296_f.jpg",
+        "label": "Banknote News image"
+      }
+    ],
+    "confidence": "secondary"
+  },
+  {
+    "id": "e627",
+    "year": 2026,
+    "date": "2026",
+    "country": "India",
+    "issuer": "Reserve Bank of India",
+    "title": "100 Rupees, 2026 date variety",
+    "description": "2026 date variety of the 100 Rupees.",
+    "hue": 176,
+    "imageUrl": "/emissions/2026-additions/india-100-rupees-2026-date-variety-e627.webp",
+    "slug": "india-100-rupees-2026-date-variety-e627",
+    "body": "A 2026 date variety of the 100 Rupees has been confirmed for India. It is issued by the Reserve Bank of India. The printed date is 2026. The picture and the security features continue the preceding issue of this denomination.",
+    "highlights": {
+      "reason": "2026 date variety of the 100 Rupees.",
+      "design": "Preceding design of this denomination.",
+      "security": "Security features carried over from the preceding issue."
+    },
+    "sources": [
+      {
+        "url": "https://banknotenews.com/?p=50659",
+        "label": "Banknote News"
+      },
+      {
+        "url": "https://banknotenews.com/wp-content/uploads/2026/07/India_RBI_100_rupees_2026.00.00_B301i_P112_6KU_654438_R_f.jpg",
+        "label": "Banknote News image"
+      }
+    ],
+    "confidence": "secondary"
+  },
+  {
+    "id": "e628",
+    "year": 2026,
+    "date": "2026",
+    "country": "India",
+    "issuer": "Reserve Bank of India",
+    "title": "10 Rupees, 2026 date variety",
+    "description": "2026 date variety of the 10 Rupees.",
+    "hue": 176,
+    "imageUrl": "/emissions/2026-additions/india-10-rupees-2026-date-variety-e628.webp",
+    "slug": "india-10-rupees-2026-date-variety-e628",
+    "body": "A 2026 date variety of the 10 Rupees has been confirmed for India. It is issued by the Reserve Bank of India. The printed date is 2026. The picture and the security features continue the preceding issue of this denomination.",
+    "highlights": {
+      "reason": "2026 date variety of the 10 Rupees.",
+      "design": "Preceding design of this denomination.",
+      "security": "Security features carried over from the preceding issue."
+    },
+    "sources": [
+      {
+        "url": "https://banknotenews.com/?p=50655",
+        "label": "Banknote News"
+      },
+      {
+        "url": "https://banknotenews.com/wp-content/uploads/2026/07/India_RBI_10_rupees_2026.00.00_B298j_P109_94S_788581_R_f.jpg",
+        "label": "Banknote News image"
+      }
+    ],
+    "confidence": "secondary"
+  },
+  {
+    "id": "e629",
+    "year": 2026,
+    "date": "2026",
+    "country": "Nigeria",
+    "issuer": "Central Bank of Nigeria",
+    "title": "1.000 Naira, 2026 date variety",
+    "description": "2026 date variety of the 1.000 Naira.",
+    "hue": 8,
+    "imageUrl": "/emissions/2026-additions/nigeria-1-000-naira-2026-date-variety-e629.webp",
+    "slug": "nigeria-1-000-naira-2026-date-variety-e629",
+    "body": "A 2026 date variety of the 1.000 Naira has been confirmed for Nigeria. It is issued by the Central Bank of Nigeria. The printed date is 2026. The picture and the security features continue the preceding issue of this denomination.",
+    "highlights": {
+      "reason": "2026 date variety of the 1.000 Naira.",
+      "design": "Preceding design of this denomination.",
+      "security": "Security features carried over from the preceding issue."
+    },
+    "sources": [
+      {
+        "url": "https://banknotenews.com/?p=50649",
+        "label": "Banknote News"
+      },
+      {
+        "url": "https://banknotenews.com/wp-content/uploads/2026/06/Nigeria_CBN_1000_naira_2026.00.00_B246h_PNL_P-04_147760_f.jpg",
+        "label": "Banknote News image"
+      }
+    ],
+    "confidence": "secondary"
+  },
+  {
+    "id": "e630",
+    "year": 2026,
+    "date": "2026",
+    "country": "Romania",
+    "issuer": "Banca Națională a României",
+    "title": "10 Lei, 2026 signature and date variety",
+    "description": "2026 signature and date variety of the 10 Lei. Signatures: Isarescu/Tolici.",
+    "hue": 208,
+    "imageUrl": "/emissions/2026-additions/romania-10-lei-2026-signature-and-date-variety-e630.webp",
+    "slug": "romania-10-lei-2026-signature-and-date-variety-e630",
+    "body": "A 2026 signature and date variety of the 10 Lei has been confirmed for Romania. It is issued by the Banca Națională a României. The printed date is 2026. The signatures are Isarescu/Tolici. The picture and the security features continue the preceding issue of this denomination.",
+    "highlights": {
+      "reason": "2026 signature and date variety of the 10 Lei.",
+      "design": "Preceding design of this denomination.",
+      "security": "Security features carried over from the preceding issue."
+    },
+    "sources": [
+      {
+        "url": "https://banknotenews.com/?p=50642",
+        "label": "Banknote News"
+      },
+      {
+        "url": "https://banknotenews.com/wp-content/uploads/2026/06/Romania_BNR_10_lei_2026.00.00_B288f_P119_261F_5009441_f.jpg",
+        "label": "Banknote News image"
+      }
+    ],
+    "confidence": "secondary"
+  },
+  {
+    "id": "e631",
+    "year": 2026,
+    "date": "2026",
+    "country": "Pakistan",
+    "issuer": "State Bank of Pakistan",
+    "title": "10 Rupees, 2026 date variety",
+    "description": "2026 date variety of the 10 Rupees.",
+    "hue": 152,
+    "imageUrl": "/emissions/2026-additions/pakistan-10-rupees-2026-date-variety-e631.webp",
+    "slug": "pakistan-10-rupees-2026-date-variety-e631",
+    "body": "A 2026 date variety of the 10 Rupees has been confirmed for Pakistan. It is issued by the State Bank of Pakistan. The printed date is 2026. The picture and the security features continue the preceding issue of this denomination.",
+    "highlights": {
+      "reason": "2026 date variety of the 10 Rupees.",
+      "design": "Preceding design of this denomination.",
+      "security": "Security features carried over from the preceding issue."
+    },
+    "sources": [
+      {
+        "url": "https://banknotenews.com/?p=50547",
+        "label": "Banknote News"
+      },
+      {
+        "url": "https://banknotenews.com/wp-content/uploads/2026/06/Pakistan_SBP_10_rupees_2026.00.00_B231aa_P45_CWC_0123269_f.jpg",
+        "label": "Banknote News image"
+      }
+    ],
+    "confidence": "secondary"
+  },
+  {
+    "id": "e632",
+    "year": 2026,
+    "date": "2026",
+    "country": "Pakistan",
+    "issuer": "State Bank of Pakistan",
+    "title": "20 Rupees, 2026 date variety",
+    "description": "2026 date variety of the 20 Rupees.",
+    "hue": 152,
+    "imageUrl": "/emissions/2026-additions/pakistan-20-rupees-2026-date-variety-e632.webp",
+    "slug": "pakistan-20-rupees-2026-date-variety-e632",
+    "body": "A 2026 date variety of the 20 Rupees has been confirmed for Pakistan. It is issued by the State Bank of Pakistan. The printed date is 2026. The picture and the security features continue the preceding issue of this denomination.",
+    "highlights": {
+      "reason": "2026 date variety of the 20 Rupees.",
+      "design": "Preceding design of this denomination.",
+      "security": "Security features carried over from the preceding issue."
+    },
+    "sources": [
+      {
+        "url": "https://banknotenews.com/?p=50543",
+        "label": "Banknote News"
+      },
+      {
+        "url": "https://banknotenews.com/wp-content/uploads/2026/06/Pakistan_SBP_20_rupees_2026.00.00_B233z_P55_QG_0331769_f.jpg",
+        "label": "Banknote News image"
+      }
+    ],
+    "confidence": "secondary"
+  },
+  {
+    "id": "e633",
+    "year": 2026,
+    "date": "2026",
+    "country": "Pakistan",
+    "issuer": "State Bank of Pakistan",
+    "title": "50 Rupees, 2026 date variety",
+    "description": "2026 date variety of the 50 Rupees.",
+    "hue": 152,
+    "imageUrl": "/emissions/2026-additions/pakistan-50-rupees-2026-date-variety-e633.webp",
+    "slug": "pakistan-50-rupees-2026-date-variety-e633",
+    "body": "A 2026 date variety of the 50 Rupees has been confirmed for Pakistan. It is issued by the State Bank of Pakistan. The printed date is 2026. The picture and the security features continue the preceding issue of this denomination.",
+    "highlights": {
+      "reason": "2026 date variety of the 50 Rupees.",
+      "design": "Preceding design of this denomination.",
+      "security": "Security features carried over from the preceding issue."
+    },
+    "sources": [
+      {
+        "url": "https://banknotenews.com/?p=50539",
+        "label": "Banknote News"
+      },
+      {
+        "url": "https://banknotenews.com/wp-content/uploads/2026/06/Pakistan_SBP_50_rupees_2026.00.00_B234y_P47_AEB_3008369_f.jpg",
+        "label": "Banknote News image"
+      }
+    ],
+    "confidence": "secondary"
+  },
+  {
+    "id": "e634",
+    "year": 2026,
+    "date": "2026",
+    "country": "Pakistan",
+    "issuer": "State Bank of Pakistan",
+    "title": "1.000 Rupees, 2026 date variety",
+    "description": "2026 date variety of the 1.000 Rupees.",
+    "hue": 152,
+    "imageUrl": "/emissions/2026-additions/pakistan-1-000-rupees-2026-date-variety-e634.webp",
+    "slug": "pakistan-1-000-rupees-2026-date-variety-e634",
+    "body": "A 2026 date variety of the 1.000 Rupees has been confirmed for Pakistan. It is issued by the State Bank of Pakistan. The printed date is 2026. The picture and the security features continue the preceding issue of this denomination.",
+    "highlights": {
+      "reason": "2026 date variety of the 1.000 Rupees.",
+      "design": "Preceding design of this denomination.",
+      "security": "Security features carried over from the preceding issue."
+    },
+    "sources": [
+      {
+        "url": "https://banknotenews.com/?p=50532",
+        "label": "Banknote News"
+      },
+      {
+        "url": "https://banknotenews.com/wp-content/uploads/2026/06/Pakistan_SBP_1000_rupees_2026.00.00_B238aa_P50_ATK_4044044_f.jpg",
+        "label": "Banknote News image"
+      }
+    ],
+    "confidence": "secondary"
+  },
+  {
+    "id": "e635",
+    "year": 2026,
+    "date": "2026",
+    "country": "Pakistan",
+    "issuer": "State Bank of Pakistan",
+    "title": "5.000 Rupees, 2026 date variety",
+    "description": "2026 date variety of the 5.000 Rupees.",
+    "hue": 152,
+    "imageUrl": "/emissions/2026-additions/pakistan-5-000-rupees-2026-date-variety-e635.webp",
+    "slug": "pakistan-5-000-rupees-2026-date-variety-e635",
+    "body": "A 2026 date variety of the 5.000 Rupees has been confirmed for Pakistan. It is issued by the State Bank of Pakistan. The printed date is 2026. The picture and the security features continue the preceding issue of this denomination.",
+    "highlights": {
+      "reason": "2026 date variety of the 5.000 Rupees.",
+      "design": "Preceding design of this denomination.",
+      "security": "Security features carried over from the preceding issue."
+    },
+    "sources": [
+      {
+        "url": "https://banknotenews.com/?p=50528",
+        "label": "Banknote News"
+      },
+      {
+        "url": "https://banknotenews.com/wp-content/uploads/2026/06/Pakistan_SBP_5000_rupees_2026.00.00_B239v_P51_JP_2364521_f.jpg",
+        "label": "Banknote News image"
+      }
+    ],
+    "confidence": "secondary"
+  },
+  {
+    "id": "e636",
+    "year": 2026,
+    "date": "8 Jun 2026",
+    "country": "Abkhazia",
+    "issuer": "National Bank of the Republic of Abkhazia",
+    "title": "200 Apsar",
+    "description": "New 200-apsar note dated 2026. Nestor Lakoba, a Kiaraz horseman, and a homestead with a hawk.",
+    "hue": 6,
+    "imageUrl": "/emissions/2026-additions/abkhazia-200-apsar-e636.webp",
+    "slug": "abkhazia-200-apsar-e636",
+    "body": "On 8 June 2026 the National Bank of the Republic of Abkhazia issued a 200-apsar note. Five thousand pieces were printed, prefix AA, with the signature of Baratelia. The sheet measures 150 × 65 mm and is paper, printed by Goznak.\n\nRed, orange, yellow, black and green predominate. The front shows Nestor Lakoba, a stylized horseman of the Kiaraz detachment, the state emblem and seven stars. The back shows a traditional homestead, a hawk in flight and a QR code. The watermark is a portrait of Lakoba.",
+    "highlights": {
+      "reason": "New denomination issued on 8 June 2026, 5,000 notes.",
+      "design": "Front: Nestor Lakoba and a stylized horseman. Back: a homestead, a hawk and a QR code. 150 × 65 mm.",
+      "security": "Watermark portrait of Lakoba. No security thread is recorded for this issue."
+    },
+    "sources": [
+      {
+        "url": "https://banknotenews.com/?p=50487",
+        "label": "Banknote News"
+      },
+      {
+        "url": "https://banknotenews.com/wp-content/uploads/2026/06/Abkhazia_NBA_200_apsars_2026.00.00_B106a_PNL_AA_000003293_f.jpg",
+        "label": "Banknote News image"
+      }
+    ],
+    "confidence": "secondary"
+  },
+  {
+    "id": "e637",
+    "year": 2026,
+    "date": "2026",
+    "country": "Indonesia",
+    "issuer": "Bank Indonesia",
+    "title": "5.000 Rupiah, 2026 date variety",
+    "description": "2026 date variety of the 5.000 Rupiah.",
+    "hue": 142,
+    "imageUrl": "/emissions/2026-additions/indonesia-5-000-rupiah-2026-date-variety-e637.webp",
+    "slug": "indonesia-5-000-rupiah-2026-date-variety-e637",
+    "body": "A 2026 date variety of the 5.000 Rupiah has been confirmed for Indonesia. It is issued by the Bank Indonesia. The printed date is 2026. The picture and the security features continue the preceding issue of this denomination.",
+    "highlights": {
+      "reason": "2026 date variety of the 5.000 Rupiah.",
+      "design": "Preceding design of this denomination.",
+      "security": "Security features carried over from the preceding issue."
+    },
+    "sources": [
+      {
+        "url": "https://banknotenews.com/?p=50474",
+        "label": "Banknote News"
+      },
+      {
+        "url": "https://banknotenews.com/wp-content/uploads/2026/06/Indonesia_BI_5000_rupiah_2026.00.00_B619e_PNL_MJB_103248_f.jpg",
+        "label": "Banknote News image"
+      }
+    ],
+    "confidence": "secondary"
+  },
+  {
+    "id": "e638",
+    "year": 2026,
+    "date": "2026",
+    "country": "Qatar",
+    "issuer": "Qatar Central Bank",
+    "title": "50 Riyals, 2026 signature and date variety",
+    "description": "2026 signature and date variety of the 50 riyals, with a revised thread, arms and numeral.",
+    "hue": 222,
+    "imageUrl": "/emissions/2026-additions/qatar-50-riyals-2026-signature-and-date-variety-e638.webp",
+    "slug": "qatar-50-riyals-2026-signature-and-date-variety-e638",
+    "body": "A 2026 variety of Qatar's 50-riyal note has been reported, signed Al-Thani and Al-Kuwari. The windowed security thread and the coat of arms are revised, and the denomination at the lower left on the front is printed as a Western numeral. Banknote News also records a different optically variable device in place of the holographic patch on the front, and a purple pearlescent stripe at the left on the back.",
+    "highlights": {
+      "reason": "Reported 2026 signature and date variety of the 50 riyals (Al-Thani / Al-Kuwari).",
+      "design": "Preceding 50-riyal design, with a revised coat of arms and a Western numeral at lower left on the front.",
+      "security": "Revised windowed thread, a changed optically variable device on the front, and a purple pearlescent stripe on the back."
+    },
+    "sources": [
+      {
+        "url": "https://banknotenews.com/?p=50457",
+        "label": "Banknote News"
+      },
+      {
+        "url": "https://banknotenews.com/wp-content/uploads/2026/06/Qatar_QCB_50_riyals_2026.00.00_B229a_PNL_A-1_012345_digital_f.jpg",
+        "label": "Banknote News image"
+      }
+    ],
+    "confidence": "secondary"
+  },
+  {
+    "id": "e639",
+    "year": 2026,
+    "date": "2026",
+    "country": "Namibia",
+    "issuer": "Bank of Namibia",
+    "title": "50 Dollars, 2026 date variety",
+    "description": "2026 date variety of the 50 Dollars.",
+    "hue": 188,
+    "imageUrl": "/emissions/2026-additions/namibia-50-dollars-2026-date-variety-e639.webp",
+    "slug": "namibia-50-dollars-2026-date-variety-e639",
+    "body": "A 2026 date variety of the 50 Dollars has been confirmed for Namibia. It is issued by the Bank of Namibia. The printed date is 2026. The picture and the security features continue the preceding issue of this denomination.",
+    "highlights": {
+      "reason": "2026 date variety of the 50 Dollars.",
+      "design": "Preceding design of this denomination.",
+      "security": "Security features carried over from the preceding issue."
+    },
+    "sources": [
+      {
+        "url": "https://banknotenews.com/?p=50421",
+        "label": "Banknote News"
+      },
+      {
+        "url": "https://banknotenews.com/wp-content/uploads/2026/06/Namibia_BON_50_dollars_2026.00.00_B222b_PNL_GG_18694912_f.jpg",
+        "label": "Banknote News image"
+      }
+    ],
+    "confidence": "secondary"
+  },
+  {
+    "id": "e640",
+    "year": 2026,
+    "date": "2026",
+    "country": "Namibia",
+    "issuer": "Bank of Namibia",
+    "title": "100 Dollars, 2026 date variety",
+    "description": "2026 date variety of the 100 Dollars.",
+    "hue": 188,
+    "imageUrl": "/emissions/2026-additions/namibia-100-dollars-2026-date-variety-e640.webp",
+    "slug": "namibia-100-dollars-2026-date-variety-e640",
+    "body": "A 2026 date variety of the 100 Dollars has been confirmed for Namibia. It is issued by the Bank of Namibia. The printed date is 2026. The picture and the security features continue the preceding issue of this denomination.",
+    "highlights": {
+      "reason": "2026 date variety of the 100 Dollars.",
+      "design": "Preceding design of this denomination.",
+      "security": "Security features carried over from the preceding issue."
+    },
+    "sources": [
+      {
+        "url": "https://banknotenews.com/?p=50416",
+        "label": "Banknote News"
+      },
+      {
+        "url": "https://banknotenews.com/wp-content/uploads/2026/06/Namibia_BON_100_dollars_2026.00.00_B223b_PNL_KK_37933263_f.jpg",
+        "label": "Banknote News image"
+      }
+    ],
+    "confidence": "secondary"
+  },
+  {
+    "id": "e641",
+    "year": 2026,
+    "date": "2026",
+    "country": "Pakistan",
+    "issuer": "State Bank of Pakistan",
+    "title": "500 Rupees, 2026 date variety",
+    "description": "2026 date variety of the 500 Rupees.",
+    "hue": 152,
+    "imageUrl": "/emissions/2026-additions/pakistan-500-rupees-2026-date-variety-e641.webp",
+    "slug": "pakistan-500-rupees-2026-date-variety-e641",
+    "body": "A 2026 date variety of the 500 Rupees has been confirmed for Pakistan. It is issued by the State Bank of Pakistan. The printed date is 2026. The picture and the security features continue the preceding issue of this denomination.",
+    "highlights": {
+      "reason": "2026 date variety of the 500 Rupees.",
+      "design": "Preceding design of this denomination.",
+      "security": "Security features carried over from the preceding issue."
+    },
+    "sources": [
+      {
+        "url": "https://banknotenews.com/?p=50405",
+        "label": "Banknote News"
+      },
+      {
+        "url": "https://banknotenews.com/wp-content/uploads/2026/06/Pakistan_SBP_500_rupees_2026.00.00_B237x_P49A_YQ_1068069_f.jpg",
+        "label": "Banknote News image"
+      }
+    ],
+    "confidence": "secondary"
+  },
+  {
+    "id": "e642",
+    "year": 2026,
+    "date": "2026",
+    "country": "West African States — Senegal",
+    "issuer": "Banque Centrale des États de l'Afrique de l'Ouest",
+    "title": "5.000 Francs CFA, 2026 date variety",
+    "description": "2026 date variety of the 5.000 Francs CFA.",
+    "hue": 52,
+    "imageUrl": "/emissions/2026-additions/west-african-states-senegal-5-000-francs-cfa-2026-date-variety-e642.webp",
+    "slug": "west-african-states-senegal-5-000-francs-cfa-2026-date-variety-e642",
+    "body": "A 2026 date variety of the 5.000 Francs CFA has been confirmed for West African States — Senegal. It is issued by the Banque Centrale des États de l'Afrique de l'Ouest. The printed date is 2026. The picture and the security features continue the preceding issue of this denomination.",
+    "highlights": {
+      "reason": "2026 date variety of the 5.000 Francs CFA.",
+      "design": "Preceding design of this denomination.",
+      "security": "Security features carried over from the preceding issue."
+    },
+    "sources": [
+      {
+        "url": "https://banknotenews.com/?p=50322",
+        "label": "Banknote News"
+      },
+      {
+        "url": "https://banknotenews.com/wp-content/uploads/2026/05/West_African_States_BC_5000_francs_2026.00.00_B123Kz_P717K_26656681992_f.jpg",
+        "label": "Banknote News image"
+      }
+    ],
+    "confidence": "secondary"
+  },
+  {
+    "id": "e643",
+    "year": 2026,
+    "date": "2026",
+    "country": "Romania",
+    "issuer": "Banca Națională a României",
+    "title": "5 Lei, 2026 signature and date variety",
+    "description": "2026 signature and date variety of the 5 Lei. Signatures: Mugur Constantin Isărescu/Mugur Tolici.",
+    "hue": 208,
+    "imageUrl": "/emissions/2026-additions/romania-5-lei-2026-signature-and-date-variety-e643.webp",
+    "slug": "romania-5-lei-2026-signature-and-date-variety-e643",
+    "body": "A 2026 signature and date variety of the 5 Lei has been confirmed for Romania. It is issued by the Banca Națională a României. The printed date is 2026. The signatures are Mugur Constantin Isărescu/Mugur Tolici. The picture and the security features continue the preceding issue of this denomination.",
+    "highlights": {
+      "reason": "2026 signature and date variety of the 5 Lei.",
+      "design": "Preceding design of this denomination.",
+      "security": "Security features carried over from the preceding issue."
+    },
+    "sources": [
+      {
+        "url": "https://banknotenews.com/?p=50114",
+        "label": "Banknote News"
+      },
+      {
+        "url": "https://banknotenews.com/wp-content/uploads/2026/05/Romania_BNR_5_lei_2026.00.00_B287e_P118_261H_3632916_f.jpg",
+        "label": "Banknote News image"
+      }
+    ],
+    "confidence": "secondary"
+  },
+  {
+    "id": "e644",
+    "year": 2026,
+    "date": "2026",
+    "country": "West African States — Burkina Faso",
+    "issuer": "Banque Centrale des États de l'Afrique de l'Ouest",
+    "title": "10.000 Francs CFA, 2026 date variety",
+    "description": "2026 date variety of the 10.000 Francs CFA.",
+    "hue": 58,
+    "imageUrl": "/emissions/2026-additions/west-african-states-burkina-faso-10-000-francs-cfa-2026-date-variety-e644.webp",
+    "slug": "west-african-states-burkina-faso-10-000-francs-cfa-2026-date-variety-e644",
+    "body": "A 2026 date variety of the 10.000 Francs CFA has been confirmed for West African States — Burkina Faso. It is issued by the Banque Centrale des États de l'Afrique de l'Ouest. The printed date is 2026. The picture and the security features continue the preceding issue of this denomination.",
+    "highlights": {
+      "reason": "2026 date variety of the 10.000 Francs CFA.",
+      "design": "Preceding design of this denomination.",
+      "security": "Security features carried over from the preceding issue."
+    },
+    "sources": [
+      {
+        "url": "https://banknotenews.com/?p=50080",
+        "label": "Banknote News"
+      },
+      {
+        "url": "https://banknotenews.com/wp-content/uploads/2026/05/West_African_States_BC_10000_francs_2026.00.00_B124Cz_P318C_26125542274_f.jpg",
+        "label": "Banknote News image"
+      }
+    ],
+    "confidence": "secondary"
+  },
+  {
+    "id": "e645",
+    "year": 2026,
+    "date": "2026",
+    "country": "West African States — Burkina Faso",
+    "issuer": "Banque Centrale des États de l'Afrique de l'Ouest",
+    "title": "5.000 Francs CFA, 2026 date variety",
+    "description": "2026 date variety of the 5.000 Francs CFA.",
+    "hue": 58,
+    "imageUrl": "/emissions/2026-additions/west-african-states-burkina-faso-5-000-francs-cfa-2026-date-variety-e645.webp",
+    "slug": "west-african-states-burkina-faso-5-000-francs-cfa-2026-date-variety-e645",
+    "body": "A 2026 date variety of the 5.000 Francs CFA has been confirmed for West African States — Burkina Faso. It is issued by the Banque Centrale des États de l'Afrique de l'Ouest. The printed date is 2026. The picture and the security features continue the preceding issue of this denomination.",
+    "highlights": {
+      "reason": "2026 date variety of the 5.000 Francs CFA.",
+      "design": "Preceding design of this denomination.",
+      "security": "Security features carried over from the preceding issue."
+    },
+    "sources": [
+      {
+        "url": "https://banknotenews.com/?p=50076",
+        "label": "Banknote News"
+      },
+      {
+        "url": "https://banknotenews.com/wp-content/uploads/2026/05/West_African_States_BC_5000_francs_2026.00.00_B123Cz_P317C_26125539185_f.jpg",
+        "label": "Banknote News image"
+      }
+    ],
+    "confidence": "secondary"
+  },
+  {
+    "id": "e646",
+    "year": 2026,
+    "date": "2026",
+    "country": "West African States — Burkina Faso",
+    "issuer": "Banque Centrale des États de l'Afrique de l'Ouest",
+    "title": "2.000 Francs CFA, 2026 date variety",
+    "description": "2026 date variety of the 2.000 Francs CFA.",
+    "hue": 58,
+    "imageUrl": "/emissions/2026-additions/west-african-states-burkina-faso-2-000-francs-cfa-2026-date-variety-e646.webp",
+    "slug": "west-african-states-burkina-faso-2-000-francs-cfa-2026-date-variety-e646",
+    "body": "A 2026 date variety of the 2.000 Francs CFA has been confirmed for West African States — Burkina Faso. It is issued by the Banque Centrale des États de l'Afrique de l'Ouest. The printed date is 2026. The picture and the security features continue the preceding issue of this denomination.",
+    "highlights": {
+      "reason": "2026 date variety of the 2.000 Francs CFA.",
+      "design": "Preceding design of this denomination.",
+      "security": "Security features carried over from the preceding issue."
+    },
+    "sources": [
+      {
+        "url": "https://banknotenews.com/?p=50072",
+        "label": "Banknote News"
+      },
+      {
+        "url": "https://banknotenews.com/wp-content/uploads/2026/05/West_African_States_BC_2000_francs_2026.00.00_B122Cz_P316C_26110150054_f.jpg",
+        "label": "Banknote News image"
+      }
+    ],
+    "confidence": "secondary"
+  },
+  {
+    "id": "e647",
+    "year": 2026,
+    "date": "2026",
+    "country": "West African States — Burkina Faso",
+    "issuer": "Banque Centrale des États de l'Afrique de l'Ouest",
+    "title": "1.000 Francs CFA, 2026 date variety",
+    "description": "2026 date variety of the 1.000 Francs CFA.",
+    "hue": 58,
+    "imageUrl": "/emissions/2026-additions/west-african-states-burkina-faso-1-000-francs-cfa-2026-date-variety-e647.webp",
+    "slug": "west-african-states-burkina-faso-1-000-francs-cfa-2026-date-variety-e647",
+    "body": "A 2026 date variety of the 1.000 Francs CFA has been confirmed for West African States — Burkina Faso. It is issued by the Banque Centrale des États de l'Afrique de l'Ouest. The printed date is 2026. The picture and the security features continue the preceding issue of this denomination.",
+    "highlights": {
+      "reason": "2026 date variety of the 1.000 Francs CFA.",
+      "design": "Preceding design of this denomination.",
+      "security": "Security features carried over from the preceding issue."
+    },
+    "sources": [
+      {
+        "url": "https://banknotenews.com/?p=50068",
+        "label": "Banknote News"
+      },
+      {
+        "url": "https://banknotenews.com/wp-content/uploads/2026/05/West_African_States_BC_1000_francs_2026.00.00_B121Cz_P315C_26105323497_f.jpg",
+        "label": "Banknote News image"
+      }
+    ],
+    "confidence": "secondary"
+  },
+  {
+    "id": "e648",
+    "year": 2026,
+    "date": "2026",
+    "country": "West African States — Burkina Faso",
+    "issuer": "Banque Centrale des États de l'Afrique de l'Ouest",
+    "title": "500 Francs CFA, 2026 date variety",
+    "description": "2026 date variety of the 500 Francs CFA.",
+    "hue": 58,
+    "imageUrl": "/emissions/2026-additions/west-african-states-burkina-faso-500-francs-cfa-2026-date-variety-e648.webp",
+    "slug": "west-african-states-burkina-faso-500-francs-cfa-2026-date-variety-e648",
+    "body": "A 2026 date variety of the 500 Francs CFA has been confirmed for West African States — Burkina Faso. It is issued by the Banque Centrale des États de l'Afrique de l'Ouest. The printed date is 2026. The picture and the security features continue the preceding issue of this denomination.",
+    "highlights": {
+      "reason": "2026 date variety of the 500 Francs CFA.",
+      "design": "Preceding design of this denomination.",
+      "security": "Security features carried over from the preceding issue."
+    },
+    "sources": [
+      {
+        "url": "https://banknotenews.com/?p=50060",
+        "label": "Banknote News"
+      },
+      {
+        "url": "https://banknotenews.com/wp-content/uploads/2026/05/West_African_States_BC_500_francs_2026.00.00_B120Co_P319C_26118405586_f.jpg",
+        "label": "Banknote News image"
+      }
+    ],
+    "confidence": "secondary"
+  },
+  {
+    "id": "e649",
+    "year": 2026,
+    "date": "2026",
+    "country": "Pakistan",
+    "issuer": "State Bank of Pakistan",
+    "title": "100 Rupees, 2026 date variety",
+    "description": "2026 date variety of the 100 Rupees.",
+    "hue": 152,
+    "imageUrl": "/emissions/2026-additions/pakistan-100-rupees-2026-date-variety-e649.webp",
+    "slug": "pakistan-100-rupees-2026-date-variety-e649",
+    "body": "A 2026 date variety of the 100 Rupees has been confirmed for Pakistan. It is issued by the State Bank of Pakistan. The printed date is 2026. The picture and the security features continue the preceding issue of this denomination.",
+    "highlights": {
+      "reason": "2026 date variety of the 100 Rupees.",
+      "design": "Preceding design of this denomination.",
+      "security": "Security features carried over from the preceding issue."
+    },
+    "sources": [
+      {
+        "url": "https://banknotenews.com/?p=49993",
+        "label": "Banknote News"
+      },
+      {
+        "url": "https://banknotenews.com/wp-content/uploads/2026/04/Pakistan_SBP_100_rupees_2026.00.00_B235aa_P48_AMK_2551468_f.jpg",
+        "label": "Banknote News image"
+      }
+    ],
+    "confidence": "secondary"
+  },
+  {
+    "id": "e650",
+    "year": 2026,
+    "date": "2026",
+    "country": "West African States — Guinea-Bissau",
+    "issuer": "Banque Centrale des États de l'Afrique de l'Ouest",
+    "title": "500 Francs CFA, 2026 date variety",
+    "description": "2026 date variety of the 500 Francs CFA.",
+    "hue": 64,
+    "imageUrl": "/emissions/2026-additions/west-african-states-guinea-bissau-500-francs-cfa-2026-date-variety-e650.webp",
+    "slug": "west-african-states-guinea-bissau-500-francs-cfa-2026-date-variety-e650",
+    "body": "A 2026 date variety of the 500 Francs CFA has been confirmed for West African States — Guinea-Bissau. It is issued by the Banque Centrale des États de l'Afrique de l'Ouest. The printed date is 2026. The picture and the security features continue the preceding issue of this denomination.",
+    "highlights": {
+      "reason": "2026 date variety of the 500 Francs CFA.",
+      "design": "Preceding design of this denomination.",
+      "security": "Security features carried over from the preceding issue."
+    },
+    "sources": [
+      {
+        "url": "https://banknotenews.com/?p=49968",
+        "label": "Banknote News"
+      },
+      {
+        "url": "https://banknotenews.com/wp-content/uploads/2026/04/West_African_States_BC_500_francs_2026.00.00_B120So_P919S_26401034581_f.jpg",
+        "label": "Banknote News image"
+      }
+    ],
+    "confidence": "secondary"
+  },
+  {
+    "id": "e651",
+    "year": 2026,
+    "date": "2026",
+    "country": "Nigeria",
+    "issuer": "Central Bank of Nigeria",
+    "title": "20 Naira, 2026 date variety",
+    "description": "2026 date variety of the 20 Naira.",
+    "hue": 8,
+    "imageUrl": "/emissions/2026-additions/nigeria-20-naira-2026-date-variety-e651.webp",
+    "slug": "nigeria-20-naira-2026-date-variety-e651",
+    "body": "A 2026 date variety of the 20 Naira has been confirmed for Nigeria. It is issued by the Central Bank of Nigeria. The printed date is 2026. The picture and the security features continue the preceding issue of this denomination.",
+    "highlights": {
+      "reason": "2026 date variety of the 20 Naira.",
+      "design": "Preceding design of this denomination.",
+      "security": "Security features carried over from the preceding issue."
+    },
+    "sources": [
+      {
+        "url": "https://banknotenews.com/?p=49848",
+        "label": "Banknote News"
+      },
+      {
+        "url": "https://banknotenews.com/wp-content/uploads/2026/04/Nigeria_CBN_20_naira_2026.00.00_B232ab_P34_KT_1463029_f.jpg",
+        "label": "Banknote News image"
+      }
+    ],
+    "confidence": "secondary"
+  },
+  {
+    "id": "e652",
+    "year": 2026,
+    "date": "2026",
+    "country": "Romania",
+    "issuer": "Banca Națională a României",
+    "title": "200 Lei, 2026 date variety",
+    "description": "2026 date variety of the 200 Lei.",
+    "hue": 208,
+    "imageUrl": "/emissions/2026-additions/romania-200-lei-2026-date-variety-e652.webp",
+    "slug": "romania-200-lei-2026-date-variety-e652",
+    "body": "A 2026 date variety of the 200 Lei has been confirmed for Romania. It is issued by the Banca Națională a României. The printed date is 2026. The picture and the security features continue the preceding issue of this denomination.",
+    "highlights": {
+      "reason": "2026 date variety of the 200 Lei.",
+      "design": "Preceding design of this denomination.",
+      "security": "Security features carried over from the preceding issue."
+    },
+    "sources": [
+      {
+        "url": "https://banknotenews.com/?p=49745",
+        "label": "Banknote News"
+      },
+      {
+        "url": "https://banknotenews.com/wp-content/uploads/2026/04/Romania_BNR_200_lei_2018.01.01_B291h_P122_264H_8331272_f.jpg",
+        "label": "Banknote News image"
+      }
+    ],
+    "confidence": "secondary"
+  },
+  {
+    "id": "e653",
+    "year": 2026,
+    "date": "2026",
+    "country": "India",
+    "issuer": "Reserve Bank of India",
+    "title": "500 Rupees, 2026 date variety",
+    "description": "2026 date variety of the 500 Rupees.",
+    "hue": 176,
+    "imageUrl": "/emissions/2026-additions/india-500-rupees-2026-date-variety-e653.webp",
+    "slug": "india-500-rupees-2026-date-variety-e653",
+    "body": "A 2026 date variety of the 500 Rupees has been confirmed for India. It is issued by the Reserve Bank of India. The printed date is 2026. The picture and the security features continue the preceding issue of this denomination.",
+    "highlights": {
+      "reason": "2026 date variety of the 500 Rupees.",
+      "design": "Preceding design of this denomination.",
+      "security": "Security features carried over from the preceding issue."
+    },
+    "sources": [
+      {
+        "url": "https://banknotenews.com/?p=49741",
+        "label": "Banknote News"
+      },
+      {
+        "url": "https://banknotenews.com/wp-content/uploads/2026/04/India_RBI_500_rupees_2026.00.00_B303k_P114_8DL_465990_E_f.jpg",
+        "label": "Banknote News image"
+      }
+    ],
+    "confidence": "secondary"
+  },
+  {
+    "id": "e654",
+    "year": 2026,
+    "date": "2026",
+    "country": "West African States — Togo",
+    "issuer": "Banque Centrale des États de l'Afrique de l'Ouest",
+    "title": "500 Francs CFA, 2026 date variety",
+    "description": "2026 date variety of the 500 Francs CFA.",
+    "hue": 70,
+    "imageUrl": "/emissions/2026-additions/west-african-states-togo-500-francs-cfa-2026-date-variety-e654.webp",
+    "slug": "west-african-states-togo-500-francs-cfa-2026-date-variety-e654",
+    "body": "A 2026 date variety of the 500 Francs CFA has been confirmed for West African States — Togo. It is issued by the Banque Centrale des États de l'Afrique de l'Ouest. The printed date is 2026. The picture and the security features continue the preceding issue of this denomination.",
+    "highlights": {
+      "reason": "2026 date variety of the 500 Francs CFA.",
+      "design": "Preceding design of this denomination.",
+      "security": "Security features carried over from the preceding issue."
+    },
+    "sources": [
+      {
+        "url": "https://banknotenews.com/?p=49664",
+        "label": "Banknote News"
+      },
+      {
+        "url": "https://banknotenews.com/wp-content/uploads/2026/03/West_African_States_BC_500_francs_2026.00.00_B120To_P819T_26802507114_f.jpg",
+        "label": "Banknote News image"
+      }
+    ],
+    "confidence": "secondary"
+  },
+  {
+    "id": "e655",
+    "year": 2026,
+    "date": "2026",
+    "country": "West African States — Togo",
+    "issuer": "Banque Centrale des États de l'Afrique de l'Ouest",
+    "title": "1.000 Francs CFA, 2026 date variety",
+    "description": "2026 date variety of the 1.000 Francs CFA.",
+    "hue": 70,
+    "imageUrl": "/emissions/2026-additions/west-african-states-togo-1-000-francs-cfa-2026-date-variety-e655.webp",
+    "slug": "west-african-states-togo-1-000-francs-cfa-2026-date-variety-e655",
+    "body": "A 2026 date variety of the 1.000 Francs CFA has been confirmed for West African States — Togo. It is issued by the Banque Centrale des États de l'Afrique de l'Ouest. The printed date is 2026. The picture and the security features continue the preceding issue of this denomination.",
+    "highlights": {
+      "reason": "2026 date variety of the 1.000 Francs CFA.",
+      "design": "Preceding design of this denomination.",
+      "security": "Security features carried over from the preceding issue."
+    },
+    "sources": [
+      {
+        "url": "https://banknotenews.com/?p=49659",
+        "label": "Banknote News"
+      },
+      {
+        "url": "https://banknotenews.com/wp-content/uploads/2026/03/West_African_States_BC_1000_francs_2026.00.00_B121Tz_P815T_26801406008_f.jpg",
+        "label": "Banknote News image"
+      }
+    ],
+    "confidence": "secondary"
+  },
+  {
+    "id": "e656",
+    "year": 2026,
+    "date": "2026",
+    "country": "West African States — Ivory Coast",
+    "issuer": "Banque Centrale des États de l'Afrique de l'Ouest",
+    "title": "5.000 Francs CFA, 2026 date variety",
+    "description": "2026 date variety of the 5.000 Francs CFA.",
+    "hue": 20,
+    "imageUrl": "/emissions/2026-additions/west-african-states-ivory-coast-5-000-francs-cfa-2026-date-variety-e656.webp",
+    "slug": "west-african-states-ivory-coast-5-000-francs-cfa-2026-date-variety-e656",
+    "body": "A 2026 date variety of the 5.000 Francs CFA has been confirmed for West African States — Ivory Coast. It is issued by the Banque Centrale des États de l'Afrique de l'Ouest. The printed date is 2026. The picture and the security features continue the preceding issue of this denomination.",
+    "highlights": {
+      "reason": "2026 date variety of the 5.000 Francs CFA.",
+      "design": "Preceding design of this denomination.",
+      "security": "Security features carried over from the preceding issue."
+    },
+    "sources": [
+      {
+        "url": "https://banknotenews.com/?p=49646",
+        "label": "Banknote News"
+      },
+      {
+        "url": "https://banknotenews.com/wp-content/uploads/2026/03/West_African_States_BC_5000_francs_2026.00.00_B123Az_P117A_26227281934_f.jpg",
+        "label": "Banknote News image"
+      }
+    ],
+    "confidence": "secondary"
+  },
+  {
+    "id": "e657",
+    "year": 2026,
+    "date": "2026",
+    "country": "Romania",
+    "issuer": "Banca Națională a României",
+    "title": "20 Lei, 2026 date variety",
+    "description": "2026 date variety of the 20 Lei.",
+    "hue": 208,
+    "imageUrl": "/emissions/2026-additions/romania-20-lei-2026-date-variety-e657.webp",
+    "slug": "romania-20-lei-2026-date-variety-e657",
+    "body": "A 2026 date variety of the 20 Lei has been confirmed for Romania. It is issued by the Banca Națională a României. The printed date is 2026. The picture and the security features continue the preceding issue of this denomination.",
+    "highlights": {
+      "reason": "2026 date variety of the 20 Lei.",
+      "design": "Preceding design of this denomination.",
+      "security": "Security features carried over from the preceding issue."
+    },
+    "sources": [
+      {
+        "url": "https://banknotenews.com/?p=49640",
+        "label": "Banknote News"
+      },
+      {
+        "url": "https://banknotenews.com/wp-content/uploads/2026/03/Romania_BNR_20_lei_2021.12.01_B293d_PNL_262E_2542480_f.jpg",
+        "label": "Banknote News image"
+      }
+    ],
+    "confidence": "secondary"
+  },
+  {
+    "id": "e658",
+    "year": 2026,
+    "date": "5 Jan 2026",
+    "country": "Comoros",
+    "issuer": "Banque Centrale des Comores",
+    "title": "10.000 Francs, 2026 security variety",
+    "description": "Security upgrade of the 10,000 francs, dated 2025 and issued on 5 January 2026, with one signature.",
+    "hue": 286,
+    "imageUrl": "/emissions/2026-additions/comoros-10-000-francs-2026-security-variety-e658.webp",
+    "slug": "comoros-10-000-francs-2026-security-variety-e658",
+    "body": "On 5 January 2026 the Banque Centrale des Comores put a strengthened 10,000-franc note into circulation. It keeps the preceding design and is dated 2025. The new public features are the emblem of the Union of the Comoros in ink that shifts from gold to purple, and a holographic stripe. The note now carries a single signature, that of Governor Younoussa Imani.\n\nThe sheet is yellow and measures 144 × 73 mm. The front shows the Friday Mosque in Moroni and Grand Mufti Al-Habib Saïd Omar Bin Soumeit. The back shows vanilla pods, a green sea turtle and ylang-ylang flowers.",
+    "highlights": {
+      "reason": "Strengthened 10,000-franc note issued on 5 January 2026. Printed date 2025. Single signature of Governor Younoussa Imani.",
+      "design": "Yellow, 144 × 73 mm. Front: Friday Mosque in Moroni and Grand Mufti Al-Habib Saïd Omar Bin Soumeit. Back: vanilla, a green turtle and ylang-ylang.",
+      "security": "Union emblem in gold-to-purple optically variable ink, a holographic stripe, and a solid thread printed BCC."
+    },
+    "sources": [
+      {
+        "url": "https://banknotenews.com/?p=48981",
+        "label": "Banknote News"
+      },
+      {
+        "url": "https://banknotenews.com/wp-content/uploads/2026/01/Comoros_BCC_10000_francs_2025.00.00_B312a_PNL_N_4328441_f.jpg",
+        "label": "Banknote News image"
+      }
+    ],
+    "confidence": "secondary"
+  },
+  {
+    "id": "e659",
+    "year": 2026,
+    "date": "5 Jan 2026",
+    "country": "Comoros",
+    "issuer": "Banque Centrale des Comores",
+    "title": "5.000 Francs, 2026 security variety",
+    "description": "Security upgrade of the 5,000 francs, dated 2025 and issued on 5 January 2026, with one signature.",
+    "hue": 286,
+    "imageUrl": "/emissions/2026-additions/comoros-5-000-francs-2026-security-variety-e659.webp",
+    "slug": "comoros-5-000-francs-2026-security-variety-e659",
+    "body": "On 5 January 2026 the Banque Centrale des Comores issued a strengthened 5,000-franc note alongside the 10,000 francs. The design continues the previous type and the printed date is 2025. The emblem of the Union of the Comoros is now in ink that shifts from gold to purple, a holographic stripe has been added, and the only signature is that of Governor Younoussa Imani.\n\nThe sheet is purple and measures 138 × 73 mm. The front shows the crater of Karthala on Grande Comore and President Saïd Mohamed Cheikh. The back shows a baobab, the shore and a nautilus.",
+    "highlights": {
+      "reason": "Strengthened 5,000-franc note issued on 5 January 2026. Printed date 2025. Single signature of Governor Younoussa Imani.",
+      "design": "Purple, 138 × 73 mm. Front: Karthala crater and President Saïd Mohamed Cheikh. Back: a baobab, the shore and a nautilus.",
+      "security": "Union emblem in gold-to-purple optically variable ink, a holographic stripe, and a solid thread printed BCC."
+    },
+    "sources": [
+      {
+        "url": "https://banknotenews.com/?p=48985",
+        "label": "Banknote News"
+      },
+      {
+        "url": "https://banknotenews.com/wp-content/uploads/2026/01/Comoros_BCC_5000_francs_2025.00.00_B311a_PNL_H_7834826_f.jpg",
+        "label": "Banknote News image"
+      }
+    ],
+    "confidence": "secondary"
+  },
+  {
+    "id": "e660",
+    "year": 2026,
+    "date": "2026",
+    "country": "West African States — Ivory Coast",
+    "issuer": "Banque Centrale des États de l'Afrique de l'Ouest",
+    "title": "10.000 Francs CFA, 2026 date variety",
+    "description": "2026 date variety of the 10.000 Francs CFA.",
+    "hue": 20,
+    "imageUrl": "/emissions/2026-additions/west-african-states-ivory-coast-10-000-francs-cfa-2026-date-variety-e660.webp",
+    "slug": "west-african-states-ivory-coast-10-000-francs-cfa-2026-date-variety-e660",
+    "body": "A 2026 date variety of the 10.000 Francs CFA has been confirmed for West African States — Ivory Coast. It is issued by the Banque Centrale des États de l'Afrique de l'Ouest. The printed date is 2026. The picture and the security features continue the preceding issue of this denomination.",
+    "highlights": {
+      "reason": "2026 date variety of the 10.000 Francs CFA.",
+      "design": "Preceding design of this denomination.",
+      "security": "Security features carried over from the preceding issue."
+    },
+    "sources": [
+      {
+        "url": "https://banknotenews.com/?p=49427",
+        "label": "Banknote News"
+      },
+      {
+        "url": "https://banknotenews.com/wp-content/uploads/2026/02/West_African_States_BC_10000_francs_2026.00.00_B124Az_P118A_26266535769_f.jpg",
+        "label": "Banknote News image"
+      }
+    ],
+    "confidence": "secondary"
+  },
+  {
+    "id": "e661",
+    "year": 2026,
+    "date": "11 Jan 2026",
+    "country": "Oman",
+    "issuer": "Central Bank of Oman",
+    "title": "1 Rial, commemorative",
+    "description": "First Omani polymer note. Commemorative 1 rial, dated 2025, issued on 11 January 2026.",
+    "hue": 92,
+    "imageUrl": "/emissions/2026-additions/oman-1-rial-commemorative-e661.webp",
+    "slug": "oman-1-rial-commemorative-e661",
+    "body": "On 11 January 2026 the Central Bank of Oman issued a commemorative 1-rial note, the first polymer note from Oman. It circulates beside earlier 1-rial notes. The printed date is 2025, and the signature is bin Assad. The bank also sold uncut sheets and notes in envelopes at its counters in Ruwi, Salalah and Sohar, and at the Oman Post window in the Opera Galleria.\n\nThe sheet measures 145 × 76 mm, in brown, green and purple. The front shows Sultan Haitham bin Tariq, a frankincense tree and the arched windows of the Oman Botanic Garden. The back shows Duqm port, the Duqm refinery and the Sayyid Tarik bin Taimour Cultural Complex, with the national arms.",
+    "highlights": {
+      "reason": "Commemorative polymer 1 rial issued on 11 January 2026, circulating with earlier 1-rial notes.",
+      "design": "Front: Sultan Haitham bin Tariq, a frankincense tree and the Oman Botanic Garden windows. Back: Duqm port and refinery and the Sayyid Tarik bin Taimour Cultural Complex. 145 × 76 mm.",
+      "security": "Guardian polymer. A frankincense tree is printed in optically variable ink."
+    },
+    "sources": [
+      {
+        "url": "https://banknotenews.com/?p=48847",
+        "label": "Banknote News"
+      },
+      {
+        "url": "https://banknotenews.com/wp-content/uploads/2026/01/Oman_CBO_1_rial_2025.00.00_B245a_PNL_AY-1_6354762_f.jpg",
+        "label": "Banknote News image"
+      }
+    ],
+    "confidence": "secondary"
+  },
+  {
+    "id": "e662",
+    "year": 2026,
+    "date": "24 Sep 2026",
+    "country": "Nepal",
+    "issuer": "Nepal Rastra Bank",
+    "title": "1.000 Rupees, 2026 signature and date variety",
+    "description": "1,000 rupees dated 2025, released on 24 September 2026, with Poudel's signature and revised security.",
+    "hue": 16,
+    "imageUrl": "/emissions/2026-additions/nepal-1-000-rupees-2026-signature-and-date-variety-e662.webp",
+    "slug": "nepal-1-000-rupees-2026-signature-and-date-variety-e662",
+    "body": "On 24 September 2026 Nepal Rastra Bank released a 1,000-rupee note dated 2025 and signed by Governor Poudel. It follows the preceding 1,000-rupee type, with a new embossed goddess oval, a new security thread, azalea flowers around the watermark on the back, and a new column at the right on the back.",
+    "highlights": {
+      "reason": "Released on 24 September 2026. Printed date 2025. Signature of Governor Poudel, plus changes to the thread and the back.",
+      "design": "Preceding 1,000-rupee design, with azalea flowers around the watermark and a new column on the back.",
+      "security": "New embossed goddess oval and a new security thread."
+    },
+    "sources": [
+      {
+        "url": "https://banknotenews.com/?p=51345",
+        "label": "Banknote News"
+      },
+      {
+        "url": "https://banknotenews.com/wp-content/uploads/2026/09/Nepal_NRB_1000_rupees_2025.00.00_B294a_PNL_461907_f.jpg",
+        "label": "Banknote News image"
+      }
+    ],
+    "confidence": "secondary"
+  },
+  {
+    "id": "e663",
+    "year": 2026,
+    "date": "19 Sep 2026",
+    "country": "Nepal",
+    "issuer": "Nepal Rastra Bank",
+    "title": "50 Rupees, 2026 signature and date variety",
+    "description": "50 rupees dated 2025, reported from 19 September 2026, with Poudel's signature.",
+    "hue": 16,
+    "imageUrl": "/emissions/2026-additions/nepal-50-rupees-2026-signature-and-date-variety-e663.webp",
+    "slug": "nepal-50-rupees-2026-signature-and-date-variety-e663",
+    "body": "On 19 September 2026 a 50-rupee note dated 2025 was reported in Nepal, signed by Governor Poudel and printed by the China Banknote Printing and Minting Corporation. The design is that of the preceding 50-rupee note.",
+    "highlights": {
+      "reason": "Signature and date variety released in September 2026. Printed date 2025.",
+      "design": "Preceding 50-rupee design.",
+      "security": "Security of the preceding 50-rupee note. New printer imprint: China Banknote Printing and Minting Corporation."
+    },
+    "sources": [
+      {
+        "url": "https://banknotenews.com/?p=51340",
+        "label": "Banknote News"
+      },
+      {
+        "url": "https://banknotenews.com/wp-content/uploads/2026/09/Nepal_NRB_50_rupees_2025.00.00_B290cs_P79s_012345_678900_f.jpg",
+        "label": "Banknote News image"
+      }
+    ],
+    "confidence": "secondary"
+  },
+  {
+    "id": "e664",
+    "year": 2026,
+    "date": "2026",
+    "country": "West African States — Guinea-Bissau",
+    "issuer": "Banque Centrale des États de l'Afrique de l'Ouest",
+    "title": "500 Francs CFA, 2026 signature variety",
+    "description": "2026 signature variety of the Guinea-Bissau 500 francs (Nacanabo / Brou).",
+    "hue": 64,
+    "imageUrl": "/emissions/2026-additions/west-african-states-guinea-bissau-500-francs-cfa-2026-signature-variety-e664.webp",
+    "slug": "west-african-states-guinea-bissau-500-francs-cfa-2026-signature-variety-e664",
+    "body": "A further 2026 variety of the Guinea-Bissau 500-franc note carries the signatures Nacanabo and Brou. It follows the 2026-dated 500 francs and keeps that design. The change is the signature combination.",
+    "highlights": {
+      "reason": "Signature variety of the 2026 500-franc note for Guinea-Bissau.",
+      "design": "Same design as the 2026-dated 500 francs.",
+      "security": "Security of the current 500-franc note."
+    },
+    "sources": [
+      {
+        "url": "https://banknotenews.com/?p=51351",
+        "label": "Banknote News"
+      },
+      {
+        "url": "https://banknotenews.com/wp-content/uploads/2026/10/West_African_States_BC_500_francs_2026.00.00_B120Sp_P919S_26405009687_f.jpg",
+        "label": "Banknote News image"
+      }
+    ],
+    "confidence": "secondary"
+  },
+  {
+    "id": "e665",
+    "year": 2026,
+    "date": "2026",
+    "country": "Indonesia",
+    "issuer": "Bank Indonesia",
+    "title": "100.000 Rupiah, 2026 signature variety",
+    "description": "2026 signature variety of the 100.000 Rupiah. Signatures: Purbaya Yudhi Sadewa.",
+    "hue": 142,
+    "imageUrl": "/emissions/2026-additions/indonesia-100-000-rupiah-2026-signature-variety-e665.webp",
+    "slug": "indonesia-100-000-rupiah-2026-signature-variety-e665",
+    "body": "A 2026 signature variety of the 100.000 Rupiah has been confirmed for Indonesia. It is issued by the Bank Indonesia. The printed date is 2026. The signatures are Purbaya Yudhi Sadewa. The picture and the security features continue the preceding issue of this denomination.",
+    "highlights": {
+      "reason": "2026 signature variety of the 100.000 Rupiah.",
+      "design": "Preceding design of this denomination.",
+      "security": "Security features carried over from the preceding issue."
+    },
+    "sources": [
+      {
+        "url": "https://banknotenews.com/?p=51261",
+        "label": "Banknote News"
+      },
+      {
+        "url": "https://banknotenews.com/wp-content/uploads/2026/09/Indonesia_BI_100000_rupiah_2026.00.00_B623f_PNL_f-scaled.jpg",
+        "label": "Banknote News image"
+      }
+    ],
+    "confidence": "secondary"
+  },
+  {
+    "id": "e666",
+    "year": 2026,
+    "date": "2026",
+    "country": "Iran",
+    "issuer": "Central Bank of the Islamic Republic of Iran",
+    "title": "5.000.000 Rials, 2026 signature variety",
+    "description": "Signature variety of the 5,000,000-rial emergency cheque, signed by Abdolnaser Hemmati.",
+    "hue": 48,
+    "slug": "iran-5-000-000-rials-2026-signature-variety-e666",
+    "body": "Banknotes.ws records a signature variety of Iran's 5,000,000-rial note, numbered W168(2), with no printed date and the signature of Abdolnaser Hemmati. The catalogue dates that variety ND(2026). The type is the emergency cheque issued for want of ordinary high-denomination notes. The front shows the Agha Bozorg mosque in Kashan and the back the tomb of Ferdowsi at Tus. An earlier variety of the same type is signed Farzin and is dated ND(2025).",
+    "highlights": {
+      "reason": "ND(2026) signature variety of the 5,000,000-rial emergency cheque, signed by Abdolnaser Hemmati.",
+      "design": "Agha Bozorg mosque in Kashan on the front, tomb of Ferdowsi at Tus on the back.",
+      "security": "Security of the 5,000,000-rial cheque type. No separate photograph of the Hemmati signature was available from an allowed source."
+    },
+    "sources": [
+      {
+        "url": "http://banknote.ws/COLLECTION/countries/ASI/IRN/IRNW0168.htm",
+        "label": "Banknotes.ws — catalogue entry"
+      }
+    ],
+    "confidence": "secondary"
+  },
+  {
+    "id": "e667",
+    "year": 2026,
+    "date": "2026",
+    "country": "West African States — Ivory Coast",
+    "issuer": "Banque Centrale des États de l'Afrique de l'Ouest",
+    "title": "500 Francs CFA, 2026 date variety",
+    "description": "2026 date variety of the Ivory Coast 500 francs CFA.",
+    "hue": 20,
+    "slug": "west-african-states-ivory-coast-500-francs-cfa-2026-date-variety-e667",
+    "body": "Banknotes.ws has added a 2026 date of the 500-franc CFA note for Ivory Coast, Pick 119A, issued by the Central Bank of West African States. It is a date variety of the long-running 500-franc type, not a new design. Banknote News has confirmed 2026 dates for several other West African 500-franc notes, and this Ivory Coast date is recorded on the same catalogue.",
+    "highlights": {
+      "reason": "2026 date variety of the Ivory Coast 500 francs CFA.",
+      "design": "Preceding 500-franc design for Ivory Coast.",
+      "security": "Security of the current 500-franc note."
+    },
+    "sources": [
+      {
+        "url": "http://banknote.ws/COLLECTION/countries/AFR/WAS/WAS.htm#CIV",
+        "label": "Banknotes.ws — catalogue entry"
+      }
+    ],
+    "confidence": "secondary"
   }
 ]
