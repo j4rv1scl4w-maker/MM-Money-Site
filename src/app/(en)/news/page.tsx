@@ -1,15 +1,5 @@
-import { getEmissions, toEmissionCard } from '@/lib/content';
-import EmissionsGrid from '@/components/EmissionsGrid';
-import { responsiveSource } from '@/lib/responsive-image';
+import NewsBrowse from './browse';
 
-export default async function BanknotesNews() {
-  const emissions = await getEmissions();
-  return (
-    <EmissionsGrid
-      emissions={emissions.map((emission) => ({
-        ...toEmissionCard(emission),
-        image: responsiveSource(emission.imageUrl, 320),
-      }))}
-    />
-  );
+export default function BanknotesNews() {
+  return <NewsBrowse page={1} />;
 }
