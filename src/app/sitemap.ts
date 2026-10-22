@@ -1,6 +1,7 @@
 import type { MetadataRoute } from 'next';
 import { parseContentDate } from '@/lib/dates';
-import { getArticles, getEmissions } from '@/lib/content';
+import { getArticles, getEmissions, toEmissionCard } from '@/lib/content';
+import { newsSitemapPaths } from '@/lib/news-pages';
 import { pageUrl } from '@/lib/site';
 
 // Required for output: 'export' — metadata routes must be static.
@@ -55,5 +56,12 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     };
   });
 
-  return [...staticRoutes, ...articleRoutes, ...emissionRoutes];
+  // `/news/` stays in staticRoutes. Later pages and year filters are real static URLs.
+  const newsRoutes: MetadataRoute.Sitemap = newsSitemapPaths(emissions.map(toEmissionCard)).map((path) => ({
+    url: pageUrl(path),
+    changeFrequency: 'weekly' as const,
+    priority: 0.4,
+  }));
+
+  return [...staticRoutes, ...newsRoutes, ...articleRoutes, ...emissionRoutes];
 }

@@ -1,29 +1,47 @@
-'use client';
-import { useState } from 'react';
 import Link from 'next/link';
 import Banknote from './Banknote';
 import NoteImage from './NoteImage';
 import type { ResponsiveSource } from './NoteImage';
 import type { EmissionCard } from '@/lib/content';
+import { NEWS_PAGE_SIZE, newsHref, type NewsGroup } from '@/lib/news-pages';
 
 type NewsCard = EmissionCard & { image?: ResponsiveSource };
 
 interface Props {
-  emissions: NewsCard[];
+  groups: NewsGroup<NewsCard>[];
+  years: number[];
+  activeYear?: number;
+  page: number;
+  pageCount: number;
+  total: number;
 }
 
-export default function EmissionsGrid({ emissions }: Props) {
-  const years = [...new Set(emissions.map(e => e.year))].sort((a, b) => b - a);
-  const [yearFilter, setYearFilter] = useState<number | 'all'>('all');
+function windowPages(page: number, pageCount: number): (number | 'gap')[] {
+  const wanted = new Set([1, pageCount, page - 1, page, page + 1]);
+  const pages = [...wanted].filter((n) => n >= 1 && n <= pageCount).sort((a, b) => a - b);
+  const out: (number | 'gap')[] = [];
+  for (const n of pages) {
+    const prev = out[out.length - 1];
+    if (typeof prev === 'number' && n - prev > 1) out.push('gap');
+    out.push(n);
+  }
+  return out;
+}
 
-  const visible = yearFilter === 'all' ? emissions : emissions.filter(e => e.year === yearFilter);
-  const grouped = years
-    .filter(y => yearFilter === 'all' || y === yearFilter)
-    .map(y => ({ year: y, items: visible.filter(e => e.year === y) }))
-    .filter(g => g.items.length > 0);
+const chip = (active: boolean): React.CSSProperties => ({
+  font: '600 12px/1 Hanken Grotesk,sans-serif',
+  padding: '8px 14px',
+  borderRadius: 999,
+  border: `1px solid ${active ? 'var(--news)' : 'var(--line)'}`,
+  background: active ? 'var(--news)' : 'transparent',
+  color: active ? '#0c1418' : 'var(--ink2)',
+  textDecoration: 'none',
+});
 
-  // Sort emissions within each year by date descending (newest first)
-  grouped.forEach(g => g.items.sort((a, b) => b.id.localeCompare(a.id, undefined, { numeric: true })));
+export default function EmissionsGrid({ groups, years, activeYear, page, pageCount, total }: Props) {
+  const start = total === 0 ? 0 : (page - 1) * NEWS_PAGE_SIZE + 1;
+  const end = Math.min(page * NEWS_PAGE_SIZE, total);
+  const pages = windowPages(page, pageCount);
 
   return (
     <>
@@ -37,31 +55,27 @@ export default function EmissionsGrid({ emissions }: Props) {
           Upcoming and recent banknote issues from central banks around the world. Sorted by release date.
         </p>
         <div style={{ display: 'flex', gap: 8, flexWrap: 'wrap' }}>
-          <button
-            onClick={() => setYearFilter('all')}
-            style={{ font: '600 12px/1 Hanken Grotesk,sans-serif', padding: '8px 14px', borderRadius: 999, border: `1px solid ${yearFilter === 'all' ? 'var(--news)' : 'var(--line)'}`, background: yearFilter === 'all' ? 'var(--news)' : 'transparent', color: yearFilter === 'all' ? '#0c1418' : 'var(--ink2)', cursor: 'pointer' }}
-          >
+          <Link href="/news" aria-current={activeYear === undefined ? 'page' : undefined} style={chip(activeYear === undefined)}>
             All
-          </button>
-          {years.map(y => (
-            <button
-              key={y}
-              onClick={() => setYearFilter(y)}
-              style={{ font: '600 12px/1 Hanken Grotesk,sans-serif', padding: '8px 14px', borderRadius: 999, border: `1px solid ${yearFilter === y ? 'var(--news)' : 'var(--line)'}`, background: yearFilter === y ? 'var(--news)' : 'transparent', color: yearFilter === y ? '#0c1418' : 'var(--ink2)', cursor: 'pointer' }}
-            >
-              {y}
-            </button>
+          </Link>
+          {years.map((year) => (
+            <Link key={year} href={newsHref(1, year)} aria-current={activeYear === year ? 'page' : undefined} style={chip(activeYear === year)}>
+              {year}
+            </Link>
           ))}
         </div>
+        <p style={{ font: '500 13px/1 Hanken Grotesk,sans-serif', color: 'var(--ink2)', margin: '18px 0 0' }}>
+          {start}–{end} of {total}
+        </p>
       </div>
 
-      <div className="pad-x" style={{ padding: '0 56px 60px' }}>
-        {grouped.map(({ year, items }) => (
+      <div className="pad-x" style={{ padding: '0 56px 28px' }}>
+        {groups.map(({ year, items }) => (
           <div key={year}>
             <div style={{ font: '600 11px/1 Hanken Grotesk,sans-serif', letterSpacing: '.2em', textTransform: 'uppercase', color: 'var(--ink2)', padding: '28px 0 16px', borderTop: '2px solid var(--line)', marginTop: 8 }}>
               {year}
             </div>
-            {items.map(e => (
+            {items.map((e) => (
               <Link key={e.id} href={`/emissions/${e.slug}`} className="em-row">
                 <div className="em-thumb" style={e.image?.width && e.image.height ? { aspectRatio: `${e.image.width} / ${e.image.height}` } : undefined}>
                   {e.image || e.imageUrl
@@ -84,6 +98,20 @@ export default function EmissionsGrid({ emissions }: Props) {
             ))}
           </div>
         ))}
+
+        {pageCount > 1 && (
+          <nav aria-label="Pagination" style={{ display: 'flex', gap: 8, flexWrap: 'wrap', alignItems: 'center', padding: '28px 0 12px', borderTop: '2px solid var(--line)', marginTop: 8 }}>
+            {page > 1 && <Link href={newsHref(page - 1, activeYear)} style={chip(false)}>Previous</Link>}
+            {pages.map((entry, index) => entry === 'gap'
+              ? <span key={`gap-${index}`} style={{ color: 'var(--ink2)' }}>…</span>
+              : (
+                <Link key={entry} href={newsHref(entry, activeYear)} aria-current={entry === page ? 'page' : undefined} style={chip(entry === page)}>
+                  {entry}
+                </Link>
+              ))}
+            {page < pageCount && <Link href={newsHref(page + 1, activeYear)} style={chip(false)}>Next</Link>}
+          </nav>
+        )}
       </div>
     </>
   );
