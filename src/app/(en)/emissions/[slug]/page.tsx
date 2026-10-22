@@ -1,7 +1,8 @@
 import Link from 'next/link';
-import Image from 'next/image';
 import { notFound } from 'next/navigation';
 import Banknote from '@/components/Banknote';
+import NoteImage from '@/components/NoteImage';
+import { noteAspectRatio, responsiveSource } from '@/lib/responsive-image';
 import { getEmissions } from '@/lib/content';
 import { parseContentDate } from '@/lib/dates';
 import { emissionMetaDescription } from '@/lib/emission-description';
@@ -36,6 +37,7 @@ export default async function EmissionPage({ params }: { params: Promise<{ slug:
   if (!e) notFound();
 
   const published = parseContentDate(e.date, e.year);
+  const photo = responsiveSource(e.imageUrl);
   const emissionSchema = {
     '@context': 'https://schema.org',
     '@type': 'Article',
@@ -77,9 +79,9 @@ export default async function EmissionPage({ params }: { params: Promise<{ slug:
         {e.country} · {e.issuer}
       </div>
 
-      <div style={{ marginBottom: 36, borderRadius: 6, overflow: 'hidden', border: '1px solid var(--line)', background: 'var(--card)', aspectRatio: '8/5', position: 'relative' }}>
-        {e.imageUrl
-          ? <Image src={e.imageUrl} alt={`${e.country} ${e.title}`} fill sizes="(max-width: 768px) 100vw, 740px" loading="eager" fetchPriority="high" style={{ objectFit: 'contain', background: '#111' }} unoptimized />
+      <div style={{ marginBottom: 36, borderRadius: 6, overflow: 'hidden', border: '1px solid var(--line)', background: '#111', aspectRatio: noteAspectRatio(photo), position: 'relative' }}>
+        {photo
+          ? <NoteImage source={photo} alt={`${e.country} ${e.title}`} fill priority sizes="(max-width: 768px) 100vw, 740px" style={{ background: '#111' }} />
           : <Banknote hue={e.hue} dark denom={e.title} label={e.country} style={{ width: '100%', height: '100%' }} />
         }
       </div>

@@ -47,7 +47,8 @@
 }
 
 .heroFrame {
-  aspect-ratio: 8 / 5;
+  /* Notes are about 2:1 to 2.36:1. 8/5 (1.6:1) stretched them. The inline ratio wins when known. */
+  aspect-ratio: 2 / 1;
   border-radius: 12px;
 }
 
@@ -56,8 +57,13 @@
 }
 
 .thumb {
-  aspect-ratio: 8 / 5;
+  aspect-ratio: 2 / 1;
   border-radius: 8px;
+}
+
+.heroFrame img,
+.thumb img {
+  object-fit: contain;
 }
 
 .eyebrow {

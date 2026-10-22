@@ -1,12 +1,15 @@
 'use client';
 import { useState } from 'react';
 import Link from 'next/link';
-import Image from 'next/image';
 import Banknote from './Banknote';
+import NoteImage from './NoteImage';
+import type { ResponsiveSource } from './NoteImage';
 import type { EmissionCard } from '@/lib/content';
 
+type NewsCard = EmissionCard & { image?: ResponsiveSource };
+
 interface Props {
-  emissions: EmissionCard[];
+  emissions: NewsCard[];
 }
 
 export default function EmissionsGrid({ emissions }: Props) {
@@ -60,9 +63,9 @@ export default function EmissionsGrid({ emissions }: Props) {
             </div>
             {items.map(e => (
               <Link key={e.id} href={`/emissions/${e.slug}`} className="em-row">
-                <div className="em-thumb">
-                  {e.imageUrl
-                    ? <Image src={e.imageUrl} alt={e.title} fill className="em-img" unoptimized />
+                <div className="em-thumb" style={e.image?.width && e.image.height ? { aspectRatio: `${e.image.width} / ${e.image.height}` } : undefined}>
+                  {e.image || e.imageUrl
+                    ? <NoteImage source={e.image ?? { src: e.imageUrl! }} alt={e.title} fill sizes="160px" className="em-img" />
                     : <Banknote hue={e.hue} dark label={e.country} style={{ width: '100%', height: '100%' }} />
                   }
                 </div>

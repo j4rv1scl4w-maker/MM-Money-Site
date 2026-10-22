@@ -1,7 +1,8 @@
 'use client';
 import { useState, useEffect } from 'react';
-import Image from 'next/image';
 import Banknote from './Banknote';
+import NoteImage from './NoteImage';
+import type { ResponsiveSource } from './NoteImage';
 
 interface Emission {
   id: string;
@@ -13,6 +14,7 @@ interface Emission {
   description: string;
   hue: number;
   imageUrl?: string;
+  image?: ResponsiveSource;
 }
 
 function shuffle<T>(arr: T[], random: () => number = Math.random): T[] {
@@ -47,9 +49,9 @@ export default function HomeNewsRotator({ emissions }: { emissions: Emission[] }
     <div className="grid-4" style={{ display: 'grid', gridTemplateColumns: 'repeat(4,1fr)', gap: 16 }}>
       {visible.map((u) => (
         <div key={u.id} style={{ background: 'var(--bg2)', border: '1px solid var(--line)', borderRadius: 6, overflow: 'hidden' }}>
-          <div style={{ position: 'relative', aspectRatio: '8/5', background: 'var(--card)' }}>
-            {u.imageUrl
-              ? <Image src={u.imageUrl} alt={u.title} fill style={{ objectFit: 'contain', background: '#111' }} unoptimized />
+          <div style={{ position: 'relative', aspectRatio: u.image?.width && u.image.height ? `${u.image.width} / ${u.image.height}` : '2 / 1', background: '#111' }}>
+            {u.image || u.imageUrl
+              ? <NoteImage source={u.image ?? { src: u.imageUrl! }} alt={u.title} fill sizes="(max-width: 900px) 50vw, 25vw" style={{ background: '#111' }} />
               : <Banknote hue={u.hue} dark label={u.country} style={{ width: '100%', height: '100%' }} />
             }
           </div>

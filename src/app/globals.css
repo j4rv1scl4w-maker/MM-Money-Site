@@ -46,7 +46,8 @@ html, body { max-width: 100%; overflow-x: hidden; }
 .em-thumb {
   width: 160px;
   flex-shrink: 0;
-  aspect-ratio: 8/5;
+  /* Fallback when the file's real ratio is not known. Typical notes are ~2:1, not 8:5. */
+  aspect-ratio: 2 / 1;
   border-radius: 4px;
   overflow: hidden;
   border: 1px solid var(--line);

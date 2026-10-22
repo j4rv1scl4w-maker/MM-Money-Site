@@ -1,5 +1,6 @@
-import Image from 'next/image';
 import Link from 'next/link';
+import NoteImage from '@/components/NoteImage';
+import { noteAspectRatio, responsiveSource } from '@/lib/responsive-image';
 import { catalogStats } from '@/lib/site';
 import { delcampeStore, delcampeTrust, ebayStoreUrl, promoteEbay } from '@/lib/stores';
 import styles from '@/app/(en)/shop/shop.module.css';
@@ -59,6 +60,7 @@ export default async function ShopLanding({ locale }: { locale: 'en' | 'it' }) {
   const copy = COPY[locale];
   const notes = pieces.toLocaleString(locale === 'it' ? 'it-IT' : 'en-GB');
   const [hero, ...rest] = NOTES;
+  const heroImage = responsiveSource(hero.src) ?? { src: hero.src };
   const store = delcampeStore[locale];
 
   return (
@@ -70,15 +72,18 @@ export default async function ShopLanding({ locale }: { locale: 'en' | 'it' }) {
 
       <div className={styles.layout}>
         <div className={styles.collage}>
-          <div className={styles.heroFrame}>
-            <Image src={hero.src} alt={hero.alt[locale]} fill sizes="(max-width: 900px) 100vw, 46vw" loading="eager" fetchPriority="high" unoptimized />
+          <div className={styles.heroFrame} style={{ aspectRatio: noteAspectRatio(heroImage) }}>
+            <NoteImage source={heroImage} alt={hero.alt[locale]} fill priority sizes="(max-width: 900px) 100vw, 46vw" />
           </div>
           <div className={styles.thumbs}>
-            {rest.slice(0, 2).map((note) => (
-              <div className={styles.thumb} key={note.src}>
-                <Image src={note.src} alt={note.alt[locale]} fill sizes="20vw" loading="lazy" unoptimized />
-              </div>
-            ))}
+            {rest.slice(0, 2).map((note) => {
+              const image = responsiveSource(note.src) ?? { src: note.src };
+              return (
+                <div className={styles.thumb} key={note.src} style={{ aspectRatio: noteAspectRatio(image) }}>
+                  <NoteImage source={image} alt={note.alt[locale]} fill sizes="(max-width: 900px) 50vw, 18vw" />
+                </div>
+              );
+            })}
           </div>
         </div>
 
@@ -119,11 +124,14 @@ export default async function ShopLanding({ locale }: { locale: 'en' | 'it' }) {
       </div>
 
       <div className={styles.more}>
-        {rest.map((note) => (
-          <div className={styles.thumb} key={note.src}>
-            <Image src={note.src} alt={note.alt[locale]} fill sizes="50vw" loading="lazy" unoptimized />
-          </div>
-        ))}
+        {rest.map((note) => {
+          const image = responsiveSource(note.src) ?? { src: note.src };
+          return (
+            <div className={styles.thumb} key={note.src} style={{ aspectRatio: noteAspectRatio(image) }}>
+              <NoteImage source={image} alt={note.alt[locale]} fill sizes="(max-width: 900px) 50vw, 18vw" />
+            </div>
+          );
+        })}
       </div>
     </div>
   );

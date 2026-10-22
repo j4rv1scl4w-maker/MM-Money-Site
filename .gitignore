@@ -46,3 +46,7 @@ __pycache__/
 
 # Scratch research dump. Not read by the site or the pipeline scripts.
 banknotes_research.json
+
+# Build-time image derivatives (scripts/optimize-images.mjs). Originals stay in public/emissions.
+/public/img-opt/
+/src/generated/
