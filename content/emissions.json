@@ -14149,5 +14149,74 @@
       }
     ],
     "confidence": "official"
+  },
+  {
+    "id": "e599",
+    "year": 2026,
+    "date": "14 Sep 2026",
+    "country": "Romania",
+    "issuer": "Banca Națională a României",
+    "title": "100 Lei, Eugeniu Carada",
+    "description": "Polymer commemorative for 190 years since the birth of Eugeniu Carada. Legal tender, sold as a collector note.",
+    "hue": 210,
+    "slug": "romania-100-lei-eugeniu-carada-e599",
+    "body": "On 14 September 2026 the National Bank of Romania launched a commemorative 100-leu polymer note into its numismatic circuit, for 190 years since the birth of Eugeniu Carada (29 November 1836–1910), the bank's founder. Circular 24/2026, published in Monitorul Oficial no. 772 of 11 September 2026, states that the note has circulating power on the territory of Romania. It is sold as a collector piece: 16,000 notes at 240 lei each, VAT and a presentation folder included, and 1,000 special sheets of four notes at 840 lei each, VAT and a certificate of authenticity included. Sales began on 15 September 2026 at the bank's branches in Bucharest, Cluj, Constanța, Dolj, Iași and Timiș.\n\nThe sheet measures 147 × 82 mm, the same size as the circulating 100 lei, and the dominant colour is blue. It is printed by offset and intaglio on polymer. The front shows Carada's portrait and signature, the words Eugeniu Carada 1836-1910, the banking hall of the Old Palace with an eagle and an ornamented shield bearing the bank's emblem, the coat of arms of Romania and the bank's name. The launch date is printed vertically at the right. The back shows the Old Palace and, behind it, the board room. A vertical transparent window carries a multi-tone portrait and a SPARK element that shifts from gold to green. The portrait and the value are in intaglio, a magnetic thread carries the microtext CARADA, and the numeral 100 is formed by laser microperforation.",
+    "highlights": {
+      "reason": "Commemorative 100 lei for 190 years since the birth of Eugeniu Carada, launched on 14 September 2026. It has circulating power in Romania and is sold as a collector note.",
+      "design": "Blue polymer, 147 × 82 mm. Front: Carada, his signature, and the banking hall of the Old Palace. Back: the Old Palace and the board room.",
+      "security": "Vertical transparent window with a multi-tone portrait and SPARK ink (gold to green), intaglio, a magnetic thread reading CARADA, and laser-perforated 100."
+    },
+    "sources": [
+      {
+        "url": "https://www.bnr.ro/25789-2026-09-07-numismatic-issue-dedicated-to-eugeniu-carada-the-founder-of-the-national-bank-of-romania-190-years-since-his-birth",
+        "label": "Banca Națională a României — numismatic issue, 7 September 2026"
+      },
+      {
+        "url": "https://www.bnr.ro/25812-circulara-24-2026",
+        "label": "Banca Națională a României — Circular 24/2026"
+      },
+      {
+        "url": "http://banknote.ws/COLLECTION/countries/EUR/ROM/ROMW0128.htm",
+        "label": "Banknotes.ws — catalogue entry"
+      }
+    ],
+    "confidence": "official"
+  },
+  {
+    "id": "e600",
+    "year": 2026,
+    "date": "10 Jun 2026",
+    "country": "Philippines",
+    "issuer": "Bangko Sentral ng Pilipinas",
+    "title": "3,000 Piso, Supreme Court",
+    "description": "Legal-tender commemorative for 125 years of the Supreme Court. First Philippine note with a vertical back.",
+    "hue": 282,
+    "imageUrl": "/emissions/2026-additions/philippines-3000-piso-2026.webp",
+    "slug": "philippines-3000-piso-supreme-court-e600",
+    "body": "On 10 June 2026 the Supreme Court of the Philippines and the Bangko Sentral ng Pilipinas launched a 3,000-piso note for the 125th anniversary of the Court, established in 1901. The ceremony was held in the Session Hall in Manila. The note is legal tender. The central bank sells it as a commemorative, limited to one note per customer.\n\nIt is the first Philippine banknote with a vertical reverse. The front, in purple, shows Cayetano Arellano, the first Chief Justice, the historic Supreme Court session hall, the 125th-anniversary mark and the seal of the Bangko Sentral. The back, arranged vertically, shows Lady Justice, the new Supreme Court building in Manila, and the names of the chief justices since 1901.",
+    "highlights": {
+      "reason": "Commemorative 3,000 piso for 125 years of the Supreme Court, launched on 10 June 2026 and legal tender.",
+      "design": "Front: Cayetano Arellano and the historic session hall. Back, vertical: Lady Justice, the new Supreme Court building, and the names of the chief justices since 1901.",
+      "security": "Bangko Sentral seal and the 125th-anniversary mark on the front."
+    },
+    "sources": [
+      {
+        "url": "https://bspstore.bsp.gov.ph/product/3000-piso-supreme-court-125th-anniversary-banknote/",
+        "label": "Bangko Sentral ng Pilipinas — commemorative note"
+      },
+      {
+        "url": "https://bspstore.bsp.gov.ph/wp-content/uploads/2026/07/CNC0103.jpg",
+        "label": "Official image"
+      },
+      {
+        "url": "https://www.manilatimes.net/2026/06/13/news/national/sc-releases-commemorative-items-for-its-125th-anniversary/2364560",
+        "label": "The Manila Times — launch on 10 June 2026"
+      },
+      {
+        "url": "http://banknote.ws/COLLECTION/countries/ASI/PIL/PILW0242.htm",
+        "label": "Banknotes.ws — catalogue entry"
+      }
+    ],
+    "confidence": "official"
   }
 ]
