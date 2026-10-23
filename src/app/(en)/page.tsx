@@ -75,7 +75,8 @@ export default async function Home() {
                   denom={it.denom.split(' ')[0]}
                   label={it.country.toUpperCase().slice(0, 8)}
                   alt={`${it.country} ${it.denom} ${it.year}`}
-                  priority={i === 0}
+                  variant="thumb"
+                  desktopOnly
                 />
               </div>
             ))}
@@ -122,6 +123,7 @@ export default async function Home() {
                   alt={`${it.country} ${it.denom} ${it.year}`}
                   variant="thumb"
                   loading={index === 0 ? 'eager' : 'lazy'}
+                  fetchPriority={index === 0 ? 'high' : undefined}
                 />
               </div>
               <div style={{ padding: '2px 14px 15px' }}>
@@ -167,9 +169,9 @@ export default async function Home() {
         </div>
         <div className="grid-4" style={{ display: 'grid', gridTemplateColumns: '1.5fr 1fr 1fr', gap: 20 }}>
           {articles.slice(0, 3).map((a, i) => (
-            <Link key={a.id} href={`/articles/${a.slug}`} style={{ textDecoration: 'none', color: 'inherit' }}>
+            <Link key={a.id} href={`/articles/${a.slug}`} prefetch={false} style={{ textDecoration: 'none', color: 'inherit' }}>
               {a.imageUrl
-                ? <img src={a.imageUrl} alt={a.title} style={{ width: '100%', aspectRatio: i === 0 ? '16/9' : '8/5', objectFit: 'cover', borderRadius: 8, marginBottom: 14, display: 'block' }} />
+                ? <img src={a.imageUrl} alt={a.title} loading="lazy" decoding="async" fetchPriority="low" style={{ width: '100%', aspectRatio: i === 0 ? '16/9' : '8/5', objectFit: 'cover', borderRadius: 8, marginBottom: 14, display: 'block' }} />
                 : <Banknote hue={a.hue} dark style={{ aspectRatio: i === 0 ? '16/9' : '8/5', marginBottom: 14 }} />
               }
               <div style={{ font: '600 10px/1 Hanken Grotesk,sans-serif', letterSpacing: '.12em', textTransform: 'uppercase', color: 'var(--gold)', marginBottom: 8 }}>{a.cat} · {a.read}</div>

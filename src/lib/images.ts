@@ -19,7 +19,8 @@ export function localEmissionImage(url?: string | null): string | undefined {
     const rel = decodeURIComponent(url.slice(JSDELIVR_ASSETS.length));
     if (!rel.includes('..') && !path.isAbsolute(rel)) {
       const file = path.join(process.cwd(), 'public', 'emissions', rel);
-      if (fs.existsSync(file)) next = `/emissions/${rel}`;
+      // A 0-byte mirror must not replace a working jsDelivr URL.
+      if (fs.existsSync(file) && fs.statSync(file).size > 0) next = `/emissions/${rel}`;
     }
   }
 
