@@ -2,7 +2,9 @@ import Link from 'next/link';
 import Banknote from '@/components/Banknote';
 import BanknoteImage from '@/components/BanknoteImage';
 import HomeNewsRotator from '@/components/HomeNewsRotator';
+import NearImage from '@/components/NearImage';
 import { eur } from '@/lib/data';
+import { delcampeImgUrl } from '@/lib/delcampe-image';
 import { formatCount } from '@/lib/format';
 import { localEmissionImage } from '@/lib/images';
 import { responsiveSource } from '@/lib/responsive-image';
@@ -37,9 +39,11 @@ const STATS = [
 
 export default async function Home() {
   const articles = await getArticles();
+  const heroThumb = delcampeImgUrl(FEATURED[0].idAuction, 'thumb');
 
   return (
     <div>
+      <link rel="preload" as="image" href={heroThumb} media="(min-width: 901px)" fetchPriority="high" />
       {/* Hero */}
       <section className="hero-sec pad-x" style={{ position: 'relative', padding: '80px 56px 72px', overflow: 'hidden' }}>
         <div style={{ position: 'absolute', inset: 0, background: 'radial-gradient(120% 90% at 78% 30%, var(--bg2) 0%, var(--bg) 60%)', pointerEvents: 'none' }} />
@@ -106,7 +110,7 @@ export default async function Home() {
           </Link>
         </div>
         <div className="grid-4" style={{ display: 'grid', gridTemplateColumns: 'repeat(4,1fr)', gap: 18 }}>
-          {FEATURED.map((it, index) => (
+          {FEATURED.map((it) => (
             <a
               key={it.idAuction}
               href={`https://www.delcampe.net/it/collezionismo/monete-banconote/banconote/${it.title.toLowerCase().replace(/['"]/g,'').replace(/\./g,'').replace(/[^a-z0-9]+/g,'-').replace(/^-+|-+$/g,'')}-${it.idAuction}.html`}
@@ -122,8 +126,7 @@ export default async function Home() {
                   label={`${it.country.toUpperCase().slice(0,8)} · ${it.year}`}
                   alt={`${it.country} ${it.denom} ${it.year}`}
                   variant="thumb"
-                  loading={index === 0 ? 'eager' : 'lazy'}
-                  fetchPriority={index === 0 ? 'high' : undefined}
+                  loading="lazy"
                 />
               </div>
               <div style={{ padding: '2px 14px 15px' }}>
@@ -171,7 +174,7 @@ export default async function Home() {
           {articles.slice(0, 3).map((a, i) => (
             <Link key={a.id} href={`/articles/${a.slug}`} prefetch={false} style={{ textDecoration: 'none', color: 'inherit' }}>
               {a.imageUrl
-                ? <img src={a.imageUrl} alt={a.title} loading="lazy" decoding="async" fetchPriority="low" style={{ width: '100%', aspectRatio: i === 0 ? '16/9' : '8/5', objectFit: 'cover', borderRadius: 8, marginBottom: 14, display: 'block' }} />
+                ? <NearImage src={a.imageUrl} alt={a.title} style={{ width: '100%', aspectRatio: i === 0 ? '16/9' : '8/5', objectFit: 'cover', borderRadius: 8, marginBottom: 14, display: 'block', background: 'var(--card)' }} />
                 : <Banknote hue={a.hue} dark style={{ aspectRatio: i === 0 ? '16/9' : '8/5', marginBottom: 14 }} />
               }
               <div style={{ font: '600 10px/1 Hanken Grotesk,sans-serif', letterSpacing: '.12em', textTransform: 'uppercase', color: 'var(--gold)', marginBottom: 8 }}>{a.cat} · {a.read}</div>
