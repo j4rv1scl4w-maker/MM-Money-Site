@@ -1,3 +1,5 @@
+import { Spectral } from 'next/font/google';
+import { preload } from 'react-dom';
 import Link from 'next/link';
 import Banknote from '@/components/Banknote';
 import BanknoteImage from '@/components/BanknoteImage';
@@ -12,6 +14,15 @@ import { getArticles } from '@/lib/content';
 import type { CatalogItem } from '@/lib/content';
 import catalogData from '../../../content/catalog.json';
 import emissions2026 from '../../../content/emissions-2026.json';
+
+/** The homepage H1 is Spectral 300. Other faces stay available but are not preloaded. */
+const spectralLcp = Spectral({
+  subsets: ['latin'],
+  weight: '300',
+  style: 'normal',
+  display: 'swap',
+  preload: true,
+});
 
 // Top 12 by views for homepage
 const FEATURED: CatalogItem[] = (catalogData as CatalogItem[])
@@ -41,9 +52,10 @@ export default async function Home() {
   const articles = await getArticles();
   const heroThumb = delcampeImgUrl(FEATURED[0].idAuction, 'thumb');
 
+  preload(heroThumb, { as: 'image', fetchPriority: 'high', media: '(min-width: 901px)' });
+
   return (
     <div>
-      <link rel="preload" as="image" href={heroThumb} media="(min-width: 901px)" fetchPriority="high" />
       {/* Hero */}
       <section className="hero-sec pad-x" style={{ position: 'relative', padding: '80px 56px 72px', overflow: 'hidden' }}>
         <div style={{ position: 'absolute', inset: 0, background: 'radial-gradient(120% 90% at 78% 30%, var(--bg2) 0%, var(--bg) 60%)', pointerEvents: 'none' }} />
@@ -52,9 +64,9 @@ export default async function Home() {
             <div style={{ font: '600 11px/1 Hanken Grotesk,sans-serif', letterSpacing: '.2em', textTransform: 'uppercase', color: 'var(--gold)', marginBottom: 12 }}>
               Paper numismatics · since 2009
             </div>
-            <h1 className="serif hero-h1" style={{ fontWeight: 300, fontSize: 64, lineHeight: 1.03, letterSpacing: '-.01em', margin: 0 }}>
+            <h1 className={`${spectralLcp.className} hero-h1`} style={{ fontWeight: 300, fontSize: 64, lineHeight: 1.03, letterSpacing: '-.01em', margin: 0 }}>
               The story of the world,<br />
-              <em style={{ fontWeight: 500, color: 'var(--gold2)' }}>one banknote</em><br />
+              <em className="serif" style={{ fontWeight: 500, color: 'var(--gold2)' }}>one banknote</em><br />
               at a time.
             </h1>
             <p style={{ maxWidth: 430, marginTop: 24, font: '400 15px/1.65 Hanken Grotesk,sans-serif', color: 'var(--ink2)' }}>
@@ -126,7 +138,7 @@ export default async function Home() {
                   label={`${it.country.toUpperCase().slice(0,8)} · ${it.year}`}
                   alt={`${it.country} ${it.denom} ${it.year}`}
                   variant="thumb"
-                  loading="lazy"
+                  defer
                 />
               </div>
               <div style={{ padding: '2px 14px 15px' }}>

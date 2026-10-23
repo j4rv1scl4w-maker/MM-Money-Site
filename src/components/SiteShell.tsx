@@ -10,6 +10,7 @@ const spectral = Spectral({
   style: ['normal', 'italic'],
   variable: '--font-spectral',
   display: 'swap',
+  preload: false,
 });
 
 const hanken = Hanken_Grotesk({
@@ -17,6 +18,7 @@ const hanken = Hanken_Grotesk({
   weight: ['400', '500', '600', '700', '800'],
   variable: '--font-hanken',
   display: 'swap',
+  preload: false,
 });
 
 export default async function SiteShell({ lang, children }: { lang: 'en' | 'it'; children: React.ReactNode }) {

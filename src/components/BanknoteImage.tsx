@@ -3,6 +3,7 @@ import Image from 'next/image';
 import { useState } from 'react';
 import { delcampeImgUrl } from '@/lib/delcampe-image';
 import Banknote from './Banknote';
+import NearImage from './NearImage';
 
 interface BanknoteImageProps {
   idAuction?: string | number | null;
@@ -23,6 +24,11 @@ interface BanknoteImageProps {
    * React does not emit a preload (the image sits inside `<picture>`).
    */
   desktopOnly?: boolean;
+  /**
+   * Keep the real URL out of `src` until the frame is nearly on screen.
+   * A `<noscript>` image keeps the URL crawlable.
+   */
+  defer?: boolean;
 }
 
 /** 1×1 gif. Fallback `src` when the desktop `<source>` does not match. */
@@ -30,7 +36,7 @@ const DESKTOP_ONLY_FALLBACK = 'data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH
 
 export { delcampeImgUrl } from '@/lib/delcampe-image';
 
-export default function BanknoteImage({ idAuction, hue = 200, denom, label, alt = '', style, className, priority = false, variant = 'large', loading = 'lazy', fetchPriority, desktopOnly = false }: BanknoteImageProps) {
+export default function BanknoteImage({ idAuction, hue = 200, denom, label, alt = '', style, className, priority = false, variant = 'large', loading = 'lazy', fetchPriority, desktopOnly = false, defer = false }: BanknoteImageProps) {
   const [imgError, setImgError] = useState(false);
 
   // Show placeholder if no id or image failed to load
@@ -39,6 +45,7 @@ export default function BanknoteImage({ idAuction, hue = 200, denom, label, alt 
   }
 
   const src = delcampeImgUrl(idAuction, variant);
+  const labelText = alt || String(label || denom || '');
   const frame = {
     position: 'relative' as const,
     aspectRatio: '8/5',
@@ -48,6 +55,21 @@ export default function BanknoteImage({ idAuction, hue = 200, denom, label, alt 
     background: 'var(--card)',
     ...style,
   };
+
+  if (defer) {
+    return (
+      <div className={className} style={frame}>
+        <NearImage
+          src={src}
+          alt={labelText}
+          style={{ position: 'absolute', inset: 0, width: '100%', height: '100%', objectFit: 'contain', background: '#111' }}
+        />
+        <noscript>
+          <img src={src} alt={labelText} style={{ position: 'absolute', inset: 0, width: '100%', height: '100%', objectFit: 'contain' }} />
+        </noscript>
+      </div>
+    );
+  }
 
   if (desktopOnly) {
     return (
