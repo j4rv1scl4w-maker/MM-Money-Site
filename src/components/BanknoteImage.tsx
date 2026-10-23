@@ -1,6 +1,7 @@
 'use client';
 import Image from 'next/image';
 import { useState } from 'react';
+import { delcampeImgUrl } from '@/lib/delcampe-image';
 import Banknote from './Banknote';
 
 interface BanknoteImageProps {
@@ -27,17 +28,7 @@ interface BanknoteImageProps {
 /** 1×1 gif. Fallback `src` when the desktop `<source>` does not match. */
 const DESKTOP_ONLY_FALLBACK = 'data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7';
 
-export function delcampeImgUrl(idAuction: string | number, variant: 'large' | 'thumb' = 'large'): string {
-  const s = String(idAuction);
-  const parts: string[] = [];
-  let i = s.length;
-  while (i > 0) {
-    parts.unshift(s.slice(Math.max(0, i - 3), i));
-    i -= 3;
-  }
-  parts[0] = parts[0].padStart(3, '0');
-  return `https://www.delcampe.net/static/img_${variant}/auction/${parts.join('/')}_001.jpg`;
-}
+export { delcampeImgUrl } from '@/lib/delcampe-image';
 
 export default function BanknoteImage({ idAuction, hue = 200, denom, label, alt = '', style, className, priority = false, variant = 'large', loading = 'lazy', fetchPriority, desktopOnly = false }: BanknoteImageProps) {
   const [imgError, setImgError] = useState(false);
